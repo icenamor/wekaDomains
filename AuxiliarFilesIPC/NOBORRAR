@@ -1,0 +1,110 @@
+sudo singularity build planner.img ibacop/Singularity
+sudo singularity build rundir/planner.img ibacop2/Singularity
+mkdir rundir
+cp /home/isabel/Escritorio/domain.pddl rundir
+cp /home/isabel/Escritorio/problem.pddl rundir
+RUNDIR="$(pwd)/rundir"
+DOMAIN="$RUNDIR/domain.pddl"
+PROBLEM="$RUNDIR/problem.pddl"
+PLANFILE="$RUNDIR/sas_plan"
+singularity run -C -H $RUNDIR planner.img $DOMAIN $PROBLEM $PLANFILE
+
+RUNDIR="$(pwd)/rundir"
+DOMAIN="$RUNDIR/cavedriving.pddl"
+PROBLEM="$RUNDIR/testing05A_easy.pddl"
+PLANFILE="$RUNDIR/sas_plan"
+
+sudo singularity build planner.img ibacop2018/Singularity
+sudo singularity build planner.img /home/isabel/ibacop22018/ibacop2-2018/Singularity
+
+sudo singularity build mul.img /home/isabel/Descargas/team35/Singularity
+
+RUNDIR="$(pwd)/rundir"
+DOMAIN="$RUNDIR/researchers.pddl"
+PROBLEM="$RUNDIR/problem-7-1.pddl"
+PLANFILE="$RUNDIR/sas_plan"
+
+
+New Pareto
+
+jasper, mercury, fdss-2, bfs-f, probe, siw., lpg y yahsp2-mt
+
+Parser took 4.0 seconds
+
+Traceback (most recent call last):
+  File "/planner/src/launcher/solve.py", line 372, in <module>
+    pool_result = pool.map(functools.partial(run_portfolio_parallel,memory=memory), iterable)
+  File "/usr/lib/python2.7/multiprocessing/pool.py", line 251, in map
+    return self.map_async(func, iterable, chunksize).get()
+  File "/usr/lib/python2.7/multiprocessing/pool.py", line 567, in get
+    raise self._value
+TypeError: run_portfolio_parallel() takes exactly 3 arguments (2 given)
+
+echo problem 1:
+
+
+RUNDIR="$(pwd)/rundir"
+DOMAIN="$RUNDIR/citycar.pddl"
+PROBLEM="$RUNDIR/p2-2-2-2-1.pddl"
+PLANFILE="$RUNDIR/citycar"
+
+singularity run -C -H $RUNDIR planner.img $DOMAIN $PROBLEM $PLANFILE > problem1-sat2.txt
+
+./rundir/cleanejecution.sh
+mv rundir/solutionRun rundir/citycar-sat-2
+
+echo problem 2:
+
+
+RUNDIR="$(pwd)/rundir"
+DOMAIN="$RUNDIR/sokoban.pddl"
+PROBLEM="$RUNDIR/sokobanp03.pddl"
+PLANFILE="$RUNDIR/sokoban"
+singularity run -C -H $RUNDIR planner.img $DOMAIN $PROBLEM $PLANFILE > problem1-sat3.txt
+
+./rundir/cleanejecution.sh
+mv rundir/solutionRun rundir/sokoban-sat-2
+
+RUNDIR="$(pwd)/rundir"
+DOMAIN="$RUNDIR/parcprinter.pddl"
+PROBLEM="$RUNDIR/p05.pddl"
+PLANFILE="$RUNDIR/parcprinter"
+
+ echo problem 3
+
+singularity run -C -H $RUNDIR planner.img $DOMAIN $PROBLEM $PLANFILE > problem1-agl4.txt
+ 
+ ./rundir/cleanejecution.sh
+mv rundir/solutionRun rundir/parcprinter-sat-2
+ 
+RUNDIR="$(pwd)/rundir"
+DOMAIN="$RUNDIR/cavedriving.pddl"
+PROBLEM="$RUNDIR/testing05A_easy.pddl"
+PLANFILE="$RUNDIR/cavedriving"
+
+singularity run -C -H $RUNDIR planner.img $DOMAIN $PROBLEM $PLANFILE > problem1-agl5.txt
+
+./rundir/cleanejecution.sh
+mv rundir/solutionRun rundir/cavedriving-sat2
+ echo problem 4
+
+RUNDIR="$(pwd)/rundir"
+DOMAIN="$RUNDIR/researchers.pddl"
+PROBLEM="$RUNDIR/problem-7-1.pddl"
+PLANFILE="$RUNDIR/researchers"
+singularity run -C -H $RUNDIR planner.img $DOMAIN $PROBLEM $PLANFILE > problem1-agl6.txt
+./rundir/cleanejecution.sh
+
+mv rundir/solutionRun rundir/researchers-sat2
+
+
+    temporal
+sudo singularity build plannerTemp.img temporal/Singularity
+    
+RUNDIR="$(pwd)/rundir2"
+DOMAIN="$RUNDIR/airport.pddl"
+PROBLEM="$RUNDIR/airportproblem.pddl"
+PLANFILE="$RUNDIR/sas_plan"
+
+singularity run -C -H $RUNDIR plannerTemp.img $DOMAIN $PROBLEM $PLANFILE > temporalAirport.log
+
