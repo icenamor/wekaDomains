@@ -14,22 +14,22 @@ def dir_list(dir_name, subdir, args):
             if len(args) == 0:
                 fileList.append(dirfile)
             else:
-                print(dirfile)
+                ##print(dirfile)
                 ##print(os.path.splitext(dirfile)[1][1:])
                 if (dirfile.find(args)>= 0):
-                    print(dirfile)
+                    ##print(dirfile)
                     fileList.append(dirfile)
  
         # recursively access file names in subdirectories
         elif os.path.isdir(dirfile) and subdir:
             # print "Accessing directory:", dirfile
-            print("subdir: ", dirfile, "\n")
+            ##print("subdir: ", dirfile, "\n")
             fileList += dir_list(dirfile, subdir, args)
     return fileList
  
 def combine_files(fileList, fn):
     f = open(fn, 'w')
-    print("fichero: ", fn, "\n")
+    ##print("fichero: ", fn, "\n")
     for file in fileList:
         print ('Writing file %s' % file)
         lines = open(file).readlines()
@@ -37,7 +37,7 @@ def combine_files(fileList, fn):
     f.close()
  
 if __name__ == '__main__':
-    search_dir = "C:\\Users\\Isabel\\Downloads\\results-SAT-2018.tar\\results-SAT-2018"
-    fn = "C:\\Users\\Isabel\\Downloads\\results-SAT-2018.tar\\salida.arff"
+    search_dir = "/home/isabel/opt2/"
+    fn = "/home/isabel/wekaDomains/optimal2.arff"
     combine_files(dir_list(search_dir, True, "global_features.arff"), fn)
-	
+
