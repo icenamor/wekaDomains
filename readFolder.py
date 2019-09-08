@@ -40,4 +40,4 @@ if __name__ == '__main__':
     search_dir = "/home/isabel/opt2/"
     fn = "/home/isabel/wekaDomains/optimal2.arff"
     combine_files(dir_list(search_dir, True, "global_features.arff"), fn)
-
+    print("end of the main")
