@@ -1,0 +1,158 @@
+@relation problem
+
+@attribute domain string
+@attribute task_name string
+@attribute requirements numeric
+@attribute types numeric
+@attribute objects numeric
+@attribute predicates numeric
+@attribute functions numeric
+@attribute init numeric
+@attribute goal numeric
+@attribute actions numeric
+@attribute axioms numeric
+@attribute use_min_cost_metric numeric
+@attribute generated_rules numeric
+@attribute relevant_atoms numeric
+@attribute auxiliary_atoms numeric
+@attribute final_queue_length numeric
+@attribute total_queue_pushes numeric
+@attribute implied_effects_removed numeric
+@attribute effect_conditions_simplified numeric
+@attribute implied_preconditions_added numeric
+@attribute translator_variables numeric
+@attribute translator_derived_variables numeric
+@attribute translator_facts numeric
+@attribute translator_mutex_groups numeric
+@attribute translator_total_mutex_groups_size numeric
+@attribute translator_operators numeric
+@attribute translator_task_size numeric
+@attribute numberVariablesCG numeric
+@attribute highLevelVariablesCG numeric
+@attribute totalEdgesCG numeric
+@attribute totalWeightCG numeric
+@attribute veRatio numeric
+@attribute weRatio numeric
+@attribute wvRatio numeric
+@attribute hvRatio numeric
+@attribute inputEdgeCGMax numeric
+@attribute inputEdgeCGAvg numeric
+@attribute inputEdgeCGStd numeric
+@attribute outputEdgeCGMax numeric
+@attribute outputEdgeCGAvg numeric
+@attribute outputEdgeCGStd numeric
+@attribute inputWeightCGMax numeric
+@attribute inputWeightCGAvg numeric
+@attribute inputWeightCGStd numeric
+@attribute outputWeightCGMax numeric
+@attribute outputWeightCGAvg numeric
+@attribute outputWeightCGStd numeric
+@attribute inputEdgeHVMax numeric
+@attribute inputEdgeHVAvg numeric
+@attribute inputEdgeHVStd numeric
+@attribute outputEdgeHVMax numeric
+@attribute outputEdgeHVAvg numeric
+@attribute outputEdgeHVStd numeric
+@attribute inputWeightHVMax numeric
+@attribute inputWeightHVAvg numeric
+@attribute inputWeightHVStd numeric
+@attribute outputWeightHVMax numeric
+@attribute outputWeightHVAvg numeric
+@attribute outputWeightHVStd numeric
+@attribute numberVariablesDTG numeric
+@attribute totalEdgesDTG numeric
+@attribute totalWeigthDTG numeric
+@attribute edVaRatioDTG numeric
+@attribute weEdRatioDTG numeric
+@attribute weVaRatioDTG numeric
+@attribute inputEdgeDTGMax numeric
+@attribute inputEdgeDTGAvg numeric
+@attribute inputEdgeDTGStd numeric
+@attribute outputEdgeDTGMax numeric
+@attribute outputEdgeDTGAvg numeric
+@attribute outputEdgeDTGStd numeric
+@attribute inputWeightDTGMax numeric
+@attribute inputWeightDTGAvg numeric
+@attribute inputWeightDTGStd numeric
+@attribute outputWeightDTGMax numeric
+@attribute outputWeightDTGAvg numeric
+@attribute outputWeightDTGStd numeric
+@attribute no numeric
+@attribute file string
+@attribute num_relevant_facts numeric
+@attribute num_actions numeric
+@attribute h_max numeric
+@attribute h_ff numeric
+@attribute h_ff_ratio numeric
+@attribute rp_fact_balance_min numeric
+@attribute rp_fact_balance_avg numeric
+@attribute rp_fact_balance_var numeric
+@attribute rp_goal_balance_min numeric
+@attribute rp_goal_balance_avg numeric
+@attribute rp_goal_balance_var numeric
+@attribute balance_Ratio numeric
+@attribute Unbalance_Ratio numeric
+@attribute Balance_Distorsion numeric
+@attribute Additive numeric
+@attribute Blind numeric
+@attribute Causal_graph numeric
+@attribute Context-enhanced_additive numeric
+@attribute FF numeric
+@attribute Goal_count numeric
+@attribute Landmark_count numeric
+@attribute Landmark-cut numeric
+@attribute Max numeric
+@attribute n_landmarks numeric
+@attribute numberEdges numeric
+@attribute edVaratioLand numeric
+@attribute numberFatherNodes numeric
+@attribute numberChildrenNodes numeric
+@attribute nodosbetween numeric
+@attribute avginput numeric
+@attribute maxinput numeric
+@attribute stdinput numeric
+@attribute avgoutput numeric
+@attribute maxoutput numeric
+@attribute stdoutput numeric
+@attribute blackVariables numeric
+@attribute blackRootVariables numeric
+@attribute redBlackVariables numeric
+@attribute allpairsvaluesconnected numeric
+@attribute allvaluesconnectedgoal numeric
+@attribute blackstronglpyarents numeric
+@attribute Maximaleffectsblack  numeric
+@attribute Hred-black numeric
+@attribute  nameDomain2 string
+@attribute  nameFile2 string
+@data
+
+elevators-sequencedstrips,elevators-sequencedstrips-p8_7_1,2,6,20,9,3,120,7,6,0,1,46,1044,993,2037,3407,0,0,0,15,0,125,15,125,780,4712,15,7, 88, 2800, 0.170455, 31.8182, 186.667, 0.466667, 8, 5.86667, 1.78388, 8, 5.86667, 3.53773, 420, 186.667, 110.855,420, 186.667, 133.4, 4, 1.86667, 1.99555, 200, 93.3333, 99.7775, 100, 46.6667, 49.8888, 200, 93.3333,99.7775,125, 1480, 4280, 0.345794, 0.0844595, 1, 86, 15.9231, 2.63204, 76, 15.9231, 2.63204, 226, 31.359,4.8623, 196,31.359, 2.63204,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p04.pddl, 125, 780, 5, 29, 5.800000, -3, 0.000000, 0.632456, 1, 1.000000, 0.000000, 14.006411, 1.358974, 32,48,1,47,37,31,7,27,16,5,38,87,2.28947,16,7,15,2.28947,8,2,2.28947,11,2.82843,8,4,15,4,0,0,7,36,allfeatures-elevators08,all-p04.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p8_6_1,2,6,19,9,3,119,6,6,0,1,46,928,936,1864,3046,0,0,0,14,0,112,14,112,680,4084,14,6, 76, 2400, 0.184211, 31.5789, 171.429, 0.428571, 7, 5.42857, 1.29363, 8, 5.42857, 3.45821, 360, 171.429, 91.2498,360, 171.429, 120.407, 4, 1.71429, 1.97949, 200, 85.7143, 98.9743, 100, 42.8571, 49.4872, 200, 85.7143,98.9743,112, 1280, 3680, 0.347826, 0.0875, 1, 76, 14.4872, 2.71052, 56, 14.4872, 2.71052, 196, 26.7582,5.00728, 136,26.7582, 2.71052,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p03.pddl, 112, 680, 3, 20, 6.666667, -3, 0.000000, 0.612372, 1, 1.000000, 0.000000, 8.611765, 2.323529, 18,28,1,28,22,22,6,19,11,3,29,38,1.31034,17,6,6,1.31034,4,0,1.31034,6,1.41421,8,4,14,4,0,0,6,21,allfeatures-elevators08,all-p03.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p24_21_1,2,6,51,9,3,550,21,6,0,1,46,9612,5472,15084,30843,0,0,0,31,0,700,31,700,8364,50736,31,21, 320, 32256, 0.096875, 100.8, 1040.52, 0.677419, 22, 10.3226, 7.71838, 22, 10.3226, 6.26504, 3528, 1040.52, 1061.69,3528, 1040.52, 1002.43, 5, 3.3871, 2.33732, 768, 520.258, 359.012, 384, 260.129, 179.506, 768, 520.258,359.012,700, 16428, 48684, 0.337441, 0.0426102, 1, 414, 52.5899, 4.30604, 414, 52.4977, 4.30604, 1170, 130.286,9.0713, 1170,130.194, 4.30604,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p24.pddl, 700, 8364, 7, 103, 14.714286, -7, 0.000000, 0.537188, 1, 1.000000, 0.000000, 29.935795, 4.361549, 163,208,1,189,149,108,21,93,34,7,120,349,2.90833,38,21,61,2.90833,25,4.3589,2.90833,14,3.60555,10,5,31,5,0,0,21,128,allfeatures-elevators08,all-p24.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p24_36_1,2,6,66,9,3,565,36,6,0,1,46,15867,7332,23199,50043,0,0,0,46,0,1150,46,1150,14124,86226,46,36, 545, 55296, 0.0844037, 101.461, 1202.09, 0.782609, 37, 11.8478, 12.9949, 37, 11.8478, 9.31097, 6048, 1202.09, 1687.94,6048, 1202.09, 1536.1, 5, 3.91304, 2.06235, 768, 601.043, 316.778, 384, 300.522, 158.389, 768, 601.043,316.778,1150, 27948, 83244, 0.335736, 0.0411478, 1, 684, 61.528, 3.57335, 816, 61.4658, 3.57335, 1980, 159.54,7.52777, 2376,159.478, 3.57335,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p29.pddl, 1150, 14124, 7, 157, 22.428572, -8, 0.000000, 0.522536, 1, 1.000000, 0.000000, 52.911850, 9.188686, 280,297,1,292,230,156,36,143,51,7,185,541,2.92432,63,36,86,2.92432,33,5.19615,2.92432,14,3.4641,10,5,46,5,0,0,36,190,allfeatures-elevators08,all-p29.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p16_8_1,2,6,29,9,3,293,8,6,0,1,46,2188,2066,4254,7248,0,0,0,16,0,214,16,214,1688,10028,16,8, 100, 6016, 0.16, 60.16, 376, 0.5, 9, 6.25, 2.27761, 9, 6.25, 3.63146, 864, 376, 238.613,864, 376, 271.706, 4, 2, 2, 376, 188, 188, 188, 94, 94, 376, 188,188,214, 3192, 9208, 0.346655, 0.0670426, 1, 104, 23.1262, 2.52064, 104, 22.6762, 2.52064, 264, 45.6167,2.70375, 264,44.6667, 2.52064,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p11.pddl, 214, 1688, 5, 30, 6.000000, -7, 0.000000, 0.626517, 1, 1.000000, 0.000000, 11.882702, 1.735782, 46,50,1,48,38,30,8,31,16,5,43,122,2.83721,16,8,19,2.83721,17,3.4641,2.83721,14,3.4641,8,4,16,4,0,0,8,32,allfeatures-elevators08,all-p11.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p16_26_1,2,6,47,9,3,311,26,6,0,1,46,6004,3524,9528,18930,0,0,0,34,0,592,34,592,5072,31124,34,26, 316, 19552, 0.107595, 61.8734, 575.059, 0.764706, 27, 9.29412, 9.54719, 27, 9.29412, 6.95164, 2808, 575.059, 770.858,2808, 575.059, 704.08, 4, 3.05882, 1.69673, 376, 287.529, 159.493, 188, 143.765, 79.7463, 376, 287.529,159.493,592, 9960, 29512, 0.33749, 0.0594378, 1, 334, 36.4754, 1.79017, 414, 36.3812, 1.79017, 954, 88.9667,1.92022, 1194,88.8725, 1.79017,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p20.pddl, 592, 5072, 5, 82, 16.400000, -8, 0.000000, 0.595592, 1, 1.000000, 0.000000, 34.661869, 5.157926, 113,153,1,147,117,83,26,75,36,5,105,280,2.66667,36,26,43,2.66667,29,4.79583,2.66667,12,2.64575,8,4,34,4,0,0,26,98,allfeatures-elevators08,all-p20.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p16_14_1,2,6,35,9,3,299,14,6,0,1,46,3460,2552,6012,11142,0,0,0,22,0,340,22,340,2816,17060,22,14, 172, 10528, 0.127907, 61.2093, 478.545, 0.636364, 15, 7.81818, 5.05997, 15, 7.81818, 4.52906, 1512, 478.545, 442.516,1512, 478.545, 427.584, 4, 2.54545, 1.92418, 376, 239.273, 180.873, 188, 119.636, 90.4366, 376, 239.273,180.873,340, 5448, 15976, 0.341012, 0.0624082, 1, 164, 29.397, 2.18869, 176, 29.2515, 2.18869, 444, 66.1303,2.34769, 480,65.9848, 2.18869,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p14.pddl, 340, 2816, 5, 58, 11.600000, -7, 0.000000, 0.637089, 1, 1.000000, 0.000000, 22.741123, 3.591974, 78,99,1,102,81,59,14,56,28,5,74,215,2.90541,26,14,34,2.90541,21,4.3589,2.90541,12,3.31662,8,4,22,4,0,0,14,68,allfeatures-elevators08,all-p14.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p16_12_1,2,6,33,9,3,297,12,6,0,1,46,3036,2390,5426,9844,0,0,0,20,0,298,20,298,2440,14716,20,12, 148, 9024, 0.135135, 60.973, 451.2, 0.6, 13, 7.4, 4.17612, 13, 7.4, 4.17612, 1296, 451.2, 377.858,1296, 451.2, 375.986, 4, 2.4, 1.95959, 376, 225.6, 184.202, 188, 112.8, 92.1008, 376, 225.6,184.202,298, 4696, 13720, 0.342274, 0.0634583, 1, 144, 27.7914, 2.28459, 144, 27.2314, 2.28459, 384, 60.86,2.45055, 384,59.5, 2.28459,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p13.pddl, 298, 2440, 5, 45, 9.000000, -7, 0.000000, 0.660486, 1, 1.000000, 0.000000, 17.459017, 3.238524, 72,73,1,72,57,47,12,42,25,5,58,143,2.46552,20,12,26,2.46552,15,3.16228,2.46552,12,2.82843,8,4,20,4,0,0,12,55,allfeatures-elevators08,all-p13.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p8_4_1,2,6,17,9,3,117,4,6,0,1,46,696,822,1518,2324,0,0,0,12,0,86,12,86,480,2828,12,4, 52, 1600, 0.230769, 30.7692, 133.333, 0.333333, 5, 4.33333, 0.471405, 8, 4.33333, 3.29983, 240, 133.333, 53.7484,240, 133.333, 97.0681, 4, 1.33333, 1.88562, 200, 66.6667, 94.2809, 100, 33.3333, 47.1405, 200, 66.6667,94.2809,86, 880, 2480, 0.354839, 0.0977273, 1, 36, 10.8974, 2.89017, 36, 10.8974, 2.89017, 76, 15.2564,5.33914, 76,15.2564, 2.89017,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p01.pddl, 86, 480, 5, 17, 3.400000, -4, 0.000000, 0.681994, 1, 1.000000, 0.000000, 6.862500, 0.879167, 27,27,1,24,19,17,4,17,13,5,26,54,2.07692,11,4,11,2.07692,6,1.41421,2.07692,12,2.64575,8,4,12,4,0,0,4,19,allfeatures-elevators08,all-p01.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p24_30_1,2,6,60,9,3,559,30,6,0,1,46,13365,6588,19953,42363,0,0,0,40,0,970,40,970,11820,72030,40,30, 455, 46080, 0.0879121, 101.275, 1152, 0.75, 31, 11.375, 11.0447, 31, 11.375, 8.10767, 5040, 1152, 1456.26,5040, 1152, 1336.05, 5, 3.75, 2.16506, 768, 576, 332.554, 384, 288, 166.277, 768, 576,332.554,970, 23340, 69420, 0.336214, 0.0415596, 1, 576, 58.7571, 3.81921, 636, 58.6857, 3.81921, 1656, 150.471,8.04573, 1836,150.4, 3.81921,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p27.pddl, 970, 11820, 7, 139, 19.857143, -7, 0.000000, 0.519714, 1, 1.000000, 0.000000, 44.460747, 7.028089, 236,281,1,270,214,140,30,130,49,7,166,511,3.07831,56,30,80,3.07831,31,5.19615,3.07831,14,3.60555,10,5,40,5,0,0,30,166,allfeatures-elevators08,all-p27.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p8_8_1,2,6,21,9,3,121,8,6,0,1,46,1160,1050,2210,3768,0,0,0,16,0,138,16,138,880,5340,16,8, 100, 3200, 0.16, 32, 200, 0.5, 9, 6.25, 2.27761, 9, 6.25, 3.63146, 480, 200, 130.384,480, 200, 146.969, 4, 2, 2, 200, 100, 100, 100, 50, 50, 200, 100,100,138, 1680, 4880, 0.344262, 0.0821429, 1, 96, 17.1795, 2.55984, 96, 17.1795, 2.55984, 256, 35.3846,4.72892, 256,35.3846, 2.55984,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p05.pddl, 138, 880, 5, 29, 5.800000, -4, 0.000000, 0.613850, 1, 1.000000, 0.000000, 15.909091, 1.614773, 28,43,1,46,36,32,8,25,14,5,37,63,1.7027,16,8,13,1.7027,6,1,1.7027,9,2,8,4,16,4,0,0,8,34,allfeatures-elevators08,all-p05.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p8_5_1,2,6,18,9,3,118,5,6,0,1,46,812,879,1691,2685,0,0,0,13,0,99,13,99,580,3456,13,5, 64, 2000, 0.203125, 31.25, 153.846, 0.384615, 6, 4.92308, 0.828487, 8, 4.92308, 3.38462, 300, 153.846, 71.9549,300, 153.846, 108.24, 4, 1.53846, 1.94602, 200, 76.9231, 97.3009, 100, 38.4615, 48.6504, 200, 76.9231,97.3009,99, 1080, 3080, 0.350649, 0.0916667, 1, 61, 12.8304, 2.7962, 41, 12.8304, 2.7962, 151, 21.4497,5.16556, 91,21.4497, 2.7962,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p02.pddl, 99, 580, 5, 23, 4.600000, -3, 0.000000, 0.696311, 1, 1.000000, 0.000000, 10.374138, 1.484483, 33,36,1,33,26,24,5,20,13,5,29,69,2.37931,12,5,12,2.37931,8,2,2.37931,11,2.82843,8,4,13,4,0,0,5,25,allfeatures-elevators08,all-p02.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p8_11_1,2,6,24,9,3,124,11,6,0,1,46,1508,1221,2729,4851,0,0,0,19,0,177,19,177,1180,7224,19,11, 136, 4400, 0.139706, 32.3529, 231.579, 0.578947, 12, 7.15789, 3.71715, 12, 7.15789, 4.01659, 660, 231.579, 186.95,660, 231.579, 189.105, 4, 2.31579, 1.97491, 200, 115.789, 98.7456, 100, 57.8947, 49.3728, 200, 115.789,98.7456,177, 2280, 6680, 0.341317, 0.0776316, 1, 126, 20.1552, 2.3738, 156, 20.1552, 2.3738, 346, 44.919,4.38524, 436,44.919, 2.3738,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p08.pddl, 177, 1180, 5, 38, 7.600000, -4, 0.000000, 0.663836, 1, 1.000000, 0.000000, 16.890678, 3.285593, 54,60,1,61,48,37,11,33,20,5,48,125,2.60417,20,11,17,2.60417,13,3.16228,2.60417,12,3,8,4,19,4,0,0,11,40,allfeatures-elevators08,all-p08.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p8_10_1,2,6,23,9,3,123,10,6,0,1,46,1392,1164,2556,4490,0,0,0,18,0,164,18,164,1080,6596,18,10, 124, 4000, 0.145161, 32.2581, 222.222, 0.555556, 11, 6.88889, 3.24703, 11, 6.88889, 3.87139, 600, 222.222, 168.508,600, 222.222, 174.978, 4, 2.22222, 1.98762, 200, 111.111, 99.3808, 100, 55.5556, 49.6904, 200, 111.111,99.3808,164, 2080, 6080, 0.342105, 0.0788462, 1, 116, 19.2735, 2.43132, 136, 19.2735, 2.43132, 316, 42.094,4.4915, 376,42.094, 2.43132,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p07.pddl, 164, 1080, 5, 43, 8.600000, -4, 0.000000, 0.662589, 1, 1.000000, 0.000000, 18.062963, 2.250000, 50,69,1,71,55,41,10,39,19,5,53,133,2.50943,19,10,24,2.50943,11,2.64575,2.50943,12,3,8,4,18,4,0,0,10,52,allfeatures-elevators08,all-p07.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p24_24_1,2,6,54,9,3,553,24,6,0,1,46,10863,5844,16707,34683,0,0,0,34,0,790,34,790,9516,57834,34,24, 365, 36864, 0.0931507, 100.997, 1084.24, 0.705882, 25, 10.7353, 8.88922, 25, 10.7353, 6.87412, 4032, 1084.24, 1200.51,4032, 1084.24, 1118.46, 5, 3.52941, 2.27823, 768, 542.118, 349.935, 384, 271.059, 174.968, 768, 542.118,349.935,790, 18732, 55596, 0.336931, 0.0421738, 1, 468, 55.0084, 4.12377, 468, 54.9244, 4.12377, 1332, 138.202,8.68733, 1332,138.118, 4.12377,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p25.pddl, 790, 9516, 7, 113, 16.142857, -8, 0.000000, 0.548877, 1, 1.000000, 0.000000, 36.010509, 5.234342, 178,212,1,207,163,117,24,106,38,7,136,415,3.05147,44,24,68,3.05147,27,4.89898,3.05147,14,3.74166,10,5,34,5,0,0,24,148,allfeatures-elevators08,all-p25.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p16_18_1,2,6,39,9,3,303,18,6,0,1,46,4308,2876,7184,13738,0,0,0,26,0,424,26,424,3568,21748,26,18, 220, 13536, 0.118182, 61.5273, 520.615, 0.692308, 19, 8.46154, 6.69805, 19, 8.46154, 5.31493, 1944, 520.615, 562.309,1944, 520.615, 526.351, 4, 2.76923, 1.84615, 376, 260.308, 173.538, 188, 130.154, 86.7692, 376, 260.308,173.538,424, 6952, 20488, 0.339321, 0.0609896, 1, 204, 32.4824, 2.02806, 272, 32.3593, 2.02806, 564, 76.0846,2.17538, 768,75.9615, 2.02806,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p16.pddl, 424, 3568, 5, 66, 13.200000, -7, 0.000000, 0.598741, 1, 1.000000, 0.000000, 27.715527, 3.186099, 97,106,1,111,87,64,18,61,25,5,83,223,2.68675,25,18,40,2.68675,21,4,2.68675,9,2.64575,8,4,26,4,0,0,18,76,allfeatures-elevators08,all-p16.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p8_13_1,2,6,26,9,3,126,13,6,0,1,46,1740,1335,3075,5573,0,0,0,21,0,203,21,203,1380,8480,21,13, 160, 5200, 0.13125, 32.5, 247.619, 0.619048, 14, 7.61905, 4.62371, 14, 7.61905, 4.3477, 780, 247.619, 222.473,780, 247.619, 217.122, 4, 2.47619, 1.94248, 200, 123.81, 97.1242, 100, 61.9048, 48.5621, 200, 123.81,97.1242,203, 2680, 7880, 0.340102, 0.0757463, 1, 146, 21.6667, 2.26988, 196, 21.6667, 2.26988, 406, 49.7619,4.19326, 556,49.7619, 2.26988,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p10.pddl, 203, 1380, 5, 53, 10.600000, -3, 0.000000, 0.552647, 1, 1.000000, 0.000000, 22.275362, 3.062319, 51,111,1,101,79,52,13,52,22,5,69,194,2.81159,28,13,28,2.81159,17,3.60555,2.81159,12,3.4641,8,4,21,4,0,0,13,70,allfeatures-elevators08,all-p10.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p24_12_1,2,6,42,9,3,541,12,6,0,1,46,5859,4356,10215,19323,0,0,0,22,0,430,22,430,4908,29442,22,12, 185, 18432, 0.118919, 99.6324, 837.818, 0.545455, 13, 8.40909, 3.74966, 13, 8.40909, 4.71611, 2016, 837.818, 591.027,2016, 837.818, 629.635, 5, 2.72727, 2.48965, 768, 418.909, 382.41, 384, 209.455, 191.205, 768, 418.909,382.41,430, 9516, 27948, 0.340489, 0.0451871, 1, 252, 41.3766, 5.04179, 252, 41.2468, 5.04179, 684, 93.5844,10.6213, 684,93.4545, 5.04179,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p21.pddl, 430, 4908, 7, 64, 9.142858, -6, 0.000000, 0.590624, 1, 1.000000, 0.000000, 19.492664, 2.800734, 125,122,1,108,86,68,12,60,24,7,78,250,3.20513,25,12,41,3.20513,17,3.87298,3.20513,15,4,10,5,22,5,0,0,12,74,allfeatures-elevators08,all-p21.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p24_39_1,2,6,69,9,3,568,39,6,0,1,46,17118,7704,24822,53883,0,0,0,49,0,1240,49,1240,15276,93324,49,39, 590, 59904, 0.0830508, 101.532, 1222.53, 0.795918, 40, 12.0408, 13.9063, 40, 12.0408, 9.89322, 6552, 1222.53, 1796.32,6552, 1222.53, 1630.35, 5, 3.97959, 2.01514, 768, 611.265, 309.526, 384, 305.633, 154.763, 768, 611.265,309.526,1240, 30252, 90156, 0.335552, 0.040989, 1, 738, 62.6589, 3.46694, 906, 62.6006, 3.46694, 2142, 163.242,7.30362, 2646,163.184, 3.46694,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p30.pddl, 1240, 15276, 7, 158, 22.571428, -8, 0.000000, 0.501610, 1, 1.000000, 0.000000, 53.445210, 8.788361, 244,326,1,303,240,160,39,141,58,7,186,578,3.10753,68,39,79,3.10753,37,5.91608,3.10753,14,3.60555,10,5,49,5,0,0,39,188,allfeatures-elevators08,all-p30.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p24_15_1,2,6,45,9,3,544,15,6,0,1,46,7110,4728,11838,23163,0,0,0,25,0,520,25,520,6060,36540,25,15, 230, 23040, 0.108696, 100.174, 921.6, 0.6, 16, 9.2, 5.15364, 16, 9.2, 5.15364, 2520, 921.6, 757.633,2520, 921.6, 756.605, 5, 3, 2.44949, 768, 460.8, 376.242, 384, 230.4, 188.121, 768, 460.8,376.242,520, 11820, 34860, 0.339071, 0.0439932, 1, 306, 46.0114, 4.75664, 306, 45.8971, 4.75664, 846, 108.754,10.0206, 846,108.64, 4.75664,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p22.pddl, 520, 6060, 7, 81, 11.571428, -6, 0.000000, 0.561591, 1, 1.000000, 0.000000, 25.934654, 3.633003, 160,119,1,127,98,80,15,76,33,7,97,267,2.75258,30,15,52,2.75258,19,3.4641,2.75258,14,3.4641,10,5,25,5,0,0,15,92,allfeatures-elevators08,all-p22.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p16_22_1,2,6,43,9,3,307,22,6,0,1,46,5156,3200,8356,16334,0,0,0,30,0,508,30,508,4320,26436,30,22, 268, 16544, 0.11194, 61.7313, 551.467, 0.733333, 23, 8.93333, 8.18508, 23, 8.93333, 6.13696, 2376, 551.467, 671.107,2376, 551.467, 618.405, 4, 2.93333, 1.76887, 376, 275.733, 166.273, 188, 137.867, 83.1367, 376, 275.733,166.273,508, 8456, 25000, 0.33824, 0.0600757, 1, 258, 34.7451, 1.89809, 354, 34.6384, 1.89809, 726, 83.3844,2.03597, 1014,83.2778, 1.89809,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p18.pddl, 508, 4320, 5, 80, 16.000000, -8, 0.000000, 0.601834, 1, 1.000000, 0.000000, 26.664814, 4.571296, 100,165,1,152,121,79,22,77,39,5,103,333,3.23301,36,22,45,3.23301,31,5.74456,3.23301,13,3.60555,8,4,30,4,0,0,22,95,allfeatures-elevators08,all-p18.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p16_24_1,2,6,45,9,3,309,24,6,0,1,46,5580,3362,8942,17632,0,0,0,32,0,550,32,550,4696,28780,32,24, 292, 18048, 0.109589, 61.8082, 564, 0.75, 25, 9.125, 8.88028, 25, 9.125, 6.54671, 2592, 564, 722.006,2592, 564, 661.997, 4, 3, 1.73205, 376, 282, 162.813, 188, 141, 81.4064, 376, 282,162.813,550, 9208, 27256, 0.337834, 0.0597307, 1, 296, 35.6643, 1.84178, 384, 35.5643, 1.84178, 840, 86.35,1.97557, 1104,86.25, 1.84178,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p19.pddl, 550, 4696, 5, 88, 17.600000, -8, 0.000000, 0.568890, 1, 1.000000, 0.000000, 35.271080, 5.879259, 118,185,1,174,138,91,24,87,45,5,115,391,3.4,38,24,53,3.4,41,6.63325,3.4,13,3.74166,8,4,32,4,0,0,24,111,allfeatures-elevators08,all-p19.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p16_16_1,2,6,37,9,3,301,16,6,0,1,46,3884,2714,6598,12440,0,0,0,24,0,382,24,382,3192,19404,24,16, 196, 12032, 0.122449, 61.3878, 501.333, 0.666667, 17, 8.16667, 5.89962, 17, 8.16667, 4.91313, 1728, 501.333, 503.919,1728, 501.333, 477.787, 4, 2.66667, 1.88562, 376, 250.667, 177.248, 188, 125.333, 88.624, 376, 250.667,177.248,382, 6200, 18232, 0.340061, 0.0616129, 1, 184, 31.0683, 2.10383, 224, 30.9349, 2.10383, 504, 71.5222,2.25666, 624,71.3889, 2.10383,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p15.pddl, 382, 3192, 5, 66, 13.200000, -8, 0.000000, 0.671016, 1, 1.000000, 0.000000, 22.068295, 4.152569, 92,123,1,114,90,69,16,63,33,5,83,220,2.6506,25,16,42,2.6506,23,3.87298,2.6506,12,3,8,4,24,4,0,0,16,79,allfeatures-elevators08,all-p15.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p8_12_1,2,6,25,9,3,125,12,6,0,1,46,1624,1278,2902,5212,0,0,0,20,0,190,20,190,1280,7852,20,12, 148, 4800, 0.135135, 32.4324, 240, 0.6, 13, 7.4, 4.17612, 13, 7.4, 4.17612, 720, 240, 204.939,720, 240, 203.175, 4, 2.4, 1.95959, 200, 120, 97.9796, 100, 60, 48.9898, 200, 120,97.9796,190, 2480, 7280, 0.340659, 0.0766129, 1, 136, 20.9487, 2.32012, 176, 20.9487, 2.32012, 376, 47.4615,4.28607, 496,47.4615, 2.32012,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p09.pddl, 190, 1280, 5, 40, 8.000000, -4, 0.000000, 0.632456, 1, 1.000000, 0.000000, 19.259375, 2.253125, 45,61,1,66,52,40,12,35,14,5,51,100,1.96078,21,12,18,1.96078,9,1.73205,1.96078,8,2,8,4,20,4,0,0,12,48,allfeatures-elevators08,all-p09.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p24_33_1,2,6,63,9,3,562,33,6,0,1,46,14616,6960,21576,46203,0,0,0,43,0,1060,43,1060,12972,79128,43,33, 500, 50688, 0.086, 101.376, 1178.79, 0.767442, 34, 11.6279, 12.0426, 34, 11.6279, 8.71519, 5544, 1178.79, 1574.77,5544, 1178.79, 1438.1, 5, 3.83721, 2.11231, 768, 589.395, 324.451, 384, 294.698, 162.226, 768, 589.395,324.451,1060, 25644, 76332, 0.335953, 0.0413352, 1, 630, 60.2392, 3.69017, 726, 60.1728, 3.69017, 1818, 155.322,7.77387, 2106,155.256, 3.69017,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p28.pddl, 1060, 12972, 7, 146, 20.857143, -8, 0.000000, 0.545997, 1, 1.000000, 0.000000, 45.178383, 6.824314, 241,291,1,270,213,148,33,134,52,7,173,522,3.01734,56,33,84,3.01734,31,5.19615,3.01734,14,3.60555,10,5,43,5,0,0,33,184,allfeatures-elevators08,all-p28.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p16_20_1,2,6,41,9,3,305,20,6,0,1,46,4732,3038,7770,15036,0,0,0,28,0,466,28,466,3944,24092,28,20, 244, 15040, 0.114754, 61.6393, 537.143, 0.714286, 21, 8.71429, 7.45873, 21, 8.71429, 5.72499, 2160, 537.143, 617.953,2160, 537.143, 573.214, 4, 2.85714, 1.80702, 376, 268.571, 169.859, 188, 134.286, 84.9297, 376, 268.571,169.859,466, 7704, 22744, 0.338727, 0.0604881, 1, 224, 33.6946, 1.95987, 320, 33.5803, 1.95987, 624, 79.9952,2.10224, 912,79.881, 1.95987,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p17.pddl, 466, 3944, 5, 72, 14.400000, -8, 0.000000, 0.635164, 1, 1.000000, 0.000000, 27.474136, 4.880578, 101,116,1,122,96,73,20,68,29,5,92,254,2.76087,32,20,40,2.76087,23,4.3589,2.76087,12,3,8,4,28,4,0,0,20,85,allfeatures-elevators08,all-p17.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p24_27_1,2,6,57,9,3,556,27,6,0,1,46,12114,6216,18330,38523,0,0,0,37,0,880,37,880,10668,64932,37,27, 410, 41472, 0.0902439, 101.151, 1120.86, 0.72973, 28, 11.0811, 9.99562, 28, 11.0811, 7.4919, 4536, 1120.86, 1331.75,4536, 1120.86, 1229.6, 5, 3.64865, 2.2205, 768, 560.432, 341.068, 384, 280.216, 170.534, 768, 560.432,341.068,880, 21036, 62508, 0.336533, 0.041833, 1, 522, 57.0347, 3.96277, 546, 56.9575, 3.96277, 1494, 144.834,8.34816, 1566,144.757, 3.96277,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p26.pddl, 880, 10668, 7, 118, 16.857143, -8, 0.000000, 0.555959, 1, 1.000000, 0.000000, 41.662636, 5.790027, 217,221,1,216,172,120,27,104,38,7,137,392,2.86131,52,27,58,2.86131,35,4.89898,2.86131,14,3.31662,10,5,37,5,0,0,27,148,allfeatures-elevators08,all-p26.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p8_9_1,2,6,22,9,3,122,9,6,0,1,46,1276,1107,2383,4129,0,0,0,17,0,151,17,151,980,5968,17,9, 112, 3600, 0.151786, 32.1429, 211.765, 0.529412, 10, 6.58824, 2.76658, 10, 6.58824, 3.74258, 540, 211.765, 149.636,540, 211.765, 160.889, 4, 2.11765, 1.99654, 200, 105.882, 99.8268, 100, 52.9412, 49.9134, 200, 105.882,99.8268,151, 1880, 5480, 0.343066, 0.0803191, 1, 106, 18.2881, 2.49315, 116, 18.2881, 2.49315, 286, 38.9367,4.60572, 316,38.9367, 2.49315,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p06.pddl, 151, 980, 5, 34, 6.800000, -4, 0.000000, 0.640778, 1, 1.000000, 0.000000, 14.401020, 1.969388, 43,68,1,59,47,38,9,32,15,5,45,115,2.55556,16,9,20,2.55556,11,2.64575,2.55556,12,2.82843,8,4,17,4,0,0,9,42,allfeatures-elevators08,all-p06.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p16_10_1,2,6,31,9,3,295,10,6,0,1,46,2612,2228,4840,8546,0,0,0,18,0,256,18,256,2064,12372,18,10, 124, 7520, 0.145161, 60.6452, 417.778, 0.555556, 11, 6.88889, 3.24703, 11, 6.88889, 3.87139, 1080, 417.778, 309.816,1080, 417.778, 323.597, 4, 2.22222, 1.98762, 376, 208.889, 186.836, 188, 104.444, 93.418, 376, 208.889,186.836,256, 3944, 11464, 0.344033, 0.0649087, 1, 124, 26.1624, 2.39409, 124, 24.7624, 2.39409, 324, 55.4185,2.568, 324,51.5741, 2.39409,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p12.pddl, 256, 2064, 5, 41, 8.200000, -7, 0.000000, 0.678924, 1, 1.000000, 0.000000, 9.907946, 1.797481, 65,83,1,68,54,41,10,41,23,5,55,145,2.63636,17,10,28,2.63636,15,3.16228,2.63636,12,3,8,4,18,4,0,0,10,48,allfeatures-elevators08,all-p12.pddl
+elevators-sequencedstrips,elevators-sequencedstrips-p24_18_1,2,6,48,9,3,547,18,6,0,1,46,8361,5100,13461,27003,0,0,0,28,0,610,28,610,7212,43638,28,18, 275, 27648, 0.101818, 100.538, 987.429, 0.642857, 19, 9.82143, 6.47552, 19, 9.82143, 5.68239, 3024, 987.429, 914.359,3024, 987.429, 881.576, 5, 3.21429, 2.39579, 768, 493.714, 367.993, 384, 246.857, 183.996, 768, 493.714,367.993,610, 14124, 41772, 0.338121, 0.0431889, 1, 360, 49.6531, 4.51467, 360, 49.551, 4.51467, 1008, 120.673,9.51081, 1008,120.571, 4.51467,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/elevators08/problems/p23.pddl, 610, 7212, 7, 85, 12.142858, -7, 0.000000, 0.566843, 1, 1.000000, 0.000000, 26.594564, 3.690516, 154,156,1,149,118,90,18,77,34,7,101,313,3.09901,37,18,46,3.09901,23,4.3589,3.09901,15,4,10,5,28,5,0,0,18,104,allfeatures-elevators08,all-p23.pddl

@@ -1,0 +1,155 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : satellitelearning11
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+---------------------+---------+----------------+
+| planner |        domain       | problem | oktimefirstsol |
++---------+---------------------+---------+----------------+
+|  bfs-f  | satellitelearning11 |   000   |       -1       |
+|  bfs-f  | satellitelearning11 |   001   |       -1       |
+|  bfs-f  | satellitelearning11 |   002   |       -1       |
+|  bfs-f  | satellitelearning11 |   003   |       -1       |
+|  bfs-f  | satellitelearning11 |   004   |       -1       |
+|  bfs-f  | satellitelearning11 |   005   |       -1       |
+|  bfs-f  | satellitelearning11 |   006   |       -1       |
+|  bfs-f  | satellitelearning11 |   007   |       -1       |
+|  bfs-f  | satellitelearning11 |   008   |       -1       |
+|  bfs-f  | satellitelearning11 |   009   |       -1       |
+|  bfs-f  | satellitelearning11 |   010   |       -1       |
+|  bfs-f  | satellitelearning11 |   011   |       -1       |
+|  bfs-f  | satellitelearning11 |   012   |       -1       |
+|  bfs-f  | satellitelearning11 |   013   |       -1       |
+|  bfs-f  | satellitelearning11 |   014   |       -1       |
+|  bfs-f  | satellitelearning11 |   015   |       -1       |
+|  bfs-f  | satellitelearning11 |   016   |       -1       |
+|  bfs-f  | satellitelearning11 |   017   |       -1       |
+|  bfs-f  | satellitelearning11 |   018   |       -1       |
+|  bfs-f  | satellitelearning11 |   019   |       -1       |
+|  bfs-f  | satellitelearning11 |   020   |       -1       |
+|  bfs-f  | satellitelearning11 |   021   |       -1       |
+|  bfs-f  | satellitelearning11 |   022   |       -1       |
+|  bfs-f  | satellitelearning11 |   023   |       -1       |
+|  bfs-f  | satellitelearning11 |   024   |       -1       |
+|  bfs-f  | satellitelearning11 |   025   |       -1       |
+|  bfs-f  | satellitelearning11 |   026   |       -1       |
+|  bfs-f  | satellitelearning11 |   027   |       -1       |
+|  bfs-f  | satellitelearning11 |   028   |       -1       |
+|  bfs-f  | satellitelearning11 |   029   |       -1       |
+|  jasper | satellitelearning11 |   000   |       -1       |
+|  jasper | satellitelearning11 |   001   |       -1       |
+|  jasper | satellitelearning11 |   002   |       -1       |
+|  jasper | satellitelearning11 |   003   |       -1       |
+|  jasper | satellitelearning11 |   004   |       -1       |
+|  jasper | satellitelearning11 |   005   |       -1       |
+|  jasper | satellitelearning11 |   006   |       -1       |
+|  jasper | satellitelearning11 |   007   |       -1       |
+|  jasper | satellitelearning11 |   008   |       -1       |
+|  jasper | satellitelearning11 |   009   |       -1       |
+|  jasper | satellitelearning11 |   010   |       -1       |
+|  jasper | satellitelearning11 |   011   |       -1       |
+|  jasper | satellitelearning11 |   012   |       -1       |
+|  jasper | satellitelearning11 |   013   |       -1       |
+|  jasper | satellitelearning11 |   014   |       -1       |
+|  jasper | satellitelearning11 |   015   |       -1       |
+|  jasper | satellitelearning11 |   016   |       -1       |
+|  jasper | satellitelearning11 |   017   |       -1       |
+|  jasper | satellitelearning11 |   018   |       -1       |
+|  jasper | satellitelearning11 |   019   |       -1       |
+|  jasper | satellitelearning11 |   020   |       -1       |
+|  jasper | satellitelearning11 |   021   |       -1       |
+|  jasper | satellitelearning11 |   022   |       -1       |
+|  jasper | satellitelearning11 |   023   |       -1       |
+|  jasper | satellitelearning11 |   024   |       -1       |
+|  jasper | satellitelearning11 |   025   |       -1       |
+|  jasper | satellitelearning11 |   026   |       -1       |
+|  jasper | satellitelearning11 |   027   |       -1       |
+|  jasper | satellitelearning11 |   028   |       -1       |
+|  jasper | satellitelearning11 |   029   |       -1       |
+| mercury | satellitelearning11 |   000   |       -1       |
+| mercury | satellitelearning11 |   001   |       15       |
+| mercury | satellitelearning11 |   002   |       81       |
+| mercury | satellitelearning11 |   003   |      114       |
+| mercury | satellitelearning11 |   004   |      218       |
+| mercury | satellitelearning11 |   005   |       -1       |
+| mercury | satellitelearning11 |   006   |      256       |
+| mercury | satellitelearning11 |   007   |      301       |
+| mercury | satellitelearning11 |   008   |      422       |
+| mercury | satellitelearning11 |   009   |       80       |
+| mercury | satellitelearning11 |   010   |      118       |
+| mercury | satellitelearning11 |   011   |       49       |
+| mercury | satellitelearning11 |   012   |      128       |
+| mercury | satellitelearning11 |   013   |       20       |
+| mercury | satellitelearning11 |   014   |      236       |
+| mercury | satellitelearning11 |   015   |      555       |
+| mercury | satellitelearning11 |   016   |      592       |
+| mercury | satellitelearning11 |   017   |      437       |
+| mercury | satellitelearning11 |   018   |      1030      |
+| mercury | satellitelearning11 |   019   |      177       |
+| mercury | satellitelearning11 |   020   |      1186      |
+| mercury | satellitelearning11 |   021   |       47       |
+| mercury | satellitelearning11 |   022   |       -1       |
+| mercury | satellitelearning11 |   023   |      237       |
+| mercury | satellitelearning11 |   024   |       -1       |
+| mercury | satellitelearning11 |   025   |      265       |
+| mercury | satellitelearning11 |   026   |       89       |
+| mercury | satellitelearning11 |   027   |      1117      |
+| mercury | satellitelearning11 |   028   |       79       |
+| mercury | satellitelearning11 |   029   |      284       |
+|   siw   | satellitelearning11 |   000   |       -1       |
+|   siw   | satellitelearning11 |   001   |       -1       |
+|   siw   | satellitelearning11 |   002   |       -1       |
+|   siw   | satellitelearning11 |   003   |       -1       |
+|   siw   | satellitelearning11 |   004   |       -1       |
+|   siw   | satellitelearning11 |   005   |       -1       |
+|   siw   | satellitelearning11 |   006   |       -1       |
+|   siw   | satellitelearning11 |   007   |       -1       |
+|   siw   | satellitelearning11 |   008   |       -1       |
+|   siw   | satellitelearning11 |   009   |       -1       |
+|   siw   | satellitelearning11 |   010   |       -1       |
+|   siw   | satellitelearning11 |   011   |       -1       |
+|   siw   | satellitelearning11 |   012   |       -1       |
+|   siw   | satellitelearning11 |   013   |       -1       |
+|   siw   | satellitelearning11 |   014   |       -1       |
+|   siw   | satellitelearning11 |   015   |       -1       |
+|   siw   | satellitelearning11 |   016   |       -1       |
+|   siw   | satellitelearning11 |   017   |       -1       |
+|   siw   | satellitelearning11 |   018   |       -1       |
+|   siw   | satellitelearning11 |   019   |       -1       |
+|   siw   | satellitelearning11 |   020   |       -1       |
+|   siw   | satellitelearning11 |   021   |       -1       |
+|   siw   | satellitelearning11 |   022   |       -1       |
+|   siw   | satellitelearning11 |   023   |       -1       |
+|   siw   | satellitelearning11 |   024   |       -1       |
+|   siw   | satellitelearning11 |   025   |       -1       |
+|   siw   | satellitelearning11 |   026   |       -1       |
+|   siw   | satellitelearning11 |   027   |       -1       |
+|   siw   | satellitelearning11 |   028   |       -1       |
+|   siw   | satellitelearning11 |   029   |       -1       |
++---------+---------------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 16:56:10 2018
+

@@ -1,0 +1,235 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : pegsol
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+-----------------+---------+----------------+
+| planner |      domain     | problem | oktimefirstsol |
++---------+-----------------+---------+----------------+
+|  bfs-f  |      pegsol     |   000   |       1        |
+|  bfs-f  |      pegsol     |   001   |       0        |
+|  bfs-f  |      pegsol     |   002   |       0        |
+|  bfs-f  |      pegsol     |   003   |       0        |
+|  bfs-f  |      pegsol     |   004   |       0        |
+|  bfs-f  |      pegsol     |   005   |       0        |
+|  bfs-f  |      pegsol     |   006   |       0        |
+|  bfs-f  |      pegsol     |   007   |       0        |
+|  bfs-f  |      pegsol     |   008   |       0        |
+|  bfs-f  |      pegsol     |   009   |       0        |
+|  bfs-f  |      pegsol     |   010   |       0        |
+|  bfs-f  |      pegsol     |   011   |       0        |
+|  bfs-f  |      pegsol     |   012   |       0        |
+|  bfs-f  |      pegsol     |   013   |       0        |
+|  bfs-f  |      pegsol     |   014   |       0        |
+|  bfs-f  |      pegsol     |   015   |       0        |
+|  bfs-f  |      pegsol     |   016   |       1        |
+|  bfs-f  |      pegsol     |   017   |       1        |
+|  bfs-f  |      pegsol     |   018   |       2        |
+|  bfs-f  |      pegsol     |   019   |       2        |
+|  jasper |      pegsol     |   000   |       0        |
+|  jasper |      pegsol     |   001   |       1        |
+|  jasper |      pegsol     |   002   |       0        |
+|  jasper |      pegsol     |   003   |       0        |
+|  jasper |      pegsol     |   004   |       0        |
+|  jasper |      pegsol     |   005   |       0        |
+|  jasper |      pegsol     |   006   |       0        |
+|  jasper |      pegsol     |   007   |       0        |
+|  jasper |      pegsol     |   008   |       0        |
+|  jasper |      pegsol     |   009   |       0        |
+|  jasper |      pegsol     |   010   |       0        |
+|  jasper |      pegsol     |   011   |       1        |
+|  jasper |      pegsol     |   012   |       1        |
+|  jasper |      pegsol     |   013   |       0        |
+|  jasper |      pegsol     |   014   |       0        |
+|  jasper |      pegsol     |   015   |       0        |
+|  jasper |      pegsol     |   016   |       0        |
+|  jasper |      pegsol     |   017   |       0        |
+|  jasper |      pegsol     |   018   |       0        |
+|  jasper |      pegsol     |   019   |       0        |
+| mercury |      pegsol     |   000   |       1        |
+| mercury |      pegsol     |   001   |       0        |
+| mercury |      pegsol     |   002   |       1        |
+| mercury |      pegsol     |   003   |       0        |
+| mercury |      pegsol     |   004   |       1        |
+| mercury |      pegsol     |   005   |       1        |
+| mercury |      pegsol     |   006   |       0        |
+| mercury |      pegsol     |   007   |       1        |
+| mercury |      pegsol     |   008   |       0        |
+| mercury |      pegsol     |   009   |       1        |
+| mercury |      pegsol     |   010   |       1        |
+| mercury |      pegsol     |   011   |       0        |
+| mercury |      pegsol     |   012   |       1        |
+| mercury |      pegsol     |   013   |       0        |
+| mercury |      pegsol     |   014   |       1        |
+| mercury |      pegsol     |   015   |       1        |
+| mercury |      pegsol     |   016   |       0        |
+| mercury |      pegsol     |   017   |       2        |
+| mercury |      pegsol     |   018   |       0        |
+| mercury |      pegsol     |   019   |      166       |
+|   siw   |      pegsol     |   000   |       -1       |
+|   siw   |      pegsol     |   001   |       -1       |
+|   siw   |      pegsol     |   002   |       -1       |
+|   siw   |      pegsol     |   003   |       -1       |
+|   siw   |      pegsol     |   004   |       -1       |
+|   siw   |      pegsol     |   005   |       -1       |
+|   siw   |      pegsol     |   006   |       -1       |
+|   siw   |      pegsol     |   007   |       -1       |
+|   siw   |      pegsol     |   008   |       -1       |
+|   siw   |      pegsol     |   009   |       -1       |
+|   siw   |      pegsol     |   010   |       -1       |
+|   siw   |      pegsol     |   011   |       -1       |
+|   siw   |      pegsol     |   012   |       -1       |
+|   siw   |      pegsol     |   013   |       -1       |
+|   siw   |      pegsol     |   014   |       -1       |
+|   siw   |      pegsol     |   015   |       -1       |
+|   siw   |      pegsol     |   016   |       -1       |
+|   siw   |      pegsol     |   017   |       -1       |
+|   siw   |      pegsol     |   018   |       -1       |
+|   siw   |      pegsol     |   019   |       -1       |
+|  bfs-f  | pegsol-strips08 |   000   |       0        |
+|  bfs-f  | pegsol-strips08 |   001   |       0        |
+|  bfs-f  | pegsol-strips08 |   002   |       0        |
+|  bfs-f  | pegsol-strips08 |   003   |       0        |
+|  bfs-f  | pegsol-strips08 |   004   |       0        |
+|  bfs-f  | pegsol-strips08 |   005   |       0        |
+|  bfs-f  | pegsol-strips08 |   006   |       0        |
+|  bfs-f  | pegsol-strips08 |   007   |       0        |
+|  bfs-f  | pegsol-strips08 |   008   |       0        |
+|  bfs-f  | pegsol-strips08 |   009   |       0        |
+|  bfs-f  | pegsol-strips08 |   010   |       0        |
+|  bfs-f  | pegsol-strips08 |   011   |       0        |
+|  bfs-f  | pegsol-strips08 |   012   |       0        |
+|  bfs-f  | pegsol-strips08 |   013   |       0        |
+|  bfs-f  | pegsol-strips08 |   014   |       0        |
+|  bfs-f  | pegsol-strips08 |   015   |       0        |
+|  bfs-f  | pegsol-strips08 |   016   |       1        |
+|  bfs-f  | pegsol-strips08 |   017   |       1        |
+|  bfs-f  | pegsol-strips08 |   018   |       0        |
+|  bfs-f  | pegsol-strips08 |   019   |       1        |
+|  bfs-f  | pegsol-strips08 |   020   |       0        |
+|  bfs-f  | pegsol-strips08 |   021   |       0        |
+|  bfs-f  | pegsol-strips08 |   022   |       0        |
+|  bfs-f  | pegsol-strips08 |   023   |       0        |
+|  bfs-f  | pegsol-strips08 |   024   |       0        |
+|  bfs-f  | pegsol-strips08 |   025   |       0        |
+|  bfs-f  | pegsol-strips08 |   026   |       1        |
+|  bfs-f  | pegsol-strips08 |   027   |       1        |
+|  bfs-f  | pegsol-strips08 |   028   |       2        |
+|  bfs-f  | pegsol-strips08 |   029   |       1        |
+|  jasper | pegsol-strips08 |   000   |       1        |
+|  jasper | pegsol-strips08 |   001   |       0        |
+|  jasper | pegsol-strips08 |   002   |       1        |
+|  jasper | pegsol-strips08 |   003   |       0        |
+|  jasper | pegsol-strips08 |   004   |       1        |
+|  jasper | pegsol-strips08 |   005   |       0        |
+|  jasper | pegsol-strips08 |   006   |       1        |
+|  jasper | pegsol-strips08 |   007   |       0        |
+|  jasper | pegsol-strips08 |   008   |       0        |
+|  jasper | pegsol-strips08 |   009   |       0        |
+|  jasper | pegsol-strips08 |   010   |       0        |
+|  jasper | pegsol-strips08 |   011   |       0        |
+|  jasper | pegsol-strips08 |   012   |       0        |
+|  jasper | pegsol-strips08 |   013   |       1        |
+|  jasper | pegsol-strips08 |   014   |       1        |
+|  jasper | pegsol-strips08 |   015   |       0        |
+|  jasper | pegsol-strips08 |   016   |       0        |
+|  jasper | pegsol-strips08 |   017   |       0        |
+|  jasper | pegsol-strips08 |   018   |       0        |
+|  jasper | pegsol-strips08 |   019   |       0        |
+|  jasper | pegsol-strips08 |   020   |       1        |
+|  jasper | pegsol-strips08 |   021   |       1        |
+|  jasper | pegsol-strips08 |   022   |       0        |
+|  jasper | pegsol-strips08 |   023   |       0        |
+|  jasper | pegsol-strips08 |   024   |       0        |
+|  jasper | pegsol-strips08 |   025   |       0        |
+|  jasper | pegsol-strips08 |   026   |       0        |
+|  jasper | pegsol-strips08 |   027   |       0        |
+|  jasper | pegsol-strips08 |   028   |       0        |
+|  jasper | pegsol-strips08 |   029   |       0        |
+| mercury | pegsol-strips08 |   000   |       1        |
+| mercury | pegsol-strips08 |   001   |       0        |
+| mercury | pegsol-strips08 |   002   |       1        |
+| mercury | pegsol-strips08 |   003   |       0        |
+| mercury | pegsol-strips08 |   004   |       0        |
+| mercury | pegsol-strips08 |   005   |       1        |
+| mercury | pegsol-strips08 |   006   |       0        |
+| mercury | pegsol-strips08 |   007   |       1        |
+| mercury | pegsol-strips08 |   008   |       0        |
+| mercury | pegsol-strips08 |   009   |       1        |
+| mercury | pegsol-strips08 |   010   |       1        |
+| mercury | pegsol-strips08 |   011   |       0        |
+| mercury | pegsol-strips08 |   012   |       1        |
+| mercury | pegsol-strips08 |   013   |       0        |
+| mercury | pegsol-strips08 |   014   |       1        |
+| mercury | pegsol-strips08 |   015   |       1        |
+| mercury | pegsol-strips08 |   016   |       0        |
+| mercury | pegsol-strips08 |   017   |       1        |
+| mercury | pegsol-strips08 |   018   |       1        |
+| mercury | pegsol-strips08 |   019   |       1        |
+| mercury | pegsol-strips08 |   020   |       1        |
+| mercury | pegsol-strips08 |   021   |       0        |
+| mercury | pegsol-strips08 |   022   |       1        |
+| mercury | pegsol-strips08 |   023   |       0        |
+| mercury | pegsol-strips08 |   024   |       1        |
+| mercury | pegsol-strips08 |   025   |       1        |
+| mercury | pegsol-strips08 |   026   |       0        |
+| mercury | pegsol-strips08 |   027   |       2        |
+| mercury | pegsol-strips08 |   028   |       0        |
+| mercury | pegsol-strips08 |   029   |      166       |
+|   siw   | pegsol-strips08 |   000   |       0        |
+|   siw   | pegsol-strips08 |   001   |       -1       |
+|   siw   | pegsol-strips08 |   002   |       0        |
+|   siw   | pegsol-strips08 |   003   |       -1       |
+|   siw   | pegsol-strips08 |   004   |       0        |
+|   siw   | pegsol-strips08 |   005   |       0        |
+|   siw   | pegsol-strips08 |   006   |       0        |
+|   siw   | pegsol-strips08 |   007   |       0        |
+|   siw   | pegsol-strips08 |   008   |       -1       |
+|   siw   | pegsol-strips08 |   009   |       -1       |
+|   siw   | pegsol-strips08 |   010   |       -1       |
+|   siw   | pegsol-strips08 |   011   |       -1       |
+|   siw   | pegsol-strips08 |   012   |       -1       |
+|   siw   | pegsol-strips08 |   013   |       -1       |
+|   siw   | pegsol-strips08 |   014   |       0        |
+|   siw   | pegsol-strips08 |   015   |       -1       |
+|   siw   | pegsol-strips08 |   016   |       -1       |
+|   siw   | pegsol-strips08 |   017   |       -1       |
+|   siw   | pegsol-strips08 |   018   |       -1       |
+|   siw   | pegsol-strips08 |   019   |       -1       |
+|   siw   | pegsol-strips08 |   020   |       -1       |
+|   siw   | pegsol-strips08 |   021   |       -1       |
+|   siw   | pegsol-strips08 |   022   |       -1       |
+|   siw   | pegsol-strips08 |   023   |       -1       |
+|   siw   | pegsol-strips08 |   024   |       -1       |
+|   siw   | pegsol-strips08 |   025   |       -1       |
+|   siw   | pegsol-strips08 |   026   |       -1       |
+|   siw   | pegsol-strips08 |   027   |       -1       |
+|   siw   | pegsol-strips08 |   028   |       -1       |
+|   siw   | pegsol-strips08 |   029   |       -1       |
++---------+-----------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 16:55:47 2018
+

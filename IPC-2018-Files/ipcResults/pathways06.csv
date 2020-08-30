@@ -1,0 +1,155 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : pathways06
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+------------+---------+----------------+
+| planner |   domain   | problem | oktimefirstsol |
++---------+------------+---------+----------------+
+|  bfs-f  | pathways06 |   000   |       0        |
+|  bfs-f  | pathways06 |   001   |       0        |
+|  bfs-f  | pathways06 |   002   |       0        |
+|  bfs-f  | pathways06 |   003   |       0        |
+|  bfs-f  | pathways06 |   004   |       0        |
+|  bfs-f  | pathways06 |   005   |       0        |
+|  bfs-f  | pathways06 |   006   |       0        |
+|  bfs-f  | pathways06 |   007   |       1        |
+|  bfs-f  | pathways06 |   008   |       1        |
+|  bfs-f  | pathways06 |   009   |       1        |
+|  bfs-f  | pathways06 |   010   |       1        |
+|  bfs-f  | pathways06 |   011   |       33       |
+|  bfs-f  | pathways06 |   012   |       1        |
+|  bfs-f  | pathways06 |   013   |       1        |
+|  bfs-f  | pathways06 |   014   |       1        |
+|  bfs-f  | pathways06 |   015   |       3        |
+|  bfs-f  | pathways06 |   016   |       4        |
+|  bfs-f  | pathways06 |   017   |       3        |
+|  bfs-f  | pathways06 |   018   |       4        |
+|  bfs-f  | pathways06 |   019   |       3        |
+|  bfs-f  | pathways06 |   020   |       6        |
+|  bfs-f  | pathways06 |   021   |       4        |
+|  bfs-f  | pathways06 |   022   |       5        |
+|  bfs-f  | pathways06 |   023   |       6        |
+|  bfs-f  | pathways06 |   024   |       8        |
+|  bfs-f  | pathways06 |   025   |       11       |
+|  bfs-f  | pathways06 |   026   |       0        |
+|  bfs-f  | pathways06 |   027   |       10       |
+|  bfs-f  | pathways06 |   028   |       10       |
+|  bfs-f  | pathways06 |   029   |       11       |
+|  jasper | pathways06 |   000   |       -1       |
+|  jasper | pathways06 |   001   |       -1       |
+|  jasper | pathways06 |   002   |       -1       |
+|  jasper | pathways06 |   003   |       -1       |
+|  jasper | pathways06 |   004   |       -1       |
+|  jasper | pathways06 |   005   |       -1       |
+|  jasper | pathways06 |   006   |       -1       |
+|  jasper | pathways06 |   007   |       -1       |
+|  jasper | pathways06 |   008   |       -1       |
+|  jasper | pathways06 |   009   |       -1       |
+|  jasper | pathways06 |   010   |       -1       |
+|  jasper | pathways06 |   011   |       -1       |
+|  jasper | pathways06 |   012   |       -1       |
+|  jasper | pathways06 |   013   |       -1       |
+|  jasper | pathways06 |   014   |       -1       |
+|  jasper | pathways06 |   015   |       -1       |
+|  jasper | pathways06 |   016   |       -1       |
+|  jasper | pathways06 |   017   |       -1       |
+|  jasper | pathways06 |   018   |       -1       |
+|  jasper | pathways06 |   019   |       -1       |
+|  jasper | pathways06 |   020   |       -1       |
+|  jasper | pathways06 |   021   |       -1       |
+|  jasper | pathways06 |   022   |       -1       |
+|  jasper | pathways06 |   023   |       -1       |
+|  jasper | pathways06 |   024   |       -1       |
+|  jasper | pathways06 |   025   |       -1       |
+|  jasper | pathways06 |   026   |       -1       |
+|  jasper | pathways06 |   027   |       -1       |
+|  jasper | pathways06 |   028   |       -1       |
+|  jasper | pathways06 |   029   |       -1       |
+| mercury | pathways06 |   000   |       -1       |
+| mercury | pathways06 |   001   |       -1       |
+| mercury | pathways06 |   002   |       -1       |
+| mercury | pathways06 |   003   |       -1       |
+| mercury | pathways06 |   004   |       -1       |
+| mercury | pathways06 |   005   |       -1       |
+| mercury | pathways06 |   006   |       -1       |
+| mercury | pathways06 |   007   |       -1       |
+| mercury | pathways06 |   008   |       -1       |
+| mercury | pathways06 |   009   |       -1       |
+| mercury | pathways06 |   010   |       -1       |
+| mercury | pathways06 |   011   |       -1       |
+| mercury | pathways06 |   012   |       -1       |
+| mercury | pathways06 |   013   |       -1       |
+| mercury | pathways06 |   014   |       -1       |
+| mercury | pathways06 |   015   |       -1       |
+| mercury | pathways06 |   016   |       -1       |
+| mercury | pathways06 |   017   |       -1       |
+| mercury | pathways06 |   018   |       -1       |
+| mercury | pathways06 |   019   |       -1       |
+| mercury | pathways06 |   020   |       -1       |
+| mercury | pathways06 |   021   |       -1       |
+| mercury | pathways06 |   022   |       -1       |
+| mercury | pathways06 |   023   |       -1       |
+| mercury | pathways06 |   024   |       -1       |
+| mercury | pathways06 |   025   |       -1       |
+| mercury | pathways06 |   026   |       -1       |
+| mercury | pathways06 |   027   |       -1       |
+| mercury | pathways06 |   028   |       -1       |
+| mercury | pathways06 |   029   |       -1       |
+|   siw   | pathways06 |   000   |       0        |
+|   siw   | pathways06 |   001   |       0        |
+|   siw   | pathways06 |   002   |       0        |
+|   siw   | pathways06 |   003   |       0        |
+|   siw   | pathways06 |   004   |       0        |
+|   siw   | pathways06 |   005   |       4        |
+|   siw   | pathways06 |   006   |       5        |
+|   siw   | pathways06 |   007   |      656       |
+|   siw   | pathways06 |   008   |       0        |
+|   siw   | pathways06 |   009   |       10       |
+|   siw   | pathways06 |   010   |       18       |
+|   siw   | pathways06 |   011   |       0        |
+|   siw   | pathways06 |   012   |       27       |
+|   siw   | pathways06 |   013   |       29       |
+|   siw   | pathways06 |   014   |       0        |
+|   siw   | pathways06 |   015   |       0        |
+|   siw   | pathways06 |   016   |       0        |
+|   siw   | pathways06 |   017   |       38       |
+|   siw   | pathways06 |   018   |       0        |
+|   siw   | pathways06 |   019   |       0        |
+|   siw   | pathways06 |   020   |       0        |
+|   siw   | pathways06 |   021   |       0        |
+|   siw   | pathways06 |   022   |       0        |
+|   siw   | pathways06 |   023   |       0        |
+|   siw   | pathways06 |   024   |      392       |
+|   siw   | pathways06 |   025   |       0        |
+|   siw   | pathways06 |   026   |       0        |
+|   siw   | pathways06 |   027   |      357       |
+|   siw   | pathways06 |   028   |       0        |
+|   siw   | pathways06 |   029   |       0        |
++---------+------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:28:09 2018
+

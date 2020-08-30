@@ -1,0 +1,235 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : scanalyzer
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+---------------------+---------+----------------+
+| planner |        domain       | problem | oktimefirstsol |
++---------+---------------------+---------+----------------+
+|  bfs-f  |      scanalyzer     |   000   |       2        |
+|  bfs-f  |      scanalyzer     |   001   |       1        |
+|  bfs-f  |      scanalyzer     |   002   |       0        |
+|  bfs-f  |      scanalyzer     |   003   |       0        |
+|  bfs-f  |      scanalyzer     |   004   |       4        |
+|  bfs-f  |      scanalyzer     |   005   |       4        |
+|  bfs-f  |      scanalyzer     |   006   |       11       |
+|  bfs-f  |      scanalyzer     |   007   |       3        |
+|  bfs-f  |      scanalyzer     |   008   |       0        |
+|  bfs-f  |      scanalyzer     |   009   |       1        |
+|  bfs-f  |      scanalyzer     |   010   |       1        |
+|  bfs-f  |      scanalyzer     |   011   |       0        |
+|  bfs-f  |      scanalyzer     |   012   |       0        |
+|  bfs-f  |      scanalyzer     |   013   |       4        |
+|  bfs-f  |      scanalyzer     |   014   |       3        |
+|  bfs-f  |      scanalyzer     |   015   |       11       |
+|  bfs-f  |      scanalyzer     |   016   |       7        |
+|  bfs-f  |      scanalyzer     |   017   |      144       |
+|  bfs-f  |      scanalyzer     |   018   |      155       |
+|  bfs-f  |      scanalyzer     |   019   |      246       |
+|  jasper |      scanalyzer     |   000   |       12       |
+|  jasper |      scanalyzer     |   001   |       2        |
+|  jasper |      scanalyzer     |   002   |       0        |
+|  jasper |      scanalyzer     |   003   |       0        |
+|  jasper |      scanalyzer     |   004   |       4        |
+|  jasper |      scanalyzer     |   005   |       9        |
+|  jasper |      scanalyzer     |   006   |       7        |
+|  jasper |      scanalyzer     |   007   |       8        |
+|  jasper |      scanalyzer     |   008   |       1        |
+|  jasper |      scanalyzer     |   009   |       2        |
+|  jasper |      scanalyzer     |   010   |       1        |
+|  jasper |      scanalyzer     |   011   |       2        |
+|  jasper |      scanalyzer     |   012   |       0        |
+|  jasper |      scanalyzer     |   013   |       4        |
+|  jasper |      scanalyzer     |   014   |       3        |
+|  jasper |      scanalyzer     |   015   |       6        |
+|  jasper |      scanalyzer     |   016   |       5        |
+|  jasper |      scanalyzer     |   017   |      173       |
+|  jasper |      scanalyzer     |   018   |      104       |
+|  jasper |      scanalyzer     |   019   |       90       |
+| mercury |      scanalyzer     |   000   |       7        |
+| mercury |      scanalyzer     |   001   |       2        |
+| mercury |      scanalyzer     |   002   |       1        |
+| mercury |      scanalyzer     |   003   |       2        |
+| mercury |      scanalyzer     |   004   |       3        |
+| mercury |      scanalyzer     |   005   |       6        |
+| mercury |      scanalyzer     |   006   |       5        |
+| mercury |      scanalyzer     |   007   |       7        |
+| mercury |      scanalyzer     |   008   |       2        |
+| mercury |      scanalyzer     |   009   |       3        |
+| mercury |      scanalyzer     |   010   |       3        |
+| mercury |      scanalyzer     |   011   |       2        |
+| mercury |      scanalyzer     |   012   |       2        |
+| mercury |      scanalyzer     |   013   |       4        |
+| mercury |      scanalyzer     |   014   |       3        |
+| mercury |      scanalyzer     |   015   |       5        |
+| mercury |      scanalyzer     |   016   |       5        |
+| mercury |      scanalyzer     |   017   |       90       |
+| mercury |      scanalyzer     |   018   |      102       |
+| mercury |      scanalyzer     |   019   |       88       |
+|   siw   |      scanalyzer     |   000   |       1        |
+|   siw   |      scanalyzer     |   001   |       0        |
+|   siw   |      scanalyzer     |   002   |       0        |
+|   siw   |      scanalyzer     |   003   |       1        |
+|   siw   |      scanalyzer     |   004   |       1        |
+|   siw   |      scanalyzer     |   005   |       34       |
+|   siw   |      scanalyzer     |   006   |       2        |
+|   siw   |      scanalyzer     |   007   |       -1       |
+|   siw   |      scanalyzer     |   008   |       2        |
+|   siw   |      scanalyzer     |   009   |       1        |
+|   siw   |      scanalyzer     |   010   |       6        |
+|   siw   |      scanalyzer     |   011   |       0        |
+|   siw   |      scanalyzer     |   012   |       0        |
+|   siw   |      scanalyzer     |   013   |       3        |
+|   siw   |      scanalyzer     |   014   |       24       |
+|   siw   |      scanalyzer     |   015   |       8        |
+|   siw   |      scanalyzer     |   016   |       85       |
+|   siw   |      scanalyzer     |   017   |       98       |
+|   siw   |      scanalyzer     |   018   |       -1       |
+|   siw   |      scanalyzer     |   019   |       89       |
+|  bfs-f  | scanalyzer-strips08 |   000   |       0        |
+|  bfs-f  | scanalyzer-strips08 |   001   |       0        |
+|  bfs-f  | scanalyzer-strips08 |   002   |       0        |
+|  bfs-f  | scanalyzer-strips08 |   003   |       0        |
+|  bfs-f  | scanalyzer-strips08 |   004   |       0        |
+|  bfs-f  | scanalyzer-strips08 |   005   |       0        |
+|  bfs-f  | scanalyzer-strips08 |   006   |       0        |
+|  bfs-f  | scanalyzer-strips08 |   007   |       0        |
+|  bfs-f  | scanalyzer-strips08 |   008   |       0        |
+|  bfs-f  | scanalyzer-strips08 |   009   |       1        |
+|  bfs-f  | scanalyzer-strips08 |   010   |       1        |
+|  bfs-f  | scanalyzer-strips08 |   011   |       0        |
+|  bfs-f  | scanalyzer-strips08 |   012   |       3        |
+|  bfs-f  | scanalyzer-strips08 |   013   |       1        |
+|  bfs-f  | scanalyzer-strips08 |   014   |       1        |
+|  bfs-f  | scanalyzer-strips08 |   015   |       11       |
+|  bfs-f  | scanalyzer-strips08 |   016   |       4        |
+|  bfs-f  | scanalyzer-strips08 |   017   |       3        |
+|  bfs-f  | scanalyzer-strips08 |   018   |       28       |
+|  bfs-f  | scanalyzer-strips08 |   019   |       10       |
+|  bfs-f  | scanalyzer-strips08 |   020   |       7        |
+|  bfs-f  | scanalyzer-strips08 |   021   |       0        |
+|  bfs-f  | scanalyzer-strips08 |   022   |       0        |
+|  bfs-f  | scanalyzer-strips08 |   023   |       0        |
+|  bfs-f  | scanalyzer-strips08 |   024   |       3        |
+|  bfs-f  | scanalyzer-strips08 |   025   |       4        |
+|  bfs-f  | scanalyzer-strips08 |   026   |       4        |
+|  bfs-f  | scanalyzer-strips08 |   027   |      145       |
+|  bfs-f  | scanalyzer-strips08 |   028   |      154       |
+|  bfs-f  | scanalyzer-strips08 |   029   |      245       |
+|  jasper | scanalyzer-strips08 |   000   |       0        |
+|  jasper | scanalyzer-strips08 |   001   |       0        |
+|  jasper | scanalyzer-strips08 |   002   |       0        |
+|  jasper | scanalyzer-strips08 |   003   |       0        |
+|  jasper | scanalyzer-strips08 |   004   |       0        |
+|  jasper | scanalyzer-strips08 |   005   |       0        |
+|  jasper | scanalyzer-strips08 |   006   |       1        |
+|  jasper | scanalyzer-strips08 |   007   |       1        |
+|  jasper | scanalyzer-strips08 |   008   |       1        |
+|  jasper | scanalyzer-strips08 |   009   |       2        |
+|  jasper | scanalyzer-strips08 |   010   |       1        |
+|  jasper | scanalyzer-strips08 |   011   |       1        |
+|  jasper | scanalyzer-strips08 |   012   |       4        |
+|  jasper | scanalyzer-strips08 |   013   |       2        |
+|  jasper | scanalyzer-strips08 |   014   |       2        |
+|  jasper | scanalyzer-strips08 |   015   |       7        |
+|  jasper | scanalyzer-strips08 |   016   |       3        |
+|  jasper | scanalyzer-strips08 |   017   |       3        |
+|  jasper | scanalyzer-strips08 |   018   |       11       |
+|  jasper | scanalyzer-strips08 |   019   |       6        |
+|  jasper | scanalyzer-strips08 |   020   |       5        |
+|  jasper | scanalyzer-strips08 |   021   |       0        |
+|  jasper | scanalyzer-strips08 |   022   |       1        |
+|  jasper | scanalyzer-strips08 |   023   |       0        |
+|  jasper | scanalyzer-strips08 |   024   |       12       |
+|  jasper | scanalyzer-strips08 |   025   |       9        |
+|  jasper | scanalyzer-strips08 |   026   |       8        |
+|  jasper | scanalyzer-strips08 |   027   |      175       |
+|  jasper | scanalyzer-strips08 |   028   |      103       |
+|  jasper | scanalyzer-strips08 |   029   |       90       |
+| mercury | scanalyzer-strips08 |   000   |       1        |
+| mercury | scanalyzer-strips08 |   001   |       1        |
+| mercury | scanalyzer-strips08 |   002   |       1        |
+| mercury | scanalyzer-strips08 |   003   |       2        |
+| mercury | scanalyzer-strips08 |   004   |       1        |
+| mercury | scanalyzer-strips08 |   005   |       1        |
+| mercury | scanalyzer-strips08 |   006   |       2        |
+| mercury | scanalyzer-strips08 |   007   |       1        |
+| mercury | scanalyzer-strips08 |   008   |       2        |
+| mercury | scanalyzer-strips08 |   009   |       2        |
+| mercury | scanalyzer-strips08 |   010   |       2        |
+| mercury | scanalyzer-strips08 |   011   |       2        |
+| mercury | scanalyzer-strips08 |   012   |       3        |
+| mercury | scanalyzer-strips08 |   013   |       3        |
+| mercury | scanalyzer-strips08 |   014   |       2        |
+| mercury | scanalyzer-strips08 |   015   |       5        |
+| mercury | scanalyzer-strips08 |   016   |       4        |
+| mercury | scanalyzer-strips08 |   017   |       3        |
+| mercury | scanalyzer-strips08 |   018   |       8        |
+| mercury | scanalyzer-strips08 |   019   |       5        |
+| mercury | scanalyzer-strips08 |   020   |       5        |
+| mercury | scanalyzer-strips08 |   021   |       0        |
+| mercury | scanalyzer-strips08 |   022   |       1        |
+| mercury | scanalyzer-strips08 |   023   |       1        |
+| mercury | scanalyzer-strips08 |   024   |       7        |
+| mercury | scanalyzer-strips08 |   025   |       6        |
+| mercury | scanalyzer-strips08 |   026   |       6        |
+| mercury | scanalyzer-strips08 |   027   |       90       |
+| mercury | scanalyzer-strips08 |   028   |      103       |
+| mercury | scanalyzer-strips08 |   029   |       88       |
+|   siw   | scanalyzer-strips08 |   000   |       0        |
+|   siw   | scanalyzer-strips08 |   001   |       0        |
+|   siw   | scanalyzer-strips08 |   002   |       0        |
+|   siw   | scanalyzer-strips08 |   003   |       0        |
+|   siw   | scanalyzer-strips08 |   004   |       0        |
+|   siw   | scanalyzer-strips08 |   005   |       0        |
+|   siw   | scanalyzer-strips08 |   006   |       0        |
+|   siw   | scanalyzer-strips08 |   007   |       0        |
+|   siw   | scanalyzer-strips08 |   008   |       0        |
+|   siw   | scanalyzer-strips08 |   009   |       1        |
+|   siw   | scanalyzer-strips08 |   010   |       1        |
+|   siw   | scanalyzer-strips08 |   011   |       2        |
+|   siw   | scanalyzer-strips08 |   012   |       0        |
+|   siw   | scanalyzer-strips08 |   013   |       1        |
+|   siw   | scanalyzer-strips08 |   014   |       5        |
+|   siw   | scanalyzer-strips08 |   015   |       2        |
+|   siw   | scanalyzer-strips08 |   016   |       3        |
+|   siw   | scanalyzer-strips08 |   017   |       24       |
+|   siw   | scanalyzer-strips08 |   018   |       5        |
+|   siw   | scanalyzer-strips08 |   019   |       9        |
+|   siw   | scanalyzer-strips08 |   020   |       84       |
+|   siw   | scanalyzer-strips08 |   021   |       0        |
+|   siw   | scanalyzer-strips08 |   022   |       0        |
+|   siw   | scanalyzer-strips08 |   023   |       0        |
+|   siw   | scanalyzer-strips08 |   024   |       2        |
+|   siw   | scanalyzer-strips08 |   025   |       33       |
+|   siw   | scanalyzer-strips08 |   026   |       -1       |
+|   siw   | scanalyzer-strips08 |   027   |       97       |
+|   siw   | scanalyzer-strips08 |   028   |       -1       |
+|   siw   | scanalyzer-strips08 |   029   |       92       |
++---------+---------------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:28:41 2018
+

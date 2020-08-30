@@ -1,0 +1,235 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : transport
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+--------------------+---------+----------------+
+| planner |       domain       | problem | oktimefirstsol |
++---------+--------------------+---------+----------------+
+|  bfs-f  |     transport      |   000   |       8        |
+|  bfs-f  |     transport      |   001   |       21       |
+|  bfs-f  |     transport      |   002   |       30       |
+|  bfs-f  |     transport      |   003   |       6        |
+|  bfs-f  |     transport      |   004   |       8        |
+|  bfs-f  |     transport      |   005   |       28       |
+|  bfs-f  |     transport      |   006   |       51       |
+|  bfs-f  |     transport      |   007   |       43       |
+|  bfs-f  |     transport      |   008   |       68       |
+|  bfs-f  |     transport      |   009   |       73       |
+|  bfs-f  |     transport      |   010   |       52       |
+|  bfs-f  |     transport      |   011   |       39       |
+|  bfs-f  |     transport      |   012   |       63       |
+|  bfs-f  |     transport      |   013   |      558       |
+|  bfs-f  |     transport      |   014   |      492       |
+|  bfs-f  |     transport      |   015   |      343       |
+|  bfs-f  |     transport      |   016   |      466       |
+|  bfs-f  |     transport      |   017   |      354       |
+|  bfs-f  |     transport      |   018   |      1592      |
+|  bfs-f  |     transport      |   019   |      637       |
+|  jasper |     transport      |   000   |       6        |
+|  jasper |     transport      |   001   |       7        |
+|  jasper |     transport      |   002   |       9        |
+|  jasper |     transport      |   003   |       4        |
+|  jasper |     transport      |   004   |       6        |
+|  jasper |     transport      |   005   |       9        |
+|  jasper |     transport      |   006   |       9        |
+|  jasper |     transport      |   007   |       9        |
+|  jasper |     transport      |   008   |       11       |
+|  jasper |     transport      |   009   |       11       |
+|  jasper |     transport      |   010   |       10       |
+|  jasper |     transport      |   011   |       10       |
+|  jasper |     transport      |   012   |       13       |
+|  jasper |     transport      |   013   |       29       |
+|  jasper |     transport      |   014   |       26       |
+|  jasper |     transport      |   015   |       -1       |
+|  jasper |     transport      |   016   |       48       |
+|  jasper |     transport      |   017   |       45       |
+|  jasper |     transport      |   018   |       50       |
+|  jasper |     transport      |   019   |       53       |
+| mercury |     transport      |   000   |       5        |
+| mercury |     transport      |   001   |       5        |
+| mercury |     transport      |   002   |       6        |
+| mercury |     transport      |   003   |       4        |
+| mercury |     transport      |   004   |       4        |
+| mercury |     transport      |   005   |       5        |
+| mercury |     transport      |   006   |       6        |
+| mercury |     transport      |   007   |       7        |
+| mercury |     transport      |   008   |       7        |
+| mercury |     transport      |   009   |       8        |
+| mercury |     transport      |   010   |       7        |
+| mercury |     transport      |   011   |       7        |
+| mercury |     transport      |   012   |       8        |
+| mercury |     transport      |   013   |       19       |
+| mercury |     transport      |   014   |       18       |
+| mercury |     transport      |   015   |       19       |
+| mercury |     transport      |   016   |       32       |
+| mercury |     transport      |   017   |       31       |
+| mercury |     transport      |   018   |       35       |
+| mercury |     transport      |   019   |       38       |
+|   siw   |     transport      |   000   |       13       |
+|   siw   |     transport      |   001   |       19       |
+|   siw   |     transport      |   002   |       52       |
+|   siw   |     transport      |   003   |       23       |
+|   siw   |     transport      |   004   |       37       |
+|   siw   |     transport      |   005   |       64       |
+|   siw   |     transport      |   006   |      131       |
+|   siw   |     transport      |   007   |       32       |
+|   siw   |     transport      |   008   |      144       |
+|   siw   |     transport      |   009   |       66       |
+|   siw   |     transport      |   010   |       30       |
+|   siw   |     transport      |   011   |       36       |
+|   siw   |     transport      |   012   |       46       |
+|   siw   |     transport      |   013   |      1107      |
+|   siw   |     transport      |   014   |      1183      |
+|   siw   |     transport      |   015   |      1395      |
+|   siw   |     transport      |   016   |       -1       |
+|   siw   |     transport      |   017   |       -1       |
+|   siw   |     transport      |   018   |      994       |
+|   siw   |     transport      |   019   |      862       |
+|  bfs-f  | transport-strips08 |   000   |       0        |
+|  bfs-f  | transport-strips08 |   001   |       0        |
+|  bfs-f  | transport-strips08 |   002   |       0        |
+|  bfs-f  | transport-strips08 |   003   |       1        |
+|  bfs-f  | transport-strips08 |   004   |       0        |
+|  bfs-f  | transport-strips08 |   005   |       23       |
+|  bfs-f  | transport-strips08 |   006   |       14       |
+|  bfs-f  | transport-strips08 |   007   |       9        |
+|  bfs-f  | transport-strips08 |   008   |       21       |
+|  bfs-f  | transport-strips08 |   009   |       43       |
+|  bfs-f  | transport-strips08 |   010   |       0        |
+|  bfs-f  | transport-strips08 |   011   |       0        |
+|  bfs-f  | transport-strips08 |   012   |       0        |
+|  bfs-f  | transport-strips08 |   013   |       1        |
+|  bfs-f  | transport-strips08 |   014   |       1        |
+|  bfs-f  | transport-strips08 |   015   |       7        |
+|  bfs-f  | transport-strips08 |   016   |       8        |
+|  bfs-f  | transport-strips08 |   017   |       28       |
+|  bfs-f  | transport-strips08 |   018   |       50       |
+|  bfs-f  | transport-strips08 |   019   |       69       |
+|  bfs-f  | transport-strips08 |   020   |       0        |
+|  bfs-f  | transport-strips08 |   021   |       0        |
+|  bfs-f  | transport-strips08 |   022   |       0        |
+|  bfs-f  | transport-strips08 |   023   |       0        |
+|  bfs-f  | transport-strips08 |   024   |       1        |
+|  bfs-f  | transport-strips08 |   025   |       3        |
+|  bfs-f  | transport-strips08 |   026   |       9        |
+|  bfs-f  | transport-strips08 |   027   |       16       |
+|  bfs-f  | transport-strips08 |   028   |       30       |
+|  bfs-f  | transport-strips08 |   029   |       73       |
+|  jasper | transport-strips08 |   000   |       0        |
+|  jasper | transport-strips08 |   001   |       1        |
+|  jasper | transport-strips08 |   002   |       1        |
+|  jasper | transport-strips08 |   003   |       1        |
+|  jasper | transport-strips08 |   004   |       2        |
+|  jasper | transport-strips08 |   005   |       3        |
+|  jasper | transport-strips08 |   006   |       4        |
+|  jasper | transport-strips08 |   007   |       6        |
+|  jasper | transport-strips08 |   008   |       7        |
+|  jasper | transport-strips08 |   009   |       9        |
+|  jasper | transport-strips08 |   010   |       0        |
+|  jasper | transport-strips08 |   011   |       0        |
+|  jasper | transport-strips08 |   012   |       1        |
+|  jasper | transport-strips08 |   013   |       1        |
+|  jasper | transport-strips08 |   014   |       2        |
+|  jasper | transport-strips08 |   015   |       4        |
+|  jasper | transport-strips08 |   016   |       5        |
+|  jasper | transport-strips08 |   017   |       7        |
+|  jasper | transport-strips08 |   018   |       9        |
+|  jasper | transport-strips08 |   019   |       11       |
+|  jasper | transport-strips08 |   020   |       0        |
+|  jasper | transport-strips08 |   021   |       0        |
+|  jasper | transport-strips08 |   022   |       1        |
+|  jasper | transport-strips08 |   023   |       1        |
+|  jasper | transport-strips08 |   024   |       2        |
+|  jasper | transport-strips08 |   025   |       4        |
+|  jasper | transport-strips08 |   026   |       5        |
+|  jasper | transport-strips08 |   027   |       7        |
+|  jasper | transport-strips08 |   028   |       9        |
+|  jasper | transport-strips08 |   029   |       11       |
+| mercury | transport-strips08 |   000   |       0        |
+| mercury | transport-strips08 |   001   |       1        |
+| mercury | transport-strips08 |   002   |       2        |
+| mercury | transport-strips08 |   003   |       2        |
+| mercury | transport-strips08 |   004   |       2        |
+| mercury | transport-strips08 |   005   |       3        |
+| mercury | transport-strips08 |   006   |       4        |
+| mercury | transport-strips08 |   007   |       5        |
+| mercury | transport-strips08 |   008   |       5        |
+| mercury | transport-strips08 |   009   |       7        |
+| mercury | transport-strips08 |   010   |       0        |
+| mercury | transport-strips08 |   011   |       1        |
+| mercury | transport-strips08 |   012   |       2        |
+| mercury | transport-strips08 |   013   |       2        |
+| mercury | transport-strips08 |   014   |       3        |
+| mercury | transport-strips08 |   015   |       3        |
+| mercury | transport-strips08 |   016   |       4        |
+| mercury | transport-strips08 |   017   |       5        |
+| mercury | transport-strips08 |   018   |       6        |
+| mercury | transport-strips08 |   019   |       8        |
+| mercury | transport-strips08 |   020   |       0        |
+| mercury | transport-strips08 |   021   |       1        |
+| mercury | transport-strips08 |   022   |       1        |
+| mercury | transport-strips08 |   023   |       2        |
+| mercury | transport-strips08 |   024   |       3        |
+| mercury | transport-strips08 |   025   |       3        |
+| mercury | transport-strips08 |   026   |       4        |
+| mercury | transport-strips08 |   027   |       5        |
+| mercury | transport-strips08 |   028   |       6        |
+| mercury | transport-strips08 |   029   |       8        |
+|   siw   | transport-strips08 |   000   |       0        |
+|   siw   | transport-strips08 |   001   |       0        |
+|   siw   | transport-strips08 |   002   |       0        |
+|   siw   | transport-strips08 |   003   |       1        |
+|   siw   | transport-strips08 |   004   |       2        |
+|   siw   | transport-strips08 |   005   |       6        |
+|   siw   | transport-strips08 |   006   |       8        |
+|   siw   | transport-strips08 |   007   |       13       |
+|   siw   | transport-strips08 |   008   |       19       |
+|   siw   | transport-strips08 |   009   |       31       |
+|   siw   | transport-strips08 |   010   |       0        |
+|   siw   | transport-strips08 |   011   |       0        |
+|   siw   | transport-strips08 |   012   |       0        |
+|   siw   | transport-strips08 |   013   |       1        |
+|   siw   | transport-strips08 |   014   |       4        |
+|   siw   | transport-strips08 |   015   |       23       |
+|   siw   | transport-strips08 |   016   |       38       |
+|   siw   | transport-strips08 |   017   |       64       |
+|   siw   | transport-strips08 |   018   |      132       |
+|   siw   | transport-strips08 |   019   |      143       |
+|   siw   | transport-strips08 |   020   |       0        |
+|   siw   | transport-strips08 |   021   |       0        |
+|   siw   | transport-strips08 |   022   |       0        |
+|   siw   | transport-strips08 |   023   |       1        |
+|   siw   | transport-strips08 |   024   |       2        |
+|   siw   | transport-strips08 |   025   |       6        |
+|   siw   | transport-strips08 |   026   |       11       |
+|   siw   | transport-strips08 |   027   |       38       |
+|   siw   | transport-strips08 |   028   |       52       |
+|   siw   | transport-strips08 |   029   |       66       |
++---------+--------------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:29:29 2018
+

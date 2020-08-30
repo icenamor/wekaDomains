@@ -1,0 +1,155 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : roverlearning11
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+-----------------+---------+----------------+
+| planner |      domain     | problem | oktimefirstsol |
++---------+-----------------+---------+----------------+
+|  bfs-f  | roverlearning11 |   000   |      717       |
+|  bfs-f  | roverlearning11 |   001   |      837       |
+|  bfs-f  | roverlearning11 |   002   |      637       |
+|  bfs-f  | roverlearning11 |   003   |      981       |
+|  bfs-f  | roverlearning11 |   004   |      481       |
+|  bfs-f  | roverlearning11 |   005   |      822       |
+|  bfs-f  | roverlearning11 |   006   |      1232      |
+|  bfs-f  | roverlearning11 |   007   |      1175      |
+|  bfs-f  | roverlearning11 |   008   |      1672      |
+|  bfs-f  | roverlearning11 |   009   |       0        |
+|  bfs-f  | roverlearning11 |   010   |      1544      |
+|  bfs-f  | roverlearning11 |   011   |      833       |
+|  bfs-f  | roverlearning11 |   012   |       0        |
+|  bfs-f  | roverlearning11 |   013   |       0        |
+|  bfs-f  | roverlearning11 |   014   |       0        |
+|  bfs-f  | roverlearning11 |   015   |       0        |
+|  bfs-f  | roverlearning11 |   016   |       0        |
+|  bfs-f  | roverlearning11 |   017   |       0        |
+|  bfs-f  | roverlearning11 |   018   |       0        |
+|  bfs-f  | roverlearning11 |   019   |       0        |
+|  bfs-f  | roverlearning11 |   020   |       0        |
+|  bfs-f  | roverlearning11 |   021   |       0        |
+|  bfs-f  | roverlearning11 |   022   |       0        |
+|  bfs-f  | roverlearning11 |   023   |       0        |
+|  bfs-f  | roverlearning11 |   024   |       0        |
+|  bfs-f  | roverlearning11 |   025   |       0        |
+|  bfs-f  | roverlearning11 |   026   |       0        |
+|  bfs-f  | roverlearning11 |   027   |       0        |
+|  bfs-f  | roverlearning11 |   028   |       0        |
+|  bfs-f  | roverlearning11 |   029   |       0        |
+|  jasper | roverlearning11 |   000   |       -1       |
+|  jasper | roverlearning11 |   001   |       -1       |
+|  jasper | roverlearning11 |   002   |       -1       |
+|  jasper | roverlearning11 |   003   |       -1       |
+|  jasper | roverlearning11 |   004   |       -1       |
+|  jasper | roverlearning11 |   005   |       -1       |
+|  jasper | roverlearning11 |   006   |       -1       |
+|  jasper | roverlearning11 |   007   |       -1       |
+|  jasper | roverlearning11 |   008   |       -1       |
+|  jasper | roverlearning11 |   009   |       -1       |
+|  jasper | roverlearning11 |   010   |       -1       |
+|  jasper | roverlearning11 |   011   |       -1       |
+|  jasper | roverlearning11 |   012   |       -1       |
+|  jasper | roverlearning11 |   013   |       -1       |
+|  jasper | roverlearning11 |   014   |       -1       |
+|  jasper | roverlearning11 |   015   |       -1       |
+|  jasper | roverlearning11 |   016   |       -1       |
+|  jasper | roverlearning11 |   017   |       -1       |
+|  jasper | roverlearning11 |   018   |       -1       |
+|  jasper | roverlearning11 |   019   |       -1       |
+|  jasper | roverlearning11 |   020   |       -1       |
+|  jasper | roverlearning11 |   021   |       -1       |
+|  jasper | roverlearning11 |   022   |       -1       |
+|  jasper | roverlearning11 |   023   |       -1       |
+|  jasper | roverlearning11 |   024   |       -1       |
+|  jasper | roverlearning11 |   025   |       -1       |
+|  jasper | roverlearning11 |   026   |       -1       |
+|  jasper | roverlearning11 |   027   |       -1       |
+|  jasper | roverlearning11 |   028   |       -1       |
+|  jasper | roverlearning11 |   029   |       -1       |
+| mercury | roverlearning11 |   000   |       51       |
+| mercury | roverlearning11 |   001   |       41       |
+| mercury | roverlearning11 |   002   |       27       |
+| mercury | roverlearning11 |   003   |       67       |
+| mercury | roverlearning11 |   004   |       52       |
+| mercury | roverlearning11 |   005   |       40       |
+| mercury | roverlearning11 |   006   |      364       |
+| mercury | roverlearning11 |   007   |       64       |
+| mercury | roverlearning11 |   008   |       86       |
+| mercury | roverlearning11 |   009   |      313       |
+| mercury | roverlearning11 |   010   |       91       |
+| mercury | roverlearning11 |   011   |       45       |
+| mercury | roverlearning11 |   012   |      121       |
+| mercury | roverlearning11 |   013   |      186       |
+| mercury | roverlearning11 |   014   |      106       |
+| mercury | roverlearning11 |   015   |      344       |
+| mercury | roverlearning11 |   016   |      104       |
+| mercury | roverlearning11 |   017   |      245       |
+| mercury | roverlearning11 |   018   |      261       |
+| mercury | roverlearning11 |   019   |      187       |
+| mercury | roverlearning11 |   020   |      166       |
+| mercury | roverlearning11 |   021   |      460       |
+| mercury | roverlearning11 |   022   |       -1       |
+| mercury | roverlearning11 |   023   |       93       |
+| mercury | roverlearning11 |   024   |      153       |
+| mercury | roverlearning11 |   025   |      234       |
+| mercury | roverlearning11 |   026   |       -1       |
+| mercury | roverlearning11 |   027   |      586       |
+| mercury | roverlearning11 |   028   |      1289      |
+| mercury | roverlearning11 |   029   |      1706      |
+|   siw   | roverlearning11 |   000   |       0        |
+|   siw   | roverlearning11 |   001   |       0        |
+|   siw   | roverlearning11 |   002   |       0        |
+|   siw   | roverlearning11 |   003   |       0        |
+|   siw   | roverlearning11 |   004   |       0        |
+|   siw   | roverlearning11 |   005   |       0        |
+|   siw   | roverlearning11 |   006   |       0        |
+|   siw   | roverlearning11 |   007   |       0        |
+|   siw   | roverlearning11 |   008   |       0        |
+|   siw   | roverlearning11 |   009   |       0        |
+|   siw   | roverlearning11 |   010   |       0        |
+|   siw   | roverlearning11 |   011   |       0        |
+|   siw   | roverlearning11 |   012   |       0        |
+|   siw   | roverlearning11 |   013   |       0        |
+|   siw   | roverlearning11 |   014   |       0        |
+|   siw   | roverlearning11 |   015   |       0        |
+|   siw   | roverlearning11 |   016   |       0        |
+|   siw   | roverlearning11 |   017   |       0        |
+|   siw   | roverlearning11 |   018   |       0        |
+|   siw   | roverlearning11 |   019   |       0        |
+|   siw   | roverlearning11 |   020   |       0        |
+|   siw   | roverlearning11 |   021   |       0        |
+|   siw   | roverlearning11 |   022   |       0        |
+|   siw   | roverlearning11 |   023   |       0        |
+|   siw   | roverlearning11 |   024   |       0        |
+|   siw   | roverlearning11 |   025   |       0        |
+|   siw   | roverlearning11 |   026   |       0        |
+|   siw   | roverlearning11 |   027   |       0        |
+|   siw   | roverlearning11 |   028   |       0        |
+|   siw   | roverlearning11 |   029   |       0        |
++---------+-----------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:28:28 2018
+

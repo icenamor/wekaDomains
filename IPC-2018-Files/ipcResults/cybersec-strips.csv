@@ -1,0 +1,155 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : cybersec-strips
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+-----------------+---------+----------------+
+| planner |      domain     | problem | oktimefirstsol |
++---------+-----------------+---------+----------------+
+|  bfs-f  | cybersec-strips |   000   |       6        |
+|  bfs-f  | cybersec-strips |   001   |       6        |
+|  bfs-f  | cybersec-strips |   002   |       7        |
+|  bfs-f  | cybersec-strips |   003   |       7        |
+|  bfs-f  | cybersec-strips |   004   |       7        |
+|  bfs-f  | cybersec-strips |   005   |      187       |
+|  bfs-f  | cybersec-strips |   006   |      187       |
+|  bfs-f  | cybersec-strips |   007   |       0        |
+|  bfs-f  | cybersec-strips |   008   |       0        |
+|  bfs-f  | cybersec-strips |   009   |       2        |
+|  bfs-f  | cybersec-strips |   010   |       4        |
+|  bfs-f  | cybersec-strips |   011   |      195       |
+|  bfs-f  | cybersec-strips |   012   |      161       |
+|  bfs-f  | cybersec-strips |   013   |      189       |
+|  bfs-f  | cybersec-strips |   014   |       7        |
+|  bfs-f  | cybersec-strips |   015   |       7        |
+|  bfs-f  | cybersec-strips |   016   |       7        |
+|  bfs-f  | cybersec-strips |   017   |       6        |
+|  bfs-f  | cybersec-strips |   018   |       6        |
+|  bfs-f  | cybersec-strips |   019   |       7        |
+|  bfs-f  | cybersec-strips |   020   |      190       |
+|  bfs-f  | cybersec-strips |   021   |      190       |
+|  bfs-f  | cybersec-strips |   022   |       0        |
+|  bfs-f  | cybersec-strips |   023   |       0        |
+|  bfs-f  | cybersec-strips |   024   |       1        |
+|  bfs-f  | cybersec-strips |   025   |       4        |
+|  bfs-f  | cybersec-strips |   026   |      191       |
+|  bfs-f  | cybersec-strips |   027   |      167       |
+|  bfs-f  | cybersec-strips |   028   |      192       |
+|  bfs-f  | cybersec-strips |   029   |       7        |
+|  jasper | cybersec-strips |   000   |      340       |
+|  jasper | cybersec-strips |   001   |       75       |
+|  jasper | cybersec-strips |   002   |      340       |
+|  jasper | cybersec-strips |   003   |       68       |
+|  jasper | cybersec-strips |   004   |      341       |
+|  jasper | cybersec-strips |   005   |      329       |
+|  jasper | cybersec-strips |   006   |      329       |
+|  jasper | cybersec-strips |   007   |      108       |
+|  jasper | cybersec-strips |   008   |      301       |
+|  jasper | cybersec-strips |   009   |      190       |
+|  jasper | cybersec-strips |   010   |      159       |
+|  jasper | cybersec-strips |   011   |      317       |
+|  jasper | cybersec-strips |   012   |      328       |
+|  jasper | cybersec-strips |   013   |      328       |
+|  jasper | cybersec-strips |   014   |      341       |
+|  jasper | cybersec-strips |   015   |      341       |
+|  jasper | cybersec-strips |   016   |      255       |
+|  jasper | cybersec-strips |   017   |      341       |
+|  jasper | cybersec-strips |   018   |      226       |
+|  jasper | cybersec-strips |   019   |       65       |
+|  jasper | cybersec-strips |   020   |      329       |
+|  jasper | cybersec-strips |   021   |      329       |
+|  jasper | cybersec-strips |   022   |      122       |
+|  jasper | cybersec-strips |   023   |      301       |
+|  jasper | cybersec-strips |   024   |      221       |
+|  jasper | cybersec-strips |   025   |      136       |
+|  jasper | cybersec-strips |   026   |      317       |
+|  jasper | cybersec-strips |   027   |      328       |
+|  jasper | cybersec-strips |   028   |      328       |
+|  jasper | cybersec-strips |   029   |      341       |
+| mercury | cybersec-strips |   000   |      312       |
+| mercury | cybersec-strips |   001   |      312       |
+| mercury | cybersec-strips |   002   |      312       |
+| mercury | cybersec-strips |   003   |       26       |
+| mercury | cybersec-strips |   004   |      311       |
+| mercury | cybersec-strips |   005   |      309       |
+| mercury | cybersec-strips |   006   |      309       |
+| mercury | cybersec-strips |   007   |       43       |
+| mercury | cybersec-strips |   008   |       72       |
+| mercury | cybersec-strips |   009   |       60       |
+| mercury | cybersec-strips |   010   |       39       |
+| mercury | cybersec-strips |   011   |      307       |
+| mercury | cybersec-strips |   012   |      308       |
+| mercury | cybersec-strips |   013   |      309       |
+| mercury | cybersec-strips |   014   |      312       |
+| mercury | cybersec-strips |   015   |      312       |
+| mercury | cybersec-strips |   016   |      313       |
+| mercury | cybersec-strips |   017   |      288       |
+| mercury | cybersec-strips |   018   |      312       |
+| mercury | cybersec-strips |   019   |      190       |
+| mercury | cybersec-strips |   020   |      308       |
+| mercury | cybersec-strips |   021   |      309       |
+| mercury | cybersec-strips |   022   |       33       |
+| mercury | cybersec-strips |   023   |       74       |
+| mercury | cybersec-strips |   024   |       45       |
+| mercury | cybersec-strips |   025   |       44       |
+| mercury | cybersec-strips |   026   |      307       |
+| mercury | cybersec-strips |   027   |      309       |
+| mercury | cybersec-strips |   028   |      309       |
+| mercury | cybersec-strips |   029   |      279       |
+|   siw   | cybersec-strips |   000   |       -1       |
+|   siw   | cybersec-strips |   001   |       -1       |
+|   siw   | cybersec-strips |   002   |       -1       |
+|   siw   | cybersec-strips |   003   |       -1       |
+|   siw   | cybersec-strips |   004   |       -1       |
+|   siw   | cybersec-strips |   005   |       -1       |
+|   siw   | cybersec-strips |   006   |       -1       |
+|   siw   | cybersec-strips |   007   |       -1       |
+|   siw   | cybersec-strips |   008   |       -1       |
+|   siw   | cybersec-strips |   009   |       -1       |
+|   siw   | cybersec-strips |   010   |       -1       |
+|   siw   | cybersec-strips |   011   |       -1       |
+|   siw   | cybersec-strips |   012   |       -1       |
+|   siw   | cybersec-strips |   013   |       -1       |
+|   siw   | cybersec-strips |   014   |       -1       |
+|   siw   | cybersec-strips |   015   |       -1       |
+|   siw   | cybersec-strips |   016   |       -1       |
+|   siw   | cybersec-strips |   017   |       -1       |
+|   siw   | cybersec-strips |   018   |       -1       |
+|   siw   | cybersec-strips |   019   |       -1       |
+|   siw   | cybersec-strips |   020   |       -1       |
+|   siw   | cybersec-strips |   021   |       -1       |
+|   siw   | cybersec-strips |   022   |       -1       |
+|   siw   | cybersec-strips |   023   |       -1       |
+|   siw   | cybersec-strips |   024   |       -1       |
+|   siw   | cybersec-strips |   025   |       -1       |
+|   siw   | cybersec-strips |   026   |       -1       |
+|   siw   | cybersec-strips |   027   |       -1       |
+|   siw   | cybersec-strips |   028   |       -1       |
+|   siw   | cybersec-strips |   029   |       -1       |
++---------+-----------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:26:41 2018
+

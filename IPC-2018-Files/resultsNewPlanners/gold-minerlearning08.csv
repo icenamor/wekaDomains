@@ -1,0 +1,155 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : gold-minerlearning08
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+----------------------+---------+----------------+
+| planner |        domain        | problem | oktimefirstsol |
++---------+----------------------+---------+----------------+
+|  bfs-f  | gold-minerlearning08 |   000   |       0        |
+|  bfs-f  | gold-minerlearning08 |   001   |       0        |
+|  bfs-f  | gold-minerlearning08 |   002   |       0        |
+|  bfs-f  | gold-minerlearning08 |   003   |       0        |
+|  bfs-f  | gold-minerlearning08 |   004   |       0        |
+|  bfs-f  | gold-minerlearning08 |   005   |       0        |
+|  bfs-f  | gold-minerlearning08 |   006   |       0        |
+|  bfs-f  | gold-minerlearning08 |   007   |       0        |
+|  bfs-f  | gold-minerlearning08 |   008   |       0        |
+|  bfs-f  | gold-minerlearning08 |   009   |       0        |
+|  bfs-f  | gold-minerlearning08 |   010   |       0        |
+|  bfs-f  | gold-minerlearning08 |   011   |       0        |
+|  bfs-f  | gold-minerlearning08 |   012   |       0        |
+|  bfs-f  | gold-minerlearning08 |   013   |       0        |
+|  bfs-f  | gold-minerlearning08 |   014   |       0        |
+|  bfs-f  | gold-minerlearning08 |   015   |       0        |
+|  bfs-f  | gold-minerlearning08 |   016   |       0        |
+|  bfs-f  | gold-minerlearning08 |   017   |       0        |
+|  bfs-f  | gold-minerlearning08 |   018   |       0        |
+|  bfs-f  | gold-minerlearning08 |   019   |       0        |
+|  bfs-f  | gold-minerlearning08 |   020   |       0        |
+|  bfs-f  | gold-minerlearning08 |   021   |       0        |
+|  bfs-f  | gold-minerlearning08 |   022   |       0        |
+|  bfs-f  | gold-minerlearning08 |   023   |       0        |
+|  bfs-f  | gold-minerlearning08 |   024   |       0        |
+|  bfs-f  | gold-minerlearning08 |   025   |       0        |
+|  bfs-f  | gold-minerlearning08 |   026   |       0        |
+|  bfs-f  | gold-minerlearning08 |   027   |       0        |
+|  bfs-f  | gold-minerlearning08 |   028   |       0        |
+|  bfs-f  | gold-minerlearning08 |   029   |       0        |
+|  jasper | gold-minerlearning08 |   000   |       -1       |
+|  jasper | gold-minerlearning08 |   001   |       -1       |
+|  jasper | gold-minerlearning08 |   002   |       -1       |
+|  jasper | gold-minerlearning08 |   003   |       -1       |
+|  jasper | gold-minerlearning08 |   004   |       -1       |
+|  jasper | gold-minerlearning08 |   005   |       -1       |
+|  jasper | gold-minerlearning08 |   006   |       -1       |
+|  jasper | gold-minerlearning08 |   007   |       -1       |
+|  jasper | gold-minerlearning08 |   008   |       -1       |
+|  jasper | gold-minerlearning08 |   009   |       -1       |
+|  jasper | gold-minerlearning08 |   010   |       -1       |
+|  jasper | gold-minerlearning08 |   011   |       -1       |
+|  jasper | gold-minerlearning08 |   012   |       -1       |
+|  jasper | gold-minerlearning08 |   013   |       -1       |
+|  jasper | gold-minerlearning08 |   014   |       -1       |
+|  jasper | gold-minerlearning08 |   015   |       -1       |
+|  jasper | gold-minerlearning08 |   016   |       -1       |
+|  jasper | gold-minerlearning08 |   017   |       -1       |
+|  jasper | gold-minerlearning08 |   018   |       -1       |
+|  jasper | gold-minerlearning08 |   019   |       -1       |
+|  jasper | gold-minerlearning08 |   020   |       -1       |
+|  jasper | gold-minerlearning08 |   021   |       -1       |
+|  jasper | gold-minerlearning08 |   022   |       -1       |
+|  jasper | gold-minerlearning08 |   023   |       -1       |
+|  jasper | gold-minerlearning08 |   024   |       -1       |
+|  jasper | gold-minerlearning08 |   025   |       -1       |
+|  jasper | gold-minerlearning08 |   026   |       -1       |
+|  jasper | gold-minerlearning08 |   027   |       -1       |
+|  jasper | gold-minerlearning08 |   028   |       -1       |
+|  jasper | gold-minerlearning08 |   029   |       -1       |
+| mercury | gold-minerlearning08 |   000   |       2        |
+| mercury | gold-minerlearning08 |   001   |       0        |
+| mercury | gold-minerlearning08 |   002   |       1        |
+| mercury | gold-minerlearning08 |   003   |       0        |
+| mercury | gold-minerlearning08 |   004   |       0        |
+| mercury | gold-minerlearning08 |   005   |       1        |
+| mercury | gold-minerlearning08 |   006   |       0        |
+| mercury | gold-minerlearning08 |   007   |       1        |
+| mercury | gold-minerlearning08 |   008   |       0        |
+| mercury | gold-minerlearning08 |   009   |       0        |
+| mercury | gold-minerlearning08 |   010   |       1        |
+| mercury | gold-minerlearning08 |   011   |       0        |
+| mercury | gold-minerlearning08 |   012   |       1        |
+| mercury | gold-minerlearning08 |   013   |       0        |
+| mercury | gold-minerlearning08 |   014   |       0        |
+| mercury | gold-minerlearning08 |   015   |       1        |
+| mercury | gold-minerlearning08 |   016   |       0        |
+| mercury | gold-minerlearning08 |   017   |       1        |
+| mercury | gold-minerlearning08 |   018   |       1        |
+| mercury | gold-minerlearning08 |   019   |       0        |
+| mercury | gold-minerlearning08 |   020   |       1        |
+| mercury | gold-minerlearning08 |   021   |       1        |
+| mercury | gold-minerlearning08 |   022   |       1        |
+| mercury | gold-minerlearning08 |   023   |       1        |
+| mercury | gold-minerlearning08 |   024   |       1        |
+| mercury | gold-minerlearning08 |   025   |       1        |
+| mercury | gold-minerlearning08 |   026   |       46       |
+| mercury | gold-minerlearning08 |   027   |       2        |
+| mercury | gold-minerlearning08 |   028   |       1        |
+| mercury | gold-minerlearning08 |   029   |       1        |
+|   siw   | gold-minerlearning08 |   000   |       0        |
+|   siw   | gold-minerlearning08 |   001   |       0        |
+|   siw   | gold-minerlearning08 |   002   |       1        |
+|   siw   | gold-minerlearning08 |   003   |       1        |
+|   siw   | gold-minerlearning08 |   004   |       1        |
+|   siw   | gold-minerlearning08 |   005   |       1        |
+|   siw   | gold-minerlearning08 |   006   |       1        |
+|   siw   | gold-minerlearning08 |   007   |       0        |
+|   siw   | gold-minerlearning08 |   008   |       0        |
+|   siw   | gold-minerlearning08 |   009   |       0        |
+|   siw   | gold-minerlearning08 |   010   |       0        |
+|   siw   | gold-minerlearning08 |   011   |       0        |
+|   siw   | gold-minerlearning08 |   012   |       1        |
+|   siw   | gold-minerlearning08 |   013   |       1        |
+|   siw   | gold-minerlearning08 |   014   |       1        |
+|   siw   | gold-minerlearning08 |   015   |       1        |
+|   siw   | gold-minerlearning08 |   016   |       1        |
+|   siw   | gold-minerlearning08 |   017   |       0        |
+|   siw   | gold-minerlearning08 |   018   |       0        |
+|   siw   | gold-minerlearning08 |   019   |       0        |
+|   siw   | gold-minerlearning08 |   020   |       2        |
+|   siw   | gold-minerlearning08 |   021   |       3        |
+|   siw   | gold-minerlearning08 |   022   |       4        |
+|   siw   | gold-minerlearning08 |   023   |       3        |
+|   siw   | gold-minerlearning08 |   024   |       4        |
+|   siw   | gold-minerlearning08 |   025   |       18       |
+|   siw   | gold-minerlearning08 |   026   |       17       |
+|   siw   | gold-minerlearning08 |   027   |       16       |
+|   siw   | gold-minerlearning08 |   028   |       16       |
+|   siw   | gold-minerlearning08 |   029   |       13       |
++---------+----------------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:18:10 2018
+

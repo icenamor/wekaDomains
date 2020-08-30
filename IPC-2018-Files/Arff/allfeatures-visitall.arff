@@ -1,0 +1,148 @@
+@relation problem
+
+@attribute domain string
+@attribute task_name string
+@attribute requirements numeric
+@attribute types numeric
+@attribute objects numeric
+@attribute predicates numeric
+@attribute functions numeric
+@attribute init numeric
+@attribute goal numeric
+@attribute actions numeric
+@attribute axioms numeric
+@attribute use_min_cost_metric numeric
+@attribute generated_rules numeric
+@attribute relevant_atoms numeric
+@attribute auxiliary_atoms numeric
+@attribute final_queue_length numeric
+@attribute total_queue_pushes numeric
+@attribute implied_effects_removed numeric
+@attribute effect_conditions_simplified numeric
+@attribute implied_preconditions_added numeric
+@attribute translator_variables numeric
+@attribute translator_derived_variables numeric
+@attribute translator_facts numeric
+@attribute translator_mutex_groups numeric
+@attribute translator_total_mutex_groups_size numeric
+@attribute translator_operators numeric
+@attribute translator_task_size numeric
+@attribute numberVariablesCG numeric
+@attribute highLevelVariablesCG numeric
+@attribute totalEdgesCG numeric
+@attribute totalWeightCG numeric
+@attribute veRatio numeric
+@attribute weRatio numeric
+@attribute wvRatio numeric
+@attribute hvRatio numeric
+@attribute inputEdgeCGMax numeric
+@attribute inputEdgeCGAvg numeric
+@attribute inputEdgeCGStd numeric
+@attribute outputEdgeCGMax numeric
+@attribute outputEdgeCGAvg numeric
+@attribute outputEdgeCGStd numeric
+@attribute inputWeightCGMax numeric
+@attribute inputWeightCGAvg numeric
+@attribute inputWeightCGStd numeric
+@attribute outputWeightCGMax numeric
+@attribute outputWeightCGAvg numeric
+@attribute outputWeightCGStd numeric
+@attribute inputEdgeHVMax numeric
+@attribute inputEdgeHVAvg numeric
+@attribute inputEdgeHVStd numeric
+@attribute outputEdgeHVMax numeric
+@attribute outputEdgeHVAvg numeric
+@attribute outputEdgeHVStd numeric
+@attribute inputWeightHVMax numeric
+@attribute inputWeightHVAvg numeric
+@attribute inputWeightHVStd numeric
+@attribute outputWeightHVMax numeric
+@attribute outputWeightHVAvg numeric
+@attribute outputWeightHVStd numeric
+@attribute numberVariablesDTG numeric
+@attribute totalEdgesDTG numeric
+@attribute totalWeigthDTG numeric
+@attribute edVaRatioDTG numeric
+@attribute weEdRatioDTG numeric
+@attribute weVaRatioDTG numeric
+@attribute inputEdgeDTGMax numeric
+@attribute inputEdgeDTGAvg numeric
+@attribute inputEdgeDTGStd numeric
+@attribute outputEdgeDTGMax numeric
+@attribute outputEdgeDTGAvg numeric
+@attribute outputEdgeDTGStd numeric
+@attribute inputWeightDTGMax numeric
+@attribute inputWeightDTGAvg numeric
+@attribute inputWeightDTGStd numeric
+@attribute outputWeightDTGMax numeric
+@attribute outputWeightDTGAvg numeric
+@attribute outputWeightDTGStd numeric
+@attribute no numeric
+@attribute file string
+@attribute num_relevant_facts numeric
+@attribute num_actions numeric
+@attribute h_max numeric
+@attribute h_ff numeric
+@attribute h_ff_ratio numeric
+@attribute rp_fact_balance_min numeric
+@attribute rp_fact_balance_avg numeric
+@attribute rp_fact_balance_var numeric
+@attribute rp_goal_balance_min numeric
+@attribute rp_goal_balance_avg numeric
+@attribute rp_goal_balance_var numeric
+@attribute balance_Ratio numeric
+@attribute Unbalance_Ratio numeric
+@attribute Balance_Distorsion numeric
+@attribute Additive numeric
+@attribute Blind numeric
+@attribute Causal_graph numeric
+@attribute Context-enhanced_additive numeric
+@attribute FF numeric
+@attribute Goal_count numeric
+@attribute Landmark_count numeric
+@attribute Landmark-cut numeric
+@attribute Max numeric
+@attribute n_landmarks numeric
+@attribute numberEdges numeric
+@attribute edVaratioLand numeric
+@attribute numberFatherNodes numeric
+@attribute numberChildrenNodes numeric
+@attribute nodosbetween numeric
+@attribute avginput numeric
+@attribute maxinput numeric
+@attribute stdinput numeric
+@attribute avgoutput numeric
+@attribute maxoutput numeric
+@attribute stdoutput numeric
+@attribute blackVariables numeric
+@attribute blackRootVariables numeric
+@attribute redBlackVariables numeric
+@attribute allpairsvaluesconnected numeric
+@attribute allvaluesconnectedgoal numeric
+@attribute blackstronglpyarents numeric
+@attribute Maximaleffectsblack  numeric
+@attribute Hred-black numeric
+@attribute  nameDomain2 string
+@attribute  nameFile2 string
+@data
+
+grid-visit-all,grid-50,1,2,2500,4,0,9802,2500,1,0,0,6,32101,12300,44401,59003,0,0,0,2500,0,7498,1,2500,9800,54193,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,62500,1,62500,62500,2499,2499,2992,877,50,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem50.pddl
+grid-visit-all,grid-40,1,2,1600,4,0,6242,1600,1,0,0,6,20481,7840,28321,37603,0,0,0,1600,0,4798,1,1600,6240,34553,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/visitall/problems/problem40.pddl, 3199, 6240, 40, 1599, 39.974998, -4, 0.499844, 0.560152, 1, 1.000000, 0.000000, 156.886215, 2.042948, 2358,32000,1,32000,32000,1599,1599,1912,490,40,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem40.pddl
+grid-visit-all,grid-36,1,2,1296,4,0,5042,1296,1,0,0,6,16561,6336,22897,30387,0,0,0,1296,0,3886,1,1296,5040,27929,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/visitall/problems/problem36.pddl, 2591, 5040, 36, 1295, 35.972221, -4, 0.499807, 0.566582, 1, 1.000000, 0.000000, 140.821045, 2.046825, 1906,23328,1,23328,23328,1295,1295,1546,447,36,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem36.pddl
+grid-visit-all,grid-30,1,2,900,4,0,3482,900,1,0,0,6,11461,4380,15841,21003,0,0,0,900,0,2698,1,900,3480,19313,900,899, 899, 3476, 1.00111, 3.86652, 3.86222, 0.998889, 899, 0.998889, 29.95, 1, 0.998889, 0.0333148, 3476, 3.86222, 115.802,4, 3.86222, 0.375523, 0, 0, 0, 4, 3.86222, 0.375523, 0, 0, 0, 4, 3.86222,0.375523,2698, 6956, 10432, 0.666794, 0.387867, 1, 4, 1.93541, 0.0332963, 4, 1.00096, 0.0166481, 4, 1.93541,0.0332963, 4,1.00096, 0.0166481,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/visitall/problems/problem30.pddl, 1799, 3480, 30, 899, 29.966667, -4, 0.499722, 0.579313, 1, 1.000000, 0.000000, 116.692535, 2.054023, 1318,13500,1,13500,13500,899,899,1074,356,30,2027,2026,0.999507,1128,899,0,0.999507,899,19.9249,0.999507,3,0,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem30.pddl
+grid-visit-all,grid-22,1,2,484,4,0,1850,484,1,0,0,6,6117,2332,8449,11179,0,0,0,484,0,1450,1,484,1848,10289,484,483, 483, 1844, 1.00207, 3.81781, 3.80992, 0.997934, 483, 0.997934, 21.9319, 1, 0.997934, 0.0454076, 1844, 3.80992, 83.7315,4, 3.80992, 0.441898, 0, 0, 0, 4, 3.80992, 0.441898, 0, 0, 0, 4, 3.80992,0.441898,1450, 3692, 5536, 0.666908, 0.392741, 1, 4, 1.91285, 0.0453606, 4, 1.00169, 0.0226803, 4, 1.91285,0.0453606, 4,1.00169, 0.0226803,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/visitall/problems/problem22.pddl, 967, 1848, 22, 483, 21.954546, -4, 0.499483, 0.606539, 1, 1.000000, 0.000000, 84.420998, 2.067100, 702,5324,1,5324,5324,483,483,582,211,22,1091,1090,0.999083,608,483,0,0.999083,483,14.5602,0.999083,3,0,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem22.pddl
+grid-visit-all,grid-32,1,2,1024,4,0,3970,1024,1,0,0,6,13057,4992,18049,23939,0,0,0,1024,0,3070,1,1024,3968,22009,1024,1023, 1023, 3964, 1.00098, 3.87488, 3.87109, 0.999023, 1023, 0.999023, 31.9531, 1, 0.999023, 0.0312347, 3964, 3.87109, 123.814,4, 3.87109, 0.363071, 0, 0, 0, 4, 3.87109, 0.363071, 0, 0, 0, 4, 3.87109,0.363071,3070, 7932, 11896, 0.666779, 0.38704, 1, 4, 1.93933, 0.0312195, 4, 1.00085, 0.0156097, 4, 1.93933,0.0312195, 4,1.00085, 0.0156097,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/visitall/problems/problem32.pddl, 2047, 3968, 32, 1023, 31.968750, -4, 0.499756, 0.574558, 1, 1.000000, 0.000000, 124.740425, 2.051411, 1502,16384,1,16384,16384,1023,1023,1230,373,32,2310,2309,0.999567,1287,1023,0,0.999567,1023,21.2603,0.999567,3,0,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem32.pddl
+grid-visit-all,grid-12,1,2,144,4,0,530,144,1,0,0,6,1777,672,2449,3219,0,0,0,144,0,430,1,144,528,2969,144,143, 143, 524, 1.00699, 3.66434, 3.63889, 0.993056, 143, 0.993056, 11.8752, 1, 0.993056, 0.0830435, 524, 3.63889, 43.5148,4, 3.63889, 0.607946, 0, 0, 0, 4, 3.63889, 0.607946, 0, 0, 0, 4, 3.63889,0.607946,430, 1052, 1576, 0.667513, 0.408745, 1, 4, 1.84491, 0.0827546, 4, 1.00463, 0.0413773, 4, 1.84491,0.0827546, 4,1.00463, 0.0413773,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/visitall/problems/problem12.pddl, 287, 528, 12, 143, 11.916667, -4, 0.498258, 0.687745, 1, 1.000000, 0.000000, 43.655300, 2.083333, 202,864,1,864,864,143,143,174,65,12,327,326,0.996942,184,143,0,0.996942,143,7.81025,0.996942,3,0,1,0,144,0,0,0,143,153,allfeatures-visitall,all-problem12.pddl
+grid-visit-all,grid-48,1,2,2304,4,0,9026,2304,1,0,0,6,29569,11328,40897,54339,0,0,0,2304,0,6910,1,2304,9024,49913,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,55296,1,55296,55296,2303,2303,2751,823,48,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem48.pddl
+grid-visit-all,grid-46,1,2,2116,4,0,8282,2116,1,0,0,6,27141,10396,37537,49867,0,0,0,2116,0,6346,1,2116,8280,45809,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,48668,1,48668,48668,2115,2115,2526,743,46,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem46.pddl
+grid-visit-all,grid-26,1,2,676,4,0,2602,676,1,0,0,6,8581,3276,11857,15707,0,0,0,676,0,2026,1,676,2600,14449,676,675, 675, 2596, 1.00148, 3.84593, 3.84024, 0.998521, 675, 0.998521, 25.9423, 1, 0.998521, 0.0384331, 2596, 3.84024, 99.7723,4, 3.84024, 0.404753, 0, 0, 0, 4, 3.84024, 0.404753, 0, 0, 0, 4, 3.84024,0.404753,2026, 5196, 7792, 0.666838, 0.389915, 1, 4, 1.92581, 0.0384046, 4, 1.00125, 0.0192023, 4, 1.92581,0.0384046, 4,1.00125, 0.0192023,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/visitall/problems/problem26.pddl, 1351, 2600, 26, 675, 25.961538, -4, 0.499630, 0.590919, 1, 1.000000, 0.000000, 100.576149, 2.060000, 986,8788,1,8788,8788,675,675,813,233,26,1523,1522,0.999343,848,675,0,0.999343,675,17.2627,0.999343,3,0,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem26.pddl
+grid-visit-all,grid-42,1,2,1764,4,0,6890,1764,1,0,0,6,22597,8652,31249,41499,0,0,0,1764,0,5290,1,1764,6888,38129,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,37044,1,37044,37044,1763,1763,2109,678,42,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem42.pddl
+grid-visit-all,grid-18,1,2,324,4,0,1226,324,1,0,0,6,4069,1548,5617,7419,0,0,0,324,0,970,1,324,1224,6833,324,323, 323, 1220, 1.0031, 3.77709, 3.76543, 0.996914, 323, 0.996914, 17.9167, 1, 0.996914, 0.0554698, 1220, 3.76543, 67.6731,4, 3.76543, 0.491197, 0, 0, 0, 4, 3.76543, 0.491197, 0, 0, 0, 4, 3.76543,0.491197,970, 2444, 3664, 0.667031, 0.39689, 1, 4, 1.89438, 0.0553841, 4, 1.0024, 0.027692, 4, 1.89438,0.0553841, 4,1.0024, 0.027692,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/visitall/problems/problem18.pddl, 647, 1224, 18, 323, 17.944445, -4, 0.499227, 0.628717, 1, 1.000000, 0.000000, 68.204247, 2.075163, 466,2916,1,2916,2916,323,323,389,158,18,727,727,1,404,323,0,1,323,11.9583,1,3,1,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem18.pddl
+grid-visit-all,grid-28,1,2,784,4,0,3026,784,1,0,0,6,9969,3808,13777,18259,0,0,0,784,0,2350,1,784,3024,16793,784,783, 783, 3020, 1.00128, 3.85696, 3.85204, 0.998724, 783, 0.998724, 27.9464, 1, 0.998724, 0.0356915, 3020, 3.85204, 107.788,4, 3.85204, 0.38933, 0, 0, 0, 4, 3.85204, 0.38933, 0, 0, 0, 4, 3.85204,0.38933,2350, 6044, 9064, 0.666814, 0.388815, 1, 4, 1.93094, 0.0356687, 4, 1.00109, 0.0178344, 4, 1.93094,0.0356687, 4,1.00109, 0.0178344,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/visitall/problems/problem28.pddl, 1567, 3024, 28, 783, 27.964285, -4, 0.499681, 0.584718, 1, 1.000000, 0.000000, 108.638214, 2.056878, 1146,10976,1,10976,10976,783,783,941,300,28,1769,1768,0.999435,986,783,0,0.999435,783,18.5742,0.999435,3,0,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem28.pddl
+grid-visit-all,grid-20,1,2,400,4,0,1522,400,1,0,0,6,5041,1920,6961,9203,0,0,0,400,0,1198,1,400,1520,8473,400,399, 399, 1516, 1.00251, 3.7995, 3.79, 0.9975, 399, 0.9975, 19.925, 1, 0.9975, 0.0499375, 1516, 3.79, 75.7052,4, 3.79, 0.46465, 0, 0, 0, 4, 3.79, 0.46465, 0, 0, 0, 4, 3.79,0.46465,1198, 3036, 4552, 0.66696, 0.394598, 1, 4, 1.9045, 0.049875, 4, 1.002, 0.0249375, 4, 1.9045,0.049875, 4,1.002, 0.0249375,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/visitall/problems/problem20.pddl, 799, 1520, 20, 399, 19.950001, -4, 0.499374, 0.616573, 1, 1.000000, 0.000000, 76.322357, 2.071053, 578,4000,1,4000,4000,399,399,480,163,20,901,900,0.99889,502,399,0,0.99889,399,13.2288,0.99889,3,0,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem20.pddl
+grid-visit-all,grid-38,1,2,1444,4,0,5626,1444,1,0,0,6,18469,7068,25537,33899,0,0,0,1444,0,4330,1,1444,5624,31153,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/visitall/problems/problem38.pddl, 2887, 5624, 38, 1443, 37.973682, -4, 0.499827, 0.563203, 1, 1.000000, 0.000000, 148.855286, 2.044808, 2126,27436,1,27436,27436,1443,1443,1734,517,38,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem38.pddl
+grid-visit-all,grid-14,1,2,196,4,0,730,196,1,0,0,6,2437,924,3361,4427,0,0,0,196,0,586,1,196,728,4081,196,195, 195, 724, 1.00513, 3.71282, 3.69388, 0.994898, 195, 0.994898, 13.893, 1, 0.994898, 0.0712461, 724, 3.69388, 51.5822,4, 3.69388, 0.56076, 0, 0, 0, 4, 3.69388, 0.56076, 0, 0, 0, 4, 3.69388,0.56076,586, 1452, 2176, 0.667279, 0.403581, 1, 4, 1.86589, 0.0710641, 4, 1.00364, 0.0355321, 4, 1.86589,0.0710641, 4,1.00364, 0.0355321,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/visitall/problems/problem14.pddl, 391, 728, 14, 195, 13.928572, -4, 0.498721, 0.662764, 1, 1.000000, 0.000000, 51.881870, 2.082418, 278,1372,1,1372,1372,195,195,239,101,14,443,442,0.997743,248,195,0,0.997743,195,9.16515,0.997743,3,0,1,0,196,0,0,0,195,203,allfeatures-visitall,all-problem14.pddl
+grid-visit-all,grid-44,1,2,1936,4,0,7570,1936,1,0,0,6,24817,9504,34321,45587,0,0,0,1936,0,5806,1,1936,7568,41881,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,42592,1,42592,42592,1935,1935,2327,615,44,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem44.pddl
+grid-visit-all,grid-34,1,2,1156,4,0,4490,1156,1,0,0,6,14757,5644,20401,27067,0,0,0,1156,0,3466,1,1156,4488,24881,1156,1155, 1155, 4484, 1.00087, 3.88225, 3.87889, 0.999135, 1155, 0.999135, 33.9559, 1, 0.999135, 0.029399, 4484, 3.87889, 131.825,4, 3.87889, 0.351769, 0, 0, 0, 4, 3.87889, 0.351769, 0, 0, 0, 4, 3.87889,0.351769,3466, 8972, 13456, 0.666766, 0.386313, 1, 4, 1.9428, 0.0293863, 4, 1.00076, 0.0146932, 4, 1.9428,0.0293863, 4,1.00076, 0.0146932,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/visitall/problems/problem34.pddl, 2311, 4488, 34, 1155, 33.970589, -4, 0.499784, 0.570344, 1, 1.000000, 0.000000, 132.782974, 2.049020, 1698,19652,1,19652,19652,1155,1155,1389,417,34,2603,2602,0.999616,1448,1155,0,0.999616,1155,22.6053,0.999616,3,0,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem34.pddl
+grid-visit-all,grid-24,1,2,576,4,0,2210,576,1,0,0,6,7297,2784,10081,13347,0,0,0,576,0,1726,1,576,2208,12281,576,575, 575, 2204, 1.00174, 3.83304, 3.82639, 0.998264, 575, 0.998264, 23.9375, 1, 0.998264, 0.0416305, 2204, 3.82639, 91.7536,4, 3.82639, 0.422129, 0, 0, 0, 4, 3.82639, 0.422129, 0, 0, 0, 4, 3.82639,0.422129,1726, 4412, 6616, 0.666868, 0.391206, 1, 4, 1.91985, 0.0415943, 4, 1.00145, 0.0207972, 4, 1.91985,0.0415943, 4,1.00145, 0.0207972,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/visitall/problems/problem24.pddl, 1151, 2208, 24, 575, 23.958334, -4, 0.499566, 0.598107, 1, 1.000000, 0.000000, 92.504532, 2.063406, 838,6912,1,6912,6912,575,575,689,235,24,1299,1298,0.99923,724,575,0,0.99923,575,15.906,0.99923,3,0,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem24.pddl
+grid-visit-all,grid-16,1,2,256,4,0,962,256,1,0,0,6,3201,1216,4417,5827,0,0,0,256,0,766,1,256,960,5369,256,255, 255, 956, 1.00392, 3.74902, 3.73438, 0.996094, 255, 0.996094, 15.9063, 1, 0.996094, 0.0623778, 956, 3.73438, 59.6332,4, 3.73438, 0.522679, 0, 0, 0, 4, 3.73438, 0.522679, 0, 0, 0, 4, 3.73438,0.522679,766, 1916, 2872, 0.667131, 0.399791, 1, 4, 1.88184, 0.0622559, 4, 1.00293, 0.0311279, 4, 1.88184,0.0622559, 4,1.00293, 0.0311279,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/visitall/problems/problem16.pddl, 511, 960, 16, 255, 15.937500, -4, 0.499022, 0.643726, 1, 1.000000, 0.000000, 60.060413, 2.079167, 366,2048,1,2048,2048,255,255,314,124,16,575,574,0.998261,320,255,0,0.998261,255,10.583,0.998261,3,0,?,?,?,?,?,?,?,?,allfeatures-visitall,all-problem16.pddl

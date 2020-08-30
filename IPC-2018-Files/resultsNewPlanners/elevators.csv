@@ -1,0 +1,235 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : elevators
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+-------------+---------+----------------+
+| planner |    domain   | problem | oktimefirstsol |
++---------+-------------+---------+----------------+
+|  bfs-f  |  elevators  |   000   |       1        |
+|  bfs-f  |  elevators  |   001   |       19       |
+|  bfs-f  |  elevators  |   002   |       40       |
+|  bfs-f  |  elevators  |   003   |       3        |
+|  bfs-f  |  elevators  |   004   |       4        |
+|  bfs-f  |  elevators  |   005   |       61       |
+|  bfs-f  |  elevators  |   006   |       26       |
+|  bfs-f  |  elevators  |   007   |      133       |
+|  bfs-f  |  elevators  |   008   |      192       |
+|  bfs-f  |  elevators  |   009   |      170       |
+|  bfs-f  |  elevators  |   010   |      304       |
+|  bfs-f  |  elevators  |   011   |      698       |
+|  bfs-f  |  elevators  |   012   |      410       |
+|  bfs-f  |  elevators  |   013   |      671       |
+|  bfs-f  |  elevators  |   014   |      758       |
+|  bfs-f  |  elevators  |   015   |      895       |
+|  bfs-f  |  elevators  |   016   |      1541      |
+|  bfs-f  |  elevators  |   017   |       -1       |
+|  bfs-f  |  elevators  |   018   |       -1       |
+|  bfs-f  |  elevators  |   019   |       -1       |
+|  jasper |  elevators  |   000   |       0        |
+|  jasper |  elevators  |   001   |       2        |
+|  jasper |  elevators  |   002   |       6        |
+|  jasper |  elevators  |   003   |       1        |
+|  jasper |  elevators  |   004   |       1        |
+|  jasper |  elevators  |   005   |       4        |
+|  jasper |  elevators  |   006   |       3        |
+|  jasper |  elevators  |   007   |       3        |
+|  jasper |  elevators  |   008   |       4        |
+|  jasper |  elevators  |   009   |       4        |
+|  jasper |  elevators  |   010   |       7        |
+|  jasper |  elevators  |   011   |       8        |
+|  jasper |  elevators  |   012   |       9        |
+|  jasper |  elevators  |   013   |       10       |
+|  jasper |  elevators  |   014   |       10       |
+|  jasper |  elevators  |   015   |       9        |
+|  jasper |  elevators  |   016   |       11       |
+|  jasper |  elevators  |   017   |       15       |
+|  jasper |  elevators  |   018   |       19       |
+|  jasper |  elevators  |   019   |       20       |
+| mercury |  elevators  |   000   |       3        |
+| mercury |  elevators  |   001   |       3        |
+| mercury |  elevators  |   002   |       3        |
+| mercury |  elevators  |   003   |       2        |
+| mercury |  elevators  |   004   |       2        |
+| mercury |  elevators  |   005   |       3        |
+| mercury |  elevators  |   006   |       3        |
+| mercury |  elevators  |   007   |       3        |
+| mercury |  elevators  |   008   |       3        |
+| mercury |  elevators  |   009   |       4        |
+| mercury |  elevators  |   010   |       5        |
+| mercury |  elevators  |   011   |       5        |
+| mercury |  elevators  |   012   |       6        |
+| mercury |  elevators  |   013   |       6        |
+| mercury |  elevators  |   014   |       6        |
+| mercury |  elevators  |   015   |       6        |
+| mercury |  elevators  |   016   |       7        |
+| mercury |  elevators  |   017   |       7        |
+| mercury |  elevators  |   018   |       8        |
+| mercury |  elevators  |   019   |       8        |
+|   siw   |  elevators  |   000   |       1        |
+|   siw   |  elevators  |   001   |       25       |
+|   siw   |  elevators  |   002   |       41       |
+|   siw   |  elevators  |   003   |       4        |
+|   siw   |  elevators  |   004   |       5        |
+|   siw   |  elevators  |   005   |       71       |
+|   siw   |  elevators  |   006   |       30       |
+|   siw   |  elevators  |   007   |       71       |
+|   siw   |  elevators  |   008   |      104       |
+|   siw   |  elevators  |   009   |       96       |
+|   siw   |  elevators  |   010   |      410       |
+|   siw   |  elevators  |   011   |      614       |
+|   siw   |  elevators  |   012   |      1028      |
+|   siw   |  elevators  |   013   |      673       |
+|   siw   |  elevators  |   014   |      1181      |
+|   siw   |  elevators  |   015   |      931       |
+|   siw   |  elevators  |   016   |      1138      |
+|   siw   |  elevators  |   017   |      1794      |
+|   siw   |  elevators  |   018   |       -1       |
+|   siw   |  elevators  |   019   |       -1       |
+|  bfs-f  | elevators08 |   000   |       0        |
+|  bfs-f  | elevators08 |   001   |       0        |
+|  bfs-f  | elevators08 |   002   |       0        |
+|  bfs-f  | elevators08 |   003   |       0        |
+|  bfs-f  | elevators08 |   004   |       0        |
+|  bfs-f  | elevators08 |   005   |       0        |
+|  bfs-f  | elevators08 |   006   |       0        |
+|  bfs-f  | elevators08 |   007   |       0        |
+|  bfs-f  | elevators08 |   008   |       0        |
+|  bfs-f  | elevators08 |   009   |       1        |
+|  bfs-f  | elevators08 |   010   |       1        |
+|  bfs-f  | elevators08 |   011   |       0        |
+|  bfs-f  | elevators08 |   012   |       0        |
+|  bfs-f  | elevators08 |   013   |       1        |
+|  bfs-f  | elevators08 |   014   |       1        |
+|  bfs-f  | elevators08 |   015   |       2        |
+|  bfs-f  | elevators08 |   016   |       2        |
+|  bfs-f  | elevators08 |   017   |       4        |
+|  bfs-f  | elevators08 |   018   |       6        |
+|  bfs-f  | elevators08 |   019   |       3        |
+|  bfs-f  | elevators08 |   020   |       3        |
+|  bfs-f  | elevators08 |   021   |       7        |
+|  bfs-f  | elevators08 |   022   |       9        |
+|  bfs-f  | elevators08 |   023   |       19       |
+|  bfs-f  | elevators08 |   024   |       26       |
+|  bfs-f  | elevators08 |   025   |       41       |
+|  bfs-f  | elevators08 |   026   |       59       |
+|  bfs-f  | elevators08 |   027   |      134       |
+|  bfs-f  | elevators08 |   028   |      193       |
+|  bfs-f  | elevators08 |   029   |      170       |
+|  jasper | elevators08 |   000   |       0        |
+|  jasper | elevators08 |   001   |       0        |
+|  jasper | elevators08 |   002   |       0        |
+|  jasper | elevators08 |   003   |       0        |
+|  jasper | elevators08 |   004   |       0        |
+|  jasper | elevators08 |   005   |       1        |
+|  jasper | elevators08 |   006   |       0        |
+|  jasper | elevators08 |   007   |       0        |
+|  jasper | elevators08 |   008   |       0        |
+|  jasper | elevators08 |   009   |       0        |
+|  jasper | elevators08 |   010   |       0        |
+|  jasper | elevators08 |   011   |       1        |
+|  jasper | elevators08 |   012   |       1        |
+|  jasper | elevators08 |   013   |       1        |
+|  jasper | elevators08 |   014   |       1        |
+|  jasper | elevators08 |   015   |       1        |
+|  jasper | elevators08 |   016   |       1        |
+|  jasper | elevators08 |   017   |       1        |
+|  jasper | elevators08 |   018   |       1        |
+|  jasper | elevators08 |   019   |       1        |
+|  jasper | elevators08 |   020   |       1        |
+|  jasper | elevators08 |   021   |       1        |
+|  jasper | elevators08 |   022   |       1        |
+|  jasper | elevators08 |   023   |       3        |
+|  jasper | elevators08 |   024   |       3        |
+|  jasper | elevators08 |   025   |       3        |
+|  jasper | elevators08 |   026   |       3        |
+|  jasper | elevators08 |   027   |       4        |
+|  jasper | elevators08 |   028   |       4        |
+|  jasper | elevators08 |   029   |       4        |
+| mercury | elevators08 |   000   |       1        |
+| mercury | elevators08 |   001   |       1        |
+| mercury | elevators08 |   002   |       1        |
+| mercury | elevators08 |   003   |       1        |
+| mercury | elevators08 |   004   |       1        |
+| mercury | elevators08 |   005   |       1        |
+| mercury | elevators08 |   006   |       1        |
+| mercury | elevators08 |   007   |       1        |
+| mercury | elevators08 |   008   |       1        |
+| mercury | elevators08 |   009   |       1        |
+| mercury | elevators08 |   010   |       1        |
+| mercury | elevators08 |   011   |       2        |
+| mercury | elevators08 |   012   |       2        |
+| mercury | elevators08 |   013   |       1        |
+| mercury | elevators08 |   014   |       2        |
+| mercury | elevators08 |   015   |       2        |
+| mercury | elevators08 |   016   |       2        |
+| mercury | elevators08 |   017   |       2        |
+| mercury | elevators08 |   018   |       1        |
+| mercury | elevators08 |   019   |       2        |
+| mercury | elevators08 |   020   |       2        |
+| mercury | elevators08 |   021   |       2        |
+| mercury | elevators08 |   022   |       2        |
+| mercury | elevators08 |   023   |       2        |
+| mercury | elevators08 |   024   |       3        |
+| mercury | elevators08 |   025   |       3        |
+| mercury | elevators08 |   026   |       3        |
+| mercury | elevators08 |   027   |       3        |
+| mercury | elevators08 |   028   |       3        |
+| mercury | elevators08 |   029   |       3        |
+|   siw   | elevators08 |   000   |       0        |
+|   siw   | elevators08 |   001   |       0        |
+|   siw   | elevators08 |   002   |       0        |
+|   siw   | elevators08 |   003   |       0        |
+|   siw   | elevators08 |   004   |       0        |
+|   siw   | elevators08 |   005   |       1        |
+|   siw   | elevators08 |   006   |       1        |
+|   siw   | elevators08 |   007   |       0        |
+|   siw   | elevators08 |   008   |       0        |
+|   siw   | elevators08 |   009   |       1        |
+|   siw   | elevators08 |   010   |       0        |
+|   siw   | elevators08 |   011   |       1        |
+|   siw   | elevators08 |   012   |       1        |
+|   siw   | elevators08 |   013   |       2        |
+|   siw   | elevators08 |   014   |       3        |
+|   siw   | elevators08 |   015   |       3        |
+|   siw   | elevators08 |   016   |       4        |
+|   siw   | elevators08 |   017   |       5        |
+|   siw   | elevators08 |   018   |       6        |
+|   siw   | elevators08 |   019   |       4        |
+|   siw   | elevators08 |   020   |       4        |
+|   siw   | elevators08 |   021   |       9        |
+|   siw   | elevators08 |   022   |       12       |
+|   siw   | elevators08 |   023   |       25       |
+|   siw   | elevators08 |   024   |       30       |
+|   siw   | elevators08 |   025   |       41       |
+|   siw   | elevators08 |   026   |       71       |
+|   siw   | elevators08 |   027   |       71       |
+|   siw   | elevators08 |   028   |      105       |
+|   siw   | elevators08 |   029   |       96       |
++---------+-------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:17:56 2018
+

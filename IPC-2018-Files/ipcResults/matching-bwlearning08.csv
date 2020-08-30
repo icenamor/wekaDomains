@@ -1,0 +1,155 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : matching-bwlearning08
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+-----------------------+---------+----------------+
+| planner |         domain        | problem | oktimefirstsol |
++---------+-----------------------+---------+----------------+
+|  bfs-f  | matching-bwlearning08 |   000   |       10       |
+|  bfs-f  | matching-bwlearning08 |   001   |       18       |
+|  bfs-f  | matching-bwlearning08 |   002   |       93       |
+|  bfs-f  | matching-bwlearning08 |   003   |      1079      |
+|  bfs-f  | matching-bwlearning08 |   004   |      565       |
+|  bfs-f  | matching-bwlearning08 |   005   |      604       |
+|  bfs-f  | matching-bwlearning08 |   006   |       1        |
+|  bfs-f  | matching-bwlearning08 |   007   |       17       |
+|  bfs-f  | matching-bwlearning08 |   008   |      570       |
+|  bfs-f  | matching-bwlearning08 |   009   |       59       |
+|  bfs-f  | matching-bwlearning08 |   010   |      877       |
+|  bfs-f  | matching-bwlearning08 |   011   |      868       |
+|  bfs-f  | matching-bwlearning08 |   012   |      536       |
+|  bfs-f  | matching-bwlearning08 |   013   |       95       |
+|  bfs-f  | matching-bwlearning08 |   014   |       95       |
+|  bfs-f  | matching-bwlearning08 |   015   |      796       |
+|  bfs-f  | matching-bwlearning08 |   016   |      629       |
+|  bfs-f  | matching-bwlearning08 |   017   |      316       |
+|  bfs-f  | matching-bwlearning08 |   018   |      1013      |
+|  bfs-f  | matching-bwlearning08 |   019   |      408       |
+|  bfs-f  | matching-bwlearning08 |   020   |       0        |
+|  bfs-f  | matching-bwlearning08 |   021   |       0        |
+|  bfs-f  | matching-bwlearning08 |   022   |       0        |
+|  bfs-f  | matching-bwlearning08 |   023   |      503       |
+|  bfs-f  | matching-bwlearning08 |   024   |      340       |
+|  bfs-f  | matching-bwlearning08 |   025   |       0        |
+|  bfs-f  | matching-bwlearning08 |   026   |       0        |
+|  bfs-f  | matching-bwlearning08 |   027   |      1541      |
+|  bfs-f  | matching-bwlearning08 |   028   |      350       |
+|  bfs-f  | matching-bwlearning08 |   029   |       0        |
+|  jasper | matching-bwlearning08 |   000   |       -1       |
+|  jasper | matching-bwlearning08 |   001   |       -1       |
+|  jasper | matching-bwlearning08 |   002   |       -1       |
+|  jasper | matching-bwlearning08 |   003   |       -1       |
+|  jasper | matching-bwlearning08 |   004   |       -1       |
+|  jasper | matching-bwlearning08 |   005   |       -1       |
+|  jasper | matching-bwlearning08 |   006   |       -1       |
+|  jasper | matching-bwlearning08 |   007   |       -1       |
+|  jasper | matching-bwlearning08 |   008   |       -1       |
+|  jasper | matching-bwlearning08 |   009   |       -1       |
+|  jasper | matching-bwlearning08 |   010   |       -1       |
+|  jasper | matching-bwlearning08 |   011   |       -1       |
+|  jasper | matching-bwlearning08 |   012   |       -1       |
+|  jasper | matching-bwlearning08 |   013   |       -1       |
+|  jasper | matching-bwlearning08 |   014   |       -1       |
+|  jasper | matching-bwlearning08 |   015   |       -1       |
+|  jasper | matching-bwlearning08 |   016   |       -1       |
+|  jasper | matching-bwlearning08 |   017   |       -1       |
+|  jasper | matching-bwlearning08 |   018   |       -1       |
+|  jasper | matching-bwlearning08 |   019   |       -1       |
+|  jasper | matching-bwlearning08 |   020   |       -1       |
+|  jasper | matching-bwlearning08 |   021   |       -1       |
+|  jasper | matching-bwlearning08 |   022   |       -1       |
+|  jasper | matching-bwlearning08 |   023   |       -1       |
+|  jasper | matching-bwlearning08 |   024   |       -1       |
+|  jasper | matching-bwlearning08 |   025   |       -1       |
+|  jasper | matching-bwlearning08 |   026   |       -1       |
+|  jasper | matching-bwlearning08 |   027   |       -1       |
+|  jasper | matching-bwlearning08 |   028   |       -1       |
+|  jasper | matching-bwlearning08 |   029   |       -1       |
+| mercury | matching-bwlearning08 |   000   |       3        |
+| mercury | matching-bwlearning08 |   001   |       21       |
+| mercury | matching-bwlearning08 |   002   |      709       |
+| mercury | matching-bwlearning08 |   003   |       -1       |
+| mercury | matching-bwlearning08 |   004   |       -1       |
+| mercury | matching-bwlearning08 |   005   |       -1       |
+| mercury | matching-bwlearning08 |   006   |       2        |
+| mercury | matching-bwlearning08 |   007   |       -1       |
+| mercury | matching-bwlearning08 |   008   |       -1       |
+| mercury | matching-bwlearning08 |   009   |      1320      |
+| mercury | matching-bwlearning08 |   010   |      1264      |
+| mercury | matching-bwlearning08 |   011   |       33       |
+| mercury | matching-bwlearning08 |   012   |       3        |
+| mercury | matching-bwlearning08 |   013   |       -1       |
+| mercury | matching-bwlearning08 |   014   |      1763      |
+| mercury | matching-bwlearning08 |   015   |       29       |
+| mercury | matching-bwlearning08 |   016   |       4        |
+| mercury | matching-bwlearning08 |   017   |      285       |
+| mercury | matching-bwlearning08 |   018   |       -1       |
+| mercury | matching-bwlearning08 |   019   |       -1       |
+| mercury | matching-bwlearning08 |   020   |       -1       |
+| mercury | matching-bwlearning08 |   021   |       -1       |
+| mercury | matching-bwlearning08 |   022   |       -1       |
+| mercury | matching-bwlearning08 |   023   |       -1       |
+| mercury | matching-bwlearning08 |   024   |       -1       |
+| mercury | matching-bwlearning08 |   025   |       -1       |
+| mercury | matching-bwlearning08 |   026   |       -1       |
+| mercury | matching-bwlearning08 |   027   |       5        |
+| mercury | matching-bwlearning08 |   028   |       -1       |
+| mercury | matching-bwlearning08 |   029   |       -1       |
+|   siw   | matching-bwlearning08 |   000   |       0        |
+|   siw   | matching-bwlearning08 |   001   |       0        |
+|   siw   | matching-bwlearning08 |   002   |       0        |
+|   siw   | matching-bwlearning08 |   003   |       0        |
+|   siw   | matching-bwlearning08 |   004   |       0        |
+|   siw   | matching-bwlearning08 |   005   |       0        |
+|   siw   | matching-bwlearning08 |   006   |      110       |
+|   siw   | matching-bwlearning08 |   007   |       0        |
+|   siw   | matching-bwlearning08 |   008   |       0        |
+|   siw   | matching-bwlearning08 |   009   |       0        |
+|   siw   | matching-bwlearning08 |   010   |       0        |
+|   siw   | matching-bwlearning08 |   011   |       0        |
+|   siw   | matching-bwlearning08 |   012   |       0        |
+|   siw   | matching-bwlearning08 |   013   |       0        |
+|   siw   | matching-bwlearning08 |   014   |       0        |
+|   siw   | matching-bwlearning08 |   015   |       0        |
+|   siw   | matching-bwlearning08 |   016   |       0        |
+|   siw   | matching-bwlearning08 |   017   |       0        |
+|   siw   | matching-bwlearning08 |   018   |       0        |
+|   siw   | matching-bwlearning08 |   019   |       0        |
+|   siw   | matching-bwlearning08 |   020   |       0        |
+|   siw   | matching-bwlearning08 |   021   |       0        |
+|   siw   | matching-bwlearning08 |   022   |       0        |
+|   siw   | matching-bwlearning08 |   023   |       0        |
+|   siw   | matching-bwlearning08 |   024   |       0        |
+|   siw   | matching-bwlearning08 |   025   |       0        |
+|   siw   | matching-bwlearning08 |   026   |       0        |
+|   siw   | matching-bwlearning08 |   027   |       0        |
+|   siw   | matching-bwlearning08 |   028   |       0        |
+|   siw   | matching-bwlearning08 |   029   |       0        |
++---------+-----------------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:27:13 2018
+

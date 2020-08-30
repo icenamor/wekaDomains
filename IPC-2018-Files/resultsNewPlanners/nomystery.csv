@@ -1,0 +1,115 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : nomystery
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+-----------+---------+----------------+
+| planner |   domain  | problem | oktimefirstsol |
++---------+-----------+---------+----------------+
+|  bfs-f  | nomystery |   000   |       1        |
+|  bfs-f  | nomystery |   001   |       0        |
+|  bfs-f  | nomystery |   002   |       0        |
+|  bfs-f  | nomystery |   003   |       10       |
+|  bfs-f  | nomystery |   004   |       12       |
+|  bfs-f  | nomystery |   005   |       4        |
+|  bfs-f  | nomystery |   006   |       5        |
+|  bfs-f  | nomystery |   007   |       7        |
+|  bfs-f  | nomystery |   008   |       42       |
+|  bfs-f  | nomystery |   009   |       33       |
+|  bfs-f  | nomystery |   010   |       0        |
+|  bfs-f  | nomystery |   011   |       2        |
+|  bfs-f  | nomystery |   012   |       0        |
+|  bfs-f  | nomystery |   013   |       6        |
+|  bfs-f  | nomystery |   014   |      328       |
+|  bfs-f  | nomystery |   015   |       59       |
+|  bfs-f  | nomystery |   016   |       -1       |
+|  bfs-f  | nomystery |   017   |       10       |
+|  bfs-f  | nomystery |   018   |       -1       |
+|  bfs-f  | nomystery |   019   |       -1       |
+|  jasper | nomystery |   000   |       0        |
+|  jasper | nomystery |   001   |       1        |
+|  jasper | nomystery |   002   |       2        |
+|  jasper | nomystery |   003   |       3        |
+|  jasper | nomystery |   004   |       3        |
+|  jasper | nomystery |   005   |       3        |
+|  jasper | nomystery |   006   |       4        |
+|  jasper | nomystery |   007   |       2        |
+|  jasper | nomystery |   008   |       5        |
+|  jasper | nomystery |   009   |       4        |
+|  jasper | nomystery |   010   |       0        |
+|  jasper | nomystery |   011   |       0        |
+|  jasper | nomystery |   012   |       1        |
+|  jasper | nomystery |   013   |       1        |
+|  jasper | nomystery |   014   |       2        |
+|  jasper | nomystery |   015   |       2        |
+|  jasper | nomystery |   016   |       3        |
+|  jasper | nomystery |   017   |       1        |
+|  jasper | nomystery |   018   |       3        |
+|  jasper | nomystery |   019   |       2        |
+| mercury | nomystery |   000   |       1        |
+| mercury | nomystery |   001   |       2        |
+| mercury | nomystery |   002   |       3        |
+| mercury | nomystery |   003   |       3        |
+| mercury | nomystery |   004   |       3        |
+| mercury | nomystery |   005   |       3        |
+| mercury | nomystery |   006   |       3        |
+| mercury | nomystery |   007   |       3        |
+| mercury | nomystery |   008   |       4        |
+| mercury | nomystery |   009   |       4        |
+| mercury | nomystery |   010   |       1        |
+| mercury | nomystery |   011   |       2        |
+| mercury | nomystery |   012   |       2        |
+| mercury | nomystery |   013   |       -1       |
+| mercury | nomystery |   014   |       -1       |
+| mercury | nomystery |   015   |       -1       |
+| mercury | nomystery |   016   |       -1       |
+| mercury | nomystery |   017   |       -1       |
+| mercury | nomystery |   018   |       -1       |
+| mercury | nomystery |   019   |       -1       |
+|   siw   | nomystery |   000   |       -1       |
+|   siw   | nomystery |   001   |       -1       |
+|   siw   | nomystery |   002   |       -1       |
+|   siw   | nomystery |   003   |       -1       |
+|   siw   | nomystery |   004   |       -1       |
+|   siw   | nomystery |   005   |       -1       |
+|   siw   | nomystery |   006   |       -1       |
+|   siw   | nomystery |   007   |       -1       |
+|   siw   | nomystery |   008   |       -1       |
+|   siw   | nomystery |   009   |       -1       |
+|   siw   | nomystery |   010   |       -1       |
+|   siw   | nomystery |   011   |       -1       |
+|   siw   | nomystery |   012   |       -1       |
+|   siw   | nomystery |   013   |       -1       |
+|   siw   | nomystery |   014   |       -1       |
+|   siw   | nomystery |   015   |       -1       |
+|   siw   | nomystery |   016   |       -1       |
+|   siw   | nomystery |   017   |       -1       |
+|   siw   | nomystery |   018   |       -1       |
+|   siw   | nomystery |   019   |       -1       |
++---------+-----------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:18:25 2018
+

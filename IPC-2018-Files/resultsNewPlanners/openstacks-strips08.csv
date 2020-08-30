@@ -1,0 +1,155 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : openstacks-strips08
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+---------------------+---------+----------------+
+| planner |        domain       | problem | oktimefirstsol |
++---------+---------------------+---------+----------------+
+|  bfs-f  | openstacks-strips08 |   000   |       0        |
+|  bfs-f  | openstacks-strips08 |   001   |       0        |
+|  bfs-f  | openstacks-strips08 |   002   |       0        |
+|  bfs-f  | openstacks-strips08 |   003   |       0        |
+|  bfs-f  | openstacks-strips08 |   004   |       0        |
+|  bfs-f  | openstacks-strips08 |   005   |       0        |
+|  bfs-f  | openstacks-strips08 |   006   |       0        |
+|  bfs-f  | openstacks-strips08 |   007   |       0        |
+|  bfs-f  | openstacks-strips08 |   008   |       0        |
+|  bfs-f  | openstacks-strips08 |   009   |       0        |
+|  bfs-f  | openstacks-strips08 |   010   |       1        |
+|  bfs-f  | openstacks-strips08 |   011   |       0        |
+|  bfs-f  | openstacks-strips08 |   012   |       0        |
+|  bfs-f  | openstacks-strips08 |   013   |       0        |
+|  bfs-f  | openstacks-strips08 |   014   |       0        |
+|  bfs-f  | openstacks-strips08 |   015   |       1        |
+|  bfs-f  | openstacks-strips08 |   016   |       1        |
+|  bfs-f  | openstacks-strips08 |   017   |       1        |
+|  bfs-f  | openstacks-strips08 |   018   |       3        |
+|  bfs-f  | openstacks-strips08 |   019   |       3        |
+|  bfs-f  | openstacks-strips08 |   020   |       2        |
+|  bfs-f  | openstacks-strips08 |   021   |       4        |
+|  bfs-f  | openstacks-strips08 |   022   |       4        |
+|  bfs-f  | openstacks-strips08 |   023   |       4        |
+|  bfs-f  | openstacks-strips08 |   024   |       19       |
+|  bfs-f  | openstacks-strips08 |   025   |       21       |
+|  bfs-f  | openstacks-strips08 |   026   |       22       |
+|  bfs-f  | openstacks-strips08 |   027   |       48       |
+|  bfs-f  | openstacks-strips08 |   028   |       49       |
+|  bfs-f  | openstacks-strips08 |   029   |       47       |
+|  jasper | openstacks-strips08 |   000   |       0        |
+|  jasper | openstacks-strips08 |   001   |       1        |
+|  jasper | openstacks-strips08 |   002   |       0        |
+|  jasper | openstacks-strips08 |   003   |       0        |
+|  jasper | openstacks-strips08 |   004   |       0        |
+|  jasper | openstacks-strips08 |   005   |       0        |
+|  jasper | openstacks-strips08 |   006   |       0        |
+|  jasper | openstacks-strips08 |   007   |       0        |
+|  jasper | openstacks-strips08 |   008   |       1        |
+|  jasper | openstacks-strips08 |   009   |       1        |
+|  jasper | openstacks-strips08 |   010   |       0        |
+|  jasper | openstacks-strips08 |   011   |       1        |
+|  jasper | openstacks-strips08 |   012   |       0        |
+|  jasper | openstacks-strips08 |   013   |       1        |
+|  jasper | openstacks-strips08 |   014   |       1        |
+|  jasper | openstacks-strips08 |   015   |       1        |
+|  jasper | openstacks-strips08 |   016   |       1        |
+|  jasper | openstacks-strips08 |   017   |       1        |
+|  jasper | openstacks-strips08 |   018   |       2        |
+|  jasper | openstacks-strips08 |   019   |       2        |
+|  jasper | openstacks-strips08 |   020   |       2        |
+|  jasper | openstacks-strips08 |   021   |       3        |
+|  jasper | openstacks-strips08 |   022   |       3        |
+|  jasper | openstacks-strips08 |   023   |       3        |
+|  jasper | openstacks-strips08 |   024   |       5        |
+|  jasper | openstacks-strips08 |   025   |       5        |
+|  jasper | openstacks-strips08 |   026   |       5        |
+|  jasper | openstacks-strips08 |   027   |       8        |
+|  jasper | openstacks-strips08 |   028   |       8        |
+|  jasper | openstacks-strips08 |   029   |       9        |
+| mercury | openstacks-strips08 |   000   |       1        |
+| mercury | openstacks-strips08 |   001   |       0        |
+| mercury | openstacks-strips08 |   002   |       0        |
+| mercury | openstacks-strips08 |   003   |       0        |
+| mercury | openstacks-strips08 |   004   |       0        |
+| mercury | openstacks-strips08 |   005   |       1        |
+| mercury | openstacks-strips08 |   006   |       1        |
+| mercury | openstacks-strips08 |   007   |       1        |
+| mercury | openstacks-strips08 |   008   |       0        |
+| mercury | openstacks-strips08 |   009   |       1        |
+| mercury | openstacks-strips08 |   010   |       2        |
+| mercury | openstacks-strips08 |   011   |       1        |
+| mercury | openstacks-strips08 |   012   |       2        |
+| mercury | openstacks-strips08 |   013   |       1        |
+| mercury | openstacks-strips08 |   014   |       2        |
+| mercury | openstacks-strips08 |   015   |       3        |
+| mercury | openstacks-strips08 |   016   |       2        |
+| mercury | openstacks-strips08 |   017   |       2        |
+| mercury | openstacks-strips08 |   018   |       2        |
+| mercury | openstacks-strips08 |   019   |       3        |
+| mercury | openstacks-strips08 |   020   |       3        |
+| mercury | openstacks-strips08 |   021   |       3        |
+| mercury | openstacks-strips08 |   022   |       3        |
+| mercury | openstacks-strips08 |   023   |       3        |
+| mercury | openstacks-strips08 |   024   |       6        |
+| mercury | openstacks-strips08 |   025   |       6        |
+| mercury | openstacks-strips08 |   026   |       5        |
+| mercury | openstacks-strips08 |   027   |       9        |
+| mercury | openstacks-strips08 |   028   |       9        |
+| mercury | openstacks-strips08 |   029   |       10       |
+|   siw   | openstacks-strips08 |   000   |       0        |
+|   siw   | openstacks-strips08 |   001   |       0        |
+|   siw   | openstacks-strips08 |   002   |       0        |
+|   siw   | openstacks-strips08 |   003   |       0        |
+|   siw   | openstacks-strips08 |   004   |       0        |
+|   siw   | openstacks-strips08 |   005   |       0        |
+|   siw   | openstacks-strips08 |   006   |       0        |
+|   siw   | openstacks-strips08 |   007   |       0        |
+|   siw   | openstacks-strips08 |   008   |       0        |
+|   siw   | openstacks-strips08 |   009   |       0        |
+|   siw   | openstacks-strips08 |   010   |       0        |
+|   siw   | openstacks-strips08 |   011   |       0        |
+|   siw   | openstacks-strips08 |   012   |       1        |
+|   siw   | openstacks-strips08 |   013   |       1        |
+|   siw   | openstacks-strips08 |   014   |       0        |
+|   siw   | openstacks-strips08 |   015   |       58       |
+|   siw   | openstacks-strips08 |   016   |       1        |
+|   siw   | openstacks-strips08 |   017   |       1        |
+|   siw   | openstacks-strips08 |   018   |      174       |
+|   siw   | openstacks-strips08 |   019   |      299       |
+|   siw   | openstacks-strips08 |   020   |       2        |
+|   siw   | openstacks-strips08 |   021   |       5        |
+|   siw   | openstacks-strips08 |   022   |       49       |
+|   siw   | openstacks-strips08 |   023   |       6        |
+|   siw   | openstacks-strips08 |   024   |       -1       |
+|   siw   | openstacks-strips08 |   025   |      188       |
+|   siw   | openstacks-strips08 |   026   |       14       |
+|   siw   | openstacks-strips08 |   027   |       -1       |
+|   siw   | openstacks-strips08 |   028   |       -1       |
+|   siw   | openstacks-strips08 |   029   |       -1       |
++---------+---------------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:18:49 2018
+

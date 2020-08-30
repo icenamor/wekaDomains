@@ -1,0 +1,148 @@
+@relation problem
+
+@attribute domain string
+@attribute task_name string
+@attribute requirements numeric
+@attribute types numeric
+@attribute objects numeric
+@attribute predicates numeric
+@attribute functions numeric
+@attribute init numeric
+@attribute goal numeric
+@attribute actions numeric
+@attribute axioms numeric
+@attribute use_min_cost_metric numeric
+@attribute generated_rules numeric
+@attribute relevant_atoms numeric
+@attribute auxiliary_atoms numeric
+@attribute final_queue_length numeric
+@attribute total_queue_pushes numeric
+@attribute implied_effects_removed numeric
+@attribute effect_conditions_simplified numeric
+@attribute implied_preconditions_added numeric
+@attribute translator_variables numeric
+@attribute translator_derived_variables numeric
+@attribute translator_facts numeric
+@attribute translator_mutex_groups numeric
+@attribute translator_total_mutex_groups_size numeric
+@attribute translator_operators numeric
+@attribute translator_task_size numeric
+@attribute numberVariablesCG numeric
+@attribute highLevelVariablesCG numeric
+@attribute totalEdgesCG numeric
+@attribute totalWeightCG numeric
+@attribute veRatio numeric
+@attribute weRatio numeric
+@attribute wvRatio numeric
+@attribute hvRatio numeric
+@attribute inputEdgeCGMax numeric
+@attribute inputEdgeCGAvg numeric
+@attribute inputEdgeCGStd numeric
+@attribute outputEdgeCGMax numeric
+@attribute outputEdgeCGAvg numeric
+@attribute outputEdgeCGStd numeric
+@attribute inputWeightCGMax numeric
+@attribute inputWeightCGAvg numeric
+@attribute inputWeightCGStd numeric
+@attribute outputWeightCGMax numeric
+@attribute outputWeightCGAvg numeric
+@attribute outputWeightCGStd numeric
+@attribute inputEdgeHVMax numeric
+@attribute inputEdgeHVAvg numeric
+@attribute inputEdgeHVStd numeric
+@attribute outputEdgeHVMax numeric
+@attribute outputEdgeHVAvg numeric
+@attribute outputEdgeHVStd numeric
+@attribute inputWeightHVMax numeric
+@attribute inputWeightHVAvg numeric
+@attribute inputWeightHVStd numeric
+@attribute outputWeightHVMax numeric
+@attribute outputWeightHVAvg numeric
+@attribute outputWeightHVStd numeric
+@attribute numberVariablesDTG numeric
+@attribute totalEdgesDTG numeric
+@attribute totalWeigthDTG numeric
+@attribute edVaRatioDTG numeric
+@attribute weEdRatioDTG numeric
+@attribute weVaRatioDTG numeric
+@attribute inputEdgeDTGMax numeric
+@attribute inputEdgeDTGAvg numeric
+@attribute inputEdgeDTGStd numeric
+@attribute outputEdgeDTGMax numeric
+@attribute outputEdgeDTGAvg numeric
+@attribute outputEdgeDTGStd numeric
+@attribute inputWeightDTGMax numeric
+@attribute inputWeightDTGAvg numeric
+@attribute inputWeightDTGStd numeric
+@attribute outputWeightDTGMax numeric
+@attribute outputWeightDTGAvg numeric
+@attribute outputWeightDTGStd numeric
+@attribute no numeric
+@attribute file string
+@attribute num_relevant_facts numeric
+@attribute num_actions numeric
+@attribute h_max numeric
+@attribute h_ff numeric
+@attribute h_ff_ratio numeric
+@attribute rp_fact_balance_min numeric
+@attribute rp_fact_balance_avg numeric
+@attribute rp_fact_balance_var numeric
+@attribute rp_goal_balance_min numeric
+@attribute rp_goal_balance_avg numeric
+@attribute rp_goal_balance_var numeric
+@attribute balance_Ratio numeric
+@attribute Unbalance_Ratio numeric
+@attribute Balance_Distorsion numeric
+@attribute Additive numeric
+@attribute Blind numeric
+@attribute Causal_graph numeric
+@attribute Context-enhanced_additive numeric
+@attribute FF numeric
+@attribute Goal_count numeric
+@attribute Landmark_count numeric
+@attribute Landmark-cut numeric
+@attribute Max numeric
+@attribute n_landmarks numeric
+@attribute numberEdges numeric
+@attribute edVaratioLand numeric
+@attribute numberFatherNodes numeric
+@attribute numberChildrenNodes numeric
+@attribute nodosbetween numeric
+@attribute avginput numeric
+@attribute maxinput numeric
+@attribute stdinput numeric
+@attribute avgoutput numeric
+@attribute maxoutput numeric
+@attribute stdoutput numeric
+@attribute blackVariables numeric
+@attribute blackRootVariables numeric
+@attribute redBlackVariables numeric
+@attribute allpairsvaluesconnected numeric
+@attribute allvaluesconnectedgoal numeric
+@attribute blackstronglpyarents numeric
+@attribute Maximaleffectsblack  numeric
+@attribute Hred-black numeric
+@attribute  nameDomain2 string
+@attribute  nameFile2 string
+@data
+
+etipp,printjob,2,8,67,12,1,86,60,36,0,1,350,1802,2342,4144,6664,0,841,0,315,0,820,10,210,1051,8861,106,60, 1922, 8222, 0.0551509, 4.27784, 77.566, 0.566038, 61, 6.12264, 10.8738, 21, 6.12264, 5.14269, 660, 77.566, 106.745,258, 53.1887, 70.3255, 5, 0.745283, 1.44105, 72, 19.0849, 24.8407, 118, 20.3019, 35.5292, 72, 19.0849,24.8407,402, 909, 2997, 0.303303, 0.442244, 1, 26, 2.58064, 0, 23, 2.58064, 0, 71, 5.13522,0.0481061, 63,5.13522, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p04.pddl, 515, 1051, 16, 86, 5.375000, -1, 0.064078, 0.488480, 0, 0.583333, 0.613505, 41.069450, 7.222645, 237,942,1,920,926,92,31,106,82,16,210,1499,7.1381,75,41,94,7.1381,90,13.7113,7.1381,86,14.3875,10,0,106,0,0,0,2,88,allfeatures-parcprinter,all-p04.pddl
+upp,printjob,2,8,59,12,1,85,60,23,0,1,212,1146,1316,2462,3332,0,321,0,304,0,768,10,180,461,4426,104,60, 1370, 3389, 0.0759124, 2.47372, 32.5865, 0.576923, 60, 5.22115, 8.34929, 20, 5.22115, 5.04014, 600, 32.5865, 66.3161,104, 22.0769, 27.8687, 5, 1.11538, 1.6831, 24, 8.43269, 9.34876, 44, 8.84615, 13.4813, 24, 8.43269,9.34876,358, 396, 1224, 0.323529, 0.90404, 1, 16, 0.885747, 0.0485576, 14, 0.885747, 0.0485576, 39, 1.38744,0.0485576, 31,1.38744, 0.0485576,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p03.pddl, 474, 461, 17, 85, 5.000000, -2, 0.088608, 0.555522, 0, 0.650000, 0.726292, 26.045557, 0.520607, 186,996,1,831,857,93,30,103,57,17,191,1322,6.92147,78,50,63,6.92147,65,12.49,6.92147,79,13.8564,?,?,?,?,?,?,?,93,allfeatures-parcprinter,all-p03.pddl
+upp,printjob,2,8,55,12,1,63,42,23,0,1,212,963,950,1913,2984,0,421,0,203,0,518,7,126,449,4221,79,42, 976, 4125, 0.0809426, 4.22643, 52.2152, 0.531646, 44, 5.02532, 7.1688, 20, 5.02532, 4.91954, 784, 52.2152, 99.5842,158, 36.8228, 45.0953, 5, 0.860759, 1.55681, 63, 12.5063, 21.2888, 76, 12.3038, 25.3124, 63, 12.5063,21.2888,263, 289, 902, 0.320399, 0.910035, 1, 16, 0.890916, 0, 14, 0.890916, 0, 39, 1.38868,0.0555423, 31,1.38868, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p11.pddl, 322, 449, 14, 71, 5.071429, -3, 0.102484, 0.704065, 0, 0.642857, 0.648127, 30.628059, 2.619154, 245,562,1,478,492,71,23,83,42,14,154,1009,6.55195,62,35,57,6.55195,48,11.1355,6.55195,66,12.1244,?,?,?,?,?,?,?,73,allfeatures-parcprinter,all-p11.pddl
+etipp,printjob,2,8,52,12,1,102,72,23,0,1,211,1526,1644,3170,4886,0,601,0,416,0,952,12,144,781,7065,117,72, 1925, 5993, 0.0607792, 3.11325, 51.2222, 0.615385, 73, 4.65812, 9.44454, 14, 4.65812, 3.29247, 936, 51.2222, 103.335,158, 34.7094, 44.473, 5, 0.811966, 1.48457, 48, 12.0684, 15.9039, 71, 13.2821, 22.2909, 48, 12.0684,15.9039,354, 557, 1798, 0.309789, 0.635548, 1, 12, 1.52564, 0.0458299, 12, 1.52564, 0.0458299, 33, 2.82479,0.0458299, 33,2.82479, 0.0458299,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p20.pddl, 548, 781, 19, 86, 4.526316, -1, 0.054745, 0.387670, 0, 0.513889, 0.499807, 42.080666, 0.092189, 15,1546,1,1234,1302,128,37,129,85,19,245,1988,8.11429,85,49,111,8.11429,100,14.9332,8.11429,109,17.9165,12,0,117,0,0,0,2,112,allfeatures-parcprinter,all-p20.pddl
+etipp,printjob,2,8,71,12,1,102,72,36,0,1,350,2370,2806,5176,8728,0,1201,0,423,0,1074,12,252,1453,12301,124,72, 2640, 11784, 0.0469697, 4.46364, 95.0323, 0.580645, 73, 6.26613, 12.2284, 21, 6.26613, 5.14642, 936, 95.0323, 142.333,306, 63.871, 85.4242, 5, 0.766129, 1.45419, 96, 22.4919, 31.5586, 142, 25.0645, 43.7371, 96, 22.4919,31.5586,476, 1089, 3597, 0.302752, 0.437098, 1, 26, 2.63998, 0, 23, 2.63998, 0, 71, 5.26613,0.0445392, 63,5.26613, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p14.pddl, 663, 1453, 18, 102, 5.666667, -1, 0.055807, 0.457772, 0, 0.569444, 0.596899, 50.710247, 8.119063, 305,1270,1,1244,1250,114,37,126,98,18,248,1974,7.95968,87,49,112,7.95968,108,15.4272,7.95968,102,16.9706,12,0,124,0,0,0,2,106,allfeatures-parcprinter,all-p14.pddl
+upp,printjob,2,8,69,12,1,125,90,23,0,1,212,2251,1986,4237,6892,0,1081,0,599,0,1438,15,270,1141,10961,149,90, 2800, 10629, 0.0532143, 3.79607, 71.3356, 0.604027, 90, 5.45638, 10.8402, 20, 5.45638, 5.07062, 1680, 71.3356, 175.902,194, 48.4631, 53.6953, 5, 1.11409, 1.67705, 63, 19.6779, 24.5311, 94, 20.4698, 31.5023, 63, 19.6779,24.5311,523, 591, 1844, 0.320499, 0.884941, 1, 16, 0.917292, 0.0406867, 14, 0.917292, 0.0406867, 39, 1.45598,0.0406867, 31,1.45598, 0.0406867,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p13.pddl, 854, 1141, 22, 135, 6.136364, -2, 0.066745, 0.508931, 0, 0.600000, 0.663325, 56.408386, 0.578440, 441,2086,1,1726,1806,143,45,148,82,22,276,2432,8.81159,113,75,88,8.81159,90,15.4596,8.81159,119,20.3961,?,?,?,?,?,?,?,142,allfeatures-parcprinter,all-p13.pddl
+upp,printjob,2,8,53,12,1,61,42,23,0,1,212,843,938,1781,2600,0,309,0,175,0,462,7,126,365,3409,77,42, 836, 3089, 0.0921053, 3.69498, 40.1169, 0.545455, 42, 5.02597, 6.9319, 20, 5.02597, 4.98302, 560, 40.1169, 72.8833,122, 28.3766, 34.302, 5, 0.961039, 1.59904, 45, 10.8831, 16.5121, 56, 10.3896, 19.1482, 45, 10.8831,16.5121,259, 285, 882, 0.323129, 0.908772, 1, 16, 0.888083, 0, 14, 0.888083, 0, 39, 1.38579,0.0562403, 31,1.38579, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p01.pddl, 294, 365, 14, 67, 4.785714, -2, 0.112245, 0.620774, 0, 0.571429, 0.622700, 30.043833, 0.460274, 141,522,1,438,450,67,21,70,42,14,134,760,5.67164,57,35,42,5.67164,38,8.60233,5.67164,61,11.4455,?,?,?,?,?,?,?,69,allfeatures-parcprinter,all-p01.pddl
+etipp,printjob,2,8,39,12,1,53,36,23,0,1,211,568,826,1394,1868,0,145,0,128,0,316,6,72,235,2049,62,36, 557, 1439, 0.111311, 2.58348, 23.2097, 0.580645, 36, 4.37097, 6.20154, 14, 4.37097, 3.3129, 216, 23.2097, 32.6507,80, 17.5323, 21.5315, 5, 0.774194, 1.45269, 20, 6.20968, 6.77076, 32, 5.41935, 9.39723, 20, 6.20968,6.77076,184, 280, 893, 0.31355, 0.657143, 1, 12, 1.45161, 0, 12, 1.45161, 0, 33, 2.67742,0.0624759, 33,2.67742, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p05.pddl, 194, 235, 13, 43, 3.307692, -1, 0.092784, 0.467114, 0, 0.500000, 0.500000, 19.212767, 0.000000, 0,480,1,396,410,63,18,68,43,13,129,718,5.56589,47,25,57,5.56589,51,10.0995,5.56589,55,9.43398,6,0,62,0,0,0,2,57,allfeatures-parcprinter,all-p05.pddl
+upp,printjob,2,8,55,12,1,69,48,23,0,1,212,912,1060,1972,2716,0,273,0,214,0,556,8,144,369,3488,86,48, 986, 2825, 0.0872211, 2.86511, 32.8488, 0.55814, 48, 5.09302, 7.36053, 20, 5.09302, 5.00843, 384, 32.8488, 58.5002,104, 22.814, 27.6479, 5, 1.04651, 1.64887, 27, 9.24419, 10.8809, 45, 9.09302, 14.337, 27, 9.24419,10.8809,292, 321, 991, 0.323915, 0.909657, 1, 16, 0.881327, 0, 14, 0.881327, 0, 39, 1.37483,0.0532895, 31,1.37483, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p02.pddl, 350, 369, 15, 71, 4.733333, -2, 0.102857, 0.591118, 0, 0.625000, 0.695971, 25.292685, 0.476965, 145,666,1,558,574,76,24,82,47,15,154,945,6.13636,64,40,50,6.13636,49,10.3441,6.13636,66,11.9164,?,?,?,?,?,?,?,75,allfeatures-parcprinter,all-p02.pddl
+etipp,printjob,2,8,43,12,1,69,48,23,0,1,211,790,1094,1884,2580,0,225,0,200,0,480,8,96,345,3073,80,48, 869, 2237, 0.0920598, 2.57422, 27.9625, 0.6, 48, 4.4875, 7.32631, 14, 4.4875, 3.31283, 384, 27.9625, 47.5122,92, 20.4625, 24.9063, 5, 0.8, 1.46969, 20, 7.1375, 7.64157, 38, 6.7, 11.345, 20, 7.1375,7.64157,240, 370, 1183, 0.312764, 0.648649, 1, 12, 1.47917, 0.0552029, 12, 1.47917, 0.0552029, 33, 2.725,0.0552029, 33,2.725, 0.0552029,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p08.pddl, 288, 345, 15, 57, 3.800000, -1, 0.076389, 0.434292, 0, 0.500000, 0.500000, 26.078262, 0.000000, 0,768,1,624,652,85,24,90,57,15,169,1083,6.40828,61,33,75,6.40828,69,12.2474,6.40828,71,11.9164,8,0,80,0,0,0,2,77,allfeatures-parcprinter,all-p08.pddl
+upp,printjob,2,8,57,12,1,77,54,23,0,1,212,1045,1190,2235,3108,0,325,0,257,0,658,9,162,433,4115,95,54, 1180, 3357, 0.0805085, 2.84492, 35.3368, 0.568421, 54, 5.16842, 7.89624, 20, 5.16842, 5.02552, 486, 35.3368, 66.4768,110, 24.3263, 29.2738, 5, 1.07368, 1.66222, 27, 9.81053, 11.1961, 48, 9.85263, 15.1768, 27, 9.81053,11.1961,325, 359, 1110, 0.323423, 0.905292, 1, 16, 0.886378, 0.0507589, 14, 0.886378, 0.0507589, 39, 1.387,0.0507589, 31,1.387, 0.0507589,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p07.pddl, 410, 433, 16, 79, 4.937500, -2, 0.095122, 0.574436, 0, 0.629630, 0.701752, 27.491917, 0.498845, 171,822,1,687,707,79,27,92,52,16,172,1135,6.59884,71,45,56,6.59884,56,11.2694,6.59884,73,13.2288,?,?,?,?,?,?,?,85,allfeatures-parcprinter,all-p07.pddl
+etipp,printjob,2,8,73,12,1,104,72,36,0,1,350,2618,2822,5440,9520,0,1393,0,471,0,1170,12,252,1645,13981,126,72, 2976, 13704, 0.0423387, 4.60484, 108.762, 0.571429, 75, 6.27778, 12.4286, 21, 6.27778, 5.10623, 1080, 108.762, 166.61,354, 72.254, 99.9172, 5, 0.738095, 1.44847, 120, 23.5317, 36.8514, 166, 27.7143, 51.2614, 120, 23.5317,36.8514,480, 1097, 3637, 0.301622, 0.437557, 1, 26, 2.62982, 0, 23, 2.62982, 0, 71, 5.2381,0.04419, 63,5.2381, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p16.pddl, 711, 1645, 18, 104, 5.777778, -1, 0.052039, 0.460957, 0, 0.597222, 0.593008, 52.115501, 9.359879, 333,1294,1,1264,1272,118,39,128,100,18,252,2004,7.95238,91,49,112,7.95238,110,15.6205,7.95238,102,16.8523,12,0,126,0,0,0,2,109,allfeatures-parcprinter,all-p16.pddl
+etipp,printjob,2,8,48,12,1,86,60,23,0,1,211,1168,1372,2540,3770,0,421,0,308,0,716,10,120,571,5133,99,60, 1405, 4195, 0.0704626, 2.98577, 42.3737, 0.606061, 61, 4.59596, 8.49946, 14, 4.59596, 3.29346, 660, 42.3737, 77.6608,134, 29.3232, 36.9143, 5, 0.79798, 1.47696, 36, 10.3636, 12.4863, 59, 10.8687, 18.1685, 36, 10.3636,12.4863,298, 465, 1498, 0.310414, 0.64086, 1, 12, 1.50673, 0.0497443, 12, 1.50673, 0.0497443, 33, 2.78283,0.0497443, 33,2.78283, 0.0497443,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p10.pddl, 418, 571, 17, 72, 4.235294, -1, 0.062201, 0.410341, 0, 0.516667, 0.499722, 34.443073, 0.105079, 13,1130,1,910,956,105,31,109,71,17,207,1503,7.26087,73,41,93,7.26087,84,13.4536,7.26087,91,15.0333,10,0,99,0,0,0,2,98,allfeatures-parcprinter,all-p10.pddl
+etipp,printjob,2,8,46,12,1,72,48,23,0,1,211,898,1100,1998,2790,0,273,0,248,0,576,8,96,393,3601,83,48, 1061, 2717, 0.0782281, 2.56079, 32.7349, 0.578313, 51, 4.46988, 7.47903, 14, 4.46988, 3.25368, 528, 32.7349, 61.4551,110, 23.3373, 29.7578, 5, 0.73494, 1.45689, 27, 7.13253, 8.80549, 47, 7.39759, 14.0111, 27, 7.13253,8.80549,246, 373, 1198, 0.311352, 0.659517, 1, 12, 1.44378, 0.0542209, 12, 1.44378, 0.0542209, 33, 2.59639,0.0542209, 33,2.59639, 0.0542209,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p18.pddl, 336, 393, 15, 60, 4.000000, -1, 0.065476, 0.445077, 0, 0.562500, 0.496078, 27.167936, 0.366412, 33,798,1,654,678,87,27,93,57,15,175,1122,6.41143,67,33,75,6.41143,72,12.5698,6.41143,71,11.7473,8,0,83,0,0,0,2,80,allfeatures-parcprinter,all-p18.pddl
+etipp,printjob,2,8,50,12,1,82,54,23,0,1,211,1113,1238,2351,3350,0,361,0,332,0,754,9,108,496,4641,94,54, 1409, 3596, 0.066714, 2.55216, 38.2553, 0.574468, 59, 4.5, 8.06589, 14, 4.5, 3.22474, 756, 38.2553, 81.0106,128, 26.6809, 35.0368, 5, 0.712766, 1.45589, 36, 7.21277, 9.88538, 56, 8.25532, 16.7262, 36, 7.21277,9.88538,278, 420, 1353, 0.310421, 0.661905, 1, 11, 1.43617, 0, 11, 1.43617, 0, 29, 2.65957,0.0510224, 29,2.65957, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p19.pddl, 431, 496, 16, 69, 4.312500, -1, 0.055684, 0.432614, 0, 0.592593, 0.491352, 31.294353, 0.544355, 60,986,1,806,842,102,32,107,64,16,200,1363,6.815,79,37,84,6.815,84,14,6.815,78,12.7671,9,0,94,0,0,0,2,91,allfeatures-parcprinter,all-p19.pddl
+etipp,printjob,2,8,69,12,1,88,60,36,0,1,350,2010,2358,4368,7328,0,1001,0,355,0,900,10,210,1211,10261,108,60, 2202, 9822, 0.0490463, 4.46049, 90.9444, 0.555556, 63, 6.13889, 11.0934, 21, 6.13889, 5.09622, 780, 90.9444, 128.415,306, 61.3889, 84.3761, 5, 0.712963, 1.43405, 96, 20.3611, 30.088, 142, 23.037, 42.9767, 96, 20.3611,30.088,406, 917, 3037, 0.301943, 0.442748, 1, 26, 2.56989, 0, 23, 2.56989, 0, 71, 5.10494,0.047667, 63,5.10494, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p15.pddl, 555, 1211, 16, 88, 5.500000, -1, 0.059459, 0.493266, 0, 0.616667, 0.608048, 42.480583, 8.481420, 261,966,1,940,944,98,33,108,84,16,214,1529,7.14486,79,41,94,7.14486,92,13.9284,7.14486,86,14.2829,10,0,108,0,0,0,2,90,allfeatures-parcprinter,all-p15.pddl
+etipp,printjob,2,8,47,12,1,79,54,23,0,1,211,993,1232,2225,3116,0,307,0,278,0,646,9,108,442,4047,91,54, 1193, 3056, 0.0762783, 2.56161, 33.5824, 0.593407, 56, 4.51648, 7.92737, 14, 4.51648, 3.27616, 594, 33.5824, 65.875,110, 23.8681, 29.962, 5, 0.769231, 1.46817, 27, 7.61538, 9.0999, 47, 7.83516, 14.1555, 27, 7.61538,9.0999,272, 417, 1338, 0.311659, 0.652278, 1, 11, 1.46703, 0, 11, 1.46703, 0, 29, 2.73077,0.0518383, 29,2.73077, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p09.pddl, 377, 442, 16, 66, 4.125000, -1, 0.063660, 0.426173, 0, 0.537037, 0.498626, 30.352949, 0.244344, 24,956,1,776,806,96,29,104,64,16,194,1324,6.82474,73,37,84,6.82474,81,13.7113,6.82474,78,12.9228,9,0,91,0,0,0,2,89,allfeatures-parcprinter,all-p09.pddl
+etipp,printjob,2,8,43,12,1,63,42,23,0,1,211,795,972,1767,2572,0,267,0,190,0,450,7,84,372,3295,73,42, 873, 2658, 0.0836197, 3.04467, 36.411, 0.575342, 44, 4.47945, 7.05965, 14, 4.47945, 3.26924, 378, 36.411, 55.7,122, 25.726, 33.5642, 5, 0.739726, 1.4527, 36, 8.31507, 11.4088, 53, 8.61644, 16.2376, 36, 8.31507,11.4088,216, 331, 1068, 0.309925, 0.652568, 1, 12, 1.46804, 0, 12, 1.46804, 0, 33, 2.65982,0.0577189, 33,2.65982, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p17.pddl, 267, 372, 14, 52, 3.714286, -1, 0.074906, 0.460019, 0, 0.547619, 0.497727, 24.059135, 0.225806, 20,636,1,524,544,74,23,79,50,14,151,911,6.03311,56,29,66,6.03311,60,10.9545,6.03311,65,11.0454,7,0,73,0,0,0,2,70,allfeatures-parcprinter,all-p17.pddl
+etipp,printjob,2,8,41,12,1,61,42,23,0,1,211,703,964,1667,2332,0,211,0,162,0,394,7,84,316,2763,71,42, 733, 2098, 0.0968622, 2.86221, 29.5493, 0.591549, 42, 4.46479, 6.86455, 14, 4.46479, 3.31378, 294, 29.5493, 43.2776,98, 21.493, 26.7049, 5, 0.788732, 1.46235, 24, 7.64789, 8.92867, 41, 7.22535, 12.4563, 24, 7.64789,8.92867,212, 327, 1048, 0.312023, 0.648318, 1, 12, 1.48122, 0, 12, 1.48122, 0, 33, 2.69249,0.0585033, 33,2.69249, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p06.pddl, 239, 316, 14, 50, 3.571429, -1, 0.083682, 0.449669, 0, 0.500000, 0.500000, 23.094933, 0.000000, 0,616,1,504,524,77,21,77,50,14,147,887,6.03401,52,29,66,6.03401,58,10.7238,6.03401,65,11.1355,7,0,71,0,0,0,2,66,allfeatures-parcprinter,all-p06.pddl
+upp,printjob,2,8,63,12,1,101,72,23,0,1,212,1540,1584,3124,4600,0,577,0,410,0,1012,12,216,697,6692,122,72, 1882, 5841, 0.0648247, 3.10361, 47.877, 0.590164, 72, 5.33607, 9.41015, 20, 5.33607, 5.05642, 864, 47.877, 104.098,140, 32.5082, 37.6742, 5, 1.11475, 1.68015, 36, 13.1393, 14.9229, 64, 13.6393, 20.4523, 36, 13.1393,14.9229,424, 474, 1472, 0.322011, 0.894515, 1, 16, 0.901157, 0.0448968, 14, 0.901157, 0.0448968, 39, 1.42093,0.0448968, 31,1.42093, 0.0448968,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/parcprinter/problems/p12.pddl, 614, 697, 19, 105, 5.526316, -2, 0.078176, 0.535769, 0, 0.625000, 0.695971, 37.820667, 0.550933, 276,1384,1,1150,1226,113,36,121,67,19,225,1721,7.64889,92,60,73,7.64889,75,13.6748,7.64889,95,16.4012,?,?,?,?,?,?,?,113,allfeatures-parcprinter,all-p12.pddl

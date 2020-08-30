@@ -1,0 +1,155 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : gripperlearning11
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+-------------------+---------+----------------+
+| planner |       domain      | problem | oktimefirstsol |
++---------+-------------------+---------+----------------+
+|  bfs-f  | gripperlearning11 |   000   |       -1       |
+|  bfs-f  | gripperlearning11 |   001   |       -1       |
+|  bfs-f  | gripperlearning11 |   002   |       -1       |
+|  bfs-f  | gripperlearning11 |   003   |       -1       |
+|  bfs-f  | gripperlearning11 |   004   |       -1       |
+|  bfs-f  | gripperlearning11 |   005   |       -1       |
+|  bfs-f  | gripperlearning11 |   006   |       -1       |
+|  bfs-f  | gripperlearning11 |   007   |       -1       |
+|  bfs-f  | gripperlearning11 |   008   |       -1       |
+|  bfs-f  | gripperlearning11 |   009   |       -1       |
+|  bfs-f  | gripperlearning11 |   010   |       -1       |
+|  bfs-f  | gripperlearning11 |   011   |       -1       |
+|  bfs-f  | gripperlearning11 |   012   |       -1       |
+|  bfs-f  | gripperlearning11 |   013   |       -1       |
+|  bfs-f  | gripperlearning11 |   014   |       -1       |
+|  bfs-f  | gripperlearning11 |   015   |       -1       |
+|  bfs-f  | gripperlearning11 |   016   |       -1       |
+|  bfs-f  | gripperlearning11 |   017   |       -1       |
+|  bfs-f  | gripperlearning11 |   018   |       -1       |
+|  bfs-f  | gripperlearning11 |   019   |       -1       |
+|  bfs-f  | gripperlearning11 |   020   |       -1       |
+|  bfs-f  | gripperlearning11 |   021   |       -1       |
+|  bfs-f  | gripperlearning11 |   022   |       -1       |
+|  bfs-f  | gripperlearning11 |   023   |       -1       |
+|  bfs-f  | gripperlearning11 |   024   |       -1       |
+|  bfs-f  | gripperlearning11 |   025   |       -1       |
+|  bfs-f  | gripperlearning11 |   026   |       -1       |
+|  bfs-f  | gripperlearning11 |   027   |       -1       |
+|  bfs-f  | gripperlearning11 |   028   |       -1       |
+|  bfs-f  | gripperlearning11 |   029   |       -1       |
+|  jasper | gripperlearning11 |   000   |       -1       |
+|  jasper | gripperlearning11 |   001   |       -1       |
+|  jasper | gripperlearning11 |   002   |       -1       |
+|  jasper | gripperlearning11 |   003   |       -1       |
+|  jasper | gripperlearning11 |   004   |       -1       |
+|  jasper | gripperlearning11 |   005   |       -1       |
+|  jasper | gripperlearning11 |   006   |       -1       |
+|  jasper | gripperlearning11 |   007   |       -1       |
+|  jasper | gripperlearning11 |   008   |       -1       |
+|  jasper | gripperlearning11 |   009   |       -1       |
+|  jasper | gripperlearning11 |   010   |       -1       |
+|  jasper | gripperlearning11 |   011   |       -1       |
+|  jasper | gripperlearning11 |   012   |       -1       |
+|  jasper | gripperlearning11 |   013   |       -1       |
+|  jasper | gripperlearning11 |   014   |       -1       |
+|  jasper | gripperlearning11 |   015   |       -1       |
+|  jasper | gripperlearning11 |   016   |       -1       |
+|  jasper | gripperlearning11 |   017   |       -1       |
+|  jasper | gripperlearning11 |   018   |       -1       |
+|  jasper | gripperlearning11 |   019   |       -1       |
+|  jasper | gripperlearning11 |   020   |       -1       |
+|  jasper | gripperlearning11 |   021   |       -1       |
+|  jasper | gripperlearning11 |   022   |       -1       |
+|  jasper | gripperlearning11 |   023   |       -1       |
+|  jasper | gripperlearning11 |   024   |       -1       |
+|  jasper | gripperlearning11 |   025   |       -1       |
+|  jasper | gripperlearning11 |   026   |       -1       |
+|  jasper | gripperlearning11 |   027   |       -1       |
+|  jasper | gripperlearning11 |   028   |       -1       |
+|  jasper | gripperlearning11 |   029   |       -1       |
+| mercury | gripperlearning11 |   000   |       -1       |
+| mercury | gripperlearning11 |   001   |       -1       |
+| mercury | gripperlearning11 |   002   |       -1       |
+| mercury | gripperlearning11 |   003   |       -1       |
+| mercury | gripperlearning11 |   004   |       -1       |
+| mercury | gripperlearning11 |   005   |       -1       |
+| mercury | gripperlearning11 |   006   |       -1       |
+| mercury | gripperlearning11 |   007   |       -1       |
+| mercury | gripperlearning11 |   008   |       -1       |
+| mercury | gripperlearning11 |   009   |       -1       |
+| mercury | gripperlearning11 |   010   |       -1       |
+| mercury | gripperlearning11 |   011   |       -1       |
+| mercury | gripperlearning11 |   012   |       -1       |
+| mercury | gripperlearning11 |   013   |       -1       |
+| mercury | gripperlearning11 |   014   |       -1       |
+| mercury | gripperlearning11 |   015   |       -1       |
+| mercury | gripperlearning11 |   016   |       -1       |
+| mercury | gripperlearning11 |   017   |       -1       |
+| mercury | gripperlearning11 |   018   |       -1       |
+| mercury | gripperlearning11 |   019   |       -1       |
+| mercury | gripperlearning11 |   020   |       -1       |
+| mercury | gripperlearning11 |   021   |       -1       |
+| mercury | gripperlearning11 |   022   |       -1       |
+| mercury | gripperlearning11 |   023   |       -1       |
+| mercury | gripperlearning11 |   024   |       -1       |
+| mercury | gripperlearning11 |   025   |       -1       |
+| mercury | gripperlearning11 |   026   |       -1       |
+| mercury | gripperlearning11 |   027   |       -1       |
+| mercury | gripperlearning11 |   028   |       -1       |
+| mercury | gripperlearning11 |   029   |       -1       |
+|   siw   | gripperlearning11 |   000   |       0        |
+|   siw   | gripperlearning11 |   001   |       0        |
+|   siw   | gripperlearning11 |   002   |       0        |
+|   siw   | gripperlearning11 |   003   |       0        |
+|   siw   | gripperlearning11 |   004   |       0        |
+|   siw   | gripperlearning11 |   005   |       0        |
+|   siw   | gripperlearning11 |   006   |       0        |
+|   siw   | gripperlearning11 |   007   |       0        |
+|   siw   | gripperlearning11 |   008   |       0        |
+|   siw   | gripperlearning11 |   009   |       0        |
+|   siw   | gripperlearning11 |   010   |       0        |
+|   siw   | gripperlearning11 |   011   |       0        |
+|   siw   | gripperlearning11 |   012   |       0        |
+|   siw   | gripperlearning11 |   013   |       0        |
+|   siw   | gripperlearning11 |   014   |       0        |
+|   siw   | gripperlearning11 |   015   |       0        |
+|   siw   | gripperlearning11 |   016   |       0        |
+|   siw   | gripperlearning11 |   017   |       0        |
+|   siw   | gripperlearning11 |   018   |       0        |
+|   siw   | gripperlearning11 |   019   |       0        |
+|   siw   | gripperlearning11 |   020   |       0        |
+|   siw   | gripperlearning11 |   021   |       0        |
+|   siw   | gripperlearning11 |   022   |       0        |
+|   siw   | gripperlearning11 |   023   |       0        |
+|   siw   | gripperlearning11 |   024   |       0        |
+|   siw   | gripperlearning11 |   025   |       0        |
+|   siw   | gripperlearning11 |   026   |       0        |
+|   siw   | gripperlearning11 |   027   |       0        |
+|   siw   | gripperlearning11 |   028   |       0        |
+|   siw   | gripperlearning11 |   029   |       0        |
++---------+-------------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:27:08 2018
+

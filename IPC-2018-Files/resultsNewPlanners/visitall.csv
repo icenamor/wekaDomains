@@ -1,0 +1,115 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : visitall
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+----------+---------+----------------+
+| planner |  domain  | problem | oktimefirstsol |
++---------+----------+---------+----------------+
+|  bfs-f  | visitall |   000   |       0        |
+|  bfs-f  | visitall |   001   |       1        |
+|  bfs-f  | visitall |   002   |       1        |
+|  bfs-f  | visitall |   003   |       2        |
+|  bfs-f  | visitall |   004   |       3        |
+|  bfs-f  | visitall |   005   |       0        |
+|  bfs-f  | visitall |   006   |       0        |
+|  bfs-f  | visitall |   007   |       1        |
+|  bfs-f  | visitall |   008   |       1        |
+|  bfs-f  | visitall |   009   |       1        |
+|  bfs-f  | visitall |   010   |       2        |
+|  bfs-f  | visitall |   011   |       3        |
+|  bfs-f  | visitall |   012   |       3        |
+|  bfs-f  | visitall |   013   |       4        |
+|  bfs-f  | visitall |   014   |       5        |
+|  bfs-f  | visitall |   015   |       6        |
+|  bfs-f  | visitall |   016   |       7        |
+|  bfs-f  | visitall |   017   |       10       |
+|  bfs-f  | visitall |   018   |       13       |
+|  bfs-f  | visitall |   019   |       18       |
+|  jasper | visitall |   000   |       -1       |
+|  jasper | visitall |   001   |       -1       |
+|  jasper | visitall |   002   |       -1       |
+|  jasper | visitall |   003   |       -1       |
+|  jasper | visitall |   004   |       -1       |
+|  jasper | visitall |   005   |       -1       |
+|  jasper | visitall |   006   |       -1       |
+|  jasper | visitall |   007   |       -1       |
+|  jasper | visitall |   008   |       -1       |
+|  jasper | visitall |   009   |       -1       |
+|  jasper | visitall |   010   |       -1       |
+|  jasper | visitall |   011   |       -1       |
+|  jasper | visitall |   012   |       -1       |
+|  jasper | visitall |   013   |       -1       |
+|  jasper | visitall |   014   |       -1       |
+|  jasper | visitall |   015   |       -1       |
+|  jasper | visitall |   016   |       -1       |
+|  jasper | visitall |   017   |       -1       |
+|  jasper | visitall |   018   |       -1       |
+|  jasper | visitall |   019   |       -1       |
+| mercury | visitall |   000   |       0        |
+| mercury | visitall |   001   |       1        |
+| mercury | visitall |   002   |       2        |
+| mercury | visitall |   003   |       1        |
+| mercury | visitall |   004   |       2        |
+| mercury | visitall |   005   |       2        |
+| mercury | visitall |   006   |       3        |
+| mercury | visitall |   007   |       4        |
+| mercury | visitall |   008   |       4        |
+| mercury | visitall |   009   |       6        |
+| mercury | visitall |   010   |       7        |
+| mercury | visitall |   011   |       10       |
+| mercury | visitall |   012   |       13       |
+| mercury | visitall |   013   |       20       |
+| mercury | visitall |   014   |       27       |
+| mercury | visitall |   015   |       36       |
+| mercury | visitall |   016   |       46       |
+| mercury | visitall |   017   |       60       |
+| mercury | visitall |   018   |       77       |
+| mercury | visitall |   019   |       97       |
+|   siw   | visitall |   000   |       0        |
+|   siw   | visitall |   001   |       0        |
+|   siw   | visitall |   002   |       0        |
+|   siw   | visitall |   003   |       0        |
+|   siw   | visitall |   004   |       1        |
+|   siw   | visitall |   005   |       0        |
+|   siw   | visitall |   006   |       0        |
+|   siw   | visitall |   007   |       1        |
+|   siw   | visitall |   008   |       2        |
+|   siw   | visitall |   009   |       3        |
+|   siw   | visitall |   010   |       4        |
+|   siw   | visitall |   011   |       5        |
+|   siw   | visitall |   012   |       8        |
+|   siw   | visitall |   013   |       11       |
+|   siw   | visitall |   014   |       13       |
+|   siw   | visitall |   015   |       19       |
+|   siw   | visitall |   016   |       25       |
+|   siw   | visitall |   017   |       32       |
+|   siw   | visitall |   018   |       41       |
+|   siw   | visitall |   019   |       51       |
++---------+----------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 16:57:16 2018
+

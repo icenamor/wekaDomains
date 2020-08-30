@@ -1,0 +1,115 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : floortile
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+-----------+---------+----------------+
+| planner |   domain  | problem | oktimefirstsol |
++---------+-----------+---------+----------------+
+|  bfs-f  | floortile |   000   |       2        |
+|  bfs-f  | floortile |   001   |       2        |
+|  bfs-f  | floortile |   002   |       10       |
+|  bfs-f  | floortile |   003   |      367       |
+|  bfs-f  | floortile |   004   |       14       |
+|  bfs-f  | floortile |   005   |       13       |
+|  bfs-f  | floortile |   006   |       45       |
+|  bfs-f  | floortile |   007   |      117       |
+|  bfs-f  | floortile |   008   |       -1       |
+|  bfs-f  | floortile |   009   |       -1       |
+|  bfs-f  | floortile |   010   |       -1       |
+|  bfs-f  | floortile |   011   |       -1       |
+|  bfs-f  | floortile |   012   |       -1       |
+|  bfs-f  | floortile |   013   |       -1       |
+|  bfs-f  | floortile |   014   |       -1       |
+|  bfs-f  | floortile |   015   |       -1       |
+|  bfs-f  | floortile |   016   |       -1       |
+|  bfs-f  | floortile |   017   |       -1       |
+|  bfs-f  | floortile |   018   |       -1       |
+|  bfs-f  | floortile |   019   |       -1       |
+|  jasper | floortile |   000   |       0        |
+|  jasper | floortile |   001   |       0        |
+|  jasper | floortile |   002   |       1        |
+|  jasper | floortile |   003   |       1        |
+|  jasper | floortile |   004   |       0        |
+|  jasper | floortile |   005   |       0        |
+|  jasper | floortile |   006   |       -1       |
+|  jasper | floortile |   007   |       -1       |
+|  jasper | floortile |   008   |       -1       |
+|  jasper | floortile |   009   |       -1       |
+|  jasper | floortile |   010   |       -1       |
+|  jasper | floortile |   011   |       -1       |
+|  jasper | floortile |   012   |       -1       |
+|  jasper | floortile |   013   |       -1       |
+|  jasper | floortile |   014   |       -1       |
+|  jasper | floortile |   015   |       -1       |
+|  jasper | floortile |   016   |       -1       |
+|  jasper | floortile |   017   |       -1       |
+|  jasper | floortile |   018   |       -1       |
+|  jasper | floortile |   019   |       -1       |
+| mercury | floortile |   000   |       0        |
+| mercury | floortile |   001   |       10       |
+| mercury | floortile |   002   |       2        |
+| mercury | floortile |   003   |      383       |
+| mercury | floortile |   004   |       90       |
+| mercury | floortile |   005   |       27       |
+| mercury | floortile |   006   |       -1       |
+| mercury | floortile |   007   |      463       |
+| mercury | floortile |   008   |       -1       |
+| mercury | floortile |   009   |       -1       |
+| mercury | floortile |   010   |       -1       |
+| mercury | floortile |   011   |       -1       |
+| mercury | floortile |   012   |       -1       |
+| mercury | floortile |   013   |       -1       |
+| mercury | floortile |   014   |       -1       |
+| mercury | floortile |   015   |       -1       |
+| mercury | floortile |   016   |       -1       |
+| mercury | floortile |   017   |       -1       |
+| mercury | floortile |   018   |       -1       |
+| mercury | floortile |   019   |       -1       |
+|   siw   | floortile |   000   |       -1       |
+|   siw   | floortile |   001   |       -1       |
+|   siw   | floortile |   002   |       -1       |
+|   siw   | floortile |   003   |       -1       |
+|   siw   | floortile |   004   |       -1       |
+|   siw   | floortile |   005   |       -1       |
+|   siw   | floortile |   006   |       -1       |
+|   siw   | floortile |   007   |       -1       |
+|   siw   | floortile |   008   |       -1       |
+|   siw   | floortile |   009   |       -1       |
+|   siw   | floortile |   010   |       -1       |
+|   siw   | floortile |   011   |       -1       |
+|   siw   | floortile |   012   |       -1       |
+|   siw   | floortile |   013   |       -1       |
+|   siw   | floortile |   014   |       -1       |
+|   siw   | floortile |   015   |       -1       |
+|   siw   | floortile |   016   |       -1       |
+|   siw   | floortile |   017   |       -1       |
+|   siw   | floortile |   018   |       -1       |
+|   siw   | floortile |   019   |       -1       |
++---------+-----------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:26:59 2018
+

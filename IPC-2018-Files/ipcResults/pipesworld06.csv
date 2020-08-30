@@ -1,0 +1,235 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : pipesworld06
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+--------------+---------+----------------+
+| planner |    domain    | problem | oktimefirstsol |
++---------+--------------+---------+----------------+
+|  bfs-f  | pipesworld06 |   000   |       0        |
+|  bfs-f  | pipesworld06 |   001   |       0        |
+|  bfs-f  | pipesworld06 |   002   |       0        |
+|  bfs-f  | pipesworld06 |   003   |       1        |
+|  bfs-f  | pipesworld06 |   004   |       0        |
+|  bfs-f  | pipesworld06 |   005   |       0        |
+|  bfs-f  | pipesworld06 |   006   |       0        |
+|  bfs-f  | pipesworld06 |   007   |       0        |
+|  bfs-f  | pipesworld06 |   008   |       9        |
+|  bfs-f  | pipesworld06 |   009   |       2        |
+|  bfs-f  | pipesworld06 |   010   |       3        |
+|  bfs-f  | pipesworld06 |   011   |       2        |
+|  bfs-f  | pipesworld06 |   012   |       1        |
+|  bfs-f  | pipesworld06 |   013   |       1        |
+|  bfs-f  | pipesworld06 |   014   |       3        |
+|  bfs-f  | pipesworld06 |   015   |       20       |
+|  bfs-f  | pipesworld06 |   016   |       19       |
+|  bfs-f  | pipesworld06 |   017   |       3        |
+|  bfs-f  | pipesworld06 |   018   |       7        |
+|  bfs-f  | pipesworld06 |   019   |       30       |
+|  bfs-f  | pipesworld06 |   020   |       0        |
+|  bfs-f  | pipesworld06 |   021   |       2        |
+|  bfs-f  | pipesworld06 |   022   |       56       |
+|  bfs-f  | pipesworld06 |   023   |       64       |
+|  bfs-f  | pipesworld06 |   024   |       21       |
+|  bfs-f  | pipesworld06 |   025   |      154       |
+|  bfs-f  | pipesworld06 |   026   |       63       |
+|  bfs-f  | pipesworld06 |   027   |       65       |
+|  bfs-f  | pipesworld06 |   028   |       78       |
+|  bfs-f  | pipesworld06 |   029   |      207       |
+|  bfs-f  | pipesworld06 |   030   |       40       |
+|  bfs-f  | pipesworld06 |   031   |       7        |
+|  bfs-f  | pipesworld06 |   032   |      588       |
+|  bfs-f  | pipesworld06 |   033   |       14       |
+|  bfs-f  | pipesworld06 |   034   |      1158      |
+|  bfs-f  | pipesworld06 |   035   |      122       |
+|  bfs-f  | pipesworld06 |   036   |       30       |
+|  bfs-f  | pipesworld06 |   037   |      160       |
+|  bfs-f  | pipesworld06 |   038   |      216       |
+|  bfs-f  | pipesworld06 |   039   |       0        |
+|  bfs-f  | pipesworld06 |   040   |       3        |
+|  bfs-f  | pipesworld06 |   041   |       0        |
+|  bfs-f  | pipesworld06 |   042   |       0        |
+|  bfs-f  | pipesworld06 |   043   |       0        |
+|  bfs-f  | pipesworld06 |   044   |       0        |
+|  bfs-f  | pipesworld06 |   045   |       0        |
+|  bfs-f  | pipesworld06 |   046   |       0        |
+|  bfs-f  | pipesworld06 |   047   |       0        |
+|  bfs-f  | pipesworld06 |   048   |      919       |
+|  bfs-f  | pipesworld06 |   049   |      569       |
+|  jasper | pipesworld06 |   000   |       -1       |
+|  jasper | pipesworld06 |   001   |       -1       |
+|  jasper | pipesworld06 |   002   |       -1       |
+|  jasper | pipesworld06 |   003   |       -1       |
+|  jasper | pipesworld06 |   004   |       -1       |
+|  jasper | pipesworld06 |   005   |       -1       |
+|  jasper | pipesworld06 |   006   |       -1       |
+|  jasper | pipesworld06 |   007   |       -1       |
+|  jasper | pipesworld06 |   008   |       -1       |
+|  jasper | pipesworld06 |   009   |       -1       |
+|  jasper | pipesworld06 |   010   |       -1       |
+|  jasper | pipesworld06 |   011   |       -1       |
+|  jasper | pipesworld06 |   012   |       -1       |
+|  jasper | pipesworld06 |   013   |       -1       |
+|  jasper | pipesworld06 |   014   |       -1       |
+|  jasper | pipesworld06 |   015   |       -1       |
+|  jasper | pipesworld06 |   016   |       -1       |
+|  jasper | pipesworld06 |   017   |       -1       |
+|  jasper | pipesworld06 |   018   |       -1       |
+|  jasper | pipesworld06 |   019   |       -1       |
+|  jasper | pipesworld06 |   020   |       -1       |
+|  jasper | pipesworld06 |   021   |       -1       |
+|  jasper | pipesworld06 |   022   |       -1       |
+|  jasper | pipesworld06 |   023   |       -1       |
+|  jasper | pipesworld06 |   024   |       -1       |
+|  jasper | pipesworld06 |   025   |       -1       |
+|  jasper | pipesworld06 |   026   |       -1       |
+|  jasper | pipesworld06 |   027   |       -1       |
+|  jasper | pipesworld06 |   028   |       -1       |
+|  jasper | pipesworld06 |   029   |       -1       |
+|  jasper | pipesworld06 |   030   |       -1       |
+|  jasper | pipesworld06 |   031   |       -1       |
+|  jasper | pipesworld06 |   032   |       -1       |
+|  jasper | pipesworld06 |   033   |       -1       |
+|  jasper | pipesworld06 |   034   |       -1       |
+|  jasper | pipesworld06 |   035   |       -1       |
+|  jasper | pipesworld06 |   036   |       -1       |
+|  jasper | pipesworld06 |   037   |       -1       |
+|  jasper | pipesworld06 |   038   |       -1       |
+|  jasper | pipesworld06 |   039   |       -1       |
+|  jasper | pipesworld06 |   040   |       -1       |
+|  jasper | pipesworld06 |   041   |       -1       |
+|  jasper | pipesworld06 |   042   |       -1       |
+|  jasper | pipesworld06 |   043   |       -1       |
+|  jasper | pipesworld06 |   044   |       -1       |
+|  jasper | pipesworld06 |   045   |       -1       |
+|  jasper | pipesworld06 |   046   |       -1       |
+|  jasper | pipesworld06 |   047   |       -1       |
+|  jasper | pipesworld06 |   048   |       -1       |
+|  jasper | pipesworld06 |   049   |       -1       |
+| mercury | pipesworld06 |   000   |       0        |
+| mercury | pipesworld06 |   001   |       1        |
+| mercury | pipesworld06 |   002   |       2        |
+| mercury | pipesworld06 |   003   |       1        |
+| mercury | pipesworld06 |   004   |       2        |
+| mercury | pipesworld06 |   005   |       1        |
+| mercury | pipesworld06 |   006   |       2        |
+| mercury | pipesworld06 |   007   |       3        |
+| mercury | pipesworld06 |   008   |       2        |
+| mercury | pipesworld06 |   009   |       3        |
+| mercury | pipesworld06 |   010   |       2        |
+| mercury | pipesworld06 |   011   |       2        |
+| mercury | pipesworld06 |   012   |       3        |
+| mercury | pipesworld06 |   013   |       2        |
+| mercury | pipesworld06 |   014   |       3        |
+| mercury | pipesworld06 |   015   |       4        |
+| mercury | pipesworld06 |   016   |       30       |
+| mercury | pipesworld06 |   017   |       3        |
+| mercury | pipesworld06 |   018   |       4        |
+| mercury | pipesworld06 |   019   |       6        |
+| mercury | pipesworld06 |   020   |       2        |
+| mercury | pipesworld06 |   021   |       -1       |
+| mercury | pipesworld06 |   022   |       5        |
+| mercury | pipesworld06 |   023   |       -1       |
+| mercury | pipesworld06 |   024   |       6        |
+| mercury | pipesworld06 |   025   |       26       |
+| mercury | pipesworld06 |   026   |       6        |
+| mercury | pipesworld06 |   027   |       -1       |
+| mercury | pipesworld06 |   028   |       11       |
+| mercury | pipesworld06 |   029   |       10       |
+| mercury | pipesworld06 |   030   |       12       |
+| mercury | pipesworld06 |   031   |       7        |
+| mercury | pipesworld06 |   032   |       26       |
+| mercury | pipesworld06 |   033   |       6        |
+| mercury | pipesworld06 |   034   |       12       |
+| mercury | pipesworld06 |   035   |       25       |
+| mercury | pipesworld06 |   036   |       20       |
+| mercury | pipesworld06 |   037   |       9        |
+| mercury | pipesworld06 |   038   |       10       |
+| mercury | pipesworld06 |   039   |       12       |
+| mercury | pipesworld06 |   040   |       6        |
+| mercury | pipesworld06 |   041   |       -1       |
+| mercury | pipesworld06 |   042   |       -1       |
+| mercury | pipesworld06 |   043   |       -1       |
+| mercury | pipesworld06 |   044   |       -1       |
+| mercury | pipesworld06 |   045   |       -1       |
+| mercury | pipesworld06 |   046   |       -1       |
+| mercury | pipesworld06 |   047   |       -1       |
+| mercury | pipesworld06 |   048   |       39       |
+| mercury | pipesworld06 |   049   |       48       |
+|   siw   | pipesworld06 |   000   |       0        |
+|   siw   | pipesworld06 |   001   |       0        |
+|   siw   | pipesworld06 |   002   |       0        |
+|   siw   | pipesworld06 |   003   |       0        |
+|   siw   | pipesworld06 |   004   |       0        |
+|   siw   | pipesworld06 |   005   |       0        |
+|   siw   | pipesworld06 |   006   |       0        |
+|   siw   | pipesworld06 |   007   |       0        |
+|   siw   | pipesworld06 |   008   |       1        |
+|   siw   | pipesworld06 |   009   |       1        |
+|   siw   | pipesworld06 |   010   |       1        |
+|   siw   | pipesworld06 |   011   |      194       |
+|   siw   | pipesworld06 |   012   |       1        |
+|   siw   | pipesworld06 |   013   |      294       |
+|   siw   | pipesworld06 |   014   |       65       |
+|   siw   | pipesworld06 |   015   |       8        |
+|   siw   | pipesworld06 |   016   |      174       |
+|   siw   | pipesworld06 |   017   |       3        |
+|   siw   | pipesworld06 |   018   |       6        |
+|   siw   | pipesworld06 |   019   |       43       |
+|   siw   | pipesworld06 |   020   |       1        |
+|   siw   | pipesworld06 |   021   |       2        |
+|   siw   | pipesworld06 |   022   |       0        |
+|   siw   | pipesworld06 |   023   |       8        |
+|   siw   | pipesworld06 |   024   |       65       |
+|   siw   | pipesworld06 |   025   |       75       |
+|   siw   | pipesworld06 |   026   |       66       |
+|   siw   | pipesworld06 |   027   |       0        |
+|   siw   | pipesworld06 |   028   |      205       |
+|   siw   | pipesworld06 |   029   |      356       |
+|   siw   | pipesworld06 |   030   |       0        |
+|   siw   | pipesworld06 |   031   |      1739      |
+|   siw   | pipesworld06 |   032   |       32       |
+|   siw   | pipesworld06 |   033   |       53       |
+|   siw   | pipesworld06 |   034   |      323       |
+|   siw   | pipesworld06 |   035   |       0        |
+|   siw   | pipesworld06 |   036   |       0        |
+|   siw   | pipesworld06 |   037   |       0        |
+|   siw   | pipesworld06 |   038   |       98       |
+|   siw   | pipesworld06 |   039   |       0        |
+|   siw   | pipesworld06 |   040   |       6        |
+|   siw   | pipesworld06 |   041   |       0        |
+|   siw   | pipesworld06 |   042   |       0        |
+|   siw   | pipesworld06 |   043   |       0        |
+|   siw   | pipesworld06 |   044   |      1467      |
+|   siw   | pipesworld06 |   045   |       0        |
+|   siw   | pipesworld06 |   046   |       0        |
+|   siw   | pipesworld06 |   047   |       0        |
+|   siw   | pipesworld06 |   048   |       0        |
+|   siw   | pipesworld06 |   049   |       0        |
++---------+--------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:28:23 2018
+

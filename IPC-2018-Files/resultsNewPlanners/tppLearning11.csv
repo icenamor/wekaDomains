@@ -1,0 +1,155 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : tppLearning11
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+---------------+---------+----------------+
+| planner |     domain    | problem | oktimefirstsol |
++---------+---------------+---------+----------------+
+|  bfs-f  | tppLearning11 |   000   |      121       |
+|  bfs-f  | tppLearning11 |   001   |       87       |
+|  bfs-f  | tppLearning11 |   002   |      104       |
+|  bfs-f  | tppLearning11 |   003   |      106       |
+|  bfs-f  | tppLearning11 |   004   |      127       |
+|  bfs-f  | tppLearning11 |   005   |      193       |
+|  bfs-f  | tppLearning11 |   006   |      153       |
+|  bfs-f  | tppLearning11 |   007   |      171       |
+|  bfs-f  | tppLearning11 |   008   |      152       |
+|  bfs-f  | tppLearning11 |   009   |      148       |
+|  bfs-f  | tppLearning11 |   010   |      236       |
+|  bfs-f  | tppLearning11 |   011   |      306       |
+|  bfs-f  | tppLearning11 |   012   |      344       |
+|  bfs-f  | tppLearning11 |   013   |      422       |
+|  bfs-f  | tppLearning11 |   014   |      329       |
+|  bfs-f  | tppLearning11 |   015   |      555       |
+|  bfs-f  | tppLearning11 |   016   |      593       |
+|  bfs-f  | tppLearning11 |   017   |      717       |
+|  bfs-f  | tppLearning11 |   018   |      736       |
+|  bfs-f  | tppLearning11 |   019   |      690       |
+|  bfs-f  | tppLearning11 |   020   |      1625      |
+|  bfs-f  | tppLearning11 |   021   |      1757      |
+|  bfs-f  | tppLearning11 |   022   |      1405      |
+|  bfs-f  | tppLearning11 |   023   |      1780      |
+|  bfs-f  | tppLearning11 |   024   |      1628      |
+|  bfs-f  | tppLearning11 |   025   |      1580      |
+|  bfs-f  | tppLearning11 |   026   |      1456      |
+|  bfs-f  | tppLearning11 |   027   |       0        |
+|  bfs-f  | tppLearning11 |   028   |      1268      |
+|  bfs-f  | tppLearning11 |   029   |      1799      |
+|  jasper | tppLearning11 |   000   |       -1       |
+|  jasper | tppLearning11 |   001   |       -1       |
+|  jasper | tppLearning11 |   002   |       -1       |
+|  jasper | tppLearning11 |   003   |       -1       |
+|  jasper | tppLearning11 |   004   |       -1       |
+|  jasper | tppLearning11 |   005   |       -1       |
+|  jasper | tppLearning11 |   006   |       -1       |
+|  jasper | tppLearning11 |   007   |       -1       |
+|  jasper | tppLearning11 |   008   |       -1       |
+|  jasper | tppLearning11 |   009   |       -1       |
+|  jasper | tppLearning11 |   010   |       -1       |
+|  jasper | tppLearning11 |   011   |       -1       |
+|  jasper | tppLearning11 |   012   |       -1       |
+|  jasper | tppLearning11 |   013   |       -1       |
+|  jasper | tppLearning11 |   014   |       -1       |
+|  jasper | tppLearning11 |   015   |       -1       |
+|  jasper | tppLearning11 |   016   |       -1       |
+|  jasper | tppLearning11 |   017   |       -1       |
+|  jasper | tppLearning11 |   018   |       -1       |
+|  jasper | tppLearning11 |   019   |       -1       |
+|  jasper | tppLearning11 |   020   |       -1       |
+|  jasper | tppLearning11 |   021   |       -1       |
+|  jasper | tppLearning11 |   022   |       -1       |
+|  jasper | tppLearning11 |   023   |       -1       |
+|  jasper | tppLearning11 |   024   |       -1       |
+|  jasper | tppLearning11 |   025   |       -1       |
+|  jasper | tppLearning11 |   026   |       -1       |
+|  jasper | tppLearning11 |   027   |       -1       |
+|  jasper | tppLearning11 |   028   |       -1       |
+|  jasper | tppLearning11 |   029   |       -1       |
+| mercury | tppLearning11 |   000   |       28       |
+| mercury | tppLearning11 |   001   |       20       |
+| mercury | tppLearning11 |   002   |       26       |
+| mercury | tppLearning11 |   003   |       28       |
+| mercury | tppLearning11 |   004   |       25       |
+| mercury | tppLearning11 |   005   |       60       |
+| mercury | tppLearning11 |   006   |       33       |
+| mercury | tppLearning11 |   007   |       73       |
+| mercury | tppLearning11 |   008   |       27       |
+| mercury | tppLearning11 |   009   |       44       |
+| mercury | tppLearning11 |   010   |       76       |
+| mercury | tppLearning11 |   011   |       64       |
+| mercury | tppLearning11 |   012   |       72       |
+| mercury | tppLearning11 |   013   |       94       |
+| mercury | tppLearning11 |   014   |       56       |
+| mercury | tppLearning11 |   015   |      117       |
+| mercury | tppLearning11 |   016   |      134       |
+| mercury | tppLearning11 |   017   |      247       |
+| mercury | tppLearning11 |   018   |      448       |
+| mercury | tppLearning11 |   019   |      190       |
+| mercury | tppLearning11 |   020   |      630       |
+| mercury | tppLearning11 |   021   |      487       |
+| mercury | tppLearning11 |   022   |       -1       |
+| mercury | tppLearning11 |   023   |      453       |
+| mercury | tppLearning11 |   024   |      1576      |
+| mercury | tppLearning11 |   025   |      692       |
+| mercury | tppLearning11 |   026   |      286       |
+| mercury | tppLearning11 |   027   |      825       |
+| mercury | tppLearning11 |   028   |      783       |
+| mercury | tppLearning11 |   029   |      532       |
+|   siw   | tppLearning11 |   000   |      676       |
+|   siw   | tppLearning11 |   001   |      685       |
+|   siw   | tppLearning11 |   002   |       0        |
+|   siw   | tppLearning11 |   003   |      682       |
+|   siw   | tppLearning11 |   004   |       0        |
+|   siw   | tppLearning11 |   005   |       0        |
+|   siw   | tppLearning11 |   006   |       0        |
+|   siw   | tppLearning11 |   007   |       0        |
+|   siw   | tppLearning11 |   008   |       0        |
+|   siw   | tppLearning11 |   009   |       0        |
+|   siw   | tppLearning11 |   010   |       0        |
+|   siw   | tppLearning11 |   011   |       0        |
+|   siw   | tppLearning11 |   012   |       0        |
+|   siw   | tppLearning11 |   013   |       0        |
+|   siw   | tppLearning11 |   014   |       0        |
+|   siw   | tppLearning11 |   015   |       0        |
+|   siw   | tppLearning11 |   016   |       0        |
+|   siw   | tppLearning11 |   017   |       0        |
+|   siw   | tppLearning11 |   018   |       0        |
+|   siw   | tppLearning11 |   019   |       0        |
+|   siw   | tppLearning11 |   020   |       0        |
+|   siw   | tppLearning11 |   021   |       0        |
+|   siw   | tppLearning11 |   022   |       0        |
+|   siw   | tppLearning11 |   023   |       0        |
+|   siw   | tppLearning11 |   024   |       0        |
+|   siw   | tppLearning11 |   025   |       0        |
+|   siw   | tppLearning11 |   026   |       0        |
+|   siw   | tppLearning11 |   027   |       0        |
+|   siw   | tppLearning11 |   028   |       0        |
+|   siw   | tppLearning11 |   029   |       0        |
++---------+---------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 16:56:55 2018
+

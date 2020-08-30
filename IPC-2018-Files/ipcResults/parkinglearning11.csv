@@ -1,0 +1,155 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : parkinglearning11
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+-------------------+---------+----------------+
+| planner |       domain      | problem | oktimefirstsol |
++---------+-------------------+---------+----------------+
+|  bfs-f  | parkinglearning11 |   000   |      838       |
+|  bfs-f  | parkinglearning11 |   001   |      937       |
+|  bfs-f  | parkinglearning11 |   002   |      314       |
+|  bfs-f  | parkinglearning11 |   003   |      1195      |
+|  bfs-f  | parkinglearning11 |   004   |      1030      |
+|  bfs-f  | parkinglearning11 |   005   |      794       |
+|  bfs-f  | parkinglearning11 |   006   |       0        |
+|  bfs-f  | parkinglearning11 |   007   |       0        |
+|  bfs-f  | parkinglearning11 |   008   |       0        |
+|  bfs-f  | parkinglearning11 |   009   |       0        |
+|  bfs-f  | parkinglearning11 |   010   |       0        |
+|  bfs-f  | parkinglearning11 |   011   |       0        |
+|  bfs-f  | parkinglearning11 |   012   |       0        |
+|  bfs-f  | parkinglearning11 |   013   |       0        |
+|  bfs-f  | parkinglearning11 |   014   |       0        |
+|  bfs-f  | parkinglearning11 |   015   |       0        |
+|  bfs-f  | parkinglearning11 |   016   |       0        |
+|  bfs-f  | parkinglearning11 |   017   |       0        |
+|  bfs-f  | parkinglearning11 |   018   |       0        |
+|  bfs-f  | parkinglearning11 |   019   |       0        |
+|  bfs-f  | parkinglearning11 |   020   |       0        |
+|  bfs-f  | parkinglearning11 |   021   |       0        |
+|  bfs-f  | parkinglearning11 |   022   |       0        |
+|  bfs-f  | parkinglearning11 |   023   |       0        |
+|  bfs-f  | parkinglearning11 |   024   |       0        |
+|  bfs-f  | parkinglearning11 |   025   |       0        |
+|  bfs-f  | parkinglearning11 |   026   |       0        |
+|  bfs-f  | parkinglearning11 |   027   |       0        |
+|  bfs-f  | parkinglearning11 |   028   |       0        |
+|  bfs-f  | parkinglearning11 |   029   |       0        |
+|  jasper | parkinglearning11 |   000   |       -1       |
+|  jasper | parkinglearning11 |   001   |       -1       |
+|  jasper | parkinglearning11 |   002   |       -1       |
+|  jasper | parkinglearning11 |   003   |       -1       |
+|  jasper | parkinglearning11 |   004   |       -1       |
+|  jasper | parkinglearning11 |   005   |       -1       |
+|  jasper | parkinglearning11 |   006   |       -1       |
+|  jasper | parkinglearning11 |   007   |       -1       |
+|  jasper | parkinglearning11 |   008   |       -1       |
+|  jasper | parkinglearning11 |   009   |       -1       |
+|  jasper | parkinglearning11 |   010   |       -1       |
+|  jasper | parkinglearning11 |   011   |       -1       |
+|  jasper | parkinglearning11 |   012   |       -1       |
+|  jasper | parkinglearning11 |   013   |       -1       |
+|  jasper | parkinglearning11 |   014   |       -1       |
+|  jasper | parkinglearning11 |   015   |       -1       |
+|  jasper | parkinglearning11 |   016   |       -1       |
+|  jasper | parkinglearning11 |   017   |       -1       |
+|  jasper | parkinglearning11 |   018   |       -1       |
+|  jasper | parkinglearning11 |   019   |       -1       |
+|  jasper | parkinglearning11 |   020   |       -1       |
+|  jasper | parkinglearning11 |   021   |       -1       |
+|  jasper | parkinglearning11 |   022   |       -1       |
+|  jasper | parkinglearning11 |   023   |       -1       |
+|  jasper | parkinglearning11 |   024   |       -1       |
+|  jasper | parkinglearning11 |   025   |       -1       |
+|  jasper | parkinglearning11 |   026   |       -1       |
+|  jasper | parkinglearning11 |   027   |       -1       |
+|  jasper | parkinglearning11 |   028   |       -1       |
+|  jasper | parkinglearning11 |   029   |       -1       |
+| mercury | parkinglearning11 |   000   |       87       |
+| mercury | parkinglearning11 |   001   |      111       |
+| mercury | parkinglearning11 |   002   |      120       |
+| mercury | parkinglearning11 |   003   |      130       |
+| mercury | parkinglearning11 |   004   |      179       |
+| mercury | parkinglearning11 |   005   |       94       |
+| mercury | parkinglearning11 |   006   |      1036      |
+| mercury | parkinglearning11 |   007   |      1060      |
+| mercury | parkinglearning11 |   008   |      1189      |
+| mercury | parkinglearning11 |   009   |      116       |
+| mercury | parkinglearning11 |   010   |       -1       |
+| mercury | parkinglearning11 |   011   |       -1       |
+| mercury | parkinglearning11 |   012   |       -1       |
+| mercury | parkinglearning11 |   013   |       -1       |
+| mercury | parkinglearning11 |   014   |       -1       |
+| mercury | parkinglearning11 |   015   |       -1       |
+| mercury | parkinglearning11 |   016   |       -1       |
+| mercury | parkinglearning11 |   017   |       -1       |
+| mercury | parkinglearning11 |   018   |       -1       |
+| mercury | parkinglearning11 |   019   |       -1       |
+| mercury | parkinglearning11 |   020   |       -1       |
+| mercury | parkinglearning11 |   021   |       -1       |
+| mercury | parkinglearning11 |   022   |       -1       |
+| mercury | parkinglearning11 |   023   |       -1       |
+| mercury | parkinglearning11 |   024   |       -1       |
+| mercury | parkinglearning11 |   025   |       -1       |
+| mercury | parkinglearning11 |   026   |       -1       |
+| mercury | parkinglearning11 |   027   |       -1       |
+| mercury | parkinglearning11 |   028   |       -1       |
+| mercury | parkinglearning11 |   029   |       -1       |
+|   siw   | parkinglearning11 |   000   |       7        |
+|   siw   | parkinglearning11 |   001   |       7        |
+|   siw   | parkinglearning11 |   002   |       10       |
+|   siw   | parkinglearning11 |   003   |       43       |
+|   siw   | parkinglearning11 |   004   |       17       |
+|   siw   | parkinglearning11 |   005   |       28       |
+|   siw   | parkinglearning11 |   006   |       19       |
+|   siw   | parkinglearning11 |   007   |       64       |
+|   siw   | parkinglearning11 |   008   |      258       |
+|   siw   | parkinglearning11 |   009   |       54       |
+|   siw   | parkinglearning11 |   010   |       92       |
+|   siw   | parkinglearning11 |   011   |       38       |
+|   siw   | parkinglearning11 |   012   |      1018      |
+|   siw   | parkinglearning11 |   013   |       51       |
+|   siw   | parkinglearning11 |   014   |       77       |
+|   siw   | parkinglearning11 |   015   |      122       |
+|   siw   | parkinglearning11 |   016   |      110       |
+|   siw   | parkinglearning11 |   017   |      307       |
+|   siw   | parkinglearning11 |   018   |       70       |
+|   siw   | parkinglearning11 |   019   |      823       |
+|   siw   | parkinglearning11 |   020   |      234       |
+|   siw   | parkinglearning11 |   021   |      1434      |
+|   siw   | parkinglearning11 |   022   |      190       |
+|   siw   | parkinglearning11 |   023   |       0        |
+|   siw   | parkinglearning11 |   024   |      1552      |
+|   siw   | parkinglearning11 |   025   |       0        |
+|   siw   | parkinglearning11 |   026   |       0        |
+|   siw   | parkinglearning11 |   027   |       0        |
+|   siw   | parkinglearning11 |   028   |       0        |
+|   siw   | parkinglearning11 |   029   |       0        |
++---------+-------------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:28:05 2018
+

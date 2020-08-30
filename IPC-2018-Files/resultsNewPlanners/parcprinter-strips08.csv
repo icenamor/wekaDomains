@@ -1,0 +1,155 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : parcprinter-strips08
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+----------------------+---------+----------------+
+| planner |        domain        | problem | oktimefirstsol |
++---------+----------------------+---------+----------------+
+|  bfs-f  | parcprinter-strips08 |   000   |       0        |
+|  bfs-f  | parcprinter-strips08 |   001   |       0        |
+|  bfs-f  | parcprinter-strips08 |   002   |       0        |
+|  bfs-f  | parcprinter-strips08 |   003   |       0        |
+|  bfs-f  | parcprinter-strips08 |   004   |       1        |
+|  bfs-f  | parcprinter-strips08 |   005   |       0        |
+|  bfs-f  | parcprinter-strips08 |   006   |       0        |
+|  bfs-f  | parcprinter-strips08 |   007   |       1        |
+|  bfs-f  | parcprinter-strips08 |   008   |       1        |
+|  bfs-f  | parcprinter-strips08 |   009   |       3        |
+|  bfs-f  | parcprinter-strips08 |   010   |       0        |
+|  bfs-f  | parcprinter-strips08 |   011   |       0        |
+|  bfs-f  | parcprinter-strips08 |   012   |       0        |
+|  bfs-f  | parcprinter-strips08 |   013   |       1        |
+|  bfs-f  | parcprinter-strips08 |   014   |       1        |
+|  bfs-f  | parcprinter-strips08 |   015   |       0        |
+|  bfs-f  | parcprinter-strips08 |   016   |       1        |
+|  bfs-f  | parcprinter-strips08 |   017   |       2        |
+|  bfs-f  | parcprinter-strips08 |   018   |       4        |
+|  bfs-f  | parcprinter-strips08 |   019   |       5        |
+|  bfs-f  | parcprinter-strips08 |   020   |       0        |
+|  bfs-f  | parcprinter-strips08 |   021   |       0        |
+|  bfs-f  | parcprinter-strips08 |   022   |       0        |
+|  bfs-f  | parcprinter-strips08 |   023   |       1        |
+|  bfs-f  | parcprinter-strips08 |   024   |       0        |
+|  bfs-f  | parcprinter-strips08 |   025   |       5        |
+|  bfs-f  | parcprinter-strips08 |   026   |       16       |
+|  bfs-f  | parcprinter-strips08 |   027   |      478       |
+|  bfs-f  | parcprinter-strips08 |   028   |      868       |
+|  bfs-f  | parcprinter-strips08 |   029   |      149       |
+|  jasper | parcprinter-strips08 |   000   |       0        |
+|  jasper | parcprinter-strips08 |   001   |       0        |
+|  jasper | parcprinter-strips08 |   002   |       0        |
+|  jasper | parcprinter-strips08 |   003   |       0        |
+|  jasper | parcprinter-strips08 |   004   |       0        |
+|  jasper | parcprinter-strips08 |   005   |       1        |
+|  jasper | parcprinter-strips08 |   006   |       0        |
+|  jasper | parcprinter-strips08 |   007   |       1        |
+|  jasper | parcprinter-strips08 |   008   |       1        |
+|  jasper | parcprinter-strips08 |   009   |       0        |
+|  jasper | parcprinter-strips08 |   010   |       0        |
+|  jasper | parcprinter-strips08 |   011   |       0        |
+|  jasper | parcprinter-strips08 |   012   |       0        |
+|  jasper | parcprinter-strips08 |   013   |       0        |
+|  jasper | parcprinter-strips08 |   014   |       1        |
+|  jasper | parcprinter-strips08 |   015   |       0        |
+|  jasper | parcprinter-strips08 |   016   |       0        |
+|  jasper | parcprinter-strips08 |   017   |       0        |
+|  jasper | parcprinter-strips08 |   018   |       0        |
+|  jasper | parcprinter-strips08 |   019   |       0        |
+|  jasper | parcprinter-strips08 |   020   |       0        |
+|  jasper | parcprinter-strips08 |   021   |       0        |
+|  jasper | parcprinter-strips08 |   022   |       0        |
+|  jasper | parcprinter-strips08 |   023   |       1        |
+|  jasper | parcprinter-strips08 |   024   |       0        |
+|  jasper | parcprinter-strips08 |   025   |       0        |
+|  jasper | parcprinter-strips08 |   026   |       0        |
+|  jasper | parcprinter-strips08 |   027   |       1        |
+|  jasper | parcprinter-strips08 |   028   |       1        |
+|  jasper | parcprinter-strips08 |   029   |       1        |
+| mercury | parcprinter-strips08 |   000   |       1        |
+| mercury | parcprinter-strips08 |   001   |       0        |
+| mercury | parcprinter-strips08 |   002   |       0        |
+| mercury | parcprinter-strips08 |   003   |       1        |
+| mercury | parcprinter-strips08 |   004   |       0        |
+| mercury | parcprinter-strips08 |   005   |       1        |
+| mercury | parcprinter-strips08 |   006   |       1        |
+| mercury | parcprinter-strips08 |   007   |       1        |
+| mercury | parcprinter-strips08 |   008   |       1        |
+| mercury | parcprinter-strips08 |   009   |       1        |
+| mercury | parcprinter-strips08 |   010   |       1        |
+| mercury | parcprinter-strips08 |   011   |       0        |
+| mercury | parcprinter-strips08 |   012   |       1        |
+| mercury | parcprinter-strips08 |   013   |       1        |
+| mercury | parcprinter-strips08 |   014   |       1        |
+| mercury | parcprinter-strips08 |   015   |       1        |
+| mercury | parcprinter-strips08 |   016   |       1        |
+| mercury | parcprinter-strips08 |   017   |       1        |
+| mercury | parcprinter-strips08 |   018   |       2        |
+| mercury | parcprinter-strips08 |   019   |       2        |
+| mercury | parcprinter-strips08 |   020   |       1        |
+| mercury | parcprinter-strips08 |   021   |       0        |
+| mercury | parcprinter-strips08 |   022   |       0        |
+| mercury | parcprinter-strips08 |   023   |       0        |
+| mercury | parcprinter-strips08 |   024   |       0        |
+| mercury | parcprinter-strips08 |   025   |       1        |
+| mercury | parcprinter-strips08 |   026   |       0        |
+| mercury | parcprinter-strips08 |   027   |       1        |
+| mercury | parcprinter-strips08 |   028   |       1        |
+| mercury | parcprinter-strips08 |   029   |       1        |
+|   siw   | parcprinter-strips08 |   000   |       0        |
+|   siw   | parcprinter-strips08 |   001   |       0        |
+|   siw   | parcprinter-strips08 |   002   |       0        |
+|   siw   | parcprinter-strips08 |   003   |       0        |
+|   siw   | parcprinter-strips08 |   004   |       0        |
+|   siw   | parcprinter-strips08 |   005   |       0        |
+|   siw   | parcprinter-strips08 |   006   |       0        |
+|   siw   | parcprinter-strips08 |   007   |       0        |
+|   siw   | parcprinter-strips08 |   008   |       0        |
+|   siw   | parcprinter-strips08 |   009   |       0        |
+|   siw   | parcprinter-strips08 |   010   |       0        |
+|   siw   | parcprinter-strips08 |   011   |       0        |
+|   siw   | parcprinter-strips08 |   012   |       0        |
+|   siw   | parcprinter-strips08 |   013   |       0        |
+|   siw   | parcprinter-strips08 |   014   |       0        |
+|   siw   | parcprinter-strips08 |   015   |       0        |
+|   siw   | parcprinter-strips08 |   016   |       0        |
+|   siw   | parcprinter-strips08 |   017   |       0        |
+|   siw   | parcprinter-strips08 |   018   |       0        |
+|   siw   | parcprinter-strips08 |   019   |       1        |
+|   siw   | parcprinter-strips08 |   020   |       0        |
+|   siw   | parcprinter-strips08 |   021   |       0        |
+|   siw   | parcprinter-strips08 |   022   |       0        |
+|   siw   | parcprinter-strips08 |   023   |       0        |
+|   siw   | parcprinter-strips08 |   024   |       0        |
+|   siw   | parcprinter-strips08 |   025   |       0        |
+|   siw   | parcprinter-strips08 |   026   |       0        |
+|   siw   | parcprinter-strips08 |   027   |       0        |
+|   siw   | parcprinter-strips08 |   028   |       0        |
+|   siw   | parcprinter-strips08 |   029   |       0        |
++---------+----------------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 16:55:21 2018
+

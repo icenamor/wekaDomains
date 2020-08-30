@@ -1,0 +1,235 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : barman
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+------------------+---------+----------------+
+| planner |      domain      | problem | oktimefirstsol |
++---------+------------------+---------+----------------+
+|  bfs-f  |      barman      |   000   |       0        |
+|  bfs-f  |      barman      |   001   |       1        |
+|  bfs-f  |      barman      |   002   |       1        |
+|  bfs-f  |      barman      |   003   |       0        |
+|  bfs-f  |      barman      |   004   |       0        |
+|  bfs-f  |      barman      |   005   |       0        |
+|  bfs-f  |      barman      |   006   |       0        |
+|  bfs-f  |      barman      |   007   |       0        |
+|  bfs-f  |      barman      |   008   |       0        |
+|  bfs-f  |      barman      |   009   |       1        |
+|  bfs-f  |      barman      |   010   |       1        |
+|  bfs-f  |      barman      |   011   |       1        |
+|  bfs-f  |      barman      |   012   |       0        |
+|  bfs-f  |      barman      |   013   |       0        |
+|  bfs-f  |      barman      |   014   |       1        |
+|  bfs-f  |      barman      |   015   |       1        |
+|  bfs-f  |      barman      |   016   |       1        |
+|  bfs-f  |      barman      |   017   |       19       |
+|  bfs-f  |      barman      |   018   |       1        |
+|  bfs-f  |      barman      |   019   |       1        |
+|  jasper |      barman      |   000   |       0        |
+|  jasper |      barman      |   001   |       0        |
+|  jasper |      barman      |   002   |       1        |
+|  jasper |      barman      |   003   |       1        |
+|  jasper |      barman      |   004   |       0        |
+|  jasper |      barman      |   005   |       1        |
+|  jasper |      barman      |   006   |       1        |
+|  jasper |      barman      |   007   |       1        |
+|  jasper |      barman      |   008   |       1        |
+|  jasper |      barman      |   009   |       1        |
+|  jasper |      barman      |   010   |       0        |
+|  jasper |      barman      |   011   |       1        |
+|  jasper |      barman      |   012   |       1        |
+|  jasper |      barman      |   013   |       1        |
+|  jasper |      barman      |   014   |       1        |
+|  jasper |      barman      |   015   |       1        |
+|  jasper |      barman      |   016   |       1        |
+|  jasper |      barman      |   017   |       1        |
+|  jasper |      barman      |   018   |       1        |
+|  jasper |      barman      |   019   |       2        |
+| mercury |      barman      |   000   |       3        |
+| mercury |      barman      |   001   |       3        |
+| mercury |      barman      |   002   |       3        |
+| mercury |      barman      |   003   |       2        |
+| mercury |      barman      |   004   |       3        |
+| mercury |      barman      |   005   |       4        |
+| mercury |      barman      |   006   |       3        |
+| mercury |      barman      |   007   |       17       |
+| mercury |      barman      |   008   |       70       |
+| mercury |      barman      |   009   |      523       |
+| mercury |      barman      |   010   |       18       |
+| mercury |      barman      |   011   |       5        |
+| mercury |      barman      |   012   |      300       |
+| mercury |      barman      |   013   |       5        |
+| mercury |      barman      |   014   |       3        |
+| mercury |      barman      |   015   |       5        |
+| mercury |      barman      |   016   |      120       |
+| mercury |      barman      |   017   |       5        |
+| mercury |      barman      |   018   |       4        |
+| mercury |      barman      |   019   |      584       |
+|   siw   |      barman      |   000   |      113       |
+|   siw   |      barman      |   001   |       -1       |
+|   siw   |      barman      |   002   |       -1       |
+|   siw   |      barman      |   003   |      111       |
+|   siw   |      barman      |   004   |       -1       |
+|   siw   |      barman      |   005   |      205       |
+|   siw   |      barman      |   006   |      203       |
+|   siw   |      barman      |   007   |       -1       |
+|   siw   |      barman      |   008   |       -1       |
+|   siw   |      barman      |   009   |       -1       |
+|   siw   |      barman      |   010   |       -1       |
+|   siw   |      barman      |   011   |       -1       |
+|   siw   |      barman      |   012   |      838       |
+|   siw   |      barman      |   013   |      798       |
+|   siw   |      barman      |   014   |      1099      |
+|   siw   |      barman      |   015   |       -1       |
+|   siw   |      barman      |   016   |      1465      |
+|   siw   |      barman      |   017   |      1002      |
+|   siw   |      barman      |   018   |      1642      |
+|   siw   |      barman      |   019   |       -1       |
+|  bfs-f  | barmanlearning11 |   000   |       5        |
+|  bfs-f  | barmanlearning11 |   001   |       5        |
+|  bfs-f  | barmanlearning11 |   002   |       5        |
+|  bfs-f  | barmanlearning11 |   003   |       4        |
+|  bfs-f  | barmanlearning11 |   004   |       4        |
+|  bfs-f  | barmanlearning11 |   005   |       8        |
+|  bfs-f  | barmanlearning11 |   006   |       8        |
+|  bfs-f  | barmanlearning11 |   007   |       9        |
+|  bfs-f  | barmanlearning11 |   008   |       10       |
+|  bfs-f  | barmanlearning11 |   009   |       8        |
+|  bfs-f  | barmanlearning11 |   010   |       11       |
+|  bfs-f  | barmanlearning11 |   011   |       14       |
+|  bfs-f  | barmanlearning11 |   012   |       12       |
+|  bfs-f  | barmanlearning11 |   013   |       12       |
+|  bfs-f  | barmanlearning11 |   014   |       12       |
+|  bfs-f  | barmanlearning11 |   015   |       17       |
+|  bfs-f  | barmanlearning11 |   016   |       17       |
+|  bfs-f  | barmanlearning11 |   017   |       15       |
+|  bfs-f  | barmanlearning11 |   018   |       17       |
+|  bfs-f  | barmanlearning11 |   019   |       19       |
+|  bfs-f  | barmanlearning11 |   020   |       23       |
+|  bfs-f  | barmanlearning11 |   021   |       25       |
+|  bfs-f  | barmanlearning11 |   022   |       25       |
+|  bfs-f  | barmanlearning11 |   023   |       23       |
+|  bfs-f  | barmanlearning11 |   024   |       21       |
+|  bfs-f  | barmanlearning11 |   025   |       32       |
+|  bfs-f  | barmanlearning11 |   026   |       31       |
+|  bfs-f  | barmanlearning11 |   027   |       38       |
+|  bfs-f  | barmanlearning11 |   028   |       32       |
+|  bfs-f  | barmanlearning11 |   029   |       34       |
+|  jasper | barmanlearning11 |   000   |       -1       |
+|  jasper | barmanlearning11 |   001   |       -1       |
+|  jasper | barmanlearning11 |   002   |       -1       |
+|  jasper | barmanlearning11 |   003   |       -1       |
+|  jasper | barmanlearning11 |   004   |       -1       |
+|  jasper | barmanlearning11 |   005   |       -1       |
+|  jasper | barmanlearning11 |   006   |       -1       |
+|  jasper | barmanlearning11 |   007   |       -1       |
+|  jasper | barmanlearning11 |   008   |       -1       |
+|  jasper | barmanlearning11 |   009   |       -1       |
+|  jasper | barmanlearning11 |   010   |       -1       |
+|  jasper | barmanlearning11 |   011   |       -1       |
+|  jasper | barmanlearning11 |   012   |       -1       |
+|  jasper | barmanlearning11 |   013   |       -1       |
+|  jasper | barmanlearning11 |   014   |       -1       |
+|  jasper | barmanlearning11 |   015   |       -1       |
+|  jasper | barmanlearning11 |   016   |       -1       |
+|  jasper | barmanlearning11 |   017   |       -1       |
+|  jasper | barmanlearning11 |   018   |       -1       |
+|  jasper | barmanlearning11 |   019   |       -1       |
+|  jasper | barmanlearning11 |   020   |       -1       |
+|  jasper | barmanlearning11 |   021   |       -1       |
+|  jasper | barmanlearning11 |   022   |       -1       |
+|  jasper | barmanlearning11 |   023   |       -1       |
+|  jasper | barmanlearning11 |   024   |       -1       |
+|  jasper | barmanlearning11 |   025   |       -1       |
+|  jasper | barmanlearning11 |   026   |       -1       |
+|  jasper | barmanlearning11 |   027   |       -1       |
+|  jasper | barmanlearning11 |   028   |       -1       |
+|  jasper | barmanlearning11 |   029   |       -1       |
+| mercury | barmanlearning11 |   000   |      820       |
+| mercury | barmanlearning11 |   001   |       73       |
+| mercury | barmanlearning11 |   002   |      155       |
+| mercury | barmanlearning11 |   003   |       38       |
+| mercury | barmanlearning11 |   004   |       20       |
+| mercury | barmanlearning11 |   005   |       -1       |
+| mercury | barmanlearning11 |   006   |       34       |
+| mercury | barmanlearning11 |   007   |       43       |
+| mercury | barmanlearning11 |   008   |      165       |
+| mercury | barmanlearning11 |   009   |       32       |
+| mercury | barmanlearning11 |   010   |       63       |
+| mercury | barmanlearning11 |   011   |      1179      |
+| mercury | barmanlearning11 |   012   |       41       |
+| mercury | barmanlearning11 |   013   |       36       |
+| mercury | barmanlearning11 |   014   |       62       |
+| mercury | barmanlearning11 |   015   |       37       |
+| mercury | barmanlearning11 |   016   |       -1       |
+| mercury | barmanlearning11 |   017   |       52       |
+| mercury | barmanlearning11 |   018   |      214       |
+| mercury | barmanlearning11 |   019   |      362       |
+| mercury | barmanlearning11 |   020   |       92       |
+| mercury | barmanlearning11 |   021   |       86       |
+| mercury | barmanlearning11 |   022   |       77       |
+| mercury | barmanlearning11 |   023   |       89       |
+| mercury | barmanlearning11 |   024   |       87       |
+| mercury | barmanlearning11 |   025   |       63       |
+| mercury | barmanlearning11 |   026   |      121       |
+| mercury | barmanlearning11 |   027   |      677       |
+| mercury | barmanlearning11 |   028   |       72       |
+| mercury | barmanlearning11 |   029   |      1322      |
+|   siw   | barmanlearning11 |   000   |       0        |
+|   siw   | barmanlearning11 |   001   |       0        |
+|   siw   | barmanlearning11 |   002   |       0        |
+|   siw   | barmanlearning11 |   003   |       0        |
+|   siw   | barmanlearning11 |   004   |       0        |
+|   siw   | barmanlearning11 |   005   |       0        |
+|   siw   | barmanlearning11 |   006   |       0        |
+|   siw   | barmanlearning11 |   007   |       0        |
+|   siw   | barmanlearning11 |   008   |       0        |
+|   siw   | barmanlearning11 |   009   |       0        |
+|   siw   | barmanlearning11 |   010   |       0        |
+|   siw   | barmanlearning11 |   011   |       0        |
+|   siw   | barmanlearning11 |   012   |       0        |
+|   siw   | barmanlearning11 |   013   |       0        |
+|   siw   | barmanlearning11 |   014   |       0        |
+|   siw   | barmanlearning11 |   015   |       0        |
+|   siw   | barmanlearning11 |   016   |       0        |
+|   siw   | barmanlearning11 |   017   |       0        |
+|   siw   | barmanlearning11 |   018   |       0        |
+|   siw   | barmanlearning11 |   019   |       0        |
+|   siw   | barmanlearning11 |   020   |       0        |
+|   siw   | barmanlearning11 |   021   |       0        |
+|   siw   | barmanlearning11 |   022   |       0        |
+|   siw   | barmanlearning11 |   023   |       0        |
+|   siw   | barmanlearning11 |   024   |       0        |
+|   siw   | barmanlearning11 |   025   |       0        |
+|   siw   | barmanlearning11 |   026   |       0        |
+|   siw   | barmanlearning11 |   027   |       0        |
+|   siw   | barmanlearning11 |   028   |       0        |
+|   siw   | barmanlearning11 |   029   |       0        |
++---------+------------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:26:26 2018
+
