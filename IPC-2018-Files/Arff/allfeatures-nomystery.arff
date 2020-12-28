@@ -1,0 +1,148 @@
+@relation problem
+
+@attribute domain string
+@attribute task_name string
+@attribute requirements numeric
+@attribute types numeric
+@attribute objects numeric
+@attribute predicates numeric
+@attribute functions numeric
+@attribute init numeric
+@attribute goal numeric
+@attribute actions numeric
+@attribute axioms numeric
+@attribute use_min_cost_metric numeric
+@attribute generated_rules numeric
+@attribute relevant_atoms numeric
+@attribute auxiliary_atoms numeric
+@attribute final_queue_length numeric
+@attribute total_queue_pushes numeric
+@attribute implied_effects_removed numeric
+@attribute effect_conditions_simplified numeric
+@attribute implied_preconditions_added numeric
+@attribute translator_variables numeric
+@attribute translator_derived_variables numeric
+@attribute translator_facts numeric
+@attribute translator_mutex_groups numeric
+@attribute translator_total_mutex_groups_size numeric
+@attribute translator_operators numeric
+@attribute translator_task_size numeric
+@attribute numberVariablesCG numeric
+@attribute highLevelVariablesCG numeric
+@attribute totalEdgesCG numeric
+@attribute totalWeightCG numeric
+@attribute veRatio numeric
+@attribute weRatio numeric
+@attribute wvRatio numeric
+@attribute hvRatio numeric
+@attribute inputEdgeCGMax numeric
+@attribute inputEdgeCGAvg numeric
+@attribute inputEdgeCGStd numeric
+@attribute outputEdgeCGMax numeric
+@attribute outputEdgeCGAvg numeric
+@attribute outputEdgeCGStd numeric
+@attribute inputWeightCGMax numeric
+@attribute inputWeightCGAvg numeric
+@attribute inputWeightCGStd numeric
+@attribute outputWeightCGMax numeric
+@attribute outputWeightCGAvg numeric
+@attribute outputWeightCGStd numeric
+@attribute inputEdgeHVMax numeric
+@attribute inputEdgeHVAvg numeric
+@attribute inputEdgeHVStd numeric
+@attribute outputEdgeHVMax numeric
+@attribute outputEdgeHVAvg numeric
+@attribute outputEdgeHVStd numeric
+@attribute inputWeightHVMax numeric
+@attribute inputWeightHVAvg numeric
+@attribute inputWeightHVStd numeric
+@attribute outputWeightHVMax numeric
+@attribute outputWeightHVAvg numeric
+@attribute outputWeightHVStd numeric
+@attribute numberVariablesDTG numeric
+@attribute totalEdgesDTG numeric
+@attribute totalWeigthDTG numeric
+@attribute edVaRatioDTG numeric
+@attribute weEdRatioDTG numeric
+@attribute weVaRatioDTG numeric
+@attribute inputEdgeDTGMax numeric
+@attribute inputEdgeDTGAvg numeric
+@attribute inputEdgeDTGStd numeric
+@attribute outputEdgeDTGMax numeric
+@attribute outputEdgeDTGAvg numeric
+@attribute outputEdgeDTGStd numeric
+@attribute inputWeightDTGMax numeric
+@attribute inputWeightDTGAvg numeric
+@attribute inputWeightDTGStd numeric
+@attribute outputWeightDTGMax numeric
+@attribute outputWeightDTGAvg numeric
+@attribute outputWeightDTGStd numeric
+@attribute no numeric
+@attribute file string
+@attribute num_relevant_facts numeric
+@attribute num_actions numeric
+@attribute h_max numeric
+@attribute h_ff numeric
+@attribute h_ff_ratio numeric
+@attribute rp_fact_balance_min numeric
+@attribute rp_fact_balance_avg numeric
+@attribute rp_fact_balance_var numeric
+@attribute rp_goal_balance_min numeric
+@attribute rp_goal_balance_avg numeric
+@attribute rp_goal_balance_var numeric
+@attribute balance_Ratio numeric
+@attribute Unbalance_Ratio numeric
+@attribute Balance_Distorsion numeric
+@attribute Additive numeric
+@attribute Blind numeric
+@attribute Causal_graph numeric
+@attribute Context-enhanced_additive numeric
+@attribute FF numeric
+@attribute Goal_count numeric
+@attribute Landmark_count numeric
+@attribute Landmark-cut numeric
+@attribute Max numeric
+@attribute n_landmarks numeric
+@attribute numberEdges numeric
+@attribute edVaratioLand numeric
+@attribute numberFatherNodes numeric
+@attribute numberChildrenNodes numeric
+@attribute nodosbetween numeric
+@attribute avginput numeric
+@attribute maxinput numeric
+@attribute stdinput numeric
+@attribute avgoutput numeric
+@attribute maxoutput numeric
+@attribute stdoutput numeric
+@attribute blackVariables numeric
+@attribute blackRootVariables numeric
+@attribute redBlackVariables numeric
+@attribute allpairsvaluesconnected numeric
+@attribute allvaluesconnectedgoal numeric
+@attribute blackstronglpyarents numeric
+@attribute Maximaleffectsblack  numeric
+@attribute Hred-black numeric
+@attribute  nameDomain2 string
+@attribute  nameFile2 string
+@data
+
+transport-strips,transport-l9-t1-p9---int100n150-m25---int100c150---s1---e0,2,6,261,7,1,29467,9,3,0,1,23,36431,67527,103958,115169,0,0,0,11,0,334,11,334,5848,29766,11,9, 11, 11534, 1, 1048.55, 1048.55, 0.818182, 10, 1, 2.86039, 1, 1, 0, 5848, 1048.55, 2224.57,5686, 1048.55, 2186.12, 0, 0, 0, 18, 14.7273, 6.9425, 0, 0, 0, 18, 14.7273,6.9425,334, 11309, 22618, 0.5, 0.029534, 1, 877, 61.0196, 1.48015, 877, 61.0196, 1.48015, 1754, 122.039,2.96029, 1754,122.039, 1.48015,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,58,1,54,54,26,9,25,23,5,36,97,2.69444,11,9,16,2.69444,22,4.47214,2.69444,7,2.23607,1,0,11,0,0,0,1,30,allfeatures-nomystery,all-p04.pddl
+transport-strips,transport-l8-t1-p8---int100n150-m25---int100c150---s1---e0,2,6,198,7,1,16530,8,3,0,1,23,21269,38868,60137,67555,0,0,0,10,0,252,10,252,3894,19864,10,8, 10, 7660, 1, 766, 766, 0.8, 9, 1, 2.68328, 1, 1, 0, 3894, 766, 1532.27,3766, 766, 1500, 0, 0, 0, 16, 12.8, 6.4, 0, 0, 0, 16, 12.8,6.4,252, 7504, 15008, 0.5, 0.0335821, 1, 618, 50.5961, 1.43108, 618, 50.5961, 1.43108, 1236, 101.192,2.86217, 1236,101.192, 1.43108,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,42,1,40,40,23,8,22,22,4,32,76,2.375,10,8,14,2.375,14,3.31662,2.375,6,2,1,0,10,0,0,0,1,30,allfeatures-nomystery,all-p03.pddl
+transport-strips,transport-l6-t1-p6---int100n150-m25---int100c110---s1---e0,2,6,75,7,1,1998,6,3,0,1,23,3208,5394,8602,10192,0,0,0,8,0,106,8,106,880,4554,8,6, 8, 1688, 1, 211, 211, 0.75, 7, 1, 2.29129, 1, 1, 0, 880, 211, 365.906,808, 211, 344.678, 0, 0, 0, 12, 9, 5.19615, 0, 0, 0, 12, 9,5.19615,106, 1688, 3376, 0.5, 0.0627962, 1, 182, 19.8604, 1.29904, 182, 19.8604, 1.29904, 364, 39.7209,2.59808, 364,39.7209, 1.29904,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/nomystery/problems/p11.pddl, 106, 880, 4, 16, 4.000000, -4, 0.000000, 0.644278, 1, 1.000000, 0.000000, 9.207954, 2.253409, 25,24,1,28,28,16,6,16,16,4,24,58,2.41667,8,6,10,2.41667,12,3,2.41667,7,2,1,0,8,0,0,0,1,20,allfeatures-nomystery,all-p11.pddl
+transport-strips,transport-l15-t1-p15---int100n150-m25---int100c110---s1---e0,2,6,209,7,1,16037,15,3,0,1,23,24812,42782,67594,82160,0,0,0,17,0,433,17,433,7716,39028,17,15, 17, 14982, 1, 881.294, 881.294, 0.882353, 16, 1, 3.75735, 1, 1, 0, 7716, 881.294, 2414.76,7266, 881.294, 2331.36, 0, 0, 0, 30, 26.4706, 9.66569, 0, 0, 0, 30, 26.4706,9.66569,433, 14982, 29964, 0.5, 0.0289013, 1, 1013, 32.5497, 1.65765, 1013, 32.5497, 1.65765, 2026, 65.0994,3.31531, 2026,65.0994, 1.65765,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,104,1,111,111,41,15,41,38,6,58,177,3.05172,17,15,26,3.05172,39,7.07107,3.05172,8,2.44949,1,0,17,0,0,0,1,53,allfeatures-nomystery,all-p20.pddl
+transport-strips,transport-l9-t1-p9---int100n150-m25---int100c110---s1---e0,2,6,197,7,1,15995,9,3,0,1,23,21039,38215,59254,67201,0,0,0,11,0,270,11,270,4184,21318,11,9, 11, 8206, 1, 746, 746, 0.818182, 10, 1, 2.86039, 1, 1, 0, 4184, 746, 1582.88,4022, 746, 1544.32, 0, 0, 0, 18, 14.7273, 6.9425, 0, 0, 0, 18, 14.7273,6.9425,270, 8045, 16090, 0.5, 0.0335612, 1, 621, 44.1516, 1.48015, 621, 44.1516, 1.48015, 1242, 88.3032,2.96029, 1242,88.3032, 1.48015,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,58,1,54,54,26,9,25,23,5,36,97,2.69444,11,9,16,2.69444,22,4.47214,2.69444,7,2.23607,1,0,11,0,0,0,1,30,allfeatures-nomystery,all-p14.pddl
+transport-strips,transport-l8-t1-p8---int100n150-m25---int100c110---s1---e0,2,6,150,7,1,8970,8,3,0,1,23,12365,22116,34481,39643,0,0,0,10,0,204,10,204,2742,14008,10,8, 10, 5356, 1, 535.6, 535.6, 0.8, 9, 1, 2.68328, 1, 1, 0, 2742, 535.6, 1071.58,2614, 535.6, 1039.2, 0, 0, 0, 16, 12.8, 6.4, 0, 0, 0, 16, 12.8,6.4,204, 5248, 10496, 0.5, 0.038872, 1, 426, 36.1182, 1.43108, 426, 36.1182, 1.43108, 852, 72.2364,2.86217, 852,72.2364, 1.43108,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,42,1,40,40,23,8,22,22,4,32,76,2.375,10,8,14,2.375,14,3.31662,2.375,6,2,1,0,10,0,0,0,1,30,allfeatures-nomystery,all-p13.pddl
+transport-strips,transport-l6-t1-p6---int100n150-m25---int100c150---s1---e0,2,6,98,7,1,3700,6,3,0,1,23,5416,9396,14812,17207,0,0,0,8,0,129,8,129,1294,6670,8,6, 8, 2516, 1, 314.5, 314.5, 0.75, 7, 1, 2.29129, 1, 1, 0, 1294, 314.5, 545.027,1222, 314.5, 523.945, 0, 0, 0, 12, 9, 5.19615, 0, 0, 0, 12, 9,5.19615,129, 2516, 5032, 0.5, 0.0512719, 1, 274, 28.6299, 1.29904, 274, 28.6299, 1.29904, 548, 57.2597,2.59808, 548,57.2597, 1.29904,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/nomystery/problems/p01.pddl, 129, 1294, 4, 16, 4.000000, -4, 0.000000, 0.584025, 1, 1.000000, 0.000000, 8.244977, 1.564915, 25,24,1,28,28,16,6,16,16,4,24,58,2.41667,8,6,10,2.41667,12,3,2.41667,7,2,1,0,8,0,0,0,1,20,allfeatures-nomystery,all-p01.pddl
+transport-strips,transport-l10-t1-p10---int100n150-m25---int100c150---s1---e0,2,6,247,7,1,25724,10,3,0,1,23,33381,60724,94105,106716,0,0,0,12,0,345,12,345,6572,33372,12,10, 12, 12944, 1, 1078.67, 1078.67, 0.833333, 11, 1, 3.02765, 1, 1, 0, 6572, 1078.67, 2412.32,6372, 1078.67, 2367.25, 0, 0, 0, 20, 16.6667, 7.45356, 0, 0, 0, 20, 16.6667,7.45356,345, 12944, 25888, 0.5, 0.0266533, 1, 1278, 56.9752, 1.52145, 1278, 56.9752, 1.52145, 2556, 113.95,3.0429, 2556,113.95, 1.52145,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,63,1,64,64,29,10,29,26,5,41,121,2.95122,12,10,19,2.95122,28,5.47723,2.95122,8,2.44949,1,0,12,0,0,0,1,35,allfeatures-nomystery,all-p05.pddl
+transport-strips,transport-l7-t1-p7---int100n150-m25---int100c150---s1---e0,2,6,115,7,1,5100,7,3,0,1,23,7333,12880,20213,23431,0,0,0,9,0,157,9,157,1732,8892,9,7, 9, 3366, 1, 374, 374, 0.777778, 8, 1, 2.49444, 1, 1, 0, 1732, 374, 700.071,1634, 374, 673.498, 0, 0, 0, 14, 10.8889, 5.82036, 0, 0, 0, 14, 10.8889,5.82036,157, 3366, 6732, 0.5, 0.0466429, 1, 251, 29.2291, 1.37187, 251, 29.2291, 1.37187, 502, 58.4581,2.74374, 502,58.4581, 1.37187,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/nomystery/problems/p02.pddl, 157, 1732, 4, 18, 4.500000, -4, 0.000000, 0.541289, 1, 1.000000, 0.000000, 7.644341, 0.933025, 25,30,1,34,34,18,7,18,18,4,27,63,2.33333,9,7,11,2.33333,12,2.82843,2.33333,6,2,1,0,9,0,0,0,1,22,allfeatures-nomystery,all-p02.pddl
+transport-strips,transport-l13-t1-p13---int100n150-m25---int100c150---s1---e0,2,6,206,7,1,16202,13,3,0,1,23,23891,41757,65648,78347,0,0,0,15,0,374,15,374,6698,33928,15,13, 15, 13058, 1, 870.533, 870.533, 0.866667, 14, 1, 3.48329, 1, 1, 0, 6698, 870.533, 2220.29,6360, 870.533, 2153.15, 0, 0, 0, 26, 22.5333, 8.8383, 0, 0, 0, 26, 22.5333,8.8383,374, 12893, 25786, 0.5, 0.029008, 1, 671, 36.5322, 1.61365, 671, 36.5322, 1.61365, 1342, 73.0643,3.22729, 1342,73.0643, 1.61365,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,75,1,69,69,35,13,35,34,5,50,120,2.4,15,13,22,2.4,22,4.24264,2.4,6,2,1,0,15,0,0,0,1,43,allfeatures-nomystery,all-p08.pddl
+transport-strips,transport-l12-t1-p12---int100n150-m25---int100c150---s1---e0,2,6,279,7,1,32472,12,3,0,1,23,42642,77428,120070,137204,0,0,0,14,0,420,14,420,8914,45148,14,12, 14, 17540, 1, 1252.86, 1252.86, 0.857143, 13, 1, 3.33809, 1, 1, 0, 8914, 1252.86, 3069.34,8626, 1252.86, 3010.07, 0, 0, 0, 24, 20.5714, 8.39825, 0, 0, 0, 24, 20.5714,8.39825,420, 17299, 34598, 0.5, 0.0242789, 1, 1681, 55.3044, 1.58712, 1681, 55.3044, 1.58712, 3362, 110.609,3.17424, 3362,110.609, 1.58712,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,72,1,70,70,34,12,33,30,5,47,117,2.48936,14,12,21,2.48936,22,4.24264,2.48936,7,2,1,0,14,0,0,0,1,44,allfeatures-nomystery,all-p07.pddl
+transport-strips,transport-l11-t1-p11---int100n150-m25---int100c110---s1---e0,2,6,189,7,1,13939,11,3,0,1,23,19976,35172,55148,64934,0,0,0,13,0,309,13,309,5162,26210,13,11, 13, 10082, 1, 775.538, 775.538, 0.846154, 12, 1, 3.18651, 1, 1, 0, 5162, 775.538, 1819.42,4920, 775.538, 1767.2, 0, 0, 0, 22, 18.6154, 7.93763, 0, 0, 0, 22, 18.6154,7.93763,309, 10082, 20164, 0.5, 0.0306487, 1, 788, 38.2368, 1.5567, 788, 38.2368, 1.5567, 1576, 76.4735,3.11339, 1576,76.4735, 1.5567,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,69,1,71,71,31,11,31,30,5,44,116,2.63636,13,11,20,2.63636,20,4,2.63636,7,2.23607,1,0,13,0,0,0,1,39,allfeatures-nomystery,all-p16.pddl
+transport-strips,transport-l15-t1-p15---int100n150-m25---int100c150---s1---e0,2,6,273,7,1,29509,15,3,0,1,23,41356,73630,114986,135120,0,0,0,17,0,497,17,497,10532,53236,17,15, 17, 20614, 1, 1212.59, 1212.59, 0.882353, 16, 1, 3.75735, 1, 1, 0, 10532, 1212.59, 3321.71,10082, 1212.59, 3238.65, 0, 0, 0, 30, 26.4706, 9.66569, 0, 0, 0, 30, 26.4706,9.66569,497, 20614, 41228, 0.5, 0.0241098, 1, 1397, 43.6423, 1.65765, 1397, 43.6423, 1.65765, 2794, 87.2846,3.31531, 2794,87.2846, 1.65765,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,104,1,111,111,41,15,41,38,6,58,177,3.05172,17,15,26,3.05172,39,7.07107,3.05172,8,2.44949,1,0,17,0,0,0,1,53,allfeatures-nomystery,all-p10.pddl
+transport-strips,transport-l13-t1-p13---int100n150-m25---int100c110---s1---e0,2,6,158,7,1,8738,13,3,0,1,23,14411,24285,38696,47795,0,0,0,15,0,326,15,326,4874,24712,15,13, 15, 9410, 1, 627.333, 627.333, 0.866667, 14, 1, 3.48329, 1, 1, 0, 4874, 627.333, 1600.58,4536, 627.333, 1533.11, 0, 0, 0, 26, 22.5333, 8.8383, 0, 0, 0, 26, 22.5333,8.8383,326, 9293, 18586, 0.5, 0.0350802, 1, 479, 27.1199, 1.61365, 479, 27.1199, 1.61365, 958, 54.2398,3.22729, 958,54.2398, 1.61365,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,75,1,69,69,35,13,35,34,5,50,120,2.4,15,13,22,2.4,22,4.24264,2.4,6,2,1,0,15,0,0,0,1,43,allfeatures-nomystery,all-p18.pddl
+transport-strips,transport-l14-t1-p14---int100n150-m25---int100c110---s1---e0,2,6,254,7,1,25526,14,3,0,1,23,36086,63968,100054,117929,0,0,0,16,0,449,16,449,9350,47286,16,14, 16, 18308, 1, 1144.25, 1144.25, 0.875, 15, 1, 3.62284, 1, 1, 0, 9350, 1144.25, 3028.19,8958, 1144.25, 2953.32, 0, 0, 0, 28, 24.5, 9.26013, 0, 0, 0, 28, 24.5,9.26013,449, 18308, 36616, 0.5, 0.0245248, 1, 1076, 44.1127, 1.63698, 1076, 44.1127, 1.63698, 2152, 88.2255,3.27395, 2152,88.2255, 1.63698,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,94,1,94,94,41,14,40,37,5,56,143,2.55357,16,14,26,2.55357,27,4.69042,2.55357,8,2.23607,1,0,16,0,0,0,1,50,allfeatures-nomystery,all-p19.pddl
+transport-strips,transport-l10-t1-p10---int100n150-m25---int100c110---s1---e0,2,6,187,7,1,13934,10,3,0,1,23,19551,34624,54175,63246,0,0,0,12,0,285,12,285,4772,24252,12,10, 12, 9344, 1, 778.667, 778.667, 0.833333, 11, 1, 3.02765, 1, 1, 0, 4772, 778.667, 1741.63,4572, 778.667, 1696.43, 0, 0, 0, 20, 16.6667, 7.45356, 0, 0, 0, 20, 16.6667,7.45356,285, 9344, 18688, 0.5, 0.0305009, 1, 918, 41.9242, 1.52145, 918, 41.9242, 1.52145, 1836, 83.8485,3.0429, 1836,83.8485, 1.52145,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,63,1,64,64,29,10,29,26,5,41,121,2.95122,12,10,19,2.95122,28,5.47723,2.95122,8,2.44949,1,0,12,0,0,0,1,35,allfeatures-nomystery,all-p15.pddl
+transport-strips,transport-l14-t1-p14---int100n150-m25---int100c150---s1---e0,2,6,336,7,1,47379,14,3,0,1,23,61711,112430,174141,198822,0,0,0,16,0,531,16,531,12794,64670,16,14, 16, 25196, 1, 1574.75, 1574.75, 0.875, 15, 1, 3.62284, 1, 1, 0, 12794, 1574.75, 4166.97,12402, 1574.75, 4092.32, 0, 0, 0, 28, 24.5, 9.26013, 0, 0, 0, 28, 24.5,9.26013,531, 25196, 50392, 0.5, 0.0210748, 1, 1486, 59.5242, 1.63698, 1486, 59.5242, 1.63698, 2972, 119.048,3.27395, 2972,119.048, 1.63698,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,94,1,94,94,41,14,40,37,5,56,143,2.55357,16,14,26,2.55357,27,4.69042,2.55357,8,2.23607,?,?,?,?,?,?,?,?,allfeatures-nomystery,all-p09.pddl
+transport-strips,transport-l12-t1-p12---int100n150-m25---int100c110---s1---e0,2,6,211,7,1,17478,12,3,0,1,23,24928,44040,68968,81274,0,0,0,14,0,352,14,352,6466,32772,14,12, 14, 12644, 1, 903.143, 903.143, 0.857143, 13, 1, 3.33809, 1, 1, 0, 6466, 903.143, 2212.91,6178, 903.143, 2153.45, 0, 0, 0, 24, 20.5714, 8.39825, 0, 0, 0, 24, 20.5714,8.39825,352, 12471, 24942, 0.5, 0.0282255, 1, 1205, 40.6874, 1.58712, 1205, 40.6874, 1.58712, 2410, 81.3747,3.17424, 2410,81.3747, 1.58712,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,72,1,70,70,34,12,33,30,5,47,117,2.48936,14,12,21,2.48936,22,4.24264,2.48936,7,2,1,0,14,0,0,0,1,44,allfeatures-nomystery,all-p17.pddl
+transport-strips,transport-l11-t1-p11---int100n150-m25---int100c150---s1---e0,2,6,249,7,1,25729,11,3,0,1,23,33926,61452,95378,108944,0,0,0,13,0,369,13,369,7082,35930,13,11, 13, 13922, 1, 1070.92, 1070.92, 0.846154, 12, 1, 3.18651, 1, 1, 0, 7082, 1070.92, 2511.99,6840, 1070.92, 2459.94, 0, 0, 0, 22, 18.6154, 7.93763, 0, 0, 0, 22, 18.6154,7.93763,369, 13922, 27844, 0.5, 0.0265048, 1, 1088, 51.7116, 1.5567, 1088, 51.7116, 1.5567, 2176, 103.423,3.11339, 2176,103.423, 1.5567,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,69,1,71,71,31,11,31,30,5,44,116,2.63636,13,11,20,2.63636,20,4,2.63636,7,2.23607,1,0,13,0,0,0,1,39,allfeatures-nomystery,all-p06.pddl
+transport-strips,transport-l7-t1-p7---int100n150-m25---int100c110---s1---e0,2,6,88,7,1,2751,7,3,0,1,23,4336,7399,11735,13900,0,0,0,9,0,130,9,130,1192,6138,9,7, 9, 2286, 1, 254, 254, 0.777778, 8, 1, 2.49444, 1, 1, 0, 1192, 254, 475.752,1094, 254, 448.999, 0, 0, 0, 14, 10.8889, 5.82036, 0, 0, 0, 14, 10.8889,5.82036,130, 2286, 4572, 0.5, 0.0568679, 1, 170, 20.5405, 1.37187, 170, 20.5405, 1.37187, 340, 41.0809,2.74374, 340,41.0809, 1.37187,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/nomystery/problems/p12.pddl, 130, 1192, 4, 18, 4.500000, -4, 0.000000, 0.594850, 1, 1.000000, 0.000000, 10.946308, 1.355705, 25,30,1,34,34,18,7,18,18,4,27,63,2.33333,9,7,11,2.33333,12,2.82843,2.33333,6,2,1,0,9,0,0,0,1,22,allfeatures-nomystery,all-p12.pddl

@@ -1,0 +1,37 @@
+=== Run information ===
+
+Scheme:weka.classifiers.rules.DecisionTable -X 1 -S "weka.attributeSelection.BestFirst -D 1 -N 5"
+Relation:     problem-weka.filters.unsupervised.instance.RemoveWithValues-S0.0-C126-L2-weka.filters.unsupervised.attribute.Remove-R1-3,18,20,65,78-79,119-120,123-124,126-127-weka.filters.unsupervised.attribute.Remove-R115
+Instances:    18885
+Attributes:   114
+[list of attributes omitted]
+Test mode:evaluate on training data
+
+=== Classifier model (full training set) ===
+
+Decision Table:
+
+Number of training instances: 18885
+Number of Rules : 2216
+Non matches covered by Majority class.
+	Best first.
+	Start set: no attributes
+	Search direction: forward
+	Stale search after 5 node expansions
+	Total number of subsets evaluated: 1493
+	Merit of best subset found:  549.55 
+Evaluation (for feature selection): CV (leave one out) 
+Feature set: 1,3,4,20,30,60,78,83,87,113,114
+
+Time taken to build model: 821.16 seconds
+
+=== Evaluation on training set ===
+=== Summary ===
+
+Correlation coefficient                  0.8819
+Mean absolute error                    239.3627
+Root mean squared error                475.4511
+Relative absolute error                 25.7373 %
+Root relative squared error             47.1449 %
+Total Number of Instances            18885     
+

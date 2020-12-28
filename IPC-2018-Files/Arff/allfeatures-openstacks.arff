@@ -1,0 +1,148 @@
+@relation problem
+
+@attribute domain string
+@attribute task_name string
+@attribute requirements numeric
+@attribute types numeric
+@attribute objects numeric
+@attribute predicates numeric
+@attribute functions numeric
+@attribute init numeric
+@attribute goal numeric
+@attribute actions numeric
+@attribute axioms numeric
+@attribute use_min_cost_metric numeric
+@attribute generated_rules numeric
+@attribute relevant_atoms numeric
+@attribute auxiliary_atoms numeric
+@attribute final_queue_length numeric
+@attribute total_queue_pushes numeric
+@attribute implied_effects_removed numeric
+@attribute effect_conditions_simplified numeric
+@attribute implied_preconditions_added numeric
+@attribute translator_variables numeric
+@attribute translator_derived_variables numeric
+@attribute translator_facts numeric
+@attribute translator_mutex_groups numeric
+@attribute translator_total_mutex_groups_size numeric
+@attribute translator_operators numeric
+@attribute translator_task_size numeric
+@attribute numberVariablesCG numeric
+@attribute highLevelVariablesCG numeric
+@attribute totalEdgesCG numeric
+@attribute totalWeightCG numeric
+@attribute veRatio numeric
+@attribute weRatio numeric
+@attribute wvRatio numeric
+@attribute hvRatio numeric
+@attribute inputEdgeCGMax numeric
+@attribute inputEdgeCGAvg numeric
+@attribute inputEdgeCGStd numeric
+@attribute outputEdgeCGMax numeric
+@attribute outputEdgeCGAvg numeric
+@attribute outputEdgeCGStd numeric
+@attribute inputWeightCGMax numeric
+@attribute inputWeightCGAvg numeric
+@attribute inputWeightCGStd numeric
+@attribute outputWeightCGMax numeric
+@attribute outputWeightCGAvg numeric
+@attribute outputWeightCGStd numeric
+@attribute inputEdgeHVMax numeric
+@attribute inputEdgeHVAvg numeric
+@attribute inputEdgeHVStd numeric
+@attribute outputEdgeHVMax numeric
+@attribute outputEdgeHVAvg numeric
+@attribute outputEdgeHVStd numeric
+@attribute inputWeightHVMax numeric
+@attribute inputWeightHVAvg numeric
+@attribute inputWeightHVStd numeric
+@attribute outputWeightHVMax numeric
+@attribute outputWeightHVAvg numeric
+@attribute outputWeightHVStd numeric
+@attribute numberVariablesDTG numeric
+@attribute totalEdgesDTG numeric
+@attribute totalWeigthDTG numeric
+@attribute edVaRatioDTG numeric
+@attribute weEdRatioDTG numeric
+@attribute weVaRatioDTG numeric
+@attribute inputEdgeDTGMax numeric
+@attribute inputEdgeDTGAvg numeric
+@attribute inputEdgeDTGStd numeric
+@attribute outputEdgeDTGMax numeric
+@attribute outputEdgeDTGAvg numeric
+@attribute outputEdgeDTGStd numeric
+@attribute inputWeightDTGMax numeric
+@attribute inputWeightDTGAvg numeric
+@attribute inputWeightDTGStd numeric
+@attribute outputWeightDTGMax numeric
+@attribute outputWeightDTGAvg numeric
+@attribute outputWeightDTGStd numeric
+@attribute no numeric
+@attribute file string
+@attribute num_relevant_facts numeric
+@attribute num_actions numeric
+@attribute h_max numeric
+@attribute h_ff numeric
+@attribute h_ff_ratio numeric
+@attribute rp_fact_balance_min numeric
+@attribute rp_fact_balance_avg numeric
+@attribute rp_fact_balance_var numeric
+@attribute rp_goal_balance_min numeric
+@attribute rp_goal_balance_avg numeric
+@attribute rp_goal_balance_var numeric
+@attribute balance_Ratio numeric
+@attribute Unbalance_Ratio numeric
+@attribute Balance_Distorsion numeric
+@attribute Additive numeric
+@attribute Blind numeric
+@attribute Causal_graph numeric
+@attribute Context-enhanced_additive numeric
+@attribute FF numeric
+@attribute Goal_count numeric
+@attribute Landmark_count numeric
+@attribute Landmark-cut numeric
+@attribute Max numeric
+@attribute n_landmarks numeric
+@attribute numberEdges numeric
+@attribute edVaratioLand numeric
+@attribute numberFatherNodes numeric
+@attribute numberChildrenNodes numeric
+@attribute nodosbetween numeric
+@attribute avginput numeric
+@attribute maxinput numeric
+@attribute stdinput numeric
+@attribute avgoutput numeric
+@attribute maxoutput numeric
+@attribute stdoutput numeric
+@attribute blackVariables numeric
+@attribute blackRootVariables numeric
+@attribute redBlackVariables numeric
+@attribute allpairsvaluesconnected numeric
+@attribute allvaluesconnectedgoal numeric
+@attribute blackstronglpyarents numeric
+@attribute Maximaleffectsblack  numeric
+@attribute Hred-black numeric
+@attribute  nameDomain2 string
+@attribute  nameFile2 string
+@data
+
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p80_1,2,4,241,9,1,449,80,162,0,1,652,14452,19762,34214,59654,0,0,0,161,0,481,241,641,12960,82610,161,80, 654, 58927, 0.246177, 90.1024, 366.006, 0.496894, 80, 4.06211, 6.22127, 160, 4.06211, 12.4455, 12800, 366.006, 1010.6,29360, 366.006, 2300.93, 8, 1.78261, 2.08424, 720, 182.36, 202.191, 167, 80.7888, 81.2991, 720, 182.36,202.191,481, 25760, 84687, 0.304179, 0.0186724, 1, 241, 27.7371, 2.95369, 161, 27.7371, 2.95369, 815, 110.744,12.1457, 528,110.744, 2.95369,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/openstacks/problems/p04.pddl, 481, 12960, 4, 241, 60.250000, -1, 0.000000, 0.818192, 1, 1.000000, 0.000000, 6.963195, 0.981404, 158,2013,1,447,2013,241,80,240,181,4,402,2362,5.87562,161,80,161,5.87562,161,12.1244,5.87562,54,10.198,?,?,?,?,?,?,?,241,allfeatures-openstacks,all-p04.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p60_3,2,4,181,9,1,312,60,122,0,1,492,8415,11222,19637,33917,0,0,0,121,0,361,181,481,7320,45313,121,60, 440, 30130, 0.275, 68.4773, 249.008, 0.495868, 60, 3.63636, 5.27586, 120, 3.63636, 10.698, 7200, 249.008, 646.972,15000, 249.008, 1352.99, 6, 1.57025, 1.75728, 420, 123.967, 133.103, 125, 60.5785, 61.086, 420, 123.967,133.103,361, 14520, 44650, 0.325196, 0.0248623, 1, 181, 21.0663, 2.55005, 121, 21.0663, 2.55005, 561, 75.2567,9.43441, 371,75.2567, 2.55005,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/openstacks/problems/p03.pddl, 361, 7320, 4, 181, 45.250000, -1, 0.000000, 0.818755, 1, 1.000000, 0.000000, 6.951230, 0.975273, 118,1062,1,310,1062,181,60,180,138,4,302,1355,4.48675,121,60,121,4.48675,121,9.94987,4.48675,30,6.63325,?,?,?,?,?,?,?,181,allfeatures-openstacks,all-p03.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p130_1,2,4,391,9,1,729,130,262,0,1,1052,36482,51612,88094,155434,0,0,0,261,0,781,391,1041,34060,216140,261,130, 1064, 155557, 0.245301, 146.2, 596.004, 0.498084, 130, 4.07663, 7.9405, 260, 4.07663, 15.9444, 33800, 596.004, 2086.35,77610, 596.004, 4787.22, 8, 1.78927, 2.0617, 1170, 297.356, 326.213, 267, 130.793, 131.299, 1170, 297.356,326.213,781, 67860, 223417, 0.303737, 0.011509, 1, 391, 44.4087, 3.77876, 261, 44.4087, 3.77876, 1325, 179.092,15.6518, 858,179.092, 3.77876,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,3017,1,727,3017,391,130,390,293,4,652,3604,5.52761,261,130,261,5.52761,261,14.8324,5.52761,44,9.11043,?,?,?,?,?,?,?,391,allfeatures-openstacks,all-p11.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p250_1,2,4,751,9,1,3489,250,502,0,1,2012,132242,189252,321494,570994,0,0,0,501,0,1501,751,2001,125500,1317740,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,allfeatures-openstacks,all-p20.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p160_1,2,4,481,9,1,1815,160,322,0,1,1292,55418,77922,133340,235420,0,0,0,321,0,961,481,1281,51520,474296,321,160, 3146, 530293, 0.102034, 168.561, 1652, 0.498442, 160, 9.80062, 8.89629, 320, 9.80062, 17.5952, 51200, 1652, 3078.79,264480, 1652, 14719.2, 19, 4.65109, 5.10541, 3200, 823.925, 890.566, 338, 163.654, 164.178, 3200, 823.925,890.566,961, 102720, 633013, 0.162272, 0.00935553, 1, 481, 54.4102, 4.19668, 321, 54.4102, 4.19668, 3467, 526.425,41.1343, 1974,526.425, 4.19668,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,26815,1,1813,26815,481,160,480,409,4,802,22580,28.1546,321,160,321,28.1546,321,32.311,28.1546,220,53.0094,?,?,?,?,?,?,?,481,allfeatures-openstacks,all-p14.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p160_1,2,4,481,9,1,910,160,322,0,1,1292,54513,77922,132435,234515,0,0,0,321,0,961,481,1281,51520,328591,321,160, 1336, 239788, 0.240269, 179.482, 747.003, 0.498442, 160, 4.16199, 8.83486, 320, 4.16199, 17.7241, 51200, 747.003, 2852.98,119680, 747.003, 6660.98, 8, 1.83178, 2.10393, 1440, 372.835, 408.361, 327, 160.835, 161.34, 1440, 372.835,408.361,961, 102720, 342508, 0.299905, 0.00935553, 1, 481, 54.4102, 4.19668, 321, 54.4102, 4.19668, 1657, 224.457,17.7552, 1069,224.457, 4.19668,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,3912,1,908,3912,481,160,480,367,4,802,4681,5.83666,321,160,321,5.83666,321,16.4924,5.83666,58,9.79796,?,?,?,?,?,?,?,481,allfeatures-openstacks,all-p13.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p50_3,2,4,151,9,1,253,50,102,0,1,412,6006,7852,13858,23758,0,0,0,101,0,301,151,401,5100,31304,101,50, 352, 20201, 0.286932, 57.3892, 200.01, 0.49505, 50, 3.48515, 4.79813, 100, 3.48515, 9.73573, 5000, 200.01, 488.988,10050, 200.01, 990.923, 6, 1.49505, 1.74415, 350, 99.505, 109.566, 105, 50.505, 51.015, 350, 99.505,109.566,301, 10100, 30301, 0.333322, 0.029802, 1, 151, 17.7296, 2.3221, 101, 17.7296, 2.3221, 453, 60.5321,8.22707, 302,60.5321, 2.3221,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/openstacks/problems/p01.pddl, 301, 5100, 4, 151, 37.750000, -1, 0.000000, 0.819205, 1, 1.000000, 0.000000, 6.941764, 0.970392, 98,785,1,251,785,151,50,150,115,4,252,1036,4.11111,101,50,101,4.11111,101,9.11043,4.11111,42,6.245,?,?,?,?,?,?,?,151,allfeatures-openstacks,all-p01.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p80_2,2,4,241,9,1,430,80,162,0,1,652,14433,19762,34195,59635,0,0,0,161,0,481,241,641,12960,81071,161,80, 616, 55868, 0.261364, 90.6948, 347.006, 0.496894, 80, 3.82609, 6.17606, 160, 3.82609, 12.4325, 12800, 347.006, 1001.75,27840, 347.006, 2181.77, 8, 1.6646, 1.94631, 720, 172.919, 191.216, 167, 80.6708, 81.1795, 720, 172.919,191.216,481, 25760, 81628, 0.315578, 0.0186724, 1, 241, 27.7371, 2.95369, 161, 27.7371, 2.95369, 777, 104.332,11.4577, 509,104.332, 2.95369,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/openstacks/problems/p05.pddl, 481, 12960, 4, 241, 60.250000, -1, 0.000000, 0.818192, 1, 1.000000, 0.000000, 6.963195, 0.981404, 158,1600,1,428,1600,241,80,240,178,4,402,1969,4.89801,161,80,161,4.89801,161,11.6619,4.89801,46,7.93725,?,?,?,?,?,?,?,241,allfeatures-openstacks,all-p05.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p60_1,2,4,181,9,1,335,60,122,0,1,492,8438,11222,19660,33940,0,0,0,121,0,361,181,481,7320,46716,121,60, 486, 32913, 0.248971, 67.7222, 272.008, 0.495868, 60, 4.01653, 5.29772, 120, 4.01653, 10.691, 7200, 272.008, 649.24,16380, 272.008, 1477.86, 7, 1.76033, 2.04505, 480, 135.372, 149.484, 126, 60.7686, 61.2813, 480, 135.372,149.484,361, 14520, 47433, 0.306116, 0.0248623, 1, 181, 21.0663, 2.55005, 121, 21.0663, 2.55005, 607, 82.8848,10.3642, 394,82.8848, 2.55005,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/openstacks/problems/p02.pddl, 361, 7320, 4, 181, 45.250000, -1, 0.000000, 0.818755, 1, 1.000000, 0.000000, 6.951230, 0.975273, 118,1335,1,333,1335,181,60,180,136,4,302,1608,5.3245,121,60,121,5.3245,121,10.3441,5.3245,50,8.77496,?,?,?,?,?,?,?,181,allfeatures-openstacks,all-p02.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p100_1,2,4,301,9,1,589,100,202,0,1,812,22092,30702,52794,92594,0,0,0,201,0,601,301,801,20200,131290,201,100, 874, 97687, 0.229977, 111.77, 486.005, 0.497512, 100, 4.34826, 6.94671, 200, 4.34826, 13.934, 20000, 486.005, 1411.61,48700, 486.005, 3419.47, 9, 1.92537, 2.21245, 1000, 242.289, 266.08, 208, 100.93, 101.439, 1000, 242.289,266.08,601, 40200, 137887, 0.291543, 0.0149502, 1, 301, 34.4064, 3.30849, 201, 34.4064, 3.30849, 1075, 147.345,14.5448, 688,147.345, 3.30849,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,2781,1,587,2781,301,100,300,224,4,502,3190,6.35458,201,100,201,6.35458,201,13.4164,6.35458,62,10.7238,?,?,?,?,?,?,?,301,allfeatures-openstacks,all-p08.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p50_2,2,4,151,9,1,273,50,102,0,1,412,6026,7852,13878,23778,0,0,0,101,0,301,151,401,5100,32324,101,50, 392, 22221, 0.257653, 56.6862, 220.01, 0.49505, 50, 3.88119, 4.78506, 100, 3.88119, 9.70892, 5000, 220.01, 491.57,11050, 220.01, 1089.36, 7, 1.69307, 1.92813, 400, 109.406, 119.137, 106, 50.703, 51.2152, 400, 109.406,119.137,301, 10100, 32321, 0.31249, 0.029802, 1, 151, 17.7296, 2.3221, 101, 17.7296, 2.3221, 493, 67.1658,9.10585, 322,67.1658, 2.3221,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/openstacks/problems/p07.pddl, 301, 5100, 4, 151, 37.750000, -1, 0.000000, 0.819205, 1, 1.000000, 0.000000, 6.941764, 0.970392, 98,1025,1,271,1025,151,50,150,116,4,252,1264,5.01587,101,50,101,5.01587,101,9.32738,5.01587,40,7.81025,?,?,?,?,?,?,?,151,allfeatures-openstacks,all-p07.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p190_1,2,4,571,9,1,2291,190,382,0,1,1532,77344,109632,186976,330996,0,0,0,381,0,1141,571,1521,72580,693702,381,190, 4008, 799339, 0.0950599, 199.436, 2098, 0.498688, 190, 10.5197, 9.69253, 380, 10.5197, 19.2009, 72200, 2098, 3981.79,398810, 2098, 20382.1, 21, 5.0105, 5.49778, 4180, 1046.75, 1132.04, 400, 194.013, 194.536, 4180, 1046.75,1132.04,1141, 144780, 944119, 0.153349, 0.00788092, 1, 571, 64.4112, 4.57661, 381, 64.4112, 4.57661, 4389, 670,48.1475, 2480,670, 4.57661,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,36583,1,2289,36583,571,190,570,489,4,952,30662,32.208,381,190,381,32.208,381,37.3229,32.208,264,61.4166,?,?,?,?,?,?,?,571,allfeatures-openstacks,all-p16.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p100_3,2,4,301,9,1,596,100,202,0,1,812,22099,30702,52801,92601,0,0,0,201,0,601,301,801,20200,131997,201,100, 888, 99094, 0.226351, 111.592, 493.005, 0.497512, 100, 4.41791, 6.98502, 200, 4.41791, 13.9507, 20000, 493.005, 1414.61,49400, 493.005, 3469.17, 9, 1.9602, 2.33477, 1000, 245.771, 276.967, 208, 100.965, 101.476, 1000, 245.771,276.967,601, 40200, 139294, 0.288598, 0.0149502, 1, 301, 34.4064, 3.30849, 201, 34.4064, 3.30849, 1089, 149.702,14.7727, 695,149.702, 3.30849,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,2942,1,594,2942,301,100,300,231,4,502,3375,6.72311,201,100,201,6.72311,201,13.8203,6.72311,84,12.1655,?,?,?,?,?,?,?,301,allfeatures-openstacks,all-p10.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p220_1,2,4,661,9,1,2900,220,442,0,1,1772,103003,146742,249745,442905,0,0,0,441,0,1321,661,1761,97240,983661,441,220, 5136, 1180558, 0.0858645, 229.859, 2677, 0.498866, 220, 11.6463, 10.5376, 440, 11.6463, 20.7278, 96800, 2677, 5035.91,589160, 2677, 27996.6, 24, 5.5737, 6.12157, 5500, 1335.96, 1447.83, 463, 224.576, 225.1, 5500, 1335.96,1447.83,1321, 194040, 1374598, 0.141161, 0.00680787, 1, 661, 74.412, 4.92733, 441, 74.412, 4.92733, 5577, 858.127,57.3727, 3119,858.127, 4.92733,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,53822,1,2898,53822,661,220,660,564,4,1102,40320,36.588,882,220,0,36.588,220,39.9875,36.588,324,77.0584,?,?,?,?,?,?,?,661,allfeatures-openstacks,all-p18.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p250_1,2,4,751,9,1,1788,250,502,0,1,2012,130541,189252,319793,569293,0,0,0,501,0,1501,751,2001,125500,890789,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,12386,1,1786,12386,751,250,750,586,4,?,?,?,?,?,?,?,?,?,?,?,allfeatures-openstacks,all-p19.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p190_1,2,4,571,9,1,1212,190,382,0,1,1532,76265,109632,185897,329917,0,0,0,381,0,1141,571,1521,72580,487613,381,190, 1850, 388240, 0.205946, 209.859, 1019, 0.498688, 190, 4.85564, 9.65726, 380, 4.85564, 19.3302, 72200, 1019, 3706.37,193800, 1019, 9905.48, 10, 2.17848, 2.53369, 2090, 508.661, 565.351, 389, 191.181, 191.688, 2090, 508.661,565.351,1141, 144780, 533020, 0.271622, 0.00788092, 1, 571, 64.4112, 4.57661, 381, 64.4112, 4.57661, 2231, 310.025,22.4763, 1401,310.025, 4.57661,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,6594,1,1210,6594,571,190,570,435,4,952,7433,7.80777,381,190,381,7.80777,381,18.5742,7.80777,88,13.9642,?,?,?,?,?,?,?,571,allfeatures-openstacks,all-p15.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p100_2,2,4,301,9,1,592,100,202,0,1,812,22095,30702,52797,92597,0,0,0,201,0,601,301,801,20200,131593,201,100, 880, 98290, 0.228409, 111.693, 489.005, 0.497512, 100, 4.37811, 6.9473, 200, 4.37811, 13.9333, 20000, 489.005, 1409.8,49000, 489.005, 3440.77, 9, 1.9403, 2.26512, 1000, 243.781, 270.753, 208, 100.945, 101.455, 1000, 243.781,270.753,601, 40200, 138490, 0.290274, 0.0149502, 1, 301, 34.4064, 3.30849, 201, 34.4064, 3.30849, 1081, 148.355,14.6425, 691,148.355, 3.30849,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,2762,1,590,2762,301,100,300,229,4,502,3171,6.31673,201,100,201,6.31673,201,13.5277,6.31673,66,11,?,?,?,?,?,?,?,301,allfeatures-openstacks,all-p09.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p220_1,2,4,661,9,1,1482,220,442,0,1,1772,101585,146742,248327,441487,0,0,0,441,0,1321,661,1761,97240,670283,441,220, 2300, 555220, 0.191739, 241.4, 1259, 0.498866, 220, 5.21542, 10.4135, 440, 5.21542, 20.8201, 96800, 1259, 4625.07,277200, 1259, 13173.8, 11, 2.35828, 2.77313, 2640, 628.571, 706.192, 450, 221.361, 221.868, 2640, 628.571,706.192,1321, 194040, 749260, 0.258976, 0.00680787, 1, 661, 74.412, 4.92733, 441, 74.412, 4.92733, 2741, 384.98,25.9519, 1701,384.98, 4.92733,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,8908,1,1480,8908,661,220,660,506,4,1102,9837,8.9265,441,220,441,8.9265,441,20.2978,8.9265,92,16.3401,?,?,?,?,?,?,?,661,allfeatures-openstacks,all-p17.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p80_3,2,4,241,9,1,443,80,162,0,1,652,14446,19762,34208,59648,0,0,0,161,0,481,241,641,12960,82124,161,80, 642, 57961, 0.250779, 90.2819, 360.006, 0.496894, 80, 3.98758, 6.16239, 160, 3.98758, 12.4192, 12800, 360.006, 1003.92,28880, 360.006, 2262.95, 7, 1.74534, 1.97902, 640, 179.379, 194.693, 166, 80.7516, 81.2598, 640, 179.379,194.693,481, 25760, 83721, 0.307689, 0.0186724, 1, 241, 27.7371, 2.95369, 161, 27.7371, 2.95369, 803, 108.884,11.9526, 522,108.884, 2.95369,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/openstacks/problems/p06.pddl, 481, 12960, 4, 241, 60.250000, -1, 0.000000, 0.818192, 1, 1.000000, 0.000000, 6.963195, 0.981404, 158,1783,1,441,1783,241,80,240,184,4,402,2160,5.37313,161,80,161,5.37313,161,11.7898,5.37313,42,8.77496,?,?,?,?,?,?,?,241,allfeatures-openstacks,all-p06.pddl
+openstacks-sequencedstrips-nonadl-nonnegated,os-sequencedstrips-p130_1,2,4,391,9,1,1422,130,262,0,1,1052,37175,51612,88787,156127,0,0,0,261,0,781,391,1041,34060,306923,261,130, 2450, 336430, 0.106531, 137.318, 1289, 0.498084, 130, 9.38697, 8.04535, 260, 9.38697, 15.83, 33800, 1289, 2278.76,167700, 1289, 10343.4, 16, 4.44444, 4.88192, 2210, 642.529, 694.553, 275, 133.448, 133.975, 2210, 642.529,694.553,781, 67860, 404290, 0.16785, 0.011509, 1, 391, 44.4087, 3.77876, 261, 44.4087, 3.77876, 2711, 410.783,35.4912, 1551,410.783, 3.77876,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,20272,1,1420,20272,391,130,390,329,4,652,16799,25.7653,261,130,261,25.7653,261,29.3769,25.7653,204,48.5283,?,?,?,?,?,?,?,391,allfeatures-openstacks,all-p12.pddl

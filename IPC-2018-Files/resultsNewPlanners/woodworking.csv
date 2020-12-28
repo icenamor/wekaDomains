@@ -1,0 +1,235 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : woodworking
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+----------------------+---------+----------------+
+| planner |        domain        | problem | oktimefirstsol |
++---------+----------------------+---------+----------------+
+|  bfs-f  |     woodworking      |   000   |       7        |
+|  bfs-f  |     woodworking      |   001   |       10       |
+|  bfs-f  |     woodworking      |   002   |       11       |
+|  bfs-f  |     woodworking      |   003   |       25       |
+|  bfs-f  |     woodworking      |   004   |       37       |
+|  bfs-f  |     woodworking      |   005   |       28       |
+|  bfs-f  |     woodworking      |   006   |       12       |
+|  bfs-f  |     woodworking      |   007   |       -1       |
+|  bfs-f  |     woodworking      |   008   |       8        |
+|  bfs-f  |     woodworking      |   009   |       0        |
+|  bfs-f  |     woodworking      |   010   |       32       |
+|  bfs-f  |     woodworking      |   011   |       50       |
+|  bfs-f  |     woodworking      |   012   |       50       |
+|  bfs-f  |     woodworking      |   013   |       31       |
+|  bfs-f  |     woodworking      |   014   |       74       |
+|  bfs-f  |     woodworking      |   015   |       66       |
+|  bfs-f  |     woodworking      |   016   |       40       |
+|  bfs-f  |     woodworking      |   017   |       30       |
+|  bfs-f  |     woodworking      |   018   |       73       |
+|  bfs-f  |     woodworking      |   019   |       -1       |
+|  jasper |     woodworking      |   000   |       4        |
+|  jasper |     woodworking      |   001   |       3        |
+|  jasper |     woodworking      |   002   |       3        |
+|  jasper |     woodworking      |   003   |       4        |
+|  jasper |     woodworking      |   004   |       5        |
+|  jasper |     woodworking      |   005   |       4        |
+|  jasper |     woodworking      |   006   |       3        |
+|  jasper |     woodworking      |   007   |       3        |
+|  jasper |     woodworking      |   008   |       2        |
+|  jasper |     woodworking      |   009   |       0        |
+|  jasper |     woodworking      |   010   |       5        |
+|  jasper |     woodworking      |   011   |       5        |
+|  jasper |     woodworking      |   012   |       4        |
+|  jasper |     woodworking      |   013   |       4        |
+|  jasper |     woodworking      |   014   |       6        |
+|  jasper |     woodworking      |   015   |       6        |
+|  jasper |     woodworking      |   016   |       7        |
+|  jasper |     woodworking      |   017   |       4        |
+|  jasper |     woodworking      |   018   |       9        |
+|  jasper |     woodworking      |   019   |       11       |
+| mercury |     woodworking      |   000   |       6        |
+| mercury |     woodworking      |   001   |       10       |
+| mercury |     woodworking      |   002   |       10       |
+| mercury |     woodworking      |   003   |       12       |
+| mercury |     woodworking      |   004   |       10       |
+| mercury |     woodworking      |   005   |       13       |
+| mercury |     woodworking      |   006   |       8        |
+| mercury |     woodworking      |   007   |       11       |
+| mercury |     woodworking      |   008   |       8        |
+| mercury |     woodworking      |   009   |       0        |
+| mercury |     woodworking      |   010   |       11       |
+| mercury |     woodworking      |   011   |       12       |
+| mercury |     woodworking      |   012   |       17       |
+| mercury |     woodworking      |   013   |       17       |
+| mercury |     woodworking      |   014   |       28       |
+| mercury |     woodworking      |   015   |       16       |
+| mercury |     woodworking      |   016   |       7        |
+| mercury |     woodworking      |   017   |       7        |
+| mercury |     woodworking      |   018   |       9        |
+| mercury |     woodworking      |   019   |       11       |
+|   siw   |     woodworking      |   000   |       1        |
+|   siw   |     woodworking      |   001   |       1        |
+|   siw   |     woodworking      |   002   |       1        |
+|   siw   |     woodworking      |   003   |       8        |
+|   siw   |     woodworking      |   004   |       4        |
+|   siw   |     woodworking      |   005   |       2        |
+|   siw   |     woodworking      |   006   |       1        |
+|   siw   |     woodworking      |   007   |       1        |
+|   siw   |     woodworking      |   008   |       5        |
+|   siw   |     woodworking      |   009   |       0        |
+|   siw   |     woodworking      |   010   |       38       |
+|   siw   |     woodworking      |   011   |       6        |
+|   siw   |     woodworking      |   012   |       35       |
+|   siw   |     woodworking      |   013   |       -1       |
+|   siw   |     woodworking      |   014   |       57       |
+|   siw   |     woodworking      |   015   |       54       |
+|   siw   |     woodworking      |   016   |       2        |
+|   siw   |     woodworking      |   017   |       4        |
+|   siw   |     woodworking      |   018   |       3        |
+|   siw   |     woodworking      |   019   |       6        |
+|  bfs-f  | woodworking-strips08 |   000   |       0        |
+|  bfs-f  | woodworking-strips08 |   001   |       0        |
+|  bfs-f  | woodworking-strips08 |   002   |       0        |
+|  bfs-f  | woodworking-strips08 |   003   |       0        |
+|  bfs-f  | woodworking-strips08 |   004   |       1        |
+|  bfs-f  | woodworking-strips08 |   005   |       3        |
+|  bfs-f  | woodworking-strips08 |   006   |       7        |
+|  bfs-f  | woodworking-strips08 |   007   |       11       |
+|  bfs-f  | woodworking-strips08 |   008   |       25       |
+|  bfs-f  | woodworking-strips08 |   009   |       29       |
+|  bfs-f  | woodworking-strips08 |   010   |       0        |
+|  bfs-f  | woodworking-strips08 |   011   |       0        |
+|  bfs-f  | woodworking-strips08 |   012   |       0        |
+|  bfs-f  | woodworking-strips08 |   013   |       1        |
+|  bfs-f  | woodworking-strips08 |   014   |       1        |
+|  bfs-f  | woodworking-strips08 |   015   |       3        |
+|  bfs-f  | woodworking-strips08 |   016   |       5        |
+|  bfs-f  | woodworking-strips08 |   017   |       7        |
+|  bfs-f  | woodworking-strips08 |   018   |       11       |
+|  bfs-f  | woodworking-strips08 |   019   |       36       |
+|  bfs-f  | woodworking-strips08 |   020   |       0        |
+|  bfs-f  | woodworking-strips08 |   021   |       0        |
+|  bfs-f  | woodworking-strips08 |   022   |       0        |
+|  bfs-f  | woodworking-strips08 |   023   |       1        |
+|  bfs-f  | woodworking-strips08 |   024   |       1        |
+|  bfs-f  | woodworking-strips08 |   025   |       2        |
+|  bfs-f  | woodworking-strips08 |   026   |       3        |
+|  bfs-f  | woodworking-strips08 |   027   |       12       |
+|  bfs-f  | woodworking-strips08 |   028   |       -1       |
+|  bfs-f  | woodworking-strips08 |   029   |       95       |
+|  jasper | woodworking-strips08 |   000   |       0        |
+|  jasper | woodworking-strips08 |   001   |       1        |
+|  jasper | woodworking-strips08 |   002   |       1        |
+|  jasper | woodworking-strips08 |   003   |       1        |
+|  jasper | woodworking-strips08 |   004   |       1        |
+|  jasper | woodworking-strips08 |   005   |       2        |
+|  jasper | woodworking-strips08 |   006   |       4        |
+|  jasper | woodworking-strips08 |   007   |       5        |
+|  jasper | woodworking-strips08 |   008   |       4        |
+|  jasper | woodworking-strips08 |   009   |       4        |
+|  jasper | woodworking-strips08 |   010   |       0        |
+|  jasper | woodworking-strips08 |   011   |       0        |
+|  jasper | woodworking-strips08 |   012   |       1        |
+|  jasper | woodworking-strips08 |   013   |       2        |
+|  jasper | woodworking-strips08 |   014   |       1        |
+|  jasper | woodworking-strips08 |   015   |       2        |
+|  jasper | woodworking-strips08 |   016   |       3        |
+|  jasper | woodworking-strips08 |   017   |       3        |
+|  jasper | woodworking-strips08 |   018   |       3        |
+|  jasper | woodworking-strips08 |   019   |       6        |
+|  jasper | woodworking-strips08 |   020   |       0        |
+|  jasper | woodworking-strips08 |   021   |       1        |
+|  jasper | woodworking-strips08 |   022   |       0        |
+|  jasper | woodworking-strips08 |   023   |       1        |
+|  jasper | woodworking-strips08 |   024   |       1        |
+|  jasper | woodworking-strips08 |   025   |       2        |
+|  jasper | woodworking-strips08 |   026   |       2        |
+|  jasper | woodworking-strips08 |   027   |       3        |
+|  jasper | woodworking-strips08 |   028   |       3        |
+|  jasper | woodworking-strips08 |   029   |       3        |
+| mercury | woodworking-strips08 |   000   |       1        |
+| mercury | woodworking-strips08 |   001   |       1        |
+| mercury | woodworking-strips08 |   002   |       3        |
+| mercury | woodworking-strips08 |   003   |       3        |
+| mercury | woodworking-strips08 |   004   |       4        |
+| mercury | woodworking-strips08 |   005   |       4        |
+| mercury | woodworking-strips08 |   006   |       6        |
+| mercury | woodworking-strips08 |   007   |       10       |
+| mercury | woodworking-strips08 |   008   |       12       |
+| mercury | woodworking-strips08 |   009   |       13       |
+| mercury | woodworking-strips08 |   010   |       0        |
+| mercury | woodworking-strips08 |   011   |       1        |
+| mercury | woodworking-strips08 |   012   |       2        |
+| mercury | woodworking-strips08 |   013   |       3        |
+| mercury | woodworking-strips08 |   014   |       4        |
+| mercury | woodworking-strips08 |   015   |       4        |
+| mercury | woodworking-strips08 |   016   |       8        |
+| mercury | woodworking-strips08 |   017   |       8        |
+| mercury | woodworking-strips08 |   018   |       10       |
+| mercury | woodworking-strips08 |   019   |       10       |
+| mercury | woodworking-strips08 |   020   |       1        |
+| mercury | woodworking-strips08 |   021   |       2        |
+| mercury | woodworking-strips08 |   022   |       2        |
+| mercury | woodworking-strips08 |   023   |       3        |
+| mercury | woodworking-strips08 |   024   |       4        |
+| mercury | woodworking-strips08 |   025   |       5        |
+| mercury | woodworking-strips08 |   026   |       5        |
+| mercury | woodworking-strips08 |   027   |       9        |
+| mercury | woodworking-strips08 |   028   |       10       |
+| mercury | woodworking-strips08 |   029   |       13       |
+|   siw   | woodworking-strips08 |   000   |       0        |
+|   siw   | woodworking-strips08 |   001   |       0        |
+|   siw   | woodworking-strips08 |   002   |       0        |
+|   siw   | woodworking-strips08 |   003   |       0        |
+|   siw   | woodworking-strips08 |   004   |       1        |
+|   siw   | woodworking-strips08 |   005   |       0        |
+|   siw   | woodworking-strips08 |   006   |       0        |
+|   siw   | woodworking-strips08 |   007   |       1        |
+|   siw   | woodworking-strips08 |   008   |       8        |
+|   siw   | woodworking-strips08 |   009   |       3        |
+|   siw   | woodworking-strips08 |   010   |       0        |
+|   siw   | woodworking-strips08 |   011   |       0        |
+|   siw   | woodworking-strips08 |   012   |       0        |
+|   siw   | woodworking-strips08 |   013   |       0        |
+|   siw   | woodworking-strips08 |   014   |       1        |
+|   siw   | woodworking-strips08 |   015   |       6        |
+|   siw   | woodworking-strips08 |   016   |       0        |
+|   siw   | woodworking-strips08 |   017   |       5        |
+|   siw   | woodworking-strips08 |   018   |       1        |
+|   siw   | woodworking-strips08 |   019   |       4        |
+|   siw   | woodworking-strips08 |   020   |       0        |
+|   siw   | woodworking-strips08 |   021   |       0        |
+|   siw   | woodworking-strips08 |   022   |       0        |
+|   siw   | woodworking-strips08 |   023   |       1        |
+|   siw   | woodworking-strips08 |   024   |       0        |
+|   siw   | woodworking-strips08 |   025   |       0        |
+|   siw   | woodworking-strips08 |   026   |       1        |
+|   siw   | woodworking-strips08 |   027   |       1        |
+|   siw   | woodworking-strips08 |   028   |       1        |
+|   siw   | woodworking-strips08 |   029   |       6        |
++---------+----------------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 16:57:21 2018
+

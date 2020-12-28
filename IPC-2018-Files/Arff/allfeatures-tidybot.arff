@@ -1,0 +1,148 @@
+@relation problem
+
+@attribute domain string
+@attribute task_name string
+@attribute requirements numeric
+@attribute types numeric
+@attribute objects numeric
+@attribute predicates numeric
+@attribute functions numeric
+@attribute init numeric
+@attribute goal numeric
+@attribute actions numeric
+@attribute axioms numeric
+@attribute use_min_cost_metric numeric
+@attribute generated_rules numeric
+@attribute relevant_atoms numeric
+@attribute auxiliary_atoms numeric
+@attribute final_queue_length numeric
+@attribute total_queue_pushes numeric
+@attribute implied_effects_removed numeric
+@attribute effect_conditions_simplified numeric
+@attribute implied_preconditions_added numeric
+@attribute translator_variables numeric
+@attribute translator_derived_variables numeric
+@attribute translator_facts numeric
+@attribute translator_mutex_groups numeric
+@attribute translator_total_mutex_groups_size numeric
+@attribute translator_operators numeric
+@attribute translator_task_size numeric
+@attribute numberVariablesCG numeric
+@attribute highLevelVariablesCG numeric
+@attribute totalEdgesCG numeric
+@attribute totalWeightCG numeric
+@attribute veRatio numeric
+@attribute weRatio numeric
+@attribute wvRatio numeric
+@attribute hvRatio numeric
+@attribute inputEdgeCGMax numeric
+@attribute inputEdgeCGAvg numeric
+@attribute inputEdgeCGStd numeric
+@attribute outputEdgeCGMax numeric
+@attribute outputEdgeCGAvg numeric
+@attribute outputEdgeCGStd numeric
+@attribute inputWeightCGMax numeric
+@attribute inputWeightCGAvg numeric
+@attribute inputWeightCGStd numeric
+@attribute outputWeightCGMax numeric
+@attribute outputWeightCGAvg numeric
+@attribute outputWeightCGStd numeric
+@attribute inputEdgeHVMax numeric
+@attribute inputEdgeHVAvg numeric
+@attribute inputEdgeHVStd numeric
+@attribute outputEdgeHVMax numeric
+@attribute outputEdgeHVAvg numeric
+@attribute outputEdgeHVStd numeric
+@attribute inputWeightHVMax numeric
+@attribute inputWeightHVAvg numeric
+@attribute inputWeightHVStd numeric
+@attribute outputWeightHVMax numeric
+@attribute outputWeightHVAvg numeric
+@attribute outputWeightHVStd numeric
+@attribute numberVariablesDTG numeric
+@attribute totalEdgesDTG numeric
+@attribute totalWeigthDTG numeric
+@attribute edVaRatioDTG numeric
+@attribute weEdRatioDTG numeric
+@attribute weVaRatioDTG numeric
+@attribute inputEdgeDTGMax numeric
+@attribute inputEdgeDTGAvg numeric
+@attribute inputEdgeDTGStd numeric
+@attribute outputEdgeDTGMax numeric
+@attribute outputEdgeDTGAvg numeric
+@attribute outputEdgeDTGStd numeric
+@attribute inputWeightDTGMax numeric
+@attribute inputWeightDTGAvg numeric
+@attribute inputWeightDTGStd numeric
+@attribute outputWeightDTGMax numeric
+@attribute outputWeightDTGAvg numeric
+@attribute outputWeightDTGStd numeric
+@attribute no numeric
+@attribute file string
+@attribute num_relevant_facts numeric
+@attribute num_actions numeric
+@attribute h_max numeric
+@attribute h_ff numeric
+@attribute h_ff_ratio numeric
+@attribute rp_fact_balance_min numeric
+@attribute rp_fact_balance_avg numeric
+@attribute rp_fact_balance_var numeric
+@attribute rp_goal_balance_min numeric
+@attribute rp_goal_balance_avg numeric
+@attribute rp_goal_balance_var numeric
+@attribute balance_Ratio numeric
+@attribute Unbalance_Ratio numeric
+@attribute Balance_Distorsion numeric
+@attribute Additive numeric
+@attribute Blind numeric
+@attribute Causal_graph numeric
+@attribute Context-enhanced_additive numeric
+@attribute FF numeric
+@attribute Goal_count numeric
+@attribute Landmark_count numeric
+@attribute Landmark-cut numeric
+@attribute Max numeric
+@attribute n_landmarks numeric
+@attribute numberEdges numeric
+@attribute edVaratioLand numeric
+@attribute numberFatherNodes numeric
+@attribute numberChildrenNodes numeric
+@attribute nodosbetween numeric
+@attribute avginput numeric
+@attribute maxinput numeric
+@attribute stdinput numeric
+@attribute avgoutput numeric
+@attribute maxoutput numeric
+@attribute stdoutput numeric
+@attribute blackVariables numeric
+@attribute blackRootVariables numeric
+@attribute redBlackVariables numeric
+@attribute allpairsvaluesconnected numeric
+@attribute allvaluesconnectedgoal numeric
+@attribute blackstronglpyarents numeric
+@attribute Maximaleffectsblack  numeric
+@attribute Hred-black numeric
+@attribute  nameDomain2 string
+@attribute  nameFile2 string
+@data
+
+tidybot,test,3,8,30,25,0,125,4,30,0,0,400,30443,32000,62443,160700,0,80875,0,373,0,749,3,9,29889,360501,373,4, 52241, 793947, 0.00713999, 15.1978, 2128.54, 0.0107239, 287, 140.056, 93.1422, 244, 140.056, 82.4654, 156152, 2128.54, 8169.53,31356, 2128.54, 2115.2, 15, 0.160858, 1.54499, 2, 0.0160858, 0.162944, 738, 7.91421, 76.0135, 2, 0.0160858,0.162944,749, 178080, 969339, 0.183713, 0.00420597, 1, 3529, 233.109, 0, 3529, 233.109, 0, 17514, 1049.77,0, 17514,1049.77, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p04.pddl, 493, 16861, 13, 24, 1.846154, -3, -0.002028, 0.368644, 1, 1.000000, 0.000000, 3.588043, 0.057589, 75,39,1,5,39,24,4,6,17,13,23,33,1.43478,16,4,3,1.43478,4,0,1.43478,12,2.82843,4,0,373,0,0,0,10,23,allfeatures-tidybot,all-p04.pddl
+tidybot,test,3,8,30,25,0,126,4,30,0,0,400,30397,31998,62395,160558,0,80827,0,373,0,749,3,9,29842,360049,373,4, 52212, 793252, 0.00714395, 15.1929, 2126.68, 0.0107239, 287, 139.979, 93.1051, 244, 139.979, 82.5652, 156152, 2126.68, 8168.37,31140, 2126.68, 2107.95, 15, 0.160858, 1.54499, 2, 0.0187668, 0.185743, 720, 7.72118, 74.1595, 2, 0.0187668,0.185743,749, 177937, 968501, 0.183724, 0.00420935, 1, 3505, 232.956, 0, 3505, 232.956, 0, 17370, 1049.04,0, 17370,1049.04, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p03.pddl, 490, 16418, 10, 23, 2.300000, -2, 0.000000, 0.325764, 1, 1.000000, 0.000000, 2.775003, 0.028810, 45,97,1,8,97,21,4,13,19,10,34,127,3.73529,17,4,13,3.73529,16,3.60555,3.73529,16,5.09902,4,0,373,0,0,0,10,21,allfeatures-tidybot,all-p03.pddl
+tidybot,test,3,8,32,25,0,134,4,30,0,0,400,44031,39275,83306,231101,0,123317,0,449,0,901,3,9,43386,533695,449,4, 77552, 1202774, 0.00578966, 15.5093, 2678.78, 0.00890869, 344, 172.722, 113.632, 301, 172.722, 103.559, 243782, 2678.78, 11568.9,37080, 2678.78, 2476.49, 15, 0.13363, 1.40947, 2, 0.0155902, 0.169441, 738, 6.57461, 69.3458, 2, 0.0155902,0.169441,901, 269991, 1470077, 0.183658, 0.00333715, 1, 4237, 295.153, 0, 4237, 295.153, 0, 20762, 1328.7,0, 20762,1328.7, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p11.pddl, 604, 26836, 15, 36, 2.400000, -2, 0.000000, 0.325515, 1, 1.000000, 0.000000, 6.156468, 0.091556, 103,123,1,7,123,33,4,10,22,15,31,97,3.12903,17,4,10,3.12903,12,2.64575,3.12903,16,4.69042,4,0,449,0,0,0,10,33,allfeatures-tidybot,all-p11.pddl
+tidybot,test,3,8,40,25,0,194,8,30,0,0,400,101775,85912,187687,518762,0,268841,0,725,0,1457,3,13,100798,1215403,725,8, 160280, 2677734, 0.00452333, 16.7066, 3693.43, 0.0110345, 572, 221.076, 174.835, 449, 221.076, 158.974, 523850, 3693.43, 19719.3,121680, 3693.43, 5252.31, 31, 0.342069, 3.23838, 2, 0.0151724, 0.152375, 1602, 17.6772, 167.351, 2, 0.0151724,0.152375,1457, 596103, 3262317, 0.182724, 0.00244421, 1, 15390, 396.601, 0, 15390, 396.601, 0, 86771, 1787.98,0, 86771,1787.98, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p20.pddl, 923, 52060, 20, 60, 3.000000, -1, 0.000000, 0.315713, 1, 1.000000, 0.000000, 12.065752, 0.607491, 187,357,1,15,357,62,8,23,39,20,55,184,3.34545,30,8,17,3.34545,24,5,3.34545,13,4.47214,4,0,725,0,0,0,10,60,allfeatures-tidybot,all-p20.pddl
+tidybot,test,3,8,32,25,0,144,4,30,0,0,400,45496,39738,85234,235974,0,124757,0,469,0,941,3,9,44826,547435,469,4, 78362, 1223654, 0.00598504, 15.6154, 2609.07, 0.00852878, 364, 167.083, 116.783, 301, 167.083, 104.897, 243782, 2609.07, 11358.7,43560, 2609.07, 2661.01, 25, 0.21322, 2.29892, 2, 0.0149254, 0.165819, 1278, 10.8998, 117.521, 2, 0.0149254,0.165819,941, 273831, 1492877, 0.183425, 0.00343643, 1, 4843, 285.739, 0, 4843, 285.739, 0, 24506, 1287.23,0, 24506,1287.23, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p14.pddl, 604, 22798, 16, 30, 1.875000, -3, 0.000000, 0.335534, 1, 1.000000, 0.000000, 2.264146, 0.012501, 123,115,1,7,115,32,4,10,25,16,36,130,3.61111,20,4,12,3.61111,11,2.82843,3.61111,21,5.74456,4,0,469,0,0,0,10,32,allfeatures-tidybot,all-p14.pddl
+tidybot,test,3,8,32,25,0,138,4,30,0,0,400,44906,39548,84454,234012,0,124181,0,461,0,925,3,9,44248,541931,461,4, 78036, 1215300, 0.00590753, 15.5736, 2636.23, 0.00867679, 356, 169.275, 115.601, 301, 169.275, 104.419, 243782, 2636.23, 11440.4,40968, 2636.23, 2586.69, 21, 0.182213, 1.94763, 2, 0.010846, 0.122747, 1062, 9.21475, 98.4944, 2, 0.010846,0.122747,925, 272293, 1483753, 0.183516, 0.00339708, 1, 4597, 289.404, 0, 4597, 289.404, 0, 22994, 1303.38,0, 22994,1303.38, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p13.pddl, 607, 24558, 10, 32, 3.200000, -2, 0.000000, 0.344407, 1, 1.000000, 0.000000, 3.981595, 0.241795, 76,119,1,8,119,29,4,13,20,10,34,107,3.14706,20,4,10,3.14706,14,3.31662,3.14706,12,4.24264,4,0,461,0,0,0,10,29,allfeatures-tidybot,all-p13.pddl
+tidybot,test,3,8,30,25,0,129,4,30,0,0,400,30957,32175,63132,162423,0,81379,0,381,0,765,3,9,30393,365313,381,4, 52520, 801255, 0.00725438, 15.2562, 2103.03, 0.0104987, 295, 137.848, 94.4094, 244, 137.848, 83.0342, 156152, 2103.03, 8101.77,33624, 2103.03, 2189.14, 19, 0.199475, 1.93655, 2, 0.015748, 0.161241, 927, 9.73228, 94.4834, 2, 0.015748,0.161241,765, 179400, 977199, 0.183586, 0.00426421, 1, 3739, 229.55, 0, 3739, 229.55, 0, 18810, 1034.1,0, 18810,1034.1, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p01.pddl, 493, 15289, 15, 45, 3.000000, -3, -0.002028, 0.443566, 1, 1.000000, 0.000000, 10.184119, 0.416770, 161,139,1,8,139,35,4,13,24,15,32,105,3.28125,18,4,10,3.28125,14,3.4641,3.28125,13,4.3589,4,0,381,0,0,0,10,34,allfeatures-tidybot,all-p01.pddl
+tidybot,test,3,8,30,25,0,124,4,30,0,0,400,30417,31996,62413,160620,0,80851,0,373,0,749,3,9,29864,360269,373,4, 52225, 793598, 0.00714217, 15.1957, 2127.61, 0.0107239, 287, 140.013, 93.1248, 244, 140.013, 82.5213, 156152, 2127.61, 8168.94,31248, 2127.61, 2111.56, 15, 0.160858, 1.54499, 2, 0.0134048, 0.136334, 729, 7.81769, 75.0865, 2, 0.0134048,0.136334,749, 178007, 968917, 0.183717, 0.0042077, 1, 3517, 233.03, 0, 3517, 233.03, 0, 17442, 1049.38,0, 17442,1049.38, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p05.pddl, 493, 16844, 9, 26, 2.888889, -2, 0.000000, 0.348861, 1, 1.000000, 0.000000, 3.527191, 0.090180, 53,81,1,7,81,23,4,11,15,9,32,85,2.65625,20,4,8,2.65625,11,2.44949,2.65625,13,4,4,0,373,0,0,0,10,23,allfeatures-tidybot,all-p05.pddl
+tidybot,test,3,8,30,25,0,131,4,30,0,0,400,31226,32263,63489,163321,0,81643,0,385,0,773,3,9,30657,367833,385,4, 52667, 805083, 0.00731008, 15.2863, 2091.12, 0.0103896, 299, 136.797, 95.0168, 244, 136.797, 83.2646, 156152, 2091.12, 8069.48,34812, 2091.12, 2228.12, 21, 0.218182, 2.12937, 2, 0.0155844, 0.160409, 1026, 10.6597, 104.035, 2, 0.0155844,0.160409,773, 180096, 981339, 0.183521, 0.00429216, 1, 3895, 227.863, 0, 3895, 227.863, 0, 19674, 1026.67,0, 19674,1026.67, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p02.pddl, 493, 14743, 15, 35, 2.333333, -2, 0.000000, 0.376813, 1, 1.000000, 0.000000, 7.261752, 0.236790, 130,138,1,8,138,33,4,14,23,15,33,112,3.39394,18,4,11,3.39394,15,3.74166,3.39394,12,4.3589,4,0,385,0,0,0,10,35,allfeatures-tidybot,all-p02.pddl
+tidybot,test,3,8,30,25,0,125,4,30,0,0,400,30443,31994,62437,160694,0,80875,0,373,0,749,3,9,29889,360501,373,4, 52241, 793947, 0.00713999, 15.1978, 2128.54, 0.0107239, 287, 140.056, 93.1492, 244, 140.056, 82.4654, 156152, 2128.54, 8169.54,31356, 2128.54, 2115.2, 15, 0.160858, 1.54499, 2, 0.0160858, 0.162944, 738, 7.91421, 76.0135, 2, 0.0160858,0.162944,749, 178080, 969339, 0.183713, 0.00420597, 1, 3529, 233.109, 0, 3529, 233.109, 0, 17514, 1049.77,0, 17514,1049.77, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p08.pddl, 493, 16849, 8, 22, 2.750000, -2, 0.000000, 0.318465, 1, 1.000000, 0.000000, 2.085287, 0.035610, 38,83,1,7,83,22,4,12,16,8,31,93,3,18,4,9,3,12,3,3,13,4.24264,4,0,373,0,0,0,10,22,allfeatures-tidybot,all-p08.pddl
+tidybot,test,3,8,30,25,0,127,4,30,0,0,400,30399,31995,62394,160559,0,80827,0,373,0,749,3,9,29843,360053,373,4, 52213, 793253, 0.00714381, 15.1926, 2126.68, 0.0107239, 287, 139.981, 93.0832, 244, 139.981, 82.5607, 156152, 2126.68, 8168.33,31140, 2126.68, 2107.95, 15, 0.160858, 1.54499, 2, 0.0214477, 0.205999, 720, 7.72118, 74.1595, 2, 0.0214477,0.205999,749, 177938, 968503, 0.183725, 0.00420933, 1, 3505, 232.957, 0, 3505, 232.957, 0, 17370, 1049.04,0, 17370,1049.04, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p07.pddl, 490, 16433, 10, 30, 3.000000, -1, 0.000000, 0.361403, 1, 1.000000, 0.000000, 3.825291, 0.172032, 64,114,1,8,114,28,4,12,21,10,30,114,3.8,15,4,11,3.8,14,3.60555,3.8,14,5,4,0,373,0,0,0,10,30,allfeatures-tidybot,all-p07.pddl
+tidybot,test,3,8,32,25,0,132,4,30,0,0,400,44075,39274,83349,231236,0,123365,0,449,0,901,3,9,43432,534143,449,4, 77580, 1203468, 0.00578757, 15.5126, 2680.33, 0.00890869, 344, 172.784, 113.672, 301, 172.784, 103.476, 243782, 2680.33, 11569.8,37296, 2680.33, 2482.43, 15, 0.13363, 1.40947, 2, 0.0111359, 0.124363, 756, 6.73497, 71.0371, 2, 0.0111359,0.124363,901, 270133, 1470913, 0.18365, 0.00333539, 1, 4261, 295.279, 0, 4261, 295.279, 0, 20906, 1329.3,0, 20906,1329.3, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p16.pddl, 607, 27404, 13, 34, 2.615385, -3, -0.001647, 0.378583, 1, 1.000000, 0.000000, 4.659612, 0.065647, 107,119,1,8,119,36,4,13,22,13,34,107,3.14706,20,4,10,3.14706,14,3.31662,3.14706,12,4.24264,4,0,449,0,0,0,10,35,allfeatures-tidybot,all-p16.pddl
+tidybot,test,3,8,32,25,0,146,4,30,0,0,400,45717,39821,85538,236723,0,124973,0,473,0,949,3,9,45042,549499,473,4, 78479, 1226786, 0.00602709, 15.632, 2593.63, 0.00845666, 368, 165.918, 117.345, 301, 165.918, 105.236, 243782, 2593.63, 11317.5,44532, 2593.63, 2688.6, 27, 0.22833, 2.4724, 2, 0.0147992, 0.165122, 1359, 11.4926, 124.444, 2, 0.0147992,0.165122,949, 274383, 1496177, 0.183389, 0.00345867, 1, 4975, 283.769, 0, 4975, 283.769, 0, 25226, 1278.47,0, 25226,1278.47, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p10.pddl, 604, 22174, 14, 32, 2.285714, -1, 0.000000, 0.287718, 1, 1.000000, 0.000000, 4.053441, 0.045729, 53,111,1,8,111,33,4,12,24,14,32,117,3.65625,17,4,11,3.65625,14,3.4641,3.65625,15,4.89898,4,0,473,0,0,0,10,30,allfeatures-tidybot,all-p10.pddl
+tidybot,test,3,8,34,25,0,149,4,30,0,0,400,63291,47672,110963,328224,0,182223,0,549,0,1101,3,9,62529,777737,549,4, 112027, 1774919, 0.0049006, 15.8437, 3233, 0.00728597, 423, 204.056, 138.971, 364, 204.056, 128.228, 363948, 3233, 15604.8,48420, 3233, 3012.06, 23, 0.167577, 1.95607, 2, 0.010929, 0.134519, 1152, 8.39344, 97.9734, 2, 0.010929,0.134519,1101, 397852, 2168547, 0.183465, 0.00276736, 1, 5483, 356.463, 0, 5483, 356.463, 0, 27218, 1605.29,0, 27218,1605.29, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p18.pddl, 733, 37425, 12, 34, 2.833333, -3, -0.001364, 0.340529, 1, 1.000000, 0.000000, 4.509820, 0.166065, 86,100,1,7,100,36,4,10,20,12,29,76,2.62069,18,4,7,2.62069,10,2.23607,2.62069,12,4,4,0,549,0,0,0,10,35,allfeatures-tidybot,all-p18.pddl
+tidybot,test,3,8,44,25,0,226,12,30,0,0,400,117069,115451,232520,589621,0,279393,0,817,0,1645,3,17,115978,1350631,817,12, 164561, 2851550, 0.00496472, 17.3282, 3490.27, 0.0146879, 660, 201.421, 182.116, 543, 201.421, 160.986, 523850, 3490.27, 18903.4,189972, 3490.27, 7166.71, 35, 0.514076, 4.21051, 2, 0.0183599, 0.159269, 1809, 26.5704, 217.623, 2, 0.0183599,0.159269,1645, 630371, 3462337, 0.182065, 0.00260957, 1, 24137, 363.923, 0, 24137, 363.923, 0, 139475, 1641.47,0, 139475,1641.47, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p19.pddl, 991, 50432, 17, 65, 3.823529, -2, 0.000000, 0.345068, 1, 1.000000, 0.000000, 12.071999, 0.369151, 189,524,1,23,524,60,12,40,45,17,88,325,3.69318,46,12,30,3.69318,41,7.48331,3.69318,13,4.47214,4,0,817,0,0,0,10,62,allfeatures-tidybot,all-p19.pddl
+tidybot,test,3,8,32,25,0,140,4,30,0,0,400,44910,39548,84458,234020,0,124181,0,461,0,925,3,9,44250,541939,461,4, 78038, 1215302, 0.00590738, 15.5732, 2636.23, 0.00867679, 356, 169.28, 115.611, 301, 169.28, 104.412, 243782, 2636.23, 11440.4,40968, 2636.23, 2586.68, 21, 0.182213, 1.94763, 2, 0.0151844, 0.167239, 1062, 9.21475, 98.4944, 2, 0.0151844,0.167239,925, 272295, 1483757, 0.183517, 0.00339705, 1, 4597, 289.406, 0, 4597, 289.406, 0, 22994, 1303.38,0, 22994,1303.38, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p15.pddl, 604, 24852, 16, 29, 1.812500, -2, 0.000000, 0.299005, 1, 1.000000, 0.000000, 2.721069, 0.093634, 46,172,1,8,172,30,4,13,26,16,40,169,4.225,20,4,16,4.225,16,3.74166,4.225,22,6.32456,4,0,461,0,0,0,10,30,allfeatures-tidybot,all-p15.pddl
+tidybot,test,3,8,32,25,0,146,4,30,0,0,400,45765,39820,85585,236866,0,125021,0,473,0,949,3,9,45090,549955,473,4, 78509, 1227482, 0.00602479, 15.6349, 2595.1, 0.00845666, 368, 165.981, 117.387, 301, 165.981, 105.156, 243782, 2595.1, 11318.5,44748, 2595.1, 2695.1, 27, 0.22833, 2.4724, 2, 0.0147992, 0.165122, 1377, 11.6448, 126.092, 2, 0.0147992,0.165122,949, 274527, 1497017, 0.183383, 0.00345685, 1, 4999, 283.891, 0, 4999, 283.891, 0, 25370, 1279.04,0, 25370,1279.04, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p09.pddl, 607, 22616, 13, 26, 2.000000, -1, 0.000000, 0.250206, 1, 1.000000, 0.000000, 3.632915, 0.027149, 36,92,1,7,92,31,4,10,20,13,25,70,2.8,14,4,7,2.8,10,2.44949,2.8,11,4,4,0,473,0,0,0,10,31,allfeatures-tidybot,all-p09.pddl
+tidybot,test,3,8,34,25,0,155,4,30,0,0,400,63905,47860,111765,330256,0,182823,0,557,0,1117,3,9,63131,783469,557,4, 112368, 1783621, 0.00495693, 15.873, 3202.19, 0.00718133, 431, 201.738, 140.186, 364, 201.738, 128.779, 363948, 3202.19, 15505.4,51120, 3202.19, 3079.73, 27, 0.193896, 2.27982, 2, 0.0143627, 0.168876, 1377, 9.88869, 116.271, 2, 0.0143627,0.168876,1117, 399462, 2178091, 0.1834, 0.00279626, 1, 5735, 352.465, 0, 5735, 352.465, 0, 28778, 1587.62,0, 28778,1587.62, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p17.pddl, 733, 35825, 14, 36, 2.571429, -3, -0.001364, 0.344512, 1, 1.000000, 0.000000, 3.332757, 0.053566, 115,85,1,7,85,38,4,10,22,14,25,70,2.8,14,4,7,2.8,10,2.44949,2.8,11,4,4,0,557,0,0,0,10,36,allfeatures-tidybot,all-p17.pddl
+tidybot,test,3,8,30,25,0,131,4,30,0,0,400,31250,32261,63511,163391,0,81667,0,385,0,773,3,9,30681,368061,385,4, 52682, 805431, 0.007308, 15.2885, 2092.03, 0.0103896, 299, 136.836, 95.0232, 244, 136.836, 83.2181, 156152, 2092.03, 8070.11,34920, 2092.03, 2231.94, 21, 0.218182, 2.12937, 2, 0.0155844, 0.160409, 1035, 10.7532, 104.948, 2, 0.0155844,0.160409,773, 180168, 981759, 0.183516, 0.00429044, 1, 3907, 227.938, 0, 3907, 227.938, 0, 19746, 1027.07,0, 19746,1027.07, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p06.pddl, 490, 14421, 13, 30, 2.307692, -1, 0.000000, 0.338062, 1, 1.000000, 0.000000, 4.629429, 0.040705, 60,123,1,8,123,28,4,13,22,13,35,124,3.54286,19,4,12,3.54286,15,3.4641,3.54286,15,4.89898,4,0,385,0,0,0,10,29,allfeatures-tidybot,all-p06.pddl
+tidybot,test,3,8,32,25,0,132,4,30,0,0,400,43738,39186,82924,230130,0,123029,0,445,0,893,3,9,43098,530947,445,4, 77390, 1198598, 0.0057501, 15.4878, 2693.48, 0.00898876, 340, 173.91, 112.941, 301, 173.91, 103.236, 243782, 2693.48, 11613.4,35784, 2693.48, 2440.18, 13, 0.116854, 1.22697, 2, 0.0157303, 0.170194, 630, 5.66292, 59.4607, 2, 0.0157303,0.170194,893, 269223, 1465517, 0.183705, 0.00331695, 1, 4087, 297.137, 0, 4087, 297.137, 0, 19898, 1337.43,0, 19898,1337.43, 0,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/tidybot/problems/p12.pddl, 607, 28104, 9, 24, 2.666667, -2, -0.001647, 0.317004, 1, 1.000000, 0.000000, 1.430650, 0.052733, 54,78,1,7,78,23,4,10,18,9,29,83,2.86207,16,4,9,2.86207,12,2.44949,2.86207,13,4.3589,4,0,445,0,0,0,10,23,allfeatures-tidybot,all-p12.pddl

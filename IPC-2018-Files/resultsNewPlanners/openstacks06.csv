@@ -1,0 +1,155 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : openstacks06
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+--------------+---------+----------------+
+| planner |    domain    | problem | oktimefirstsol |
++---------+--------------+---------+----------------+
+|  bfs-f  | openstacks06 |   000   |       0        |
+|  bfs-f  | openstacks06 |   001   |       0        |
+|  bfs-f  | openstacks06 |   002   |       0        |
+|  bfs-f  | openstacks06 |   003   |       0        |
+|  bfs-f  | openstacks06 |   004   |       0        |
+|  bfs-f  | openstacks06 |   005   |       0        |
+|  bfs-f  | openstacks06 |   006   |       0        |
+|  bfs-f  | openstacks06 |   007   |       1        |
+|  bfs-f  | openstacks06 |   008   |       0        |
+|  bfs-f  | openstacks06 |   009   |       0        |
+|  bfs-f  | openstacks06 |   010   |       0        |
+|  bfs-f  | openstacks06 |   011   |       0        |
+|  bfs-f  | openstacks06 |   012   |       0        |
+|  bfs-f  | openstacks06 |   013   |       0        |
+|  bfs-f  | openstacks06 |   014   |       0        |
+|  bfs-f  | openstacks06 |   015   |       1        |
+|  bfs-f  | openstacks06 |   016   |       1        |
+|  bfs-f  | openstacks06 |   017   |       3        |
+|  bfs-f  | openstacks06 |   018   |       0        |
+|  bfs-f  | openstacks06 |   019   |       1        |
+|  bfs-f  | openstacks06 |   020   |       1        |
+|  bfs-f  | openstacks06 |   021   |       1        |
+|  bfs-f  | openstacks06 |   022   |       1        |
+|  bfs-f  | openstacks06 |   023   |       62       |
+|  bfs-f  | openstacks06 |   024   |       55       |
+|  bfs-f  | openstacks06 |   025   |       9        |
+|  bfs-f  | openstacks06 |   026   |       65       |
+|  bfs-f  | openstacks06 |   027   |       0        |
+|  bfs-f  | openstacks06 |   028   |       0        |
+|  bfs-f  | openstacks06 |   029   |      214       |
+|  jasper | openstacks06 |   000   |       -1       |
+|  jasper | openstacks06 |   001   |       -1       |
+|  jasper | openstacks06 |   002   |       -1       |
+|  jasper | openstacks06 |   003   |       -1       |
+|  jasper | openstacks06 |   004   |       -1       |
+|  jasper | openstacks06 |   005   |       -1       |
+|  jasper | openstacks06 |   006   |       -1       |
+|  jasper | openstacks06 |   007   |       -1       |
+|  jasper | openstacks06 |   008   |       -1       |
+|  jasper | openstacks06 |   009   |       -1       |
+|  jasper | openstacks06 |   010   |       -1       |
+|  jasper | openstacks06 |   011   |       -1       |
+|  jasper | openstacks06 |   012   |       -1       |
+|  jasper | openstacks06 |   013   |       -1       |
+|  jasper | openstacks06 |   014   |       -1       |
+|  jasper | openstacks06 |   015   |       -1       |
+|  jasper | openstacks06 |   016   |       -1       |
+|  jasper | openstacks06 |   017   |       -1       |
+|  jasper | openstacks06 |   018   |       -1       |
+|  jasper | openstacks06 |   019   |       -1       |
+|  jasper | openstacks06 |   020   |       -1       |
+|  jasper | openstacks06 |   021   |       -1       |
+|  jasper | openstacks06 |   022   |       -1       |
+|  jasper | openstacks06 |   023   |       -1       |
+|  jasper | openstacks06 |   024   |       -1       |
+|  jasper | openstacks06 |   025   |       -1       |
+|  jasper | openstacks06 |   026   |       -1       |
+|  jasper | openstacks06 |   027   |       -1       |
+|  jasper | openstacks06 |   028   |       -1       |
+|  jasper | openstacks06 |   029   |       -1       |
+| mercury | openstacks06 |   000   |       -1       |
+| mercury | openstacks06 |   001   |       -1       |
+| mercury | openstacks06 |   002   |       -1       |
+| mercury | openstacks06 |   003   |       -1       |
+| mercury | openstacks06 |   004   |       -1       |
+| mercury | openstacks06 |   005   |       -1       |
+| mercury | openstacks06 |   006   |       -1       |
+| mercury | openstacks06 |   007   |       -1       |
+| mercury | openstacks06 |   008   |       -1       |
+| mercury | openstacks06 |   009   |       -1       |
+| mercury | openstacks06 |   010   |       -1       |
+| mercury | openstacks06 |   011   |       -1       |
+| mercury | openstacks06 |   012   |       -1       |
+| mercury | openstacks06 |   013   |       -1       |
+| mercury | openstacks06 |   014   |       -1       |
+| mercury | openstacks06 |   015   |       -1       |
+| mercury | openstacks06 |   016   |       -1       |
+| mercury | openstacks06 |   017   |       -1       |
+| mercury | openstacks06 |   018   |       -1       |
+| mercury | openstacks06 |   019   |       -1       |
+| mercury | openstacks06 |   020   |       -1       |
+| mercury | openstacks06 |   021   |       -1       |
+| mercury | openstacks06 |   022   |       -1       |
+| mercury | openstacks06 |   023   |       -1       |
+| mercury | openstacks06 |   024   |       -1       |
+| mercury | openstacks06 |   025   |       -1       |
+| mercury | openstacks06 |   026   |       -1       |
+| mercury | openstacks06 |   027   |       -1       |
+| mercury | openstacks06 |   028   |       -1       |
+| mercury | openstacks06 |   029   |       -1       |
+|   siw   | openstacks06 |   000   |       0        |
+|   siw   | openstacks06 |   001   |       0        |
+|   siw   | openstacks06 |   002   |       0        |
+|   siw   | openstacks06 |   003   |       0        |
+|   siw   | openstacks06 |   004   |       0        |
+|   siw   | openstacks06 |   005   |       1        |
+|   siw   | openstacks06 |   006   |       1        |
+|   siw   | openstacks06 |   007   |       28       |
+|   siw   | openstacks06 |   008   |       0        |
+|   siw   | openstacks06 |   009   |       0        |
+|   siw   | openstacks06 |   010   |       0        |
+|   siw   | openstacks06 |   011   |       0        |
+|   siw   | openstacks06 |   012   |       0        |
+|   siw   | openstacks06 |   013   |       0        |
+|   siw   | openstacks06 |   014   |       0        |
+|   siw   | openstacks06 |   015   |       0        |
+|   siw   | openstacks06 |   016   |       0        |
+|   siw   | openstacks06 |   017   |       0        |
+|   siw   | openstacks06 |   018   |       0        |
+|   siw   | openstacks06 |   019   |       0        |
+|   siw   | openstacks06 |   020   |      313       |
+|   siw   | openstacks06 |   021   |       0        |
+|   siw   | openstacks06 |   022   |       0        |
+|   siw   | openstacks06 |   023   |       0        |
+|   siw   | openstacks06 |   024   |       0        |
+|   siw   | openstacks06 |   025   |       0        |
+|   siw   | openstacks06 |   026   |       0        |
+|   siw   | openstacks06 |   027   |       0        |
+|   siw   | openstacks06 |   028   |       0        |
+|   siw   | openstacks06 |   029   |       0        |
++---------+--------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:18:41 2018
+

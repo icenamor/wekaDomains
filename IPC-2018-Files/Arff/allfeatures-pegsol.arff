@@ -1,0 +1,148 @@
+@relation problem
+
+@attribute domain string
+@attribute task_name string
+@attribute requirements numeric
+@attribute types numeric
+@attribute objects numeric
+@attribute predicates numeric
+@attribute functions numeric
+@attribute init numeric
+@attribute goal numeric
+@attribute actions numeric
+@attribute axioms numeric
+@attribute use_min_cost_metric numeric
+@attribute generated_rules numeric
+@attribute relevant_atoms numeric
+@attribute auxiliary_atoms numeric
+@attribute final_queue_length numeric
+@attribute total_queue_pushes numeric
+@attribute implied_effects_removed numeric
+@attribute effect_conditions_simplified numeric
+@attribute implied_preconditions_added numeric
+@attribute translator_variables numeric
+@attribute translator_derived_variables numeric
+@attribute translator_facts numeric
+@attribute translator_mutex_groups numeric
+@attribute translator_total_mutex_groups_size numeric
+@attribute translator_operators numeric
+@attribute translator_task_size numeric
+@attribute numberVariablesCG numeric
+@attribute highLevelVariablesCG numeric
+@attribute totalEdgesCG numeric
+@attribute totalWeightCG numeric
+@attribute veRatio numeric
+@attribute weRatio numeric
+@attribute wvRatio numeric
+@attribute hvRatio numeric
+@attribute inputEdgeCGMax numeric
+@attribute inputEdgeCGAvg numeric
+@attribute inputEdgeCGStd numeric
+@attribute outputEdgeCGMax numeric
+@attribute outputEdgeCGAvg numeric
+@attribute outputEdgeCGStd numeric
+@attribute inputWeightCGMax numeric
+@attribute inputWeightCGAvg numeric
+@attribute inputWeightCGStd numeric
+@attribute outputWeightCGMax numeric
+@attribute outputWeightCGAvg numeric
+@attribute outputWeightCGStd numeric
+@attribute inputEdgeHVMax numeric
+@attribute inputEdgeHVAvg numeric
+@attribute inputEdgeHVStd numeric
+@attribute outputEdgeHVMax numeric
+@attribute outputEdgeHVAvg numeric
+@attribute outputEdgeHVStd numeric
+@attribute inputWeightHVMax numeric
+@attribute inputWeightHVAvg numeric
+@attribute inputWeightHVStd numeric
+@attribute outputWeightHVMax numeric
+@attribute outputWeightHVAvg numeric
+@attribute outputWeightHVStd numeric
+@attribute numberVariablesDTG numeric
+@attribute totalEdgesDTG numeric
+@attribute totalWeigthDTG numeric
+@attribute edVaRatioDTG numeric
+@attribute weEdRatioDTG numeric
+@attribute weVaRatioDTG numeric
+@attribute inputEdgeDTGMax numeric
+@attribute inputEdgeDTGAvg numeric
+@attribute inputEdgeDTGStd numeric
+@attribute outputEdgeDTGMax numeric
+@attribute outputEdgeDTGAvg numeric
+@attribute outputEdgeDTGStd numeric
+@attribute inputWeightDTGMax numeric
+@attribute inputWeightDTGAvg numeric
+@attribute inputWeightDTGStd numeric
+@attribute outputWeightDTGMax numeric
+@attribute outputWeightDTGAvg numeric
+@attribute outputWeightDTGStd numeric
+@attribute no numeric
+@attribute file string
+@attribute num_relevant_facts numeric
+@attribute num_actions numeric
+@attribute h_max numeric
+@attribute h_ff numeric
+@attribute h_ff_ratio numeric
+@attribute rp_fact_balance_min numeric
+@attribute rp_fact_balance_avg numeric
+@attribute rp_fact_balance_var numeric
+@attribute rp_goal_balance_min numeric
+@attribute rp_goal_balance_avg numeric
+@attribute rp_goal_balance_var numeric
+@attribute balance_Ratio numeric
+@attribute Unbalance_Ratio numeric
+@attribute Balance_Distorsion numeric
+@attribute Additive numeric
+@attribute Blind numeric
+@attribute Causal_graph numeric
+@attribute Context-enhanced_additive numeric
+@attribute FF numeric
+@attribute Goal_count numeric
+@attribute Landmark_count numeric
+@attribute Landmark-cut numeric
+@attribute Max numeric
+@attribute n_landmarks numeric
+@attribute numberEdges numeric
+@attribute edVaratioLand numeric
+@attribute numberFatherNodes numeric
+@attribute numberChildrenNodes numeric
+@attribute nodosbetween numeric
+@attribute avginput numeric
+@attribute maxinput numeric
+@attribute stdinput numeric
+@attribute avgoutput numeric
+@attribute maxoutput numeric
+@attribute stdoutput numeric
+@attribute blackVariables numeric
+@attribute blackRootVariables numeric
+@attribute redBlackVariables numeric
+@attribute allpairsvaluesconnected numeric
+@attribute allvaluesconnectedgoal numeric
+@attribute blackstronglpyarents numeric
+@attribute Maximaleffectsblack  numeric
+@attribute Hred-black numeric
+@attribute  nameDomain2 string
+@attribute  nameFile2 string
+@data
+
+pegsolitaire-sequential,pegsolitaire-sequential-073,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p04.pddl, 100, 185, 3, 13, 4.333333, -13, 0.000000, 1.593738, -2, 0.272727, 0.993089, 22.816216, 13.621622, 94,23,1,15,23,15,15,19,9,3,53,35,0.660377,19,33,1,0.660377,15,1.73205,0.660377,4,0,4,0,34,0,0,0,5,12,allfeatures-pegsol,all-p04.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-063,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p03.pddl, 100, 185, 2, 11, 5.500000, -11, 0.000000, 1.456022, -2, 0.393939, 1.013227, 15.805406, 7.351351, 50,19,1,18,19,14,17,18,6,2,52,35,0.673077,19,33,0,0.673077,17,2.23607,0.673077,3,0,4,0,34,0,0,0,5,12,allfeatures-pegsol,all-p03.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-080,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p11.pddl, 100, 185, 1, 10, 10.000000, -10, 0.000000, 1.371131, -2, 0.242424, 1.045345, 0.000000, 0.000000, 23,16,1,16,16,12,16,16,9,1,50,32,0.64,17,33,0,0.64,16,2,0.64,2,0,4,0,34,0,0,0,5,10,allfeatures-pegsol,all-p11.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-105,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p20.pddl, 100, 185, 3, 24, 8.000000, -24, 0.000000, 2.877499, -2, 0.969697, 1.359252, 16.270271, 12.918920, 119,65,1,34,65,24,33,33,11,3,67,122,1.8209,34,32,1,1.8209,33,6.08276,1.8209,4,1.73205,4,0,34,0,0,0,5,24,allfeatures-pegsol,all-p20.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-071,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p14.pddl, 100, 185, 3, 13, 4.333333, -13, 0.000000, 1.673320, -2, 0.393939, 1.126523, 19.751352, 13.567568, 94,27,1,18,27,16,18,18,6,3,52,36,0.692308,19,33,0,0.692308,18,2.23607,0.692308,2,0,4,0,34,0,0,0,5,15,allfeatures-pegsol,all-p14.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-055,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p13.pddl, 100, 185, 2, 8, 4.000000, -8, 0.000000, 1.104536, -2, 0.181818, 0.833196, 10.702703, 4.459459, 37,15,1,13,15,8,13,14,6,2,48,27,0.5625,15,33,0,0.5625,13,1.73205,0.5625,3,0,4,0,34,0,0,0,5,9,allfeatures-pegsol,all-p13.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-030,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p01.pddl, 100, 185, 2, 12, 6.000000, -12, 0.000000, 1.649242, -1, 0.606061, 1.099294, 12.627027, 7.102703, 53,21,1,17,21,14,17,17,8,2,51,34,0.666667,18,33,0,0.666667,17,2.23607,0.666667,2,0,4,0,34,0,0,0,5,12,allfeatures-pegsol,all-p01.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-085,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p05.pddl, 100, 185, 2, 12, 6.000000, -12, 0.000000, 1.536229, -1, 0.424242, 1.015943, 14.010811, 7.394595, 52,22,1,17,22,16,17,18,6,2,52,35,0.673077,19,33,0,0.673077,17,2.23607,0.673077,3,0,4,0,34,0,0,0,5,12,allfeatures-pegsol,all-p05.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-060,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p02.pddl, 100, 185, 2, 11, 5.500000, -11, 0.000000, 1.449138, -2, 0.393939, 0.982865, 8.475676, 3.972973, 43,22,1,18,22,13,17,18,9,2,52,35,0.673077,19,33,0,0.673077,17,2.23607,0.673077,3,0,4,0,34,0,0,0,5,12,allfeatures-pegsol,all-p02.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-093,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p08.pddl, 100, 185, 3, 12, 4.000000, -12, 0.000000, 1.456022, -1, 0.424242, 0.817620, 19.989189, 9.659459, 65,27,1,18,27,15,18,20,9,3,54,40,0.740741,21,33,0,0.740741,18,2.23607,0.740741,4,0,4,0,34,0,0,0,5,19,allfeatures-pegsol,all-p08.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-065,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p07.pddl, 100, 185, 2, 14, 7.000000, -14, 0.000000, 1.783255, -2, 0.424242, 1.181430, 11.897297, 9.210811, 64,21,1,16,21,15,16,16,7,2,50,32,0.64,17,33,0,0.64,16,2,0.64,2,0,4,0,34,0,0,0,5,12,allfeatures-pegsol,all-p07.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-104,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p16.pddl, 100, 185, 1, 12, 12.000000, -12, 0.000000, 1.618641, -1, 0.545455, 1.103463, 0.000000, 0.000000, 26,21,1,21,21,13,21,21,11,1,55,42,0.763636,22,33,0,0.763636,21,2.64575,0.763636,2,0,4,0,34,0,0,0,5,12,allfeatures-pegsol,all-p16.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-044,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p10.pddl, 100, 185, 2, 10, 5.000000, -10, 0.000000, 1.341641, -2, 0.242424, 0.985664, 14.010811, 7.394595, 49,20,1,16,20,13,16,16,7,2,50,32,0.64,17,33,0,0.64,16,2,0.64,2,0,4,0,34,0,0,0,5,11,allfeatures-pegsol,all-p10.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-074,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p18.pddl, 100, 185, 1, 12, 12.000000, -12, 0.000000, 1.587451, -2, 0.363636, 1.095948, 0.000000, 0.000000, 23,24,1,24,24,12,24,24,12,1,58,48,0.827586,25,33,0,0.827586,24,3,0.827586,2,0,4,0,34,0,0,0,5,16,allfeatures-pegsol,all-p18.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-099,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p19.pddl, 100, 185, 3, 19, 6.333333, -19, 0.000000, 2.172556, -2, 0.575758, 0.922129, 25.945946, 10.627028, 86,50,1,27,50,21,27,27,9,3,61,54,0.885246,28,33,0,0.885246,27,3.31662,0.885246,2,0,4,0,34,0,0,0,5,22,allfeatures-pegsol,all-p19.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-040,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p15.pddl, 100, 185, 2, 10, 5.000000, -10, 0.000000, 1.392839, -2, 0.181818, 1.085847, 14.918919, 8.205405, 54,15,1,14,15,11,14,15,7,2,49,29,0.591837,16,33,0,0.591837,14,1.73205,0.591837,3,0,4,0,34,0,0,0,5,13,allfeatures-pegsol,all-p15.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-031,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p09.pddl, 100, 185, 2, 11, 5.500000, -11, 0.000000, 1.449138, -1, 0.333333, 1.034750, 26.464865, 11.416216, 56,19,1,18,19,12,18,18,6,2,52,36,0.692308,19,33,0,0.692308,18,2.23607,0.692308,2,0,4,0,34,0,0,0,5,12,allfeatures-pegsol,all-p09.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-084,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p17.pddl, 100, 185, 3, 16, 5.333333, -16, 0.000000, 1.959592, -2, 0.484848, 1.157877, 28.654055, 17.140541, 115,31,1,22,31,17,22,22,9,3,56,44,0.785714,23,33,0,0.785714,22,2.82843,0.785714,2,0,4,0,34,0,0,0,5,17,allfeatures-pegsol,all-p17.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-087,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p06.pddl, 100, 185, 2, 10, 5.000000, -10, 0.000000, 1.341641, -1, 0.303030, 0.968750, 14.789189, 7.005405, 48,18,1,15,18,13,15,15,7,2,49,30,0.612245,16,33,0,0.612245,15,2,0.612245,2,0,4,0,34,0,0,0,5,11,allfeatures-pegsol,all-p06.pddl
+pegsolitaire-sequential,pegsolitaire-sequential-047,2,2,33,6,1,111,33,3,0,1,25,461,611,1072,1647,0,0,0,34,0,100,34,100,185,1734,34,33, 246, 1824, 0.138211, 7.41463, 53.6471, 0.970588, 33, 7.23529, 4.75926, 33, 7.23529, 4.75926, 456, 53.6471, 72.5996,456, 53.6471, 72.5996, 9, 6.26471, 1.92978, 72, 40.2353, 20.3485, 72, 40.2353, 20.3485, 72, 40.2353,20.3485,100, 641, 2465, 0.260041, 0.156006, 1, 76, 2.58651, 0.0832273, 33, 0.777682, 0.166455, 304, 7.34862,0.332909, 33,3.02509, 0.166455,  1, /home/isabel/Escritorio/seq-sat-Features/dominios_learning/seq-sat/pegsol/problems/p12.pddl, 100, 185, 2, 11, 5.500000, -11, 0.000000, 1.456022, -2, 0.333333, 1.034750, 16.967567, 7.891892, 52,19,1,17,19,12,17,17,7,2,51,34,0.666667,18,33,0,0.666667,17,2.23607,0.666667,2,0,4,0,34,0,0,0,5,13,allfeatures-pegsol,all-p12.pddl

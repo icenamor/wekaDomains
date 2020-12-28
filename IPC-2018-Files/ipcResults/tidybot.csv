@@ -1,0 +1,115 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : tidybot
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+---------+---------+----------------+
+| planner |  domain | problem | oktimefirstsol |
++---------+---------+---------+----------------+
+|  bfs-f  | tidybot |   000   |       66       |
+|  bfs-f  | tidybot |   001   |       52       |
+|  bfs-f  | tidybot |   002   |       2        |
+|  bfs-f  | tidybot |   003   |       1        |
+|  bfs-f  | tidybot |   004   |       64       |
+|  bfs-f  | tidybot |   005   |      118       |
+|  bfs-f  | tidybot |   006   |       6        |
+|  bfs-f  | tidybot |   007   |       2        |
+|  bfs-f  | tidybot |   008   |       30       |
+|  bfs-f  | tidybot |   009   |       5        |
+|  bfs-f  | tidybot |   010   |      114       |
+|  bfs-f  | tidybot |   011   |      286       |
+|  bfs-f  | tidybot |   012   |      229       |
+|  bfs-f  | tidybot |   013   |       69       |
+|  bfs-f  | tidybot |   014   |       36       |
+|  bfs-f  | tidybot |   015   |      161       |
+|  bfs-f  | tidybot |   016   |      118       |
+|  bfs-f  | tidybot |   017   |      226       |
+|  bfs-f  | tidybot |   018   |       0        |
+|  bfs-f  | tidybot |   019   |       0        |
+|  jasper | tidybot |   000   |       -1       |
+|  jasper | tidybot |   001   |       -1       |
+|  jasper | tidybot |   002   |       -1       |
+|  jasper | tidybot |   003   |       -1       |
+|  jasper | tidybot |   004   |       -1       |
+|  jasper | tidybot |   005   |       -1       |
+|  jasper | tidybot |   006   |       -1       |
+|  jasper | tidybot |   007   |       -1       |
+|  jasper | tidybot |   008   |       -1       |
+|  jasper | tidybot |   009   |       -1       |
+|  jasper | tidybot |   010   |       -1       |
+|  jasper | tidybot |   011   |       -1       |
+|  jasper | tidybot |   012   |       -1       |
+|  jasper | tidybot |   013   |       -1       |
+|  jasper | tidybot |   014   |       -1       |
+|  jasper | tidybot |   015   |       -1       |
+|  jasper | tidybot |   016   |       -1       |
+|  jasper | tidybot |   017   |       -1       |
+|  jasper | tidybot |   018   |       -1       |
+|  jasper | tidybot |   019   |       -1       |
+| mercury | tidybot |   000   |       -1       |
+| mercury | tidybot |   001   |       -1       |
+| mercury | tidybot |   002   |       15       |
+| mercury | tidybot |   003   |       14       |
+| mercury | tidybot |   004   |       23       |
+| mercury | tidybot |   005   |       -1       |
+| mercury | tidybot |   006   |       15       |
+| mercury | tidybot |   007   |       15       |
+| mercury | tidybot |   008   |       23       |
+| mercury | tidybot |   009   |       24       |
+| mercury | tidybot |   010   |       23       |
+| mercury | tidybot |   011   |       -1       |
+| mercury | tidybot |   012   |       66       |
+| mercury | tidybot |   013   |       30       |
+| mercury | tidybot |   014   |       27       |
+| mercury | tidybot |   015   |      265       |
+| mercury | tidybot |   016   |       35       |
+| mercury | tidybot |   017   |       -1       |
+| mercury | tidybot |   018   |       -1       |
+| mercury | tidybot |   019   |       -1       |
+|   siw   | tidybot |   000   |      130       |
+|   siw   | tidybot |   001   |      432       |
+|   siw   | tidybot |   002   |       1        |
+|   siw   | tidybot |   003   |      142       |
+|   siw   | tidybot |   004   |      311       |
+|   siw   | tidybot |   005   |      388       |
+|   siw   | tidybot |   006   |       0        |
+|   siw   | tidybot |   007   |       1        |
+|   siw   | tidybot |   008   |       1        |
+|   siw   | tidybot |   009   |       1        |
+|   siw   | tidybot |   010   |      778       |
+|   siw   | tidybot |   011   |      1225      |
+|   siw   | tidybot |   012   |       0        |
+|   siw   | tidybot |   013   |      200       |
+|   siw   | tidybot |   014   |       11       |
+|   siw   | tidybot |   015   |       0        |
+|   siw   | tidybot |   016   |       0        |
+|   siw   | tidybot |   017   |       0        |
+|   siw   | tidybot |   018   |       0        |
+|   siw   | tidybot |   019   |       0        |
++---------+---------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:29:11 2018
+

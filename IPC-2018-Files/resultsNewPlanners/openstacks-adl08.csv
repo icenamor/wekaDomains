@@ -1,0 +1,159 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : openstacks-adl08
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+------------------+---------+----------------+
+| planner |      domain      | problem | oktimefirstsol |
++---------+------------------+---------+----------------+
+|  bfs-f  | openstacks-adl08 |   000   |       0        |
+|  bfs-f  | openstacks-adl08 |   001   |       0        |
+|  bfs-f  | openstacks-adl08 |   002   |       0        |
+|  bfs-f  | openstacks-adl08 |   003   |       0        |
+|  bfs-f  | openstacks-adl08 |   004   |       0        |
+|  bfs-f  | openstacks-adl08 |   005   |       0        |
+|  bfs-f  | openstacks-adl08 |   006   |       0        |
+|  bfs-f  | openstacks-adl08 |   007   |       0        |
+|  bfs-f  | openstacks-adl08 |   008   |       0        |
+|  bfs-f  | openstacks-adl08 |   009   |       0        |
+|  bfs-f  | openstacks-adl08 |   010   |       0        |
+|  bfs-f  | openstacks-adl08 |   011   |       0        |
+|  bfs-f  | openstacks-adl08 |   012   |       0        |
+|  bfs-f  | openstacks-adl08 |   013   |       1        |
+|  bfs-f  | openstacks-adl08 |   014   |       1        |
+|  bfs-f  | openstacks-adl08 |   015   |       0        |
+|  bfs-f  | openstacks-adl08 |   016   |       1        |
+|  bfs-f  | openstacks-adl08 |   017   |       1        |
+|  bfs-f  | openstacks-adl08 |   018   |       1        |
+|  bfs-f  | openstacks-adl08 |   019   |       2        |
+|  bfs-f  | openstacks-adl08 |   020   |       2        |
+|  bfs-f  | openstacks-adl08 |   021   |       3        |
+|  bfs-f  | openstacks-adl08 |   022   |       5        |
+|  bfs-f  | openstacks-adl08 |   023   |       5        |
+|  bfs-f  | openstacks-adl08 |   024   |       4        |
+|  bfs-f  | openstacks-adl08 |   025   |       18       |
+|  bfs-f  | openstacks-adl08 |   026   |       19       |
+|  bfs-f  | openstacks-adl08 |   027   |       20       |
+|  bfs-f  | openstacks-adl08 |   028   |       47       |
+|  bfs-f  | openstacks-adl08 |   029   |       47       |
+|  bfs-f  | openstacks-adl08 |   030   |       45       |
+|  jasper | openstacks-adl08 |   000   |       -1       |
+|  jasper | openstacks-adl08 |   001   |       -1       |
+|  jasper | openstacks-adl08 |   002   |       -1       |
+|  jasper | openstacks-adl08 |   003   |       -1       |
+|  jasper | openstacks-adl08 |   004   |       -1       |
+|  jasper | openstacks-adl08 |   005   |       -1       |
+|  jasper | openstacks-adl08 |   006   |       -1       |
+|  jasper | openstacks-adl08 |   007   |       -1       |
+|  jasper | openstacks-adl08 |   008   |       -1       |
+|  jasper | openstacks-adl08 |   009   |       -1       |
+|  jasper | openstacks-adl08 |   010   |       -1       |
+|  jasper | openstacks-adl08 |   011   |       -1       |
+|  jasper | openstacks-adl08 |   012   |       -1       |
+|  jasper | openstacks-adl08 |   013   |       -1       |
+|  jasper | openstacks-adl08 |   014   |       -1       |
+|  jasper | openstacks-adl08 |   015   |       -1       |
+|  jasper | openstacks-adl08 |   016   |       -1       |
+|  jasper | openstacks-adl08 |   017   |       -1       |
+|  jasper | openstacks-adl08 |   018   |       -1       |
+|  jasper | openstacks-adl08 |   019   |       -1       |
+|  jasper | openstacks-adl08 |   020   |       -1       |
+|  jasper | openstacks-adl08 |   021   |       -1       |
+|  jasper | openstacks-adl08 |   022   |       -1       |
+|  jasper | openstacks-adl08 |   023   |       -1       |
+|  jasper | openstacks-adl08 |   024   |       -1       |
+|  jasper | openstacks-adl08 |   025   |       -1       |
+|  jasper | openstacks-adl08 |   026   |       -1       |
+|  jasper | openstacks-adl08 |   027   |       -1       |
+|  jasper | openstacks-adl08 |   028   |       -1       |
+|  jasper | openstacks-adl08 |   029   |       -1       |
+|  jasper | openstacks-adl08 |   030   |       -1       |
+| mercury | openstacks-adl08 |   000   |       -1       |
+| mercury | openstacks-adl08 |   001   |       -1       |
+| mercury | openstacks-adl08 |   002   |       -1       |
+| mercury | openstacks-adl08 |   003   |       -1       |
+| mercury | openstacks-adl08 |   004   |       -1       |
+| mercury | openstacks-adl08 |   005   |       -1       |
+| mercury | openstacks-adl08 |   006   |       -1       |
+| mercury | openstacks-adl08 |   007   |       -1       |
+| mercury | openstacks-adl08 |   008   |       -1       |
+| mercury | openstacks-adl08 |   009   |       -1       |
+| mercury | openstacks-adl08 |   010   |       -1       |
+| mercury | openstacks-adl08 |   011   |       -1       |
+| mercury | openstacks-adl08 |   012   |       -1       |
+| mercury | openstacks-adl08 |   013   |       -1       |
+| mercury | openstacks-adl08 |   014   |       -1       |
+| mercury | openstacks-adl08 |   015   |       -1       |
+| mercury | openstacks-adl08 |   016   |       -1       |
+| mercury | openstacks-adl08 |   017   |       -1       |
+| mercury | openstacks-adl08 |   018   |       -1       |
+| mercury | openstacks-adl08 |   019   |       -1       |
+| mercury | openstacks-adl08 |   020   |       -1       |
+| mercury | openstacks-adl08 |   021   |       -1       |
+| mercury | openstacks-adl08 |   022   |       -1       |
+| mercury | openstacks-adl08 |   023   |       -1       |
+| mercury | openstacks-adl08 |   024   |       -1       |
+| mercury | openstacks-adl08 |   025   |       -1       |
+| mercury | openstacks-adl08 |   026   |       -1       |
+| mercury | openstacks-adl08 |   027   |       -1       |
+| mercury | openstacks-adl08 |   028   |       -1       |
+| mercury | openstacks-adl08 |   029   |       -1       |
+| mercury | openstacks-adl08 |   030   |       -1       |
+|   siw   | openstacks-adl08 |   000   |       0        |
+|   siw   | openstacks-adl08 |   001   |       0        |
+|   siw   | openstacks-adl08 |   002   |       1        |
+|   siw   | openstacks-adl08 |   003   |       0        |
+|   siw   | openstacks-adl08 |   004   |       0        |
+|   siw   | openstacks-adl08 |   005   |       0        |
+|   siw   | openstacks-adl08 |   006   |       0        |
+|   siw   | openstacks-adl08 |   007   |       0        |
+|   siw   | openstacks-adl08 |   008   |       0        |
+|   siw   | openstacks-adl08 |   009   |       0        |
+|   siw   | openstacks-adl08 |   010   |       0        |
+|   siw   | openstacks-adl08 |   011   |       1        |
+|   siw   | openstacks-adl08 |   012   |       1        |
+|   siw   | openstacks-adl08 |   013   |       0        |
+|   siw   | openstacks-adl08 |   014   |       0        |
+|   siw   | openstacks-adl08 |   015   |       0        |
+|   siw   | openstacks-adl08 |   016   |       57       |
+|   siw   | openstacks-adl08 |   017   |       1        |
+|   siw   | openstacks-adl08 |   018   |       1        |
+|   siw   | openstacks-adl08 |   019   |      170       |
+|   siw   | openstacks-adl08 |   020   |      295       |
+|   siw   | openstacks-adl08 |   021   |       1        |
+|   siw   | openstacks-adl08 |   022   |       4        |
+|   siw   | openstacks-adl08 |   023   |       49       |
+|   siw   | openstacks-adl08 |   024   |       6        |
+|   siw   | openstacks-adl08 |   025   |       0        |
+|   siw   | openstacks-adl08 |   026   |      187       |
+|   siw   | openstacks-adl08 |   027   |       15       |
+|   siw   | openstacks-adl08 |   028   |       0        |
+|   siw   | openstacks-adl08 |   029   |       0        |
+|   siw   | openstacks-adl08 |   030   |       0        |
++---------+------------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:18:45 2018
+

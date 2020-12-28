@@ -1,0 +1,195 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : rovers06
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+----------+---------+----------------+
+| planner |  domain  | problem | oktimefirstsol |
++---------+----------+---------+----------------+
+|  bfs-f  | rovers06 |   000   |       0        |
+|  bfs-f  | rovers06 |   001   |       0        |
+|  bfs-f  | rovers06 |   002   |       0        |
+|  bfs-f  | rovers06 |   003   |       0        |
+|  bfs-f  | rovers06 |   004   |       0        |
+|  bfs-f  | rovers06 |   005   |       0        |
+|  bfs-f  | rovers06 |   006   |       0        |
+|  bfs-f  | rovers06 |   007   |       0        |
+|  bfs-f  | rovers06 |   008   |       0        |
+|  bfs-f  | rovers06 |   009   |       0        |
+|  bfs-f  | rovers06 |   010   |       0        |
+|  bfs-f  | rovers06 |   011   |       0        |
+|  bfs-f  | rovers06 |   012   |       0        |
+|  bfs-f  | rovers06 |   013   |       0        |
+|  bfs-f  | rovers06 |   014   |       0        |
+|  bfs-f  | rovers06 |   015   |       0        |
+|  bfs-f  | rovers06 |   016   |       0        |
+|  bfs-f  | rovers06 |   017   |       0        |
+|  bfs-f  | rovers06 |   018   |       1        |
+|  bfs-f  | rovers06 |   019   |       2        |
+|  bfs-f  | rovers06 |   020   |       2        |
+|  bfs-f  | rovers06 |   021   |       1        |
+|  bfs-f  | rovers06 |   022   |       2        |
+|  bfs-f  | rovers06 |   023   |       3        |
+|  bfs-f  | rovers06 |   024   |       1        |
+|  bfs-f  | rovers06 |   025   |       1        |
+|  bfs-f  | rovers06 |   026   |       2        |
+|  bfs-f  | rovers06 |   027   |       4        |
+|  bfs-f  | rovers06 |   028   |       61       |
+|  bfs-f  | rovers06 |   029   |       8        |
+|  bfs-f  | rovers06 |   030   |       7        |
+|  bfs-f  | rovers06 |   031   |       26       |
+|  bfs-f  | rovers06 |   032   |       43       |
+|  bfs-f  | rovers06 |   033   |       32       |
+|  bfs-f  | rovers06 |   034   |      128       |
+|  bfs-f  | rovers06 |   035   |       57       |
+|  bfs-f  | rovers06 |   036   |      186       |
+|  bfs-f  | rovers06 |   037   |      181       |
+|  bfs-f  | rovers06 |   038   |      229       |
+|  bfs-f  | rovers06 |   039   |      242       |
+|  jasper | rovers06 |   000   |       -1       |
+|  jasper | rovers06 |   001   |       -1       |
+|  jasper | rovers06 |   002   |       -1       |
+|  jasper | rovers06 |   003   |       -1       |
+|  jasper | rovers06 |   004   |       -1       |
+|  jasper | rovers06 |   005   |       -1       |
+|  jasper | rovers06 |   006   |       -1       |
+|  jasper | rovers06 |   007   |       -1       |
+|  jasper | rovers06 |   008   |       -1       |
+|  jasper | rovers06 |   009   |       -1       |
+|  jasper | rovers06 |   010   |       -1       |
+|  jasper | rovers06 |   011   |       -1       |
+|  jasper | rovers06 |   012   |       -1       |
+|  jasper | rovers06 |   013   |       -1       |
+|  jasper | rovers06 |   014   |       -1       |
+|  jasper | rovers06 |   015   |       -1       |
+|  jasper | rovers06 |   016   |       -1       |
+|  jasper | rovers06 |   017   |       -1       |
+|  jasper | rovers06 |   018   |       -1       |
+|  jasper | rovers06 |   019   |       -1       |
+|  jasper | rovers06 |   020   |       -1       |
+|  jasper | rovers06 |   021   |       -1       |
+|  jasper | rovers06 |   022   |       -1       |
+|  jasper | rovers06 |   023   |       -1       |
+|  jasper | rovers06 |   024   |       -1       |
+|  jasper | rovers06 |   025   |       -1       |
+|  jasper | rovers06 |   026   |       -1       |
+|  jasper | rovers06 |   027   |       -1       |
+|  jasper | rovers06 |   028   |       -1       |
+|  jasper | rovers06 |   029   |       -1       |
+|  jasper | rovers06 |   030   |       -1       |
+|  jasper | rovers06 |   031   |       -1       |
+|  jasper | rovers06 |   032   |       -1       |
+|  jasper | rovers06 |   033   |       -1       |
+|  jasper | rovers06 |   034   |       -1       |
+|  jasper | rovers06 |   035   |       -1       |
+|  jasper | rovers06 |   036   |       -1       |
+|  jasper | rovers06 |   037   |       -1       |
+|  jasper | rovers06 |   038   |       -1       |
+|  jasper | rovers06 |   039   |       -1       |
+| mercury | rovers06 |   000   |       1        |
+| mercury | rovers06 |   001   |       0        |
+| mercury | rovers06 |   002   |       1        |
+| mercury | rovers06 |   003   |       0        |
+| mercury | rovers06 |   004   |       0        |
+| mercury | rovers06 |   005   |       1        |
+| mercury | rovers06 |   006   |       0        |
+| mercury | rovers06 |   007   |       1        |
+| mercury | rovers06 |   008   |       0        |
+| mercury | rovers06 |   009   |       1        |
+| mercury | rovers06 |   010   |       1        |
+| mercury | rovers06 |   011   |       1        |
+| mercury | rovers06 |   012   |       1        |
+| mercury | rovers06 |   013   |       1        |
+| mercury | rovers06 |   014   |       1        |
+| mercury | rovers06 |   015   |       1        |
+| mercury | rovers06 |   016   |       1        |
+| mercury | rovers06 |   017   |       2        |
+| mercury | rovers06 |   018   |       2        |
+| mercury | rovers06 |   019   |       2        |
+| mercury | rovers06 |   020   |       3        |
+| mercury | rovers06 |   021   |       3        |
+| mercury | rovers06 |   022   |       3        |
+| mercury | rovers06 |   023   |       3        |
+| mercury | rovers06 |   024   |       3        |
+| mercury | rovers06 |   025   |       3        |
+| mercury | rovers06 |   026   |       2        |
+| mercury | rovers06 |   027   |       4        |
+| mercury | rovers06 |   028   |       3        |
+| mercury | rovers06 |   029   |       4        |
+| mercury | rovers06 |   030   |       5        |
+| mercury | rovers06 |   031   |       6        |
+| mercury | rovers06 |   032   |       8        |
+| mercury | rovers06 |   033   |       7        |
+| mercury | rovers06 |   034   |       18       |
+| mercury | rovers06 |   035   |       9        |
+| mercury | rovers06 |   036   |       21       |
+| mercury | rovers06 |   037   |       18       |
+| mercury | rovers06 |   038   |       25       |
+| mercury | rovers06 |   039   |       33       |
+|   siw   | rovers06 |   000   |       0        |
+|   siw   | rovers06 |   001   |       0        |
+|   siw   | rovers06 |   002   |       0        |
+|   siw   | rovers06 |   003   |       0        |
+|   siw   | rovers06 |   004   |       0        |
+|   siw   | rovers06 |   005   |       0        |
+|   siw   | rovers06 |   006   |       0        |
+|   siw   | rovers06 |   007   |       0        |
+|   siw   | rovers06 |   008   |       0        |
+|   siw   | rovers06 |   009   |       0        |
+|   siw   | rovers06 |   010   |       0        |
+|   siw   | rovers06 |   011   |       0        |
+|   siw   | rovers06 |   012   |       1        |
+|   siw   | rovers06 |   013   |       1        |
+|   siw   | rovers06 |   014   |       0        |
+|   siw   | rovers06 |   015   |       0        |
+|   siw   | rovers06 |   016   |       2        |
+|   siw   | rovers06 |   017   |       12       |
+|   siw   | rovers06 |   018   |       11       |
+|   siw   | rovers06 |   019   |       67       |
+|   siw   | rovers06 |   020   |       33       |
+|   siw   | rovers06 |   021   |       32       |
+|   siw   | rovers06 |   022   |       86       |
+|   siw   | rovers06 |   023   |      159       |
+|   siw   | rovers06 |   024   |       2        |
+|   siw   | rovers06 |   025   |       56       |
+|   siw   | rovers06 |   026   |      139       |
+|   siw   | rovers06 |   027   |      130       |
+|   siw   | rovers06 |   028   |      116       |
+|   siw   | rovers06 |   029   |      376       |
+|   siw   | rovers06 |   030   |      1393      |
+|   siw   | rovers06 |   031   |      1355      |
+|   siw   | rovers06 |   032   |       0        |
+|   siw   | rovers06 |   033   |       0        |
+|   siw   | rovers06 |   034   |       0        |
+|   siw   | rovers06 |   035   |       0        |
+|   siw   | rovers06 |   036   |       0        |
+|   siw   | rovers06 |   037   |       0        |
+|   siw   | rovers06 |   038   |       0        |
+|   siw   | rovers06 |   039   |       0        |
++---------+----------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 16:56:06 2018
+

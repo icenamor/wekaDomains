@@ -1,0 +1,155 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : blocksworldlearning11
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+-----------------------+---------+----------------+
+| planner |         domain        | problem | oktimefirstsol |
++---------+-----------------------+---------+----------------+
+|  bfs-f  | blocksworldlearning11 |   000   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   001   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   002   |      133       |
+|  bfs-f  | blocksworldlearning11 |   003   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   004   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   005   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   006   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   007   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   008   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   009   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   010   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   011   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   012   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   013   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   014   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   015   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   016   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   017   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   018   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   019   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   020   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   021   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   022   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   023   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   024   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   025   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   026   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   027   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   028   |       -1       |
+|  bfs-f  | blocksworldlearning11 |   029   |       -1       |
+|  jasper | blocksworldlearning11 |   000   |       -1       |
+|  jasper | blocksworldlearning11 |   001   |       -1       |
+|  jasper | blocksworldlearning11 |   002   |       -1       |
+|  jasper | blocksworldlearning11 |   003   |       -1       |
+|  jasper | blocksworldlearning11 |   004   |       -1       |
+|  jasper | blocksworldlearning11 |   005   |       -1       |
+|  jasper | blocksworldlearning11 |   006   |       -1       |
+|  jasper | blocksworldlearning11 |   007   |       -1       |
+|  jasper | blocksworldlearning11 |   008   |       -1       |
+|  jasper | blocksworldlearning11 |   009   |       -1       |
+|  jasper | blocksworldlearning11 |   010   |       -1       |
+|  jasper | blocksworldlearning11 |   011   |       -1       |
+|  jasper | blocksworldlearning11 |   012   |       -1       |
+|  jasper | blocksworldlearning11 |   013   |       -1       |
+|  jasper | blocksworldlearning11 |   014   |       -1       |
+|  jasper | blocksworldlearning11 |   015   |       -1       |
+|  jasper | blocksworldlearning11 |   016   |       -1       |
+|  jasper | blocksworldlearning11 |   017   |       -1       |
+|  jasper | blocksworldlearning11 |   018   |       -1       |
+|  jasper | blocksworldlearning11 |   019   |       -1       |
+|  jasper | blocksworldlearning11 |   020   |       -1       |
+|  jasper | blocksworldlearning11 |   021   |       -1       |
+|  jasper | blocksworldlearning11 |   022   |       -1       |
+|  jasper | blocksworldlearning11 |   023   |       -1       |
+|  jasper | blocksworldlearning11 |   024   |       -1       |
+|  jasper | blocksworldlearning11 |   025   |       -1       |
+|  jasper | blocksworldlearning11 |   026   |       -1       |
+|  jasper | blocksworldlearning11 |   027   |       -1       |
+|  jasper | blocksworldlearning11 |   028   |       -1       |
+|  jasper | blocksworldlearning11 |   029   |       -1       |
+| mercury | blocksworldlearning11 |   000   |       -1       |
+| mercury | blocksworldlearning11 |   001   |       6        |
+| mercury | blocksworldlearning11 |   002   |       6        |
+| mercury | blocksworldlearning11 |   003   |       6        |
+| mercury | blocksworldlearning11 |   004   |       6        |
+| mercury | blocksworldlearning11 |   005   |       23       |
+| mercury | blocksworldlearning11 |   006   |       19       |
+| mercury | blocksworldlearning11 |   007   |       11       |
+| mercury | blocksworldlearning11 |   008   |       34       |
+| mercury | blocksworldlearning11 |   009   |       11       |
+| mercury | blocksworldlearning11 |   010   |       37       |
+| mercury | blocksworldlearning11 |   011   |       36       |
+| mercury | blocksworldlearning11 |   012   |       70       |
+| mercury | blocksworldlearning11 |   013   |       18       |
+| mercury | blocksworldlearning11 |   014   |       94       |
+| mercury | blocksworldlearning11 |   015   |       -1       |
+| mercury | blocksworldlearning11 |   016   |       86       |
+| mercury | blocksworldlearning11 |   017   |       -1       |
+| mercury | blocksworldlearning11 |   018   |       -1       |
+| mercury | blocksworldlearning11 |   019   |       53       |
+| mercury | blocksworldlearning11 |   020   |       -1       |
+| mercury | blocksworldlearning11 |   021   |      104       |
+| mercury | blocksworldlearning11 |   022   |       -1       |
+| mercury | blocksworldlearning11 |   023   |       -1       |
+| mercury | blocksworldlearning11 |   024   |      136       |
+| mercury | blocksworldlearning11 |   025   |      294       |
+| mercury | blocksworldlearning11 |   026   |       -1       |
+| mercury | blocksworldlearning11 |   027   |       -1       |
+| mercury | blocksworldlearning11 |   028   |       -1       |
+| mercury | blocksworldlearning11 |   029   |       -1       |
+|   siw   | blocksworldlearning11 |   000   |       21       |
+|   siw   | blocksworldlearning11 |   001   |       6        |
+|   siw   | blocksworldlearning11 |   002   |       4        |
+|   siw   | blocksworldlearning11 |   003   |      657       |
+|   siw   | blocksworldlearning11 |   004   |       3        |
+|   siw   | blocksworldlearning11 |   005   |       46       |
+|   siw   | blocksworldlearning11 |   006   |       8        |
+|   siw   | blocksworldlearning11 |   007   |       3        |
+|   siw   | blocksworldlearning11 |   008   |       6        |
+|   siw   | blocksworldlearning11 |   009   |       3        |
+|   siw   | blocksworldlearning11 |   010   |       7        |
+|   siw   | blocksworldlearning11 |   011   |       56       |
+|   siw   | blocksworldlearning11 |   012   |       10       |
+|   siw   | blocksworldlearning11 |   013   |       6        |
+|   siw   | blocksworldlearning11 |   014   |       21       |
+|   siw   | blocksworldlearning11 |   015   |       12       |
+|   siw   | blocksworldlearning11 |   016   |       12       |
+|   siw   | blocksworldlearning11 |   017   |      171       |
+|   siw   | blocksworldlearning11 |   018   |      1087      |
+|   siw   | blocksworldlearning11 |   019   |      103       |
+|   siw   | blocksworldlearning11 |   020   |       51       |
+|   siw   | blocksworldlearning11 |   021   |      302       |
+|   siw   | blocksworldlearning11 |   022   |       55       |
+|   siw   | blocksworldlearning11 |   023   |       28       |
+|   siw   | blocksworldlearning11 |   024   |       0        |
+|   siw   | blocksworldlearning11 |   025   |      909       |
+|   siw   | blocksworldlearning11 |   026   |      895       |
+|   siw   | blocksworldlearning11 |   027   |       46       |
+|   siw   | blocksworldlearning11 |   028   |       0        |
+|   siw   | blocksworldlearning11 |   029   |      310       |
++---------+-----------------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 17:17:40 2018
+

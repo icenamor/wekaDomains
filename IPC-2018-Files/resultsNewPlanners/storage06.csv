@@ -1,0 +1,195 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : storage06
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+-----------+---------+----------------+
+| planner |   domain  | problem | oktimefirstsol |
++---------+-----------+---------+----------------+
+|  bfs-f  | storage06 |   000   |       0        |
+|  bfs-f  | storage06 |   001   |       0        |
+|  bfs-f  | storage06 |   002   |       0        |
+|  bfs-f  | storage06 |   003   |       0        |
+|  bfs-f  | storage06 |   004   |       0        |
+|  bfs-f  | storage06 |   005   |       0        |
+|  bfs-f  | storage06 |   006   |       0        |
+|  bfs-f  | storage06 |   007   |       0        |
+|  bfs-f  | storage06 |   008   |       0        |
+|  bfs-f  | storage06 |   009   |       0        |
+|  bfs-f  | storage06 |   010   |       0        |
+|  bfs-f  | storage06 |   011   |       0        |
+|  bfs-f  | storage06 |   012   |       0        |
+|  bfs-f  | storage06 |   013   |       0        |
+|  bfs-f  | storage06 |   014   |       0        |
+|  bfs-f  | storage06 |   015   |       0        |
+|  bfs-f  | storage06 |   016   |       0        |
+|  bfs-f  | storage06 |   017   |       0        |
+|  bfs-f  | storage06 |   018   |       0        |
+|  bfs-f  | storage06 |   019   |       1        |
+|  bfs-f  | storage06 |   020   |       1        |
+|  bfs-f  | storage06 |   021   |       1        |
+|  bfs-f  | storage06 |   022   |       3        |
+|  bfs-f  | storage06 |   023   |       4        |
+|  bfs-f  | storage06 |   024   |       1        |
+|  bfs-f  | storage06 |   025   |       1        |
+|  bfs-f  | storage06 |   026   |       2        |
+|  bfs-f  | storage06 |   027   |       3        |
+|  bfs-f  | storage06 |   028   |       63       |
+|  bfs-f  | storage06 |   029   |       8        |
+|  bfs-f  | storage06 |   030   |       8        |
+|  bfs-f  | storage06 |   031   |       26       |
+|  bfs-f  | storage06 |   032   |       43       |
+|  bfs-f  | storage06 |   033   |       33       |
+|  bfs-f  | storage06 |   034   |      127       |
+|  bfs-f  | storage06 |   035   |       56       |
+|  bfs-f  | storage06 |   036   |      186       |
+|  bfs-f  | storage06 |   037   |      183       |
+|  bfs-f  | storage06 |   038   |      231       |
+|  bfs-f  | storage06 |   039   |      244       |
+|  jasper | storage06 |   000   |       -1       |
+|  jasper | storage06 |   001   |       -1       |
+|  jasper | storage06 |   002   |       -1       |
+|  jasper | storage06 |   003   |       -1       |
+|  jasper | storage06 |   004   |       -1       |
+|  jasper | storage06 |   005   |       -1       |
+|  jasper | storage06 |   006   |       -1       |
+|  jasper | storage06 |   007   |       -1       |
+|  jasper | storage06 |   008   |       -1       |
+|  jasper | storage06 |   009   |       -1       |
+|  jasper | storage06 |   010   |       -1       |
+|  jasper | storage06 |   011   |       -1       |
+|  jasper | storage06 |   012   |       -1       |
+|  jasper | storage06 |   013   |       -1       |
+|  jasper | storage06 |   014   |       -1       |
+|  jasper | storage06 |   015   |       -1       |
+|  jasper | storage06 |   016   |       -1       |
+|  jasper | storage06 |   017   |       -1       |
+|  jasper | storage06 |   018   |       -1       |
+|  jasper | storage06 |   019   |       -1       |
+|  jasper | storage06 |   020   |       -1       |
+|  jasper | storage06 |   021   |       -1       |
+|  jasper | storage06 |   022   |       -1       |
+|  jasper | storage06 |   023   |       -1       |
+|  jasper | storage06 |   024   |       -1       |
+|  jasper | storage06 |   025   |       -1       |
+|  jasper | storage06 |   026   |       -1       |
+|  jasper | storage06 |   027   |       -1       |
+|  jasper | storage06 |   028   |       -1       |
+|  jasper | storage06 |   029   |       -1       |
+|  jasper | storage06 |   030   |       -1       |
+|  jasper | storage06 |   031   |       -1       |
+|  jasper | storage06 |   032   |       -1       |
+|  jasper | storage06 |   033   |       -1       |
+|  jasper | storage06 |   034   |       -1       |
+|  jasper | storage06 |   035   |       -1       |
+|  jasper | storage06 |   036   |       -1       |
+|  jasper | storage06 |   037   |       -1       |
+|  jasper | storage06 |   038   |       -1       |
+|  jasper | storage06 |   039   |       -1       |
+| mercury | storage06 |   000   |       0        |
+| mercury | storage06 |   001   |       0        |
+| mercury | storage06 |   002   |       0        |
+| mercury | storage06 |   003   |       1        |
+| mercury | storage06 |   004   |       0        |
+| mercury | storage06 |   005   |       1        |
+| mercury | storage06 |   006   |       0        |
+| mercury | storage06 |   007   |       1        |
+| mercury | storage06 |   008   |       1        |
+| mercury | storage06 |   009   |       0        |
+| mercury | storage06 |   010   |       1        |
+| mercury | storage06 |   011   |       0        |
+| mercury | storage06 |   012   |       1        |
+| mercury | storage06 |   013   |       1        |
+| mercury | storage06 |   014   |       1        |
+| mercury | storage06 |   015   |       1        |
+| mercury | storage06 |   016   |       1        |
+| mercury | storage06 |   017   |       2        |
+| mercury | storage06 |   018   |       2        |
+| mercury | storage06 |   019   |       2        |
+| mercury | storage06 |   020   |       3        |
+| mercury | storage06 |   021   |       2        |
+| mercury | storage06 |   022   |       3        |
+| mercury | storage06 |   023   |       3        |
+| mercury | storage06 |   024   |       2        |
+| mercury | storage06 |   025   |       3        |
+| mercury | storage06 |   026   |       2        |
+| mercury | storage06 |   027   |       3        |
+| mercury | storage06 |   028   |       4        |
+| mercury | storage06 |   029   |       4        |
+| mercury | storage06 |   030   |       4        |
+| mercury | storage06 |   031   |       5        |
+| mercury | storage06 |   032   |       8        |
+| mercury | storage06 |   033   |       8        |
+| mercury | storage06 |   034   |       18       |
+| mercury | storage06 |   035   |       10       |
+| mercury | storage06 |   036   |       21       |
+| mercury | storage06 |   037   |       19       |
+| mercury | storage06 |   038   |       24       |
+| mercury | storage06 |   039   |       32       |
+|   siw   | storage06 |   000   |       0        |
+|   siw   | storage06 |   001   |       0        |
+|   siw   | storage06 |   002   |       0        |
+|   siw   | storage06 |   003   |       0        |
+|   siw   | storage06 |   004   |       0        |
+|   siw   | storage06 |   005   |       0        |
+|   siw   | storage06 |   006   |       0        |
+|   siw   | storage06 |   007   |       0        |
+|   siw   | storage06 |   008   |       0        |
+|   siw   | storage06 |   009   |       1        |
+|   siw   | storage06 |   010   |       1        |
+|   siw   | storage06 |   011   |       0        |
+|   siw   | storage06 |   012   |       0        |
+|   siw   | storage06 |   013   |       0        |
+|   siw   | storage06 |   014   |       0        |
+|   siw   | storage06 |   015   |       0        |
+|   siw   | storage06 |   016   |       2        |
+|   siw   | storage06 |   017   |       12       |
+|   siw   | storage06 |   018   |       11       |
+|   siw   | storage06 |   019   |       66       |
+|   siw   | storage06 |   020   |       33       |
+|   siw   | storage06 |   021   |       33       |
+|   siw   | storage06 |   022   |       86       |
+|   siw   | storage06 |   023   |      162       |
+|   siw   | storage06 |   024   |       2        |
+|   siw   | storage06 |   025   |       56       |
+|   siw   | storage06 |   026   |      140       |
+|   siw   | storage06 |   027   |      130       |
+|   siw   | storage06 |   028   |      117       |
+|   siw   | storage06 |   029   |      376       |
+|   siw   | storage06 |   030   |      1400      |
+|   siw   | storage06 |   031   |      1364      |
+|   siw   | storage06 |   032   |       0        |
+|   siw   | storage06 |   033   |       0        |
+|   siw   | storage06 |   034   |       0        |
+|   siw   | storage06 |   035   |       0        |
+|   siw   | storage06 |   036   |       0        |
+|   siw   | storage06 |   037   |       0        |
+|   siw   | storage06 |   038   |       0        |
+|   siw   | storage06 |   039   |       0        |
++---------+-----------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 16:56:38 2018
+

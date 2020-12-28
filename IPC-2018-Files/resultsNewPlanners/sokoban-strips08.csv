@@ -1,0 +1,155 @@
+
+ Revision: 308 
+ Date: 2011-12-21 00:08:29 +0100 (Wed, 21 Dec 2011) 
+
+ ./report.py 1.2
+
+ -----------------------------------------------------------------------------
+ * directory      : /home/isabel/Desktop/newResults/results/seq-sat/
+ * snapshot       : None
+ * name           : report
+ * level          : None
+ * planner        : .*
+ * domain         : sokoban-strips08
+ * problem        : .*
+ * variables      : ['oktimefirstsol']
+ * unroll         : False
+ * sorting        : ['domain (ascending)']
+ * style          : table
+ -----------------------------------------------------------------------------
+
+[('domain', '<')]
+----
+ name: report
++---------+------------------+---------+----------------+
+| planner |      domain      | problem | oktimefirstsol |
++---------+------------------+---------+----------------+
+|  bfs-f  | sokoban-strips08 |   000   |       0        |
+|  bfs-f  | sokoban-strips08 |   001   |       0        |
+|  bfs-f  | sokoban-strips08 |   002   |       0        |
+|  bfs-f  | sokoban-strips08 |   003   |       1        |
+|  bfs-f  | sokoban-strips08 |   004   |       0        |
+|  bfs-f  | sokoban-strips08 |   005   |       3        |
+|  bfs-f  | sokoban-strips08 |   006   |       1        |
+|  bfs-f  | sokoban-strips08 |   007   |       10       |
+|  bfs-f  | sokoban-strips08 |   008   |       46       |
+|  bfs-f  | sokoban-strips08 |   009   |       1        |
+|  bfs-f  | sokoban-strips08 |   010   |       1        |
+|  bfs-f  | sokoban-strips08 |   011   |       12       |
+|  bfs-f  | sokoban-strips08 |   012   |       1        |
+|  bfs-f  | sokoban-strips08 |   013   |      545       |
+|  bfs-f  | sokoban-strips08 |   014   |       -1       |
+|  bfs-f  | sokoban-strips08 |   015   |       13       |
+|  bfs-f  | sokoban-strips08 |   016   |       4        |
+|  bfs-f  | sokoban-strips08 |   017   |       -1       |
+|  bfs-f  | sokoban-strips08 |   018   |       1        |
+|  bfs-f  | sokoban-strips08 |   019   |       -1       |
+|  bfs-f  | sokoban-strips08 |   020   |      178       |
+|  bfs-f  | sokoban-strips08 |   021   |       -1       |
+|  bfs-f  | sokoban-strips08 |   022   |      367       |
+|  bfs-f  | sokoban-strips08 |   023   |       7        |
+|  bfs-f  | sokoban-strips08 |   024   |       60       |
+|  bfs-f  | sokoban-strips08 |   025   |       -1       |
+|  bfs-f  | sokoban-strips08 |   026   |       33       |
+|  bfs-f  | sokoban-strips08 |   027   |      110       |
+|  bfs-f  | sokoban-strips08 |   028   |       -1       |
+|  bfs-f  | sokoban-strips08 |   029   |      1380      |
+|  jasper | sokoban-strips08 |   000   |       0        |
+|  jasper | sokoban-strips08 |   001   |       0        |
+|  jasper | sokoban-strips08 |   002   |       0        |
+|  jasper | sokoban-strips08 |   003   |       0        |
+|  jasper | sokoban-strips08 |   004   |       1        |
+|  jasper | sokoban-strips08 |   005   |       0        |
+|  jasper | sokoban-strips08 |   006   |       0        |
+|  jasper | sokoban-strips08 |   007   |       0        |
+|  jasper | sokoban-strips08 |   008   |       0        |
+|  jasper | sokoban-strips08 |   009   |       0        |
+|  jasper | sokoban-strips08 |   010   |       1        |
+|  jasper | sokoban-strips08 |   011   |       0        |
+|  jasper | sokoban-strips08 |   012   |       0        |
+|  jasper | sokoban-strips08 |   013   |       1        |
+|  jasper | sokoban-strips08 |   014   |       0        |
+|  jasper | sokoban-strips08 |   015   |       0        |
+|  jasper | sokoban-strips08 |   016   |       0        |
+|  jasper | sokoban-strips08 |   017   |       0        |
+|  jasper | sokoban-strips08 |   018   |       1        |
+|  jasper | sokoban-strips08 |   019   |       -1       |
+|  jasper | sokoban-strips08 |   020   |       0        |
+|  jasper | sokoban-strips08 |   021   |       0        |
+|  jasper | sokoban-strips08 |   022   |       0        |
+|  jasper | sokoban-strips08 |   023   |       0        |
+|  jasper | sokoban-strips08 |   024   |       0        |
+|  jasper | sokoban-strips08 |   025   |       1        |
+|  jasper | sokoban-strips08 |   026   |       0        |
+|  jasper | sokoban-strips08 |   027   |       0        |
+|  jasper | sokoban-strips08 |   028   |       -1       |
+|  jasper | sokoban-strips08 |   029   |       0        |
+| mercury | sokoban-strips08 |   000   |       1        |
+| mercury | sokoban-strips08 |   001   |       1        |
+| mercury | sokoban-strips08 |   002   |       1        |
+| mercury | sokoban-strips08 |   003   |       3        |
+| mercury | sokoban-strips08 |   004   |       1        |
+| mercury | sokoban-strips08 |   005   |       5        |
+| mercury | sokoban-strips08 |   006   |       1        |
+| mercury | sokoban-strips08 |   007   |       2        |
+| mercury | sokoban-strips08 |   008   |       4        |
+| mercury | sokoban-strips08 |   009   |       2        |
+| mercury | sokoban-strips08 |   010   |       2        |
+| mercury | sokoban-strips08 |   011   |       8        |
+| mercury | sokoban-strips08 |   012   |       2        |
+| mercury | sokoban-strips08 |   013   |       7        |
+| mercury | sokoban-strips08 |   014   |       -1       |
+| mercury | sokoban-strips08 |   015   |       5        |
+| mercury | sokoban-strips08 |   016   |       3        |
+| mercury | sokoban-strips08 |   017   |      449       |
+| mercury | sokoban-strips08 |   018   |      1470      |
+| mercury | sokoban-strips08 |   019   |       -1       |
+| mercury | sokoban-strips08 |   020   |       11       |
+| mercury | sokoban-strips08 |   021   |       25       |
+| mercury | sokoban-strips08 |   022   |       10       |
+| mercury | sokoban-strips08 |   023   |       14       |
+| mercury | sokoban-strips08 |   024   |       5        |
+| mercury | sokoban-strips08 |   025   |      238       |
+| mercury | sokoban-strips08 |   026   |      135       |
+| mercury | sokoban-strips08 |   027   |       45       |
+| mercury | sokoban-strips08 |   028   |      846       |
+| mercury | sokoban-strips08 |   029   |       63       |
+|   siw   | sokoban-strips08 |   000   |       1        |
+|   siw   | sokoban-strips08 |   001   |       0        |
+|   siw   | sokoban-strips08 |   002   |       -1       |
+|   siw   | sokoban-strips08 |   003   |       4        |
+|   siw   | sokoban-strips08 |   004   |       -1       |
+|   siw   | sokoban-strips08 |   005   |       -1       |
+|   siw   | sokoban-strips08 |   006   |       -1       |
+|   siw   | sokoban-strips08 |   007   |       -1       |
+|   siw   | sokoban-strips08 |   008   |       -1       |
+|   siw   | sokoban-strips08 |   009   |       1        |
+|   siw   | sokoban-strips08 |   010   |       -1       |
+|   siw   | sokoban-strips08 |   011   |       -1       |
+|   siw   | sokoban-strips08 |   012   |       -1       |
+|   siw   | sokoban-strips08 |   013   |       -1       |
+|   siw   | sokoban-strips08 |   014   |       -1       |
+|   siw   | sokoban-strips08 |   015   |       -1       |
+|   siw   | sokoban-strips08 |   016   |       -1       |
+|   siw   | sokoban-strips08 |   017   |       -1       |
+|   siw   | sokoban-strips08 |   018   |       -1       |
+|   siw   | sokoban-strips08 |   019   |       -1       |
+|   siw   | sokoban-strips08 |   020   |       -1       |
+|   siw   | sokoban-strips08 |   021   |       -1       |
+|   siw   | sokoban-strips08 |   022   |       -1       |
+|   siw   | sokoban-strips08 |   023   |       -1       |
+|   siw   | sokoban-strips08 |   024   |       -1       |
+|   siw   | sokoban-strips08 |   025   |       -1       |
+|   siw   | sokoban-strips08 |   026   |       -1       |
+|   siw   | sokoban-strips08 |   027   |       -1       |
+|   siw   | sokoban-strips08 |   028   |       -1       |
+|   siw   | sokoban-strips08 |   029   |       -1       |
++---------+------------------+---------+----------------+
+ legend:
+   planner [key]
+   domain [key]
+   problem [key]
+   oktimefirstsol: time stamp of the first *valid* solution file or -1 if none [raw data]
+
+ created by IPCrun 1.2 (Revision: 312), Sun Feb 11 16:56:34 2018
+
