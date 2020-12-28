@@ -1,0 +1,114 @@
+digraph G {
+v4  [label="Atom prop_path(id_cefile, somepath), Atom prop_path(id_cffile, somepath), Atom prop_path(id_cgfile, somepath), Atom prop_path(id_chfile, somepath)"]
+v3  [label="Atom prop_share_path(id_cishare, whatever), Atom prop_share_path(id_cjshare, whatever), Atom prop_share_path(id_ckshare, whatever), Atom prop_share_path(id_clshare, whatever)"]
+v23  [label="Atom knows(id_cishare), Atom knows(id_cjshare), Atom knows(id_ckshare), Atom knows(id_clshare)"]
+v10  [label="Atom prop_src_host(id_cishare, id_bdhost), Atom prop_src_host(id_cjshare, id_bdhost), Atom prop_src_host(id_ckshare, id_bdhost), Atom prop_src_host(id_clshare, id_bdhost)"]
+v18  [label="NegatedAtom prop_host(id_cprat, id_bkhost)"]
+v17  [label="Atom prop_host(id_cprat, id_bkhost)"]
+v9  [label="NegatedAtom prop_host(id_cnrat, id_brhost)"]
+v28  [label="Atom prop_host(id_cnrat, id_brhost)"]
+v2  [label="NegatedAtom prop_host(id_cmrat, id_whost)"]
+v13  [label="Atom prop_host(id_cmrat, id_whost)"]
+v30  [label="NegatedAtom created(id_cprat)"]
+v20  [label="NegatedAtom created(id_cnrat)"]
+v14  [label="NegatedAtom created(id_cmrat)"]
+v15  [label="NegatedAtom knows_property(id_adomain, pwindows_domain)"]
+v8  [label="Atom knows_property(id_adomain, pwindows_domain)"]
+v27  [label="NegatedAtom knows(id_adomain)"]
+v7  [label="Atom knows(id_adomain)"]
+v5  [label="NegatedAtom knows_property(id_whost, pdomain_user_admins)"]
+v0  [label="Atom knows_property(id_whost, pdomain_user_admins)"]
+v19  [label="NegatedAtom knows_property(id_brhost, pdomain_user_admins)"]
+v31  [label="Atom knows_property(id_brhost, pdomain_user_admins)"]
+v29  [label="NegatedAtom knows_property(id_bkhost, pdomain_user_admins)"]
+v25  [label="Atom knows_property(id_bkhost, pdomain_user_admins)"]
+v24  [label="Atom knows_property(id_whost, pfqdn)"]
+v12  [label="Atom knows_property(id_brhost, pfqdn)"]
+v11  [label="Atom knows_property(id_bkhost, pfqdn)"]
+v16  [label="NegatedAtom knows(id_whost)"]
+v1  [label="Atom knows(id_whost)"]
+v6  [label="NegatedAtom knows(id_brhost)"]
+v22  [label="Atom knows(id_brhost)"]
+v26  [label="NegatedAtom knows(id_bkhost)"]
+v21  [label="Atom knows(id_bkhost)"]
+v4 -> v28
+v4 -> v13
+v4 -> v17
+v3 -> v28
+v3 -> v4
+v3 -> v13
+v3 -> v17
+v23 -> v28
+v23 -> v4
+v23 -> v13
+v23 -> v17
+v10 -> v28
+v10 -> v4
+v10 -> v13
+v10 -> v17
+v18 -> v17
+v9 -> v28
+v2 -> v13
+v30 -> v17
+v20 -> v28
+v14 -> v13
+v15 -> v8
+v8 -> v25
+v8 -> v3
+v8 -> v28
+v8 -> v10
+v8 -> v31
+v8 -> v22
+v8 -> v0
+v8 -> v1
+v8 -> v23
+v8 -> v13
+v8 -> v21
+v8 -> v17
+v27 -> v7
+v7 -> v25
+v7 -> v12
+v7 -> v3
+v7 -> v28
+v7 -> v10
+v7 -> v11
+v7 -> v31
+v7 -> v22
+v7 -> v0
+v7 -> v24
+v7 -> v1
+v7 -> v23
+v7 -> v13
+v7 -> v21
+v7 -> v17
+v5 -> v0
+v0 -> v13
+v19 -> v31
+v31 -> v28
+v29 -> v25
+v25 -> v17
+v24 -> v13
+v12 -> v28
+v11 -> v17
+v16 -> v1
+v1 -> v25
+v1 -> v28
+v1 -> v31
+v1 -> v0
+v1 -> v13
+v1 -> v17
+v6 -> v22
+v22 -> v25
+v22 -> v28
+v22 -> v31
+v22 -> v0
+v22 -> v13
+v22 -> v17
+v26 -> v21
+v21 -> v25
+v21 -> v28
+v21 -> v31
+v21 -> v0
+v21 -> v13
+v21 -> v17
+}

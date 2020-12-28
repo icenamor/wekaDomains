@@ -1,0 +1,68 @@
+digraph G {
+v23  [label="NegatedAtom saved(data-2-2, server1)"]
+v5  [label="Atom saved(data-2-2, server1)"]
+v22  [label="NegatedAtom saved(data-2-1, server1)"]
+v20  [label="Atom saved(data-2-1, server1)"]
+v24  [label="NegatedAtom saved(data-2-5, server1)"]
+v19  [label="Atom saved(data-2-5, server1)"]
+v27  [label="NegatedAtom saved(data-2-7, server2)"]
+v4  [label="Atom saved(data-2-7, server2)"]
+v26  [label="NegatedAtom saved(data-2-3, server3)"]
+v1  [label="Atom saved(data-2-3, server3)"]
+v25  [label="NegatedAtom saved(data-2-10, server4)"]
+v2  [label="Atom saved(data-2-10, server4)"]
+v17  [label="Atom usage(server1, number0)"]
+v7  [label="NegatedAtom cached(data-2-2, server1)"]
+v13  [label="Atom cached(data-2-2, server1)"]
+v6  [label="NegatedAtom cached(data-2-1, server1)"]
+v9  [label="Atom cached(data-2-1, server1)"]
+v12  [label="NegatedAtom cached(data-2-5, server1)"]
+v8  [label="Atom cached(data-2-5, server1)"]
+v21  [label="Atom usage(server2, number0)"]
+v18  [label="Atom usage(server3, number0)"]
+v15  [label="NegatedAtom cached(data-2-7, server2)"]
+v10  [label="Atom cached(data-2-7, server2)"]
+v16  [label="Atom usage(server4, number0)"]
+v3  [label="NegatedAtom cached(data-2-3, server3)"]
+v14  [label="Atom cached(data-2-3, server3)"]
+v11  [label="NegatedAtom cached(data-2-10, server4)"]
+v0  [label="Atom cached(data-2-10, server4)"]
+v23 -> v5
+v22 -> v20
+v24 -> v19
+v27 -> v4
+v26 -> v1
+v25 -> v2
+v17 -> v19
+v17 -> v20
+v17 -> v5
+v17 -> v2
+v17 -> v13
+v17 -> v8
+v17 -> v9
+v17 -> v0
+v7 -> v5
+v7 -> v13
+v13 -> v5
+v6 -> v20
+v6 -> v9
+v9 -> v20
+v12 -> v19
+v12 -> v8
+v8 -> v19
+v21 -> v4
+v21 -> v10
+v18 -> v1
+v18 -> v14
+v15 -> v4
+v15 -> v10
+v10 -> v4
+v16 -> v2
+v16 -> v0
+v3 -> v1
+v3 -> v14
+v14 -> v1
+v11 -> v2
+v11 -> v0
+v0 -> v2
+}

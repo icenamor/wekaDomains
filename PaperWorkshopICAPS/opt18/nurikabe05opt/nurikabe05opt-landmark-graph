@@ -1,0 +1,87 @@
+digraph G {
+v22  [label="Atom robot-pos(pos-0-3), Atom robot-pos(pos-1-2), Atom robot-pos(pos-1-4), Atom robot-pos(pos-2-3)"]
+v21  [label="NegatedAtom group-painted(g0)"]
+v2  [label="Atom group-painted(g0)"]
+v20  [label="NegatedAtom group-painted(g1)"]
+v0  [label="Atom group-painted(g1)"]
+v19  [label="Atom remaining-cells(g1, n4)"]
+v18  [label="Atom remaining-cells(g1, n3)"]
+v17  [label="Atom remaining-cells(g1, n2)"]
+v16  [label="Atom remaining-cells(g1, n1)"]
+v15  [label="Atom remaining-cells(g1, n0)"]
+v14  [label="Atom robot-pos(pos-1-3)"]
+v13  [label="Atom robot-pos(pos-1-1)"]
+v12  [label="Atom robot-pos(pos-0-0)"]
+v11  [label="Atom remaining-cells(g0, n4)"]
+v10  [label="Atom remaining-cells(g0, n3)"]
+v9  [label="Atom remaining-cells(g0, n2)"]
+v7  [label="Atom remaining-cells(g0, n1)"]
+v4  [label="Atom remaining-cells(g0, n0)"]
+v5  [label="NegatedAtom painted(pos-1-3)"]
+v3  [label="NegatedAtom painted(pos-1-1)"]
+v6  [label="Atom painting(g1)"]
+v1  [label="Atom painting(g0)"]
+v8  [label="Atom moving()"]
+v22 -> v6
+v22 -> v0
+v22 -> v14
+v21 -> v2
+v20 -> v0
+v19 -> v6
+v19 -> v18
+v19 -> v0
+v19 -> v17
+v19 -> v16
+v19 -> v15
+v18 -> v0
+v18 -> v17
+v18 -> v16
+v18 -> v15
+v17 -> v0
+v17 -> v16
+v17 -> v15
+v16 -> v0
+v16 -> v15
+v15 -> v0
+v14 -> v6
+v14 -> v18
+v14 -> v0
+v13 -> v10
+v13 -> v2
+v13 -> v1
+v12 -> v0
+v12 -> v2
+v12 -> v14
+v12 -> v13
+v11 -> v10
+v11 -> v9
+v11 -> v7
+v11 -> v4
+v11 -> v2
+v11 -> v1
+v10 -> v9
+v10 -> v7
+v10 -> v4
+v10 -> v2
+v9 -> v7
+v9 -> v4
+v9 -> v2
+v7 -> v4
+v7 -> v2
+v4 -> v2
+v5 -> v18
+v5 -> v0
+v5 -> v14
+v3 -> v2
+v3 -> v13
+v6 -> v0
+v1 -> v2
+v8 -> v10
+v8 -> v6
+v8 -> v18
+v8 -> v0
+v8 -> v2
+v8 -> v1
+v8 -> v14
+v8 -> v13
+}

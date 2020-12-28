@@ -1,0 +1,220 @@
+digraph G {
+v43  [label="Atom object-pos(object0, x2, y2), Atom object-pos(object0, x5, y6)"]
+v35  [label="NegatedAtom object-done(object0)"]
+v6  [label="Atom object-done(object0)"]
+v25  [label="NegatedAtom object-done(object3)"]
+v33  [label="Atom object-done(object3)"]
+v1  [label="NegatedAtom object-done(object2)"]
+v32  [label="Atom object-done(object2)"]
+v16  [label="NegatedAtom object-done(object1)"]
+v0  [label="Atom object-done(object1)"]
+v9  [label="Atom holding(pr2, object3)"]
+v3  [label="Atom holding(pr2, object2)"]
+v19  [label="Atom holding(pr2, object1)"]
+v4  [label="Atom holding(pr2, object0)"]
+v2  [label="Atom gripper-empty(pr2)"]
+v11  [label="NegatedAtom base-obstacle(x5, y0)"]
+v8  [label="NegatedAtom base-obstacle(x4, y0)"]
+v5  [label="NegatedAtom base-obstacle(x3, y0)"]
+v14  [label="NegatedAtom base-obstacle(x2, y0)"]
+v17  [label="NegatedAtom base-obstacle(x1, y0)"]
+v27  [label="Atom base-pos(pr2, x5, y0)"]
+v37  [label="Atom base-pos(pr2, x4, y0)"]
+v15  [label="Atom base-pos(pr2, x3, y0)"]
+v36  [label="Atom base-pos(pr2, x2, y0)"]
+v23  [label="Atom base-pos(pr2, x1, y0)"]
+v20  [label="Atom base-pos(pr2, x0, y0)"]
+v28  [label="Atom not-pushing(pr2)"]
+v26  [label="NegatedAtom gripper-obstacle(x3, y3)"]
+v42  [label="Atom gripper-obstacle(x3, y3)"]
+v34  [label="NegatedAtom gripper-obstacle(x3, y2)"]
+v30  [label="NegatedAtom gripper-obstacle(x2, y3)"]
+v41  [label="Atom gripper-obstacle(x2, y3)"]
+v22  [label="Atom gripper-rel(pr2, xrel0, yrel0)"]
+v40  [label="NegatedAtom object-pos(object3, x3, y3)"]
+v13  [label="Atom object-pos(object3, x3, y3)"]
+v31  [label="Atom object-pos(object3, x2, y2)"]
+v24  [label="Atom object-pos(object2, x3, y3)"]
+v39  [label="NegatedAtom object-pos(object2, x3, y2)"]
+v29  [label="Atom object-pos(object2, x3, y2)"]
+v38  [label="NegatedAtom object-pos(object1, x2, y3)"]
+v21  [label="Atom object-pos(object1, x2, y3)"]
+v7  [label="Atom object-pos(object0, x2, y3)"]
+v12  [label="Atom object-pos(object1, x6, y1)"]
+v10  [label="NegatedAtom parked(pr2)"]
+v18  [label="Atom parked(pr2)"]
+v43 -> v6
+v35 -> v6
+v35 -> v4
+v25 -> v9
+v25 -> v33
+v1 -> v3
+v1 -> v32
+v16 -> v0
+v16 -> v19
+v9 -> v33
+v9 -> v13
+v3 -> v29
+v3 -> v32
+v19 -> v0
+v19 -> v21
+v4 -> v43
+v4 -> v6
+v2 -> v3
+v2 -> v0
+v2 -> v9
+v2 -> v33
+v2 -> v19
+v2 -> v32
+v2 -> v6
+v2 -> v4
+v11 -> v3
+v11 -> v0
+v11 -> v33
+v11 -> v27
+v11 -> v32
+v11 -> v6
+v11 -> v4
+v8 -> v0
+v8 -> v33
+v8 -> v19
+v8 -> v27
+v8 -> v32
+v8 -> v6
+v8 -> v37
+v5 -> v0
+v5 -> v33
+v5 -> v15
+v5 -> v32
+v5 -> v6
+v5 -> v37
+v14 -> v36
+v14 -> v0
+v14 -> v33
+v14 -> v15
+v14 -> v32
+v14 -> v6
+v17 -> v36
+v17 -> v0
+v17 -> v9
+v17 -> v33
+v17 -> v23
+v17 -> v32
+v17 -> v6
+v27 -> v3
+v27 -> v0
+v27 -> v26
+v27 -> v33
+v27 -> v32
+v27 -> v30
+v27 -> v6
+v27 -> v4
+v37 -> v3
+v37 -> v0
+v37 -> v33
+v37 -> v19
+v37 -> v27
+v37 -> v32
+v37 -> v6
+v37 -> v4
+v15 -> v0
+v15 -> v33
+v15 -> v19
+v15 -> v27
+v15 -> v32
+v15 -> v6
+v15 -> v37
+v36 -> v0
+v36 -> v33
+v36 -> v15
+v36 -> v32
+v36 -> v6
+v36 -> v37
+v23 -> v36
+v23 -> v0
+v23 -> v9
+v23 -> v33
+v23 -> v15
+v23 -> v32
+v23 -> v6
+v20 -> v36
+v20 -> v0
+v20 -> v9
+v20 -> v33
+v20 -> v23
+v20 -> v32
+v20 -> v6
+v28 -> v3
+v28 -> v36
+v28 -> v0
+v28 -> v9
+v28 -> v33
+v28 -> v19
+v28 -> v23
+v28 -> v27
+v28 -> v15
+v28 -> v32
+v28 -> v6
+v28 -> v4
+v28 -> v37
+v26 -> v29
+v26 -> v33
+v26 -> v32
+v26 -> v13
+v42 -> v26
+v34 -> v29
+v34 -> v32
+v30 -> v0
+v30 -> v21
+v30 -> v6
+v41 -> v30
+v22 -> v0
+v22 -> v33
+v22 -> v23
+v22 -> v32
+v22 -> v6
+v22 -> v10
+v40 -> v13
+v13 -> v33
+v31 -> v9
+v31 -> v33
+v24 -> v3
+v24 -> v32
+v39 -> v29
+v29 -> v32
+v38 -> v21
+v21 -> v0
+v7 -> v6
+v7 -> v4
+v12 -> v0
+v12 -> v19
+v10 -> v3
+v10 -> v36
+v10 -> v0
+v10 -> v9
+v10 -> v33
+v10 -> v19
+v10 -> v23
+v10 -> v27
+v10 -> v15
+v10 -> v32
+v10 -> v6
+v10 -> v4
+v10 -> v37
+v18 -> v29
+v18 -> v3
+v18 -> v0
+v18 -> v21
+v18 -> v9
+v18 -> v26
+v18 -> v33
+v18 -> v19
+v18 -> v23
+v18 -> v32
+v18 -> v43
+v18 -> v13
+v18 -> v30
+v18 -> v6
+v18 -> v4
+v18 -> v10
+}

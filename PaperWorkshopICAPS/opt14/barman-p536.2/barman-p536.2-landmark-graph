@@ -1,0 +1,194 @@
+digraph G {
+v47  [label="Atom holding(left, shaker1), Atom holding(right, shaker1)"]
+v36  [label="NegatedAtom contains(shot5, cocktail1)"]
+v7  [label="Atom contains(shot5, cocktail1)"]
+v35  [label="NegatedAtom contains(shot4, cocktail5)"]
+v12  [label="Atom contains(shot4, cocktail5)"]
+v34  [label="NegatedAtom contains(shot3, cocktail3)"]
+v6  [label="Atom contains(shot3, cocktail3)"]
+v33  [label="NegatedAtom contains(shot2, cocktail4)"]
+v25  [label="Atom contains(shot2, cocktail4)"]
+v32  [label="NegatedAtom contains(shot1, cocktail2)"]
+v3  [label="Atom contains(shot1, cocktail2)"]
+v45  [label="NegatedAtom unshaked(shaker1)"]
+v8  [label="Atom unshaked(shaker1)"]
+v11  [label="Atom shaker-level(shaker1, l1)"]
+v10  [label="Atom shaker-level(shaker1, l0)"]
+v9  [label="Atom empty(shaker1)"]
+v0  [label="Atom clean(shaker1)"]
+v44  [label="NegatedAtom contains(shaker1, ingredient3)"]
+v17  [label="Atom contains(shaker1, ingredient3)"]
+v43  [label="NegatedAtom contains(shaker1, ingredient2)"]
+v16  [label="Atom contains(shaker1, ingredient2)"]
+v46  [label="NegatedAtom contains(shaker1, ingredient1)"]
+v5  [label="Atom contains(shaker1, ingredient1)"]
+v4  [label="Atom empty(shot5)"]
+v14  [label="Atom empty(shot4)"]
+v13  [label="Atom empty(shot3)"]
+v18  [label="Atom empty(shot2)"]
+v15  [label="Atom empty(shot1)"]
+v27  [label="Atom clean(shot5)"]
+v26  [label="Atom clean(shot4)"]
+v20  [label="Atom clean(shot3)"]
+v19  [label="Atom clean(shot2)"]
+v29  [label="Atom clean(shot1)"]
+v38  [label="NegatedAtom shaked(shaker1)"]
+v28  [label="Atom shaked(shaker1)"]
+v41  [label="NegatedAtom contains(shaker1, cocktail5)"]
+v22  [label="Atom contains(shaker1, cocktail5)"]
+v39  [label="NegatedAtom contains(shaker1, cocktail4)"]
+v21  [label="Atom contains(shaker1, cocktail4)"]
+v40  [label="NegatedAtom contains(shaker1, cocktail3)"]
+v31  [label="Atom contains(shaker1, cocktail3)"]
+v37  [label="NegatedAtom contains(shaker1, cocktail2)"]
+v30  [label="Atom contains(shaker1, cocktail2)"]
+v42  [label="NegatedAtom contains(shaker1, cocktail1)"]
+v24  [label="Atom contains(shaker1, cocktail1)"]
+v23  [label="Atom handempty(right)"]
+v2  [label="Atom handempty(left)"]
+v1  [label="Atom ontable(shaker1)"]
+v47 -> v7
+v47 -> v30
+v47 -> v6
+v47 -> v25
+v47 -> v28
+v47 -> v3
+v47 -> v31
+v47 -> v21
+v47 -> v24
+v47 -> v12
+v47 -> v22
+v36 -> v7
+v35 -> v12
+v34 -> v6
+v33 -> v25
+v32 -> v3
+v45 -> v8
+v8 -> v7
+v8 -> v30
+v8 -> v6
+v8 -> v25
+v8 -> v28
+v8 -> v3
+v8 -> v31
+v8 -> v21
+v8 -> v24
+v8 -> v12
+v8 -> v22
+v11 -> v7
+v11 -> v6
+v11 -> v25
+v11 -> v3
+v11 -> v12
+v10 -> v7
+v10 -> v6
+v10 -> v25
+v10 -> v5
+v10 -> v3
+v10 -> v11
+v10 -> v17
+v10 -> v12
+v10 -> v16
+v10 -> v8
+v9 -> v7
+v9 -> v6
+v9 -> v25
+v9 -> v5
+v9 -> v3
+v9 -> v11
+v9 -> v17
+v9 -> v12
+v9 -> v16
+v9 -> v8
+v0 -> v7
+v0 -> v6
+v0 -> v25
+v0 -> v5
+v0 -> v3
+v0 -> v11
+v0 -> v17
+v0 -> v12
+v0 -> v16
+v0 -> v8
+v44 -> v17
+v17 -> v7
+v17 -> v30
+v17 -> v6
+v17 -> v25
+v17 -> v3
+v17 -> v31
+v17 -> v21
+v17 -> v24
+v43 -> v16
+v16 -> v7
+v16 -> v30
+v16 -> v25
+v16 -> v3
+v16 -> v21
+v16 -> v24
+v16 -> v12
+v16 -> v22
+v46 -> v5
+v5 -> v6
+v5 -> v31
+v5 -> v12
+v5 -> v22
+v4 -> v7
+v14 -> v12
+v13 -> v6
+v18 -> v25
+v15 -> v3
+v27 -> v7
+v26 -> v12
+v20 -> v6
+v19 -> v25
+v29 -> v3
+v38 -> v28
+v28 -> v7
+v28 -> v6
+v28 -> v25
+v28 -> v3
+v28 -> v12
+v41 -> v22
+v22 -> v12
+v39 -> v21
+v21 -> v25
+v40 -> v31
+v31 -> v6
+v37 -> v30
+v30 -> v3
+v42 -> v24
+v24 -> v7
+v23 -> v7
+v23 -> v6
+v23 -> v25
+v23 -> v5
+v23 -> v3
+v23 -> v11
+v23 -> v17
+v23 -> v12
+v23 -> v16
+v23 -> v8
+v2 -> v7
+v2 -> v6
+v2 -> v25
+v2 -> v5
+v2 -> v3
+v2 -> v11
+v2 -> v17
+v2 -> v12
+v2 -> v16
+v2 -> v8
+v1 -> v7
+v1 -> v30
+v1 -> v6
+v1 -> v25
+v1 -> v28
+v1 -> v3
+v1 -> v31
+v1 -> v21
+v1 -> v12
+v1 -> v24
+v1 -> v47
+v1 -> v22
+}

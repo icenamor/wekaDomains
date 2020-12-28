@@ -1,0 +1,11558 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+7
+begin_variable
+var5
+-1
+2
+Atom down(tent0)
+Atom up(tent0)
+end_variable
+begin_variable
+var0
+-1
+7
+Atom at_car(car0, place0)
+Atom at_car(car0, place1)
+Atom at_car(car0, place2)
+Atom at_car(car0, place3)
+Atom at_car(car0, place4)
+Atom at_car(car0, place5)
+Atom at_car(car0, place6)
+end_variable
+begin_variable
+var1
+-1
+7
+Atom at_car(car1, place0)
+Atom at_car(car1, place1)
+Atom at_car(car1, place2)
+Atom at_car(car1, place3)
+Atom at_car(car1, place4)
+Atom at_car(car1, place5)
+Atom at_car(car1, place6)
+end_variable
+begin_variable
+var4
+-1
+7
+Atom at_tent(tent0, place0)
+Atom at_tent(tent0, place1)
+Atom at_tent(tent0, place2)
+Atom at_tent(tent0, place3)
+Atom at_tent(tent0, place4)
+Atom at_tent(tent0, place5)
+Atom at_tent(tent0, place6)
+end_variable
+begin_variable
+var2
+-1
+7
+Atom at_person(girl0, place0)
+Atom at_person(girl0, place1)
+Atom at_person(girl0, place2)
+Atom at_person(girl0, place3)
+Atom at_person(girl0, place4)
+Atom at_person(girl0, place5)
+Atom at_person(girl0, place6)
+end_variable
+begin_variable
+var3
+-1
+7
+Atom at_person(guy0, place0)
+Atom at_person(guy0, place1)
+Atom at_person(guy0, place2)
+Atom at_person(guy0, place3)
+Atom at_person(guy0, place4)
+Atom at_person(guy0, place5)
+Atom at_person(guy0, place6)
+end_variable
+begin_variable
+var6
+-1
+7
+Atom walked(couple0, place0)
+Atom walked(couple0, place1)
+Atom walked(couple0, place2)
+Atom walked(couple0, place3)
+Atom walked(couple0, place4)
+Atom walked(couple0, place5)
+Atom walked(couple0, place6)
+end_variable
+0
+begin_state
+0
+0
+0
+0
+0
+0
+0
+end_state
+begin_goal
+1
+6 6
+end_goal
+706
+begin_operator
+drive girl0 place0 place1 car0
+0
+2
+0 1 0 1
+0 4 0 1
+0
+end_operator
+begin_operator
+drive girl0 place0 place1 car1
+0
+2
+0 2 0 1
+0 4 0 1
+0
+end_operator
+begin_operator
+drive girl0 place0 place2 car0
+0
+2
+0 1 0 2
+0 4 0 2
+0
+end_operator
+begin_operator
+drive girl0 place0 place2 car1
+0
+2
+0 2 0 2
+0 4 0 2
+0
+end_operator
+begin_operator
+drive girl0 place0 place3 car0
+0
+2
+0 1 0 3
+0 4 0 3
+0
+end_operator
+begin_operator
+drive girl0 place0 place3 car1
+0
+2
+0 2 0 3
+0 4 0 3
+0
+end_operator
+begin_operator
+drive girl0 place0 place4 car0
+0
+2
+0 1 0 4
+0 4 0 4
+0
+end_operator
+begin_operator
+drive girl0 place0 place4 car1
+0
+2
+0 2 0 4
+0 4 0 4
+0
+end_operator
+begin_operator
+drive girl0 place0 place5 car0
+0
+2
+0 1 0 5
+0 4 0 5
+0
+end_operator
+begin_operator
+drive girl0 place0 place5 car1
+0
+2
+0 2 0 5
+0 4 0 5
+0
+end_operator
+begin_operator
+drive girl0 place0 place6 car0
+0
+2
+0 1 0 6
+0 4 0 6
+0
+end_operator
+begin_operator
+drive girl0 place0 place6 car1
+0
+2
+0 2 0 6
+0 4 0 6
+0
+end_operator
+begin_operator
+drive girl0 place1 place0 car0
+0
+2
+0 1 1 0
+0 4 1 0
+0
+end_operator
+begin_operator
+drive girl0 place1 place0 car1
+0
+2
+0 2 1 0
+0 4 1 0
+0
+end_operator
+begin_operator
+drive girl0 place1 place2 car0
+0
+2
+0 1 1 2
+0 4 1 2
+0
+end_operator
+begin_operator
+drive girl0 place1 place2 car1
+0
+2
+0 2 1 2
+0 4 1 2
+0
+end_operator
+begin_operator
+drive girl0 place1 place3 car0
+0
+2
+0 1 1 3
+0 4 1 3
+0
+end_operator
+begin_operator
+drive girl0 place1 place3 car1
+0
+2
+0 2 1 3
+0 4 1 3
+0
+end_operator
+begin_operator
+drive girl0 place1 place4 car0
+0
+2
+0 1 1 4
+0 4 1 4
+0
+end_operator
+begin_operator
+drive girl0 place1 place4 car1
+0
+2
+0 2 1 4
+0 4 1 4
+0
+end_operator
+begin_operator
+drive girl0 place1 place5 car0
+0
+2
+0 1 1 5
+0 4 1 5
+0
+end_operator
+begin_operator
+drive girl0 place1 place5 car1
+0
+2
+0 2 1 5
+0 4 1 5
+0
+end_operator
+begin_operator
+drive girl0 place1 place6 car0
+0
+2
+0 1 1 6
+0 4 1 6
+0
+end_operator
+begin_operator
+drive girl0 place1 place6 car1
+0
+2
+0 2 1 6
+0 4 1 6
+0
+end_operator
+begin_operator
+drive girl0 place2 place0 car0
+0
+2
+0 1 2 0
+0 4 2 0
+0
+end_operator
+begin_operator
+drive girl0 place2 place0 car1
+0
+2
+0 2 2 0
+0 4 2 0
+0
+end_operator
+begin_operator
+drive girl0 place2 place1 car0
+0
+2
+0 1 2 1
+0 4 2 1
+0
+end_operator
+begin_operator
+drive girl0 place2 place1 car1
+0
+2
+0 2 2 1
+0 4 2 1
+0
+end_operator
+begin_operator
+drive girl0 place2 place3 car0
+0
+2
+0 1 2 3
+0 4 2 3
+0
+end_operator
+begin_operator
+drive girl0 place2 place3 car1
+0
+2
+0 2 2 3
+0 4 2 3
+0
+end_operator
+begin_operator
+drive girl0 place2 place4 car0
+0
+2
+0 1 2 4
+0 4 2 4
+0
+end_operator
+begin_operator
+drive girl0 place2 place4 car1
+0
+2
+0 2 2 4
+0 4 2 4
+0
+end_operator
+begin_operator
+drive girl0 place2 place5 car0
+0
+2
+0 1 2 5
+0 4 2 5
+0
+end_operator
+begin_operator
+drive girl0 place2 place5 car1
+0
+2
+0 2 2 5
+0 4 2 5
+0
+end_operator
+begin_operator
+drive girl0 place2 place6 car0
+0
+2
+0 1 2 6
+0 4 2 6
+0
+end_operator
+begin_operator
+drive girl0 place2 place6 car1
+0
+2
+0 2 2 6
+0 4 2 6
+0
+end_operator
+begin_operator
+drive girl0 place3 place0 car0
+0
+2
+0 1 3 0
+0 4 3 0
+0
+end_operator
+begin_operator
+drive girl0 place3 place0 car1
+0
+2
+0 2 3 0
+0 4 3 0
+0
+end_operator
+begin_operator
+drive girl0 place3 place1 car0
+0
+2
+0 1 3 1
+0 4 3 1
+0
+end_operator
+begin_operator
+drive girl0 place3 place1 car1
+0
+2
+0 2 3 1
+0 4 3 1
+0
+end_operator
+begin_operator
+drive girl0 place3 place2 car0
+0
+2
+0 1 3 2
+0 4 3 2
+0
+end_operator
+begin_operator
+drive girl0 place3 place2 car1
+0
+2
+0 2 3 2
+0 4 3 2
+0
+end_operator
+begin_operator
+drive girl0 place3 place4 car0
+0
+2
+0 1 3 4
+0 4 3 4
+0
+end_operator
+begin_operator
+drive girl0 place3 place4 car1
+0
+2
+0 2 3 4
+0 4 3 4
+0
+end_operator
+begin_operator
+drive girl0 place3 place5 car0
+0
+2
+0 1 3 5
+0 4 3 5
+0
+end_operator
+begin_operator
+drive girl0 place3 place5 car1
+0
+2
+0 2 3 5
+0 4 3 5
+0
+end_operator
+begin_operator
+drive girl0 place3 place6 car0
+0
+2
+0 1 3 6
+0 4 3 6
+0
+end_operator
+begin_operator
+drive girl0 place3 place6 car1
+0
+2
+0 2 3 6
+0 4 3 6
+0
+end_operator
+begin_operator
+drive girl0 place4 place0 car0
+0
+2
+0 1 4 0
+0 4 4 0
+0
+end_operator
+begin_operator
+drive girl0 place4 place0 car1
+0
+2
+0 2 4 0
+0 4 4 0
+0
+end_operator
+begin_operator
+drive girl0 place4 place1 car0
+0
+2
+0 1 4 1
+0 4 4 1
+0
+end_operator
+begin_operator
+drive girl0 place4 place1 car1
+0
+2
+0 2 4 1
+0 4 4 1
+0
+end_operator
+begin_operator
+drive girl0 place4 place2 car0
+0
+2
+0 1 4 2
+0 4 4 2
+0
+end_operator
+begin_operator
+drive girl0 place4 place2 car1
+0
+2
+0 2 4 2
+0 4 4 2
+0
+end_operator
+begin_operator
+drive girl0 place4 place3 car0
+0
+2
+0 1 4 3
+0 4 4 3
+0
+end_operator
+begin_operator
+drive girl0 place4 place3 car1
+0
+2
+0 2 4 3
+0 4 4 3
+0
+end_operator
+begin_operator
+drive girl0 place4 place5 car0
+0
+2
+0 1 4 5
+0 4 4 5
+0
+end_operator
+begin_operator
+drive girl0 place4 place5 car1
+0
+2
+0 2 4 5
+0 4 4 5
+0
+end_operator
+begin_operator
+drive girl0 place4 place6 car0
+0
+2
+0 1 4 6
+0 4 4 6
+0
+end_operator
+begin_operator
+drive girl0 place4 place6 car1
+0
+2
+0 2 4 6
+0 4 4 6
+0
+end_operator
+begin_operator
+drive girl0 place5 place0 car0
+0
+2
+0 1 5 0
+0 4 5 0
+0
+end_operator
+begin_operator
+drive girl0 place5 place0 car1
+0
+2
+0 2 5 0
+0 4 5 0
+0
+end_operator
+begin_operator
+drive girl0 place5 place1 car0
+0
+2
+0 1 5 1
+0 4 5 1
+0
+end_operator
+begin_operator
+drive girl0 place5 place1 car1
+0
+2
+0 2 5 1
+0 4 5 1
+0
+end_operator
+begin_operator
+drive girl0 place5 place2 car0
+0
+2
+0 1 5 2
+0 4 5 2
+0
+end_operator
+begin_operator
+drive girl0 place5 place2 car1
+0
+2
+0 2 5 2
+0 4 5 2
+0
+end_operator
+begin_operator
+drive girl0 place5 place3 car0
+0
+2
+0 1 5 3
+0 4 5 3
+0
+end_operator
+begin_operator
+drive girl0 place5 place3 car1
+0
+2
+0 2 5 3
+0 4 5 3
+0
+end_operator
+begin_operator
+drive girl0 place5 place4 car0
+0
+2
+0 1 5 4
+0 4 5 4
+0
+end_operator
+begin_operator
+drive girl0 place5 place4 car1
+0
+2
+0 2 5 4
+0 4 5 4
+0
+end_operator
+begin_operator
+drive girl0 place5 place6 car0
+0
+2
+0 1 5 6
+0 4 5 6
+0
+end_operator
+begin_operator
+drive girl0 place5 place6 car1
+0
+2
+0 2 5 6
+0 4 5 6
+0
+end_operator
+begin_operator
+drive girl0 place6 place0 car0
+0
+2
+0 1 6 0
+0 4 6 0
+0
+end_operator
+begin_operator
+drive girl0 place6 place0 car1
+0
+2
+0 2 6 0
+0 4 6 0
+0
+end_operator
+begin_operator
+drive girl0 place6 place1 car0
+0
+2
+0 1 6 1
+0 4 6 1
+0
+end_operator
+begin_operator
+drive girl0 place6 place1 car1
+0
+2
+0 2 6 1
+0 4 6 1
+0
+end_operator
+begin_operator
+drive girl0 place6 place2 car0
+0
+2
+0 1 6 2
+0 4 6 2
+0
+end_operator
+begin_operator
+drive girl0 place6 place2 car1
+0
+2
+0 2 6 2
+0 4 6 2
+0
+end_operator
+begin_operator
+drive girl0 place6 place3 car0
+0
+2
+0 1 6 3
+0 4 6 3
+0
+end_operator
+begin_operator
+drive girl0 place6 place3 car1
+0
+2
+0 2 6 3
+0 4 6 3
+0
+end_operator
+begin_operator
+drive girl0 place6 place4 car0
+0
+2
+0 1 6 4
+0 4 6 4
+0
+end_operator
+begin_operator
+drive girl0 place6 place4 car1
+0
+2
+0 2 6 4
+0 4 6 4
+0
+end_operator
+begin_operator
+drive girl0 place6 place5 car0
+0
+2
+0 1 6 5
+0 4 6 5
+0
+end_operator
+begin_operator
+drive girl0 place6 place5 car1
+0
+2
+0 2 6 5
+0 4 6 5
+0
+end_operator
+begin_operator
+drive guy0 place0 place1 car0
+0
+2
+0 1 0 1
+0 5 0 1
+0
+end_operator
+begin_operator
+drive guy0 place0 place1 car1
+0
+2
+0 2 0 1
+0 5 0 1
+0
+end_operator
+begin_operator
+drive guy0 place0 place2 car0
+0
+2
+0 1 0 2
+0 5 0 2
+0
+end_operator
+begin_operator
+drive guy0 place0 place2 car1
+0
+2
+0 2 0 2
+0 5 0 2
+0
+end_operator
+begin_operator
+drive guy0 place0 place3 car0
+0
+2
+0 1 0 3
+0 5 0 3
+0
+end_operator
+begin_operator
+drive guy0 place0 place3 car1
+0
+2
+0 2 0 3
+0 5 0 3
+0
+end_operator
+begin_operator
+drive guy0 place0 place4 car0
+0
+2
+0 1 0 4
+0 5 0 4
+0
+end_operator
+begin_operator
+drive guy0 place0 place4 car1
+0
+2
+0 2 0 4
+0 5 0 4
+0
+end_operator
+begin_operator
+drive guy0 place0 place5 car0
+0
+2
+0 1 0 5
+0 5 0 5
+0
+end_operator
+begin_operator
+drive guy0 place0 place5 car1
+0
+2
+0 2 0 5
+0 5 0 5
+0
+end_operator
+begin_operator
+drive guy0 place0 place6 car0
+0
+2
+0 1 0 6
+0 5 0 6
+0
+end_operator
+begin_operator
+drive guy0 place0 place6 car1
+0
+2
+0 2 0 6
+0 5 0 6
+0
+end_operator
+begin_operator
+drive guy0 place1 place0 car0
+0
+2
+0 1 1 0
+0 5 1 0
+0
+end_operator
+begin_operator
+drive guy0 place1 place0 car1
+0
+2
+0 2 1 0
+0 5 1 0
+0
+end_operator
+begin_operator
+drive guy0 place1 place2 car0
+0
+2
+0 1 1 2
+0 5 1 2
+0
+end_operator
+begin_operator
+drive guy0 place1 place2 car1
+0
+2
+0 2 1 2
+0 5 1 2
+0
+end_operator
+begin_operator
+drive guy0 place1 place3 car0
+0
+2
+0 1 1 3
+0 5 1 3
+0
+end_operator
+begin_operator
+drive guy0 place1 place3 car1
+0
+2
+0 2 1 3
+0 5 1 3
+0
+end_operator
+begin_operator
+drive guy0 place1 place4 car0
+0
+2
+0 1 1 4
+0 5 1 4
+0
+end_operator
+begin_operator
+drive guy0 place1 place4 car1
+0
+2
+0 2 1 4
+0 5 1 4
+0
+end_operator
+begin_operator
+drive guy0 place1 place5 car0
+0
+2
+0 1 1 5
+0 5 1 5
+0
+end_operator
+begin_operator
+drive guy0 place1 place5 car1
+0
+2
+0 2 1 5
+0 5 1 5
+0
+end_operator
+begin_operator
+drive guy0 place1 place6 car0
+0
+2
+0 1 1 6
+0 5 1 6
+0
+end_operator
+begin_operator
+drive guy0 place1 place6 car1
+0
+2
+0 2 1 6
+0 5 1 6
+0
+end_operator
+begin_operator
+drive guy0 place2 place0 car0
+0
+2
+0 1 2 0
+0 5 2 0
+0
+end_operator
+begin_operator
+drive guy0 place2 place0 car1
+0
+2
+0 2 2 0
+0 5 2 0
+0
+end_operator
+begin_operator
+drive guy0 place2 place1 car0
+0
+2
+0 1 2 1
+0 5 2 1
+0
+end_operator
+begin_operator
+drive guy0 place2 place1 car1
+0
+2
+0 2 2 1
+0 5 2 1
+0
+end_operator
+begin_operator
+drive guy0 place2 place3 car0
+0
+2
+0 1 2 3
+0 5 2 3
+0
+end_operator
+begin_operator
+drive guy0 place2 place3 car1
+0
+2
+0 2 2 3
+0 5 2 3
+0
+end_operator
+begin_operator
+drive guy0 place2 place4 car0
+0
+2
+0 1 2 4
+0 5 2 4
+0
+end_operator
+begin_operator
+drive guy0 place2 place4 car1
+0
+2
+0 2 2 4
+0 5 2 4
+0
+end_operator
+begin_operator
+drive guy0 place2 place5 car0
+0
+2
+0 1 2 5
+0 5 2 5
+0
+end_operator
+begin_operator
+drive guy0 place2 place5 car1
+0
+2
+0 2 2 5
+0 5 2 5
+0
+end_operator
+begin_operator
+drive guy0 place2 place6 car0
+0
+2
+0 1 2 6
+0 5 2 6
+0
+end_operator
+begin_operator
+drive guy0 place2 place6 car1
+0
+2
+0 2 2 6
+0 5 2 6
+0
+end_operator
+begin_operator
+drive guy0 place3 place0 car0
+0
+2
+0 1 3 0
+0 5 3 0
+0
+end_operator
+begin_operator
+drive guy0 place3 place0 car1
+0
+2
+0 2 3 0
+0 5 3 0
+0
+end_operator
+begin_operator
+drive guy0 place3 place1 car0
+0
+2
+0 1 3 1
+0 5 3 1
+0
+end_operator
+begin_operator
+drive guy0 place3 place1 car1
+0
+2
+0 2 3 1
+0 5 3 1
+0
+end_operator
+begin_operator
+drive guy0 place3 place2 car0
+0
+2
+0 1 3 2
+0 5 3 2
+0
+end_operator
+begin_operator
+drive guy0 place3 place2 car1
+0
+2
+0 2 3 2
+0 5 3 2
+0
+end_operator
+begin_operator
+drive guy0 place3 place4 car0
+0
+2
+0 1 3 4
+0 5 3 4
+0
+end_operator
+begin_operator
+drive guy0 place3 place4 car1
+0
+2
+0 2 3 4
+0 5 3 4
+0
+end_operator
+begin_operator
+drive guy0 place3 place5 car0
+0
+2
+0 1 3 5
+0 5 3 5
+0
+end_operator
+begin_operator
+drive guy0 place3 place5 car1
+0
+2
+0 2 3 5
+0 5 3 5
+0
+end_operator
+begin_operator
+drive guy0 place3 place6 car0
+0
+2
+0 1 3 6
+0 5 3 6
+0
+end_operator
+begin_operator
+drive guy0 place3 place6 car1
+0
+2
+0 2 3 6
+0 5 3 6
+0
+end_operator
+begin_operator
+drive guy0 place4 place0 car0
+0
+2
+0 1 4 0
+0 5 4 0
+0
+end_operator
+begin_operator
+drive guy0 place4 place0 car1
+0
+2
+0 2 4 0
+0 5 4 0
+0
+end_operator
+begin_operator
+drive guy0 place4 place1 car0
+0
+2
+0 1 4 1
+0 5 4 1
+0
+end_operator
+begin_operator
+drive guy0 place4 place1 car1
+0
+2
+0 2 4 1
+0 5 4 1
+0
+end_operator
+begin_operator
+drive guy0 place4 place2 car0
+0
+2
+0 1 4 2
+0 5 4 2
+0
+end_operator
+begin_operator
+drive guy0 place4 place2 car1
+0
+2
+0 2 4 2
+0 5 4 2
+0
+end_operator
+begin_operator
+drive guy0 place4 place3 car0
+0
+2
+0 1 4 3
+0 5 4 3
+0
+end_operator
+begin_operator
+drive guy0 place4 place3 car1
+0
+2
+0 2 4 3
+0 5 4 3
+0
+end_operator
+begin_operator
+drive guy0 place4 place5 car0
+0
+2
+0 1 4 5
+0 5 4 5
+0
+end_operator
+begin_operator
+drive guy0 place4 place5 car1
+0
+2
+0 2 4 5
+0 5 4 5
+0
+end_operator
+begin_operator
+drive guy0 place4 place6 car0
+0
+2
+0 1 4 6
+0 5 4 6
+0
+end_operator
+begin_operator
+drive guy0 place4 place6 car1
+0
+2
+0 2 4 6
+0 5 4 6
+0
+end_operator
+begin_operator
+drive guy0 place5 place0 car0
+0
+2
+0 1 5 0
+0 5 5 0
+0
+end_operator
+begin_operator
+drive guy0 place5 place0 car1
+0
+2
+0 2 5 0
+0 5 5 0
+0
+end_operator
+begin_operator
+drive guy0 place5 place1 car0
+0
+2
+0 1 5 1
+0 5 5 1
+0
+end_operator
+begin_operator
+drive guy0 place5 place1 car1
+0
+2
+0 2 5 1
+0 5 5 1
+0
+end_operator
+begin_operator
+drive guy0 place5 place2 car0
+0
+2
+0 1 5 2
+0 5 5 2
+0
+end_operator
+begin_operator
+drive guy0 place5 place2 car1
+0
+2
+0 2 5 2
+0 5 5 2
+0
+end_operator
+begin_operator
+drive guy0 place5 place3 car0
+0
+2
+0 1 5 3
+0 5 5 3
+0
+end_operator
+begin_operator
+drive guy0 place5 place3 car1
+0
+2
+0 2 5 3
+0 5 5 3
+0
+end_operator
+begin_operator
+drive guy0 place5 place4 car0
+0
+2
+0 1 5 4
+0 5 5 4
+0
+end_operator
+begin_operator
+drive guy0 place5 place4 car1
+0
+2
+0 2 5 4
+0 5 5 4
+0
+end_operator
+begin_operator
+drive guy0 place5 place6 car0
+0
+2
+0 1 5 6
+0 5 5 6
+0
+end_operator
+begin_operator
+drive guy0 place5 place6 car1
+0
+2
+0 2 5 6
+0 5 5 6
+0
+end_operator
+begin_operator
+drive guy0 place6 place0 car0
+0
+2
+0 1 6 0
+0 5 6 0
+0
+end_operator
+begin_operator
+drive guy0 place6 place0 car1
+0
+2
+0 2 6 0
+0 5 6 0
+0
+end_operator
+begin_operator
+drive guy0 place6 place1 car0
+0
+2
+0 1 6 1
+0 5 6 1
+0
+end_operator
+begin_operator
+drive guy0 place6 place1 car1
+0
+2
+0 2 6 1
+0 5 6 1
+0
+end_operator
+begin_operator
+drive guy0 place6 place2 car0
+0
+2
+0 1 6 2
+0 5 6 2
+0
+end_operator
+begin_operator
+drive guy0 place6 place2 car1
+0
+2
+0 2 6 2
+0 5 6 2
+0
+end_operator
+begin_operator
+drive guy0 place6 place3 car0
+0
+2
+0 1 6 3
+0 5 6 3
+0
+end_operator
+begin_operator
+drive guy0 place6 place3 car1
+0
+2
+0 2 6 3
+0 5 6 3
+0
+end_operator
+begin_operator
+drive guy0 place6 place4 car0
+0
+2
+0 1 6 4
+0 5 6 4
+0
+end_operator
+begin_operator
+drive guy0 place6 place4 car1
+0
+2
+0 2 6 4
+0 5 6 4
+0
+end_operator
+begin_operator
+drive guy0 place6 place5 car0
+0
+2
+0 1 6 5
+0 5 6 5
+0
+end_operator
+begin_operator
+drive guy0 place6 place5 car1
+0
+2
+0 2 6 5
+0 5 6 5
+0
+end_operator
+begin_operator
+drive_passenger girl0 place0 place1 car0 guy0
+0
+3
+0 1 0 1
+0 4 0 1
+0 5 0 1
+0
+end_operator
+begin_operator
+drive_passenger girl0 place0 place1 car1 guy0
+0
+3
+0 2 0 1
+0 4 0 1
+0 5 0 1
+0
+end_operator
+begin_operator
+drive_passenger girl0 place0 place2 car0 guy0
+0
+3
+0 1 0 2
+0 4 0 2
+0 5 0 2
+0
+end_operator
+begin_operator
+drive_passenger girl0 place0 place2 car1 guy0
+0
+3
+0 2 0 2
+0 4 0 2
+0 5 0 2
+0
+end_operator
+begin_operator
+drive_passenger girl0 place0 place3 car0 guy0
+0
+3
+0 1 0 3
+0 4 0 3
+0 5 0 3
+0
+end_operator
+begin_operator
+drive_passenger girl0 place0 place3 car1 guy0
+0
+3
+0 2 0 3
+0 4 0 3
+0 5 0 3
+0
+end_operator
+begin_operator
+drive_passenger girl0 place0 place4 car0 guy0
+0
+3
+0 1 0 4
+0 4 0 4
+0 5 0 4
+0
+end_operator
+begin_operator
+drive_passenger girl0 place0 place4 car1 guy0
+0
+3
+0 2 0 4
+0 4 0 4
+0 5 0 4
+0
+end_operator
+begin_operator
+drive_passenger girl0 place0 place5 car0 guy0
+0
+3
+0 1 0 5
+0 4 0 5
+0 5 0 5
+0
+end_operator
+begin_operator
+drive_passenger girl0 place0 place5 car1 guy0
+0
+3
+0 2 0 5
+0 4 0 5
+0 5 0 5
+0
+end_operator
+begin_operator
+drive_passenger girl0 place0 place6 car0 guy0
+0
+3
+0 1 0 6
+0 4 0 6
+0 5 0 6
+0
+end_operator
+begin_operator
+drive_passenger girl0 place0 place6 car1 guy0
+0
+3
+0 2 0 6
+0 4 0 6
+0 5 0 6
+0
+end_operator
+begin_operator
+drive_passenger girl0 place1 place0 car0 guy0
+0
+3
+0 1 1 0
+0 4 1 0
+0 5 1 0
+0
+end_operator
+begin_operator
+drive_passenger girl0 place1 place0 car1 guy0
+0
+3
+0 2 1 0
+0 4 1 0
+0 5 1 0
+0
+end_operator
+begin_operator
+drive_passenger girl0 place1 place2 car0 guy0
+0
+3
+0 1 1 2
+0 4 1 2
+0 5 1 2
+0
+end_operator
+begin_operator
+drive_passenger girl0 place1 place2 car1 guy0
+0
+3
+0 2 1 2
+0 4 1 2
+0 5 1 2
+0
+end_operator
+begin_operator
+drive_passenger girl0 place1 place3 car0 guy0
+0
+3
+0 1 1 3
+0 4 1 3
+0 5 1 3
+0
+end_operator
+begin_operator
+drive_passenger girl0 place1 place3 car1 guy0
+0
+3
+0 2 1 3
+0 4 1 3
+0 5 1 3
+0
+end_operator
+begin_operator
+drive_passenger girl0 place1 place4 car0 guy0
+0
+3
+0 1 1 4
+0 4 1 4
+0 5 1 4
+0
+end_operator
+begin_operator
+drive_passenger girl0 place1 place4 car1 guy0
+0
+3
+0 2 1 4
+0 4 1 4
+0 5 1 4
+0
+end_operator
+begin_operator
+drive_passenger girl0 place1 place5 car0 guy0
+0
+3
+0 1 1 5
+0 4 1 5
+0 5 1 5
+0
+end_operator
+begin_operator
+drive_passenger girl0 place1 place5 car1 guy0
+0
+3
+0 2 1 5
+0 4 1 5
+0 5 1 5
+0
+end_operator
+begin_operator
+drive_passenger girl0 place1 place6 car0 guy0
+0
+3
+0 1 1 6
+0 4 1 6
+0 5 1 6
+0
+end_operator
+begin_operator
+drive_passenger girl0 place1 place6 car1 guy0
+0
+3
+0 2 1 6
+0 4 1 6
+0 5 1 6
+0
+end_operator
+begin_operator
+drive_passenger girl0 place2 place0 car0 guy0
+0
+3
+0 1 2 0
+0 4 2 0
+0 5 2 0
+0
+end_operator
+begin_operator
+drive_passenger girl0 place2 place0 car1 guy0
+0
+3
+0 2 2 0
+0 4 2 0
+0 5 2 0
+0
+end_operator
+begin_operator
+drive_passenger girl0 place2 place1 car0 guy0
+0
+3
+0 1 2 1
+0 4 2 1
+0 5 2 1
+0
+end_operator
+begin_operator
+drive_passenger girl0 place2 place1 car1 guy0
+0
+3
+0 2 2 1
+0 4 2 1
+0 5 2 1
+0
+end_operator
+begin_operator
+drive_passenger girl0 place2 place3 car0 guy0
+0
+3
+0 1 2 3
+0 4 2 3
+0 5 2 3
+0
+end_operator
+begin_operator
+drive_passenger girl0 place2 place3 car1 guy0
+0
+3
+0 2 2 3
+0 4 2 3
+0 5 2 3
+0
+end_operator
+begin_operator
+drive_passenger girl0 place2 place4 car0 guy0
+0
+3
+0 1 2 4
+0 4 2 4
+0 5 2 4
+0
+end_operator
+begin_operator
+drive_passenger girl0 place2 place4 car1 guy0
+0
+3
+0 2 2 4
+0 4 2 4
+0 5 2 4
+0
+end_operator
+begin_operator
+drive_passenger girl0 place2 place5 car0 guy0
+0
+3
+0 1 2 5
+0 4 2 5
+0 5 2 5
+0
+end_operator
+begin_operator
+drive_passenger girl0 place2 place5 car1 guy0
+0
+3
+0 2 2 5
+0 4 2 5
+0 5 2 5
+0
+end_operator
+begin_operator
+drive_passenger girl0 place2 place6 car0 guy0
+0
+3
+0 1 2 6
+0 4 2 6
+0 5 2 6
+0
+end_operator
+begin_operator
+drive_passenger girl0 place2 place6 car1 guy0
+0
+3
+0 2 2 6
+0 4 2 6
+0 5 2 6
+0
+end_operator
+begin_operator
+drive_passenger girl0 place3 place0 car0 guy0
+0
+3
+0 1 3 0
+0 4 3 0
+0 5 3 0
+0
+end_operator
+begin_operator
+drive_passenger girl0 place3 place0 car1 guy0
+0
+3
+0 2 3 0
+0 4 3 0
+0 5 3 0
+0
+end_operator
+begin_operator
+drive_passenger girl0 place3 place1 car0 guy0
+0
+3
+0 1 3 1
+0 4 3 1
+0 5 3 1
+0
+end_operator
+begin_operator
+drive_passenger girl0 place3 place1 car1 guy0
+0
+3
+0 2 3 1
+0 4 3 1
+0 5 3 1
+0
+end_operator
+begin_operator
+drive_passenger girl0 place3 place2 car0 guy0
+0
+3
+0 1 3 2
+0 4 3 2
+0 5 3 2
+0
+end_operator
+begin_operator
+drive_passenger girl0 place3 place2 car1 guy0
+0
+3
+0 2 3 2
+0 4 3 2
+0 5 3 2
+0
+end_operator
+begin_operator
+drive_passenger girl0 place3 place4 car0 guy0
+0
+3
+0 1 3 4
+0 4 3 4
+0 5 3 4
+0
+end_operator
+begin_operator
+drive_passenger girl0 place3 place4 car1 guy0
+0
+3
+0 2 3 4
+0 4 3 4
+0 5 3 4
+0
+end_operator
+begin_operator
+drive_passenger girl0 place3 place5 car0 guy0
+0
+3
+0 1 3 5
+0 4 3 5
+0 5 3 5
+0
+end_operator
+begin_operator
+drive_passenger girl0 place3 place5 car1 guy0
+0
+3
+0 2 3 5
+0 4 3 5
+0 5 3 5
+0
+end_operator
+begin_operator
+drive_passenger girl0 place3 place6 car0 guy0
+0
+3
+0 1 3 6
+0 4 3 6
+0 5 3 6
+0
+end_operator
+begin_operator
+drive_passenger girl0 place3 place6 car1 guy0
+0
+3
+0 2 3 6
+0 4 3 6
+0 5 3 6
+0
+end_operator
+begin_operator
+drive_passenger girl0 place4 place0 car0 guy0
+0
+3
+0 1 4 0
+0 4 4 0
+0 5 4 0
+0
+end_operator
+begin_operator
+drive_passenger girl0 place4 place0 car1 guy0
+0
+3
+0 2 4 0
+0 4 4 0
+0 5 4 0
+0
+end_operator
+begin_operator
+drive_passenger girl0 place4 place1 car0 guy0
+0
+3
+0 1 4 1
+0 4 4 1
+0 5 4 1
+0
+end_operator
+begin_operator
+drive_passenger girl0 place4 place1 car1 guy0
+0
+3
+0 2 4 1
+0 4 4 1
+0 5 4 1
+0
+end_operator
+begin_operator
+drive_passenger girl0 place4 place2 car0 guy0
+0
+3
+0 1 4 2
+0 4 4 2
+0 5 4 2
+0
+end_operator
+begin_operator
+drive_passenger girl0 place4 place2 car1 guy0
+0
+3
+0 2 4 2
+0 4 4 2
+0 5 4 2
+0
+end_operator
+begin_operator
+drive_passenger girl0 place4 place3 car0 guy0
+0
+3
+0 1 4 3
+0 4 4 3
+0 5 4 3
+0
+end_operator
+begin_operator
+drive_passenger girl0 place4 place3 car1 guy0
+0
+3
+0 2 4 3
+0 4 4 3
+0 5 4 3
+0
+end_operator
+begin_operator
+drive_passenger girl0 place4 place5 car0 guy0
+0
+3
+0 1 4 5
+0 4 4 5
+0 5 4 5
+0
+end_operator
+begin_operator
+drive_passenger girl0 place4 place5 car1 guy0
+0
+3
+0 2 4 5
+0 4 4 5
+0 5 4 5
+0
+end_operator
+begin_operator
+drive_passenger girl0 place4 place6 car0 guy0
+0
+3
+0 1 4 6
+0 4 4 6
+0 5 4 6
+0
+end_operator
+begin_operator
+drive_passenger girl0 place4 place6 car1 guy0
+0
+3
+0 2 4 6
+0 4 4 6
+0 5 4 6
+0
+end_operator
+begin_operator
+drive_passenger girl0 place5 place0 car0 guy0
+0
+3
+0 1 5 0
+0 4 5 0
+0 5 5 0
+0
+end_operator
+begin_operator
+drive_passenger girl0 place5 place0 car1 guy0
+0
+3
+0 2 5 0
+0 4 5 0
+0 5 5 0
+0
+end_operator
+begin_operator
+drive_passenger girl0 place5 place1 car0 guy0
+0
+3
+0 1 5 1
+0 4 5 1
+0 5 5 1
+0
+end_operator
+begin_operator
+drive_passenger girl0 place5 place1 car1 guy0
+0
+3
+0 2 5 1
+0 4 5 1
+0 5 5 1
+0
+end_operator
+begin_operator
+drive_passenger girl0 place5 place2 car0 guy0
+0
+3
+0 1 5 2
+0 4 5 2
+0 5 5 2
+0
+end_operator
+begin_operator
+drive_passenger girl0 place5 place2 car1 guy0
+0
+3
+0 2 5 2
+0 4 5 2
+0 5 5 2
+0
+end_operator
+begin_operator
+drive_passenger girl0 place5 place3 car0 guy0
+0
+3
+0 1 5 3
+0 4 5 3
+0 5 5 3
+0
+end_operator
+begin_operator
+drive_passenger girl0 place5 place3 car1 guy0
+0
+3
+0 2 5 3
+0 4 5 3
+0 5 5 3
+0
+end_operator
+begin_operator
+drive_passenger girl0 place5 place4 car0 guy0
+0
+3
+0 1 5 4
+0 4 5 4
+0 5 5 4
+0
+end_operator
+begin_operator
+drive_passenger girl0 place5 place4 car1 guy0
+0
+3
+0 2 5 4
+0 4 5 4
+0 5 5 4
+0
+end_operator
+begin_operator
+drive_passenger girl0 place5 place6 car0 guy0
+0
+3
+0 1 5 6
+0 4 5 6
+0 5 5 6
+0
+end_operator
+begin_operator
+drive_passenger girl0 place5 place6 car1 guy0
+0
+3
+0 2 5 6
+0 4 5 6
+0 5 5 6
+0
+end_operator
+begin_operator
+drive_passenger girl0 place6 place0 car0 guy0
+0
+3
+0 1 6 0
+0 4 6 0
+0 5 6 0
+0
+end_operator
+begin_operator
+drive_passenger girl0 place6 place0 car1 guy0
+0
+3
+0 2 6 0
+0 4 6 0
+0 5 6 0
+0
+end_operator
+begin_operator
+drive_passenger girl0 place6 place1 car0 guy0
+0
+3
+0 1 6 1
+0 4 6 1
+0 5 6 1
+0
+end_operator
+begin_operator
+drive_passenger girl0 place6 place1 car1 guy0
+0
+3
+0 2 6 1
+0 4 6 1
+0 5 6 1
+0
+end_operator
+begin_operator
+drive_passenger girl0 place6 place2 car0 guy0
+0
+3
+0 1 6 2
+0 4 6 2
+0 5 6 2
+0
+end_operator
+begin_operator
+drive_passenger girl0 place6 place2 car1 guy0
+0
+3
+0 2 6 2
+0 4 6 2
+0 5 6 2
+0
+end_operator
+begin_operator
+drive_passenger girl0 place6 place3 car0 guy0
+0
+3
+0 1 6 3
+0 4 6 3
+0 5 6 3
+0
+end_operator
+begin_operator
+drive_passenger girl0 place6 place3 car1 guy0
+0
+3
+0 2 6 3
+0 4 6 3
+0 5 6 3
+0
+end_operator
+begin_operator
+drive_passenger girl0 place6 place4 car0 guy0
+0
+3
+0 1 6 4
+0 4 6 4
+0 5 6 4
+0
+end_operator
+begin_operator
+drive_passenger girl0 place6 place4 car1 guy0
+0
+3
+0 2 6 4
+0 4 6 4
+0 5 6 4
+0
+end_operator
+begin_operator
+drive_passenger girl0 place6 place5 car0 guy0
+0
+3
+0 1 6 5
+0 4 6 5
+0 5 6 5
+0
+end_operator
+begin_operator
+drive_passenger girl0 place6 place5 car1 guy0
+0
+3
+0 2 6 5
+0 4 6 5
+0 5 6 5
+0
+end_operator
+begin_operator
+drive_passenger guy0 place0 place1 car0 girl0
+0
+3
+0 1 0 1
+0 4 0 1
+0 5 0 1
+0
+end_operator
+begin_operator
+drive_passenger guy0 place0 place1 car1 girl0
+0
+3
+0 2 0 1
+0 4 0 1
+0 5 0 1
+0
+end_operator
+begin_operator
+drive_passenger guy0 place0 place2 car0 girl0
+0
+3
+0 1 0 2
+0 4 0 2
+0 5 0 2
+0
+end_operator
+begin_operator
+drive_passenger guy0 place0 place2 car1 girl0
+0
+3
+0 2 0 2
+0 4 0 2
+0 5 0 2
+0
+end_operator
+begin_operator
+drive_passenger guy0 place0 place3 car0 girl0
+0
+3
+0 1 0 3
+0 4 0 3
+0 5 0 3
+0
+end_operator
+begin_operator
+drive_passenger guy0 place0 place3 car1 girl0
+0
+3
+0 2 0 3
+0 4 0 3
+0 5 0 3
+0
+end_operator
+begin_operator
+drive_passenger guy0 place0 place4 car0 girl0
+0
+3
+0 1 0 4
+0 4 0 4
+0 5 0 4
+0
+end_operator
+begin_operator
+drive_passenger guy0 place0 place4 car1 girl0
+0
+3
+0 2 0 4
+0 4 0 4
+0 5 0 4
+0
+end_operator
+begin_operator
+drive_passenger guy0 place0 place5 car0 girl0
+0
+3
+0 1 0 5
+0 4 0 5
+0 5 0 5
+0
+end_operator
+begin_operator
+drive_passenger guy0 place0 place5 car1 girl0
+0
+3
+0 2 0 5
+0 4 0 5
+0 5 0 5
+0
+end_operator
+begin_operator
+drive_passenger guy0 place0 place6 car0 girl0
+0
+3
+0 1 0 6
+0 4 0 6
+0 5 0 6
+0
+end_operator
+begin_operator
+drive_passenger guy0 place0 place6 car1 girl0
+0
+3
+0 2 0 6
+0 4 0 6
+0 5 0 6
+0
+end_operator
+begin_operator
+drive_passenger guy0 place1 place0 car0 girl0
+0
+3
+0 1 1 0
+0 4 1 0
+0 5 1 0
+0
+end_operator
+begin_operator
+drive_passenger guy0 place1 place0 car1 girl0
+0
+3
+0 2 1 0
+0 4 1 0
+0 5 1 0
+0
+end_operator
+begin_operator
+drive_passenger guy0 place1 place2 car0 girl0
+0
+3
+0 1 1 2
+0 4 1 2
+0 5 1 2
+0
+end_operator
+begin_operator
+drive_passenger guy0 place1 place2 car1 girl0
+0
+3
+0 2 1 2
+0 4 1 2
+0 5 1 2
+0
+end_operator
+begin_operator
+drive_passenger guy0 place1 place3 car0 girl0
+0
+3
+0 1 1 3
+0 4 1 3
+0 5 1 3
+0
+end_operator
+begin_operator
+drive_passenger guy0 place1 place3 car1 girl0
+0
+3
+0 2 1 3
+0 4 1 3
+0 5 1 3
+0
+end_operator
+begin_operator
+drive_passenger guy0 place1 place4 car0 girl0
+0
+3
+0 1 1 4
+0 4 1 4
+0 5 1 4
+0
+end_operator
+begin_operator
+drive_passenger guy0 place1 place4 car1 girl0
+0
+3
+0 2 1 4
+0 4 1 4
+0 5 1 4
+0
+end_operator
+begin_operator
+drive_passenger guy0 place1 place5 car0 girl0
+0
+3
+0 1 1 5
+0 4 1 5
+0 5 1 5
+0
+end_operator
+begin_operator
+drive_passenger guy0 place1 place5 car1 girl0
+0
+3
+0 2 1 5
+0 4 1 5
+0 5 1 5
+0
+end_operator
+begin_operator
+drive_passenger guy0 place1 place6 car0 girl0
+0
+3
+0 1 1 6
+0 4 1 6
+0 5 1 6
+0
+end_operator
+begin_operator
+drive_passenger guy0 place1 place6 car1 girl0
+0
+3
+0 2 1 6
+0 4 1 6
+0 5 1 6
+0
+end_operator
+begin_operator
+drive_passenger guy0 place2 place0 car0 girl0
+0
+3
+0 1 2 0
+0 4 2 0
+0 5 2 0
+0
+end_operator
+begin_operator
+drive_passenger guy0 place2 place0 car1 girl0
+0
+3
+0 2 2 0
+0 4 2 0
+0 5 2 0
+0
+end_operator
+begin_operator
+drive_passenger guy0 place2 place1 car0 girl0
+0
+3
+0 1 2 1
+0 4 2 1
+0 5 2 1
+0
+end_operator
+begin_operator
+drive_passenger guy0 place2 place1 car1 girl0
+0
+3
+0 2 2 1
+0 4 2 1
+0 5 2 1
+0
+end_operator
+begin_operator
+drive_passenger guy0 place2 place3 car0 girl0
+0
+3
+0 1 2 3
+0 4 2 3
+0 5 2 3
+0
+end_operator
+begin_operator
+drive_passenger guy0 place2 place3 car1 girl0
+0
+3
+0 2 2 3
+0 4 2 3
+0 5 2 3
+0
+end_operator
+begin_operator
+drive_passenger guy0 place2 place4 car0 girl0
+0
+3
+0 1 2 4
+0 4 2 4
+0 5 2 4
+0
+end_operator
+begin_operator
+drive_passenger guy0 place2 place4 car1 girl0
+0
+3
+0 2 2 4
+0 4 2 4
+0 5 2 4
+0
+end_operator
+begin_operator
+drive_passenger guy0 place2 place5 car0 girl0
+0
+3
+0 1 2 5
+0 4 2 5
+0 5 2 5
+0
+end_operator
+begin_operator
+drive_passenger guy0 place2 place5 car1 girl0
+0
+3
+0 2 2 5
+0 4 2 5
+0 5 2 5
+0
+end_operator
+begin_operator
+drive_passenger guy0 place2 place6 car0 girl0
+0
+3
+0 1 2 6
+0 4 2 6
+0 5 2 6
+0
+end_operator
+begin_operator
+drive_passenger guy0 place2 place6 car1 girl0
+0
+3
+0 2 2 6
+0 4 2 6
+0 5 2 6
+0
+end_operator
+begin_operator
+drive_passenger guy0 place3 place0 car0 girl0
+0
+3
+0 1 3 0
+0 4 3 0
+0 5 3 0
+0
+end_operator
+begin_operator
+drive_passenger guy0 place3 place0 car1 girl0
+0
+3
+0 2 3 0
+0 4 3 0
+0 5 3 0
+0
+end_operator
+begin_operator
+drive_passenger guy0 place3 place1 car0 girl0
+0
+3
+0 1 3 1
+0 4 3 1
+0 5 3 1
+0
+end_operator
+begin_operator
+drive_passenger guy0 place3 place1 car1 girl0
+0
+3
+0 2 3 1
+0 4 3 1
+0 5 3 1
+0
+end_operator
+begin_operator
+drive_passenger guy0 place3 place2 car0 girl0
+0
+3
+0 1 3 2
+0 4 3 2
+0 5 3 2
+0
+end_operator
+begin_operator
+drive_passenger guy0 place3 place2 car1 girl0
+0
+3
+0 2 3 2
+0 4 3 2
+0 5 3 2
+0
+end_operator
+begin_operator
+drive_passenger guy0 place3 place4 car0 girl0
+0
+3
+0 1 3 4
+0 4 3 4
+0 5 3 4
+0
+end_operator
+begin_operator
+drive_passenger guy0 place3 place4 car1 girl0
+0
+3
+0 2 3 4
+0 4 3 4
+0 5 3 4
+0
+end_operator
+begin_operator
+drive_passenger guy0 place3 place5 car0 girl0
+0
+3
+0 1 3 5
+0 4 3 5
+0 5 3 5
+0
+end_operator
+begin_operator
+drive_passenger guy0 place3 place5 car1 girl0
+0
+3
+0 2 3 5
+0 4 3 5
+0 5 3 5
+0
+end_operator
+begin_operator
+drive_passenger guy0 place3 place6 car0 girl0
+0
+3
+0 1 3 6
+0 4 3 6
+0 5 3 6
+0
+end_operator
+begin_operator
+drive_passenger guy0 place3 place6 car1 girl0
+0
+3
+0 2 3 6
+0 4 3 6
+0 5 3 6
+0
+end_operator
+begin_operator
+drive_passenger guy0 place4 place0 car0 girl0
+0
+3
+0 1 4 0
+0 4 4 0
+0 5 4 0
+0
+end_operator
+begin_operator
+drive_passenger guy0 place4 place0 car1 girl0
+0
+3
+0 2 4 0
+0 4 4 0
+0 5 4 0
+0
+end_operator
+begin_operator
+drive_passenger guy0 place4 place1 car0 girl0
+0
+3
+0 1 4 1
+0 4 4 1
+0 5 4 1
+0
+end_operator
+begin_operator
+drive_passenger guy0 place4 place1 car1 girl0
+0
+3
+0 2 4 1
+0 4 4 1
+0 5 4 1
+0
+end_operator
+begin_operator
+drive_passenger guy0 place4 place2 car0 girl0
+0
+3
+0 1 4 2
+0 4 4 2
+0 5 4 2
+0
+end_operator
+begin_operator
+drive_passenger guy0 place4 place2 car1 girl0
+0
+3
+0 2 4 2
+0 4 4 2
+0 5 4 2
+0
+end_operator
+begin_operator
+drive_passenger guy0 place4 place3 car0 girl0
+0
+3
+0 1 4 3
+0 4 4 3
+0 5 4 3
+0
+end_operator
+begin_operator
+drive_passenger guy0 place4 place3 car1 girl0
+0
+3
+0 2 4 3
+0 4 4 3
+0 5 4 3
+0
+end_operator
+begin_operator
+drive_passenger guy0 place4 place5 car0 girl0
+0
+3
+0 1 4 5
+0 4 4 5
+0 5 4 5
+0
+end_operator
+begin_operator
+drive_passenger guy0 place4 place5 car1 girl0
+0
+3
+0 2 4 5
+0 4 4 5
+0 5 4 5
+0
+end_operator
+begin_operator
+drive_passenger guy0 place4 place6 car0 girl0
+0
+3
+0 1 4 6
+0 4 4 6
+0 5 4 6
+0
+end_operator
+begin_operator
+drive_passenger guy0 place4 place6 car1 girl0
+0
+3
+0 2 4 6
+0 4 4 6
+0 5 4 6
+0
+end_operator
+begin_operator
+drive_passenger guy0 place5 place0 car0 girl0
+0
+3
+0 1 5 0
+0 4 5 0
+0 5 5 0
+0
+end_operator
+begin_operator
+drive_passenger guy0 place5 place0 car1 girl0
+0
+3
+0 2 5 0
+0 4 5 0
+0 5 5 0
+0
+end_operator
+begin_operator
+drive_passenger guy0 place5 place1 car0 girl0
+0
+3
+0 1 5 1
+0 4 5 1
+0 5 5 1
+0
+end_operator
+begin_operator
+drive_passenger guy0 place5 place1 car1 girl0
+0
+3
+0 2 5 1
+0 4 5 1
+0 5 5 1
+0
+end_operator
+begin_operator
+drive_passenger guy0 place5 place2 car0 girl0
+0
+3
+0 1 5 2
+0 4 5 2
+0 5 5 2
+0
+end_operator
+begin_operator
+drive_passenger guy0 place5 place2 car1 girl0
+0
+3
+0 2 5 2
+0 4 5 2
+0 5 5 2
+0
+end_operator
+begin_operator
+drive_passenger guy0 place5 place3 car0 girl0
+0
+3
+0 1 5 3
+0 4 5 3
+0 5 5 3
+0
+end_operator
+begin_operator
+drive_passenger guy0 place5 place3 car1 girl0
+0
+3
+0 2 5 3
+0 4 5 3
+0 5 5 3
+0
+end_operator
+begin_operator
+drive_passenger guy0 place5 place4 car0 girl0
+0
+3
+0 1 5 4
+0 4 5 4
+0 5 5 4
+0
+end_operator
+begin_operator
+drive_passenger guy0 place5 place4 car1 girl0
+0
+3
+0 2 5 4
+0 4 5 4
+0 5 5 4
+0
+end_operator
+begin_operator
+drive_passenger guy0 place5 place6 car0 girl0
+0
+3
+0 1 5 6
+0 4 5 6
+0 5 5 6
+0
+end_operator
+begin_operator
+drive_passenger guy0 place5 place6 car1 girl0
+0
+3
+0 2 5 6
+0 4 5 6
+0 5 5 6
+0
+end_operator
+begin_operator
+drive_passenger guy0 place6 place0 car0 girl0
+0
+3
+0 1 6 0
+0 4 6 0
+0 5 6 0
+0
+end_operator
+begin_operator
+drive_passenger guy0 place6 place0 car1 girl0
+0
+3
+0 2 6 0
+0 4 6 0
+0 5 6 0
+0
+end_operator
+begin_operator
+drive_passenger guy0 place6 place1 car0 girl0
+0
+3
+0 1 6 1
+0 4 6 1
+0 5 6 1
+0
+end_operator
+begin_operator
+drive_passenger guy0 place6 place1 car1 girl0
+0
+3
+0 2 6 1
+0 4 6 1
+0 5 6 1
+0
+end_operator
+begin_operator
+drive_passenger guy0 place6 place2 car0 girl0
+0
+3
+0 1 6 2
+0 4 6 2
+0 5 6 2
+0
+end_operator
+begin_operator
+drive_passenger guy0 place6 place2 car1 girl0
+0
+3
+0 2 6 2
+0 4 6 2
+0 5 6 2
+0
+end_operator
+begin_operator
+drive_passenger guy0 place6 place3 car0 girl0
+0
+3
+0 1 6 3
+0 4 6 3
+0 5 6 3
+0
+end_operator
+begin_operator
+drive_passenger guy0 place6 place3 car1 girl0
+0
+3
+0 2 6 3
+0 4 6 3
+0 5 6 3
+0
+end_operator
+begin_operator
+drive_passenger guy0 place6 place4 car0 girl0
+0
+3
+0 1 6 4
+0 4 6 4
+0 5 6 4
+0
+end_operator
+begin_operator
+drive_passenger guy0 place6 place4 car1 girl0
+0
+3
+0 2 6 4
+0 4 6 4
+0 5 6 4
+0
+end_operator
+begin_operator
+drive_passenger guy0 place6 place5 car0 girl0
+0
+3
+0 1 6 5
+0 4 6 5
+0 5 6 5
+0
+end_operator
+begin_operator
+drive_passenger guy0 place6 place5 car1 girl0
+0
+3
+0 2 6 5
+0 4 6 5
+0 5 6 5
+0
+end_operator
+begin_operator
+drive_tent girl0 place0 place1 car0 tent0
+1
+0 0
+3
+0 1 0 1
+0 4 0 1
+0 3 0 1
+0
+end_operator
+begin_operator
+drive_tent girl0 place0 place1 car1 tent0
+1
+0 0
+3
+0 2 0 1
+0 4 0 1
+0 3 0 1
+0
+end_operator
+begin_operator
+drive_tent girl0 place0 place2 car0 tent0
+1
+0 0
+3
+0 1 0 2
+0 4 0 2
+0 3 0 2
+0
+end_operator
+begin_operator
+drive_tent girl0 place0 place2 car1 tent0
+1
+0 0
+3
+0 2 0 2
+0 4 0 2
+0 3 0 2
+0
+end_operator
+begin_operator
+drive_tent girl0 place0 place3 car0 tent0
+1
+0 0
+3
+0 1 0 3
+0 4 0 3
+0 3 0 3
+0
+end_operator
+begin_operator
+drive_tent girl0 place0 place3 car1 tent0
+1
+0 0
+3
+0 2 0 3
+0 4 0 3
+0 3 0 3
+0
+end_operator
+begin_operator
+drive_tent girl0 place0 place4 car0 tent0
+1
+0 0
+3
+0 1 0 4
+0 4 0 4
+0 3 0 4
+0
+end_operator
+begin_operator
+drive_tent girl0 place0 place4 car1 tent0
+1
+0 0
+3
+0 2 0 4
+0 4 0 4
+0 3 0 4
+0
+end_operator
+begin_operator
+drive_tent girl0 place0 place5 car0 tent0
+1
+0 0
+3
+0 1 0 5
+0 4 0 5
+0 3 0 5
+0
+end_operator
+begin_operator
+drive_tent girl0 place0 place5 car1 tent0
+1
+0 0
+3
+0 2 0 5
+0 4 0 5
+0 3 0 5
+0
+end_operator
+begin_operator
+drive_tent girl0 place0 place6 car0 tent0
+1
+0 0
+3
+0 1 0 6
+0 4 0 6
+0 3 0 6
+0
+end_operator
+begin_operator
+drive_tent girl0 place0 place6 car1 tent0
+1
+0 0
+3
+0 2 0 6
+0 4 0 6
+0 3 0 6
+0
+end_operator
+begin_operator
+drive_tent girl0 place1 place0 car0 tent0
+1
+0 0
+3
+0 1 1 0
+0 4 1 0
+0 3 1 0
+0
+end_operator
+begin_operator
+drive_tent girl0 place1 place0 car1 tent0
+1
+0 0
+3
+0 2 1 0
+0 4 1 0
+0 3 1 0
+0
+end_operator
+begin_operator
+drive_tent girl0 place1 place2 car0 tent0
+1
+0 0
+3
+0 1 1 2
+0 4 1 2
+0 3 1 2
+0
+end_operator
+begin_operator
+drive_tent girl0 place1 place2 car1 tent0
+1
+0 0
+3
+0 2 1 2
+0 4 1 2
+0 3 1 2
+0
+end_operator
+begin_operator
+drive_tent girl0 place1 place3 car0 tent0
+1
+0 0
+3
+0 1 1 3
+0 4 1 3
+0 3 1 3
+0
+end_operator
+begin_operator
+drive_tent girl0 place1 place3 car1 tent0
+1
+0 0
+3
+0 2 1 3
+0 4 1 3
+0 3 1 3
+0
+end_operator
+begin_operator
+drive_tent girl0 place1 place4 car0 tent0
+1
+0 0
+3
+0 1 1 4
+0 4 1 4
+0 3 1 4
+0
+end_operator
+begin_operator
+drive_tent girl0 place1 place4 car1 tent0
+1
+0 0
+3
+0 2 1 4
+0 4 1 4
+0 3 1 4
+0
+end_operator
+begin_operator
+drive_tent girl0 place1 place5 car0 tent0
+1
+0 0
+3
+0 1 1 5
+0 4 1 5
+0 3 1 5
+0
+end_operator
+begin_operator
+drive_tent girl0 place1 place5 car1 tent0
+1
+0 0
+3
+0 2 1 5
+0 4 1 5
+0 3 1 5
+0
+end_operator
+begin_operator
+drive_tent girl0 place1 place6 car0 tent0
+1
+0 0
+3
+0 1 1 6
+0 4 1 6
+0 3 1 6
+0
+end_operator
+begin_operator
+drive_tent girl0 place1 place6 car1 tent0
+1
+0 0
+3
+0 2 1 6
+0 4 1 6
+0 3 1 6
+0
+end_operator
+begin_operator
+drive_tent girl0 place2 place0 car0 tent0
+1
+0 0
+3
+0 1 2 0
+0 4 2 0
+0 3 2 0
+0
+end_operator
+begin_operator
+drive_tent girl0 place2 place0 car1 tent0
+1
+0 0
+3
+0 2 2 0
+0 4 2 0
+0 3 2 0
+0
+end_operator
+begin_operator
+drive_tent girl0 place2 place1 car0 tent0
+1
+0 0
+3
+0 1 2 1
+0 4 2 1
+0 3 2 1
+0
+end_operator
+begin_operator
+drive_tent girl0 place2 place1 car1 tent0
+1
+0 0
+3
+0 2 2 1
+0 4 2 1
+0 3 2 1
+0
+end_operator
+begin_operator
+drive_tent girl0 place2 place3 car0 tent0
+1
+0 0
+3
+0 1 2 3
+0 4 2 3
+0 3 2 3
+0
+end_operator
+begin_operator
+drive_tent girl0 place2 place3 car1 tent0
+1
+0 0
+3
+0 2 2 3
+0 4 2 3
+0 3 2 3
+0
+end_operator
+begin_operator
+drive_tent girl0 place2 place4 car0 tent0
+1
+0 0
+3
+0 1 2 4
+0 4 2 4
+0 3 2 4
+0
+end_operator
+begin_operator
+drive_tent girl0 place2 place4 car1 tent0
+1
+0 0
+3
+0 2 2 4
+0 4 2 4
+0 3 2 4
+0
+end_operator
+begin_operator
+drive_tent girl0 place2 place5 car0 tent0
+1
+0 0
+3
+0 1 2 5
+0 4 2 5
+0 3 2 5
+0
+end_operator
+begin_operator
+drive_tent girl0 place2 place5 car1 tent0
+1
+0 0
+3
+0 2 2 5
+0 4 2 5
+0 3 2 5
+0
+end_operator
+begin_operator
+drive_tent girl0 place2 place6 car0 tent0
+1
+0 0
+3
+0 1 2 6
+0 4 2 6
+0 3 2 6
+0
+end_operator
+begin_operator
+drive_tent girl0 place2 place6 car1 tent0
+1
+0 0
+3
+0 2 2 6
+0 4 2 6
+0 3 2 6
+0
+end_operator
+begin_operator
+drive_tent girl0 place3 place0 car0 tent0
+1
+0 0
+3
+0 1 3 0
+0 4 3 0
+0 3 3 0
+0
+end_operator
+begin_operator
+drive_tent girl0 place3 place0 car1 tent0
+1
+0 0
+3
+0 2 3 0
+0 4 3 0
+0 3 3 0
+0
+end_operator
+begin_operator
+drive_tent girl0 place3 place1 car0 tent0
+1
+0 0
+3
+0 1 3 1
+0 4 3 1
+0 3 3 1
+0
+end_operator
+begin_operator
+drive_tent girl0 place3 place1 car1 tent0
+1
+0 0
+3
+0 2 3 1
+0 4 3 1
+0 3 3 1
+0
+end_operator
+begin_operator
+drive_tent girl0 place3 place2 car0 tent0
+1
+0 0
+3
+0 1 3 2
+0 4 3 2
+0 3 3 2
+0
+end_operator
+begin_operator
+drive_tent girl0 place3 place2 car1 tent0
+1
+0 0
+3
+0 2 3 2
+0 4 3 2
+0 3 3 2
+0
+end_operator
+begin_operator
+drive_tent girl0 place3 place4 car0 tent0
+1
+0 0
+3
+0 1 3 4
+0 4 3 4
+0 3 3 4
+0
+end_operator
+begin_operator
+drive_tent girl0 place3 place4 car1 tent0
+1
+0 0
+3
+0 2 3 4
+0 4 3 4
+0 3 3 4
+0
+end_operator
+begin_operator
+drive_tent girl0 place3 place5 car0 tent0
+1
+0 0
+3
+0 1 3 5
+0 4 3 5
+0 3 3 5
+0
+end_operator
+begin_operator
+drive_tent girl0 place3 place5 car1 tent0
+1
+0 0
+3
+0 2 3 5
+0 4 3 5
+0 3 3 5
+0
+end_operator
+begin_operator
+drive_tent girl0 place3 place6 car0 tent0
+1
+0 0
+3
+0 1 3 6
+0 4 3 6
+0 3 3 6
+0
+end_operator
+begin_operator
+drive_tent girl0 place3 place6 car1 tent0
+1
+0 0
+3
+0 2 3 6
+0 4 3 6
+0 3 3 6
+0
+end_operator
+begin_operator
+drive_tent girl0 place4 place0 car0 tent0
+1
+0 0
+3
+0 1 4 0
+0 4 4 0
+0 3 4 0
+0
+end_operator
+begin_operator
+drive_tent girl0 place4 place0 car1 tent0
+1
+0 0
+3
+0 2 4 0
+0 4 4 0
+0 3 4 0
+0
+end_operator
+begin_operator
+drive_tent girl0 place4 place1 car0 tent0
+1
+0 0
+3
+0 1 4 1
+0 4 4 1
+0 3 4 1
+0
+end_operator
+begin_operator
+drive_tent girl0 place4 place1 car1 tent0
+1
+0 0
+3
+0 2 4 1
+0 4 4 1
+0 3 4 1
+0
+end_operator
+begin_operator
+drive_tent girl0 place4 place2 car0 tent0
+1
+0 0
+3
+0 1 4 2
+0 4 4 2
+0 3 4 2
+0
+end_operator
+begin_operator
+drive_tent girl0 place4 place2 car1 tent0
+1
+0 0
+3
+0 2 4 2
+0 4 4 2
+0 3 4 2
+0
+end_operator
+begin_operator
+drive_tent girl0 place4 place3 car0 tent0
+1
+0 0
+3
+0 1 4 3
+0 4 4 3
+0 3 4 3
+0
+end_operator
+begin_operator
+drive_tent girl0 place4 place3 car1 tent0
+1
+0 0
+3
+0 2 4 3
+0 4 4 3
+0 3 4 3
+0
+end_operator
+begin_operator
+drive_tent girl0 place4 place5 car0 tent0
+1
+0 0
+3
+0 1 4 5
+0 4 4 5
+0 3 4 5
+0
+end_operator
+begin_operator
+drive_tent girl0 place4 place5 car1 tent0
+1
+0 0
+3
+0 2 4 5
+0 4 4 5
+0 3 4 5
+0
+end_operator
+begin_operator
+drive_tent girl0 place4 place6 car0 tent0
+1
+0 0
+3
+0 1 4 6
+0 4 4 6
+0 3 4 6
+0
+end_operator
+begin_operator
+drive_tent girl0 place4 place6 car1 tent0
+1
+0 0
+3
+0 2 4 6
+0 4 4 6
+0 3 4 6
+0
+end_operator
+begin_operator
+drive_tent girl0 place5 place0 car0 tent0
+1
+0 0
+3
+0 1 5 0
+0 4 5 0
+0 3 5 0
+0
+end_operator
+begin_operator
+drive_tent girl0 place5 place0 car1 tent0
+1
+0 0
+3
+0 2 5 0
+0 4 5 0
+0 3 5 0
+0
+end_operator
+begin_operator
+drive_tent girl0 place5 place1 car0 tent0
+1
+0 0
+3
+0 1 5 1
+0 4 5 1
+0 3 5 1
+0
+end_operator
+begin_operator
+drive_tent girl0 place5 place1 car1 tent0
+1
+0 0
+3
+0 2 5 1
+0 4 5 1
+0 3 5 1
+0
+end_operator
+begin_operator
+drive_tent girl0 place5 place2 car0 tent0
+1
+0 0
+3
+0 1 5 2
+0 4 5 2
+0 3 5 2
+0
+end_operator
+begin_operator
+drive_tent girl0 place5 place2 car1 tent0
+1
+0 0
+3
+0 2 5 2
+0 4 5 2
+0 3 5 2
+0
+end_operator
+begin_operator
+drive_tent girl0 place5 place3 car0 tent0
+1
+0 0
+3
+0 1 5 3
+0 4 5 3
+0 3 5 3
+0
+end_operator
+begin_operator
+drive_tent girl0 place5 place3 car1 tent0
+1
+0 0
+3
+0 2 5 3
+0 4 5 3
+0 3 5 3
+0
+end_operator
+begin_operator
+drive_tent girl0 place5 place4 car0 tent0
+1
+0 0
+3
+0 1 5 4
+0 4 5 4
+0 3 5 4
+0
+end_operator
+begin_operator
+drive_tent girl0 place5 place4 car1 tent0
+1
+0 0
+3
+0 2 5 4
+0 4 5 4
+0 3 5 4
+0
+end_operator
+begin_operator
+drive_tent girl0 place5 place6 car0 tent0
+1
+0 0
+3
+0 1 5 6
+0 4 5 6
+0 3 5 6
+0
+end_operator
+begin_operator
+drive_tent girl0 place5 place6 car1 tent0
+1
+0 0
+3
+0 2 5 6
+0 4 5 6
+0 3 5 6
+0
+end_operator
+begin_operator
+drive_tent girl0 place6 place0 car0 tent0
+1
+0 0
+3
+0 1 6 0
+0 4 6 0
+0 3 6 0
+0
+end_operator
+begin_operator
+drive_tent girl0 place6 place0 car1 tent0
+1
+0 0
+3
+0 2 6 0
+0 4 6 0
+0 3 6 0
+0
+end_operator
+begin_operator
+drive_tent girl0 place6 place1 car0 tent0
+1
+0 0
+3
+0 1 6 1
+0 4 6 1
+0 3 6 1
+0
+end_operator
+begin_operator
+drive_tent girl0 place6 place1 car1 tent0
+1
+0 0
+3
+0 2 6 1
+0 4 6 1
+0 3 6 1
+0
+end_operator
+begin_operator
+drive_tent girl0 place6 place2 car0 tent0
+1
+0 0
+3
+0 1 6 2
+0 4 6 2
+0 3 6 2
+0
+end_operator
+begin_operator
+drive_tent girl0 place6 place2 car1 tent0
+1
+0 0
+3
+0 2 6 2
+0 4 6 2
+0 3 6 2
+0
+end_operator
+begin_operator
+drive_tent girl0 place6 place3 car0 tent0
+1
+0 0
+3
+0 1 6 3
+0 4 6 3
+0 3 6 3
+0
+end_operator
+begin_operator
+drive_tent girl0 place6 place3 car1 tent0
+1
+0 0
+3
+0 2 6 3
+0 4 6 3
+0 3 6 3
+0
+end_operator
+begin_operator
+drive_tent girl0 place6 place4 car0 tent0
+1
+0 0
+3
+0 1 6 4
+0 4 6 4
+0 3 6 4
+0
+end_operator
+begin_operator
+drive_tent girl0 place6 place4 car1 tent0
+1
+0 0
+3
+0 2 6 4
+0 4 6 4
+0 3 6 4
+0
+end_operator
+begin_operator
+drive_tent girl0 place6 place5 car0 tent0
+1
+0 0
+3
+0 1 6 5
+0 4 6 5
+0 3 6 5
+0
+end_operator
+begin_operator
+drive_tent girl0 place6 place5 car1 tent0
+1
+0 0
+3
+0 2 6 5
+0 4 6 5
+0 3 6 5
+0
+end_operator
+begin_operator
+drive_tent guy0 place0 place1 car0 tent0
+1
+0 0
+3
+0 1 0 1
+0 5 0 1
+0 3 0 1
+0
+end_operator
+begin_operator
+drive_tent guy0 place0 place1 car1 tent0
+1
+0 0
+3
+0 2 0 1
+0 5 0 1
+0 3 0 1
+0
+end_operator
+begin_operator
+drive_tent guy0 place0 place2 car0 tent0
+1
+0 0
+3
+0 1 0 2
+0 5 0 2
+0 3 0 2
+0
+end_operator
+begin_operator
+drive_tent guy0 place0 place2 car1 tent0
+1
+0 0
+3
+0 2 0 2
+0 5 0 2
+0 3 0 2
+0
+end_operator
+begin_operator
+drive_tent guy0 place0 place3 car0 tent0
+1
+0 0
+3
+0 1 0 3
+0 5 0 3
+0 3 0 3
+0
+end_operator
+begin_operator
+drive_tent guy0 place0 place3 car1 tent0
+1
+0 0
+3
+0 2 0 3
+0 5 0 3
+0 3 0 3
+0
+end_operator
+begin_operator
+drive_tent guy0 place0 place4 car0 tent0
+1
+0 0
+3
+0 1 0 4
+0 5 0 4
+0 3 0 4
+0
+end_operator
+begin_operator
+drive_tent guy0 place0 place4 car1 tent0
+1
+0 0
+3
+0 2 0 4
+0 5 0 4
+0 3 0 4
+0
+end_operator
+begin_operator
+drive_tent guy0 place0 place5 car0 tent0
+1
+0 0
+3
+0 1 0 5
+0 5 0 5
+0 3 0 5
+0
+end_operator
+begin_operator
+drive_tent guy0 place0 place5 car1 tent0
+1
+0 0
+3
+0 2 0 5
+0 5 0 5
+0 3 0 5
+0
+end_operator
+begin_operator
+drive_tent guy0 place0 place6 car0 tent0
+1
+0 0
+3
+0 1 0 6
+0 5 0 6
+0 3 0 6
+0
+end_operator
+begin_operator
+drive_tent guy0 place0 place6 car1 tent0
+1
+0 0
+3
+0 2 0 6
+0 5 0 6
+0 3 0 6
+0
+end_operator
+begin_operator
+drive_tent guy0 place1 place0 car0 tent0
+1
+0 0
+3
+0 1 1 0
+0 5 1 0
+0 3 1 0
+0
+end_operator
+begin_operator
+drive_tent guy0 place1 place0 car1 tent0
+1
+0 0
+3
+0 2 1 0
+0 5 1 0
+0 3 1 0
+0
+end_operator
+begin_operator
+drive_tent guy0 place1 place2 car0 tent0
+1
+0 0
+3
+0 1 1 2
+0 5 1 2
+0 3 1 2
+0
+end_operator
+begin_operator
+drive_tent guy0 place1 place2 car1 tent0
+1
+0 0
+3
+0 2 1 2
+0 5 1 2
+0 3 1 2
+0
+end_operator
+begin_operator
+drive_tent guy0 place1 place3 car0 tent0
+1
+0 0
+3
+0 1 1 3
+0 5 1 3
+0 3 1 3
+0
+end_operator
+begin_operator
+drive_tent guy0 place1 place3 car1 tent0
+1
+0 0
+3
+0 2 1 3
+0 5 1 3
+0 3 1 3
+0
+end_operator
+begin_operator
+drive_tent guy0 place1 place4 car0 tent0
+1
+0 0
+3
+0 1 1 4
+0 5 1 4
+0 3 1 4
+0
+end_operator
+begin_operator
+drive_tent guy0 place1 place4 car1 tent0
+1
+0 0
+3
+0 2 1 4
+0 5 1 4
+0 3 1 4
+0
+end_operator
+begin_operator
+drive_tent guy0 place1 place5 car0 tent0
+1
+0 0
+3
+0 1 1 5
+0 5 1 5
+0 3 1 5
+0
+end_operator
+begin_operator
+drive_tent guy0 place1 place5 car1 tent0
+1
+0 0
+3
+0 2 1 5
+0 5 1 5
+0 3 1 5
+0
+end_operator
+begin_operator
+drive_tent guy0 place1 place6 car0 tent0
+1
+0 0
+3
+0 1 1 6
+0 5 1 6
+0 3 1 6
+0
+end_operator
+begin_operator
+drive_tent guy0 place1 place6 car1 tent0
+1
+0 0
+3
+0 2 1 6
+0 5 1 6
+0 3 1 6
+0
+end_operator
+begin_operator
+drive_tent guy0 place2 place0 car0 tent0
+1
+0 0
+3
+0 1 2 0
+0 5 2 0
+0 3 2 0
+0
+end_operator
+begin_operator
+drive_tent guy0 place2 place0 car1 tent0
+1
+0 0
+3
+0 2 2 0
+0 5 2 0
+0 3 2 0
+0
+end_operator
+begin_operator
+drive_tent guy0 place2 place1 car0 tent0
+1
+0 0
+3
+0 1 2 1
+0 5 2 1
+0 3 2 1
+0
+end_operator
+begin_operator
+drive_tent guy0 place2 place1 car1 tent0
+1
+0 0
+3
+0 2 2 1
+0 5 2 1
+0 3 2 1
+0
+end_operator
+begin_operator
+drive_tent guy0 place2 place3 car0 tent0
+1
+0 0
+3
+0 1 2 3
+0 5 2 3
+0 3 2 3
+0
+end_operator
+begin_operator
+drive_tent guy0 place2 place3 car1 tent0
+1
+0 0
+3
+0 2 2 3
+0 5 2 3
+0 3 2 3
+0
+end_operator
+begin_operator
+drive_tent guy0 place2 place4 car0 tent0
+1
+0 0
+3
+0 1 2 4
+0 5 2 4
+0 3 2 4
+0
+end_operator
+begin_operator
+drive_tent guy0 place2 place4 car1 tent0
+1
+0 0
+3
+0 2 2 4
+0 5 2 4
+0 3 2 4
+0
+end_operator
+begin_operator
+drive_tent guy0 place2 place5 car0 tent0
+1
+0 0
+3
+0 1 2 5
+0 5 2 5
+0 3 2 5
+0
+end_operator
+begin_operator
+drive_tent guy0 place2 place5 car1 tent0
+1
+0 0
+3
+0 2 2 5
+0 5 2 5
+0 3 2 5
+0
+end_operator
+begin_operator
+drive_tent guy0 place2 place6 car0 tent0
+1
+0 0
+3
+0 1 2 6
+0 5 2 6
+0 3 2 6
+0
+end_operator
+begin_operator
+drive_tent guy0 place2 place6 car1 tent0
+1
+0 0
+3
+0 2 2 6
+0 5 2 6
+0 3 2 6
+0
+end_operator
+begin_operator
+drive_tent guy0 place3 place0 car0 tent0
+1
+0 0
+3
+0 1 3 0
+0 5 3 0
+0 3 3 0
+0
+end_operator
+begin_operator
+drive_tent guy0 place3 place0 car1 tent0
+1
+0 0
+3
+0 2 3 0
+0 5 3 0
+0 3 3 0
+0
+end_operator
+begin_operator
+drive_tent guy0 place3 place1 car0 tent0
+1
+0 0
+3
+0 1 3 1
+0 5 3 1
+0 3 3 1
+0
+end_operator
+begin_operator
+drive_tent guy0 place3 place1 car1 tent0
+1
+0 0
+3
+0 2 3 1
+0 5 3 1
+0 3 3 1
+0
+end_operator
+begin_operator
+drive_tent guy0 place3 place2 car0 tent0
+1
+0 0
+3
+0 1 3 2
+0 5 3 2
+0 3 3 2
+0
+end_operator
+begin_operator
+drive_tent guy0 place3 place2 car1 tent0
+1
+0 0
+3
+0 2 3 2
+0 5 3 2
+0 3 3 2
+0
+end_operator
+begin_operator
+drive_tent guy0 place3 place4 car0 tent0
+1
+0 0
+3
+0 1 3 4
+0 5 3 4
+0 3 3 4
+0
+end_operator
+begin_operator
+drive_tent guy0 place3 place4 car1 tent0
+1
+0 0
+3
+0 2 3 4
+0 5 3 4
+0 3 3 4
+0
+end_operator
+begin_operator
+drive_tent guy0 place3 place5 car0 tent0
+1
+0 0
+3
+0 1 3 5
+0 5 3 5
+0 3 3 5
+0
+end_operator
+begin_operator
+drive_tent guy0 place3 place5 car1 tent0
+1
+0 0
+3
+0 2 3 5
+0 5 3 5
+0 3 3 5
+0
+end_operator
+begin_operator
+drive_tent guy0 place3 place6 car0 tent0
+1
+0 0
+3
+0 1 3 6
+0 5 3 6
+0 3 3 6
+0
+end_operator
+begin_operator
+drive_tent guy0 place3 place6 car1 tent0
+1
+0 0
+3
+0 2 3 6
+0 5 3 6
+0 3 3 6
+0
+end_operator
+begin_operator
+drive_tent guy0 place4 place0 car0 tent0
+1
+0 0
+3
+0 1 4 0
+0 5 4 0
+0 3 4 0
+0
+end_operator
+begin_operator
+drive_tent guy0 place4 place0 car1 tent0
+1
+0 0
+3
+0 2 4 0
+0 5 4 0
+0 3 4 0
+0
+end_operator
+begin_operator
+drive_tent guy0 place4 place1 car0 tent0
+1
+0 0
+3
+0 1 4 1
+0 5 4 1
+0 3 4 1
+0
+end_operator
+begin_operator
+drive_tent guy0 place4 place1 car1 tent0
+1
+0 0
+3
+0 2 4 1
+0 5 4 1
+0 3 4 1
+0
+end_operator
+begin_operator
+drive_tent guy0 place4 place2 car0 tent0
+1
+0 0
+3
+0 1 4 2
+0 5 4 2
+0 3 4 2
+0
+end_operator
+begin_operator
+drive_tent guy0 place4 place2 car1 tent0
+1
+0 0
+3
+0 2 4 2
+0 5 4 2
+0 3 4 2
+0
+end_operator
+begin_operator
+drive_tent guy0 place4 place3 car0 tent0
+1
+0 0
+3
+0 1 4 3
+0 5 4 3
+0 3 4 3
+0
+end_operator
+begin_operator
+drive_tent guy0 place4 place3 car1 tent0
+1
+0 0
+3
+0 2 4 3
+0 5 4 3
+0 3 4 3
+0
+end_operator
+begin_operator
+drive_tent guy0 place4 place5 car0 tent0
+1
+0 0
+3
+0 1 4 5
+0 5 4 5
+0 3 4 5
+0
+end_operator
+begin_operator
+drive_tent guy0 place4 place5 car1 tent0
+1
+0 0
+3
+0 2 4 5
+0 5 4 5
+0 3 4 5
+0
+end_operator
+begin_operator
+drive_tent guy0 place4 place6 car0 tent0
+1
+0 0
+3
+0 1 4 6
+0 5 4 6
+0 3 4 6
+0
+end_operator
+begin_operator
+drive_tent guy0 place4 place6 car1 tent0
+1
+0 0
+3
+0 2 4 6
+0 5 4 6
+0 3 4 6
+0
+end_operator
+begin_operator
+drive_tent guy0 place5 place0 car0 tent0
+1
+0 0
+3
+0 1 5 0
+0 5 5 0
+0 3 5 0
+0
+end_operator
+begin_operator
+drive_tent guy0 place5 place0 car1 tent0
+1
+0 0
+3
+0 2 5 0
+0 5 5 0
+0 3 5 0
+0
+end_operator
+begin_operator
+drive_tent guy0 place5 place1 car0 tent0
+1
+0 0
+3
+0 1 5 1
+0 5 5 1
+0 3 5 1
+0
+end_operator
+begin_operator
+drive_tent guy0 place5 place1 car1 tent0
+1
+0 0
+3
+0 2 5 1
+0 5 5 1
+0 3 5 1
+0
+end_operator
+begin_operator
+drive_tent guy0 place5 place2 car0 tent0
+1
+0 0
+3
+0 1 5 2
+0 5 5 2
+0 3 5 2
+0
+end_operator
+begin_operator
+drive_tent guy0 place5 place2 car1 tent0
+1
+0 0
+3
+0 2 5 2
+0 5 5 2
+0 3 5 2
+0
+end_operator
+begin_operator
+drive_tent guy0 place5 place3 car0 tent0
+1
+0 0
+3
+0 1 5 3
+0 5 5 3
+0 3 5 3
+0
+end_operator
+begin_operator
+drive_tent guy0 place5 place3 car1 tent0
+1
+0 0
+3
+0 2 5 3
+0 5 5 3
+0 3 5 3
+0
+end_operator
+begin_operator
+drive_tent guy0 place5 place4 car0 tent0
+1
+0 0
+3
+0 1 5 4
+0 5 5 4
+0 3 5 4
+0
+end_operator
+begin_operator
+drive_tent guy0 place5 place4 car1 tent0
+1
+0 0
+3
+0 2 5 4
+0 5 5 4
+0 3 5 4
+0
+end_operator
+begin_operator
+drive_tent guy0 place5 place6 car0 tent0
+1
+0 0
+3
+0 1 5 6
+0 5 5 6
+0 3 5 6
+0
+end_operator
+begin_operator
+drive_tent guy0 place5 place6 car1 tent0
+1
+0 0
+3
+0 2 5 6
+0 5 5 6
+0 3 5 6
+0
+end_operator
+begin_operator
+drive_tent guy0 place6 place0 car0 tent0
+1
+0 0
+3
+0 1 6 0
+0 5 6 0
+0 3 6 0
+0
+end_operator
+begin_operator
+drive_tent guy0 place6 place0 car1 tent0
+1
+0 0
+3
+0 2 6 0
+0 5 6 0
+0 3 6 0
+0
+end_operator
+begin_operator
+drive_tent guy0 place6 place1 car0 tent0
+1
+0 0
+3
+0 1 6 1
+0 5 6 1
+0 3 6 1
+0
+end_operator
+begin_operator
+drive_tent guy0 place6 place1 car1 tent0
+1
+0 0
+3
+0 2 6 1
+0 5 6 1
+0 3 6 1
+0
+end_operator
+begin_operator
+drive_tent guy0 place6 place2 car0 tent0
+1
+0 0
+3
+0 1 6 2
+0 5 6 2
+0 3 6 2
+0
+end_operator
+begin_operator
+drive_tent guy0 place6 place2 car1 tent0
+1
+0 0
+3
+0 2 6 2
+0 5 6 2
+0 3 6 2
+0
+end_operator
+begin_operator
+drive_tent guy0 place6 place3 car0 tent0
+1
+0 0
+3
+0 1 6 3
+0 5 6 3
+0 3 6 3
+0
+end_operator
+begin_operator
+drive_tent guy0 place6 place3 car1 tent0
+1
+0 0
+3
+0 2 6 3
+0 5 6 3
+0 3 6 3
+0
+end_operator
+begin_operator
+drive_tent guy0 place6 place4 car0 tent0
+1
+0 0
+3
+0 1 6 4
+0 5 6 4
+0 3 6 4
+0
+end_operator
+begin_operator
+drive_tent guy0 place6 place4 car1 tent0
+1
+0 0
+3
+0 2 6 4
+0 5 6 4
+0 3 6 4
+0
+end_operator
+begin_operator
+drive_tent guy0 place6 place5 car0 tent0
+1
+0 0
+3
+0 1 6 5
+0 5 6 5
+0 3 6 5
+0
+end_operator
+begin_operator
+drive_tent guy0 place6 place5 car1 tent0
+1
+0 0
+3
+0 2 6 5
+0 5 6 5
+0 3 6 5
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place0 place1 car0 tent0 guy0
+1
+0 0
+4
+0 1 0 1
+0 4 0 1
+0 5 0 1
+0 3 0 1
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place0 place1 car1 tent0 guy0
+1
+0 0
+4
+0 2 0 1
+0 4 0 1
+0 5 0 1
+0 3 0 1
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place0 place2 car0 tent0 guy0
+1
+0 0
+4
+0 1 0 2
+0 4 0 2
+0 5 0 2
+0 3 0 2
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place0 place2 car1 tent0 guy0
+1
+0 0
+4
+0 2 0 2
+0 4 0 2
+0 5 0 2
+0 3 0 2
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place0 place3 car0 tent0 guy0
+1
+0 0
+4
+0 1 0 3
+0 4 0 3
+0 5 0 3
+0 3 0 3
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place0 place3 car1 tent0 guy0
+1
+0 0
+4
+0 2 0 3
+0 4 0 3
+0 5 0 3
+0 3 0 3
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place0 place4 car0 tent0 guy0
+1
+0 0
+4
+0 1 0 4
+0 4 0 4
+0 5 0 4
+0 3 0 4
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place0 place4 car1 tent0 guy0
+1
+0 0
+4
+0 2 0 4
+0 4 0 4
+0 5 0 4
+0 3 0 4
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place0 place5 car0 tent0 guy0
+1
+0 0
+4
+0 1 0 5
+0 4 0 5
+0 5 0 5
+0 3 0 5
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place0 place5 car1 tent0 guy0
+1
+0 0
+4
+0 2 0 5
+0 4 0 5
+0 5 0 5
+0 3 0 5
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place0 place6 car0 tent0 guy0
+1
+0 0
+4
+0 1 0 6
+0 4 0 6
+0 5 0 6
+0 3 0 6
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place0 place6 car1 tent0 guy0
+1
+0 0
+4
+0 2 0 6
+0 4 0 6
+0 5 0 6
+0 3 0 6
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place1 place0 car0 tent0 guy0
+1
+0 0
+4
+0 1 1 0
+0 4 1 0
+0 5 1 0
+0 3 1 0
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place1 place0 car1 tent0 guy0
+1
+0 0
+4
+0 2 1 0
+0 4 1 0
+0 5 1 0
+0 3 1 0
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place1 place2 car0 tent0 guy0
+1
+0 0
+4
+0 1 1 2
+0 4 1 2
+0 5 1 2
+0 3 1 2
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place1 place2 car1 tent0 guy0
+1
+0 0
+4
+0 2 1 2
+0 4 1 2
+0 5 1 2
+0 3 1 2
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place1 place3 car0 tent0 guy0
+1
+0 0
+4
+0 1 1 3
+0 4 1 3
+0 5 1 3
+0 3 1 3
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place1 place3 car1 tent0 guy0
+1
+0 0
+4
+0 2 1 3
+0 4 1 3
+0 5 1 3
+0 3 1 3
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place1 place4 car0 tent0 guy0
+1
+0 0
+4
+0 1 1 4
+0 4 1 4
+0 5 1 4
+0 3 1 4
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place1 place4 car1 tent0 guy0
+1
+0 0
+4
+0 2 1 4
+0 4 1 4
+0 5 1 4
+0 3 1 4
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place1 place5 car0 tent0 guy0
+1
+0 0
+4
+0 1 1 5
+0 4 1 5
+0 5 1 5
+0 3 1 5
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place1 place5 car1 tent0 guy0
+1
+0 0
+4
+0 2 1 5
+0 4 1 5
+0 5 1 5
+0 3 1 5
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place1 place6 car0 tent0 guy0
+1
+0 0
+4
+0 1 1 6
+0 4 1 6
+0 5 1 6
+0 3 1 6
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place1 place6 car1 tent0 guy0
+1
+0 0
+4
+0 2 1 6
+0 4 1 6
+0 5 1 6
+0 3 1 6
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place2 place0 car0 tent0 guy0
+1
+0 0
+4
+0 1 2 0
+0 4 2 0
+0 5 2 0
+0 3 2 0
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place2 place0 car1 tent0 guy0
+1
+0 0
+4
+0 2 2 0
+0 4 2 0
+0 5 2 0
+0 3 2 0
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place2 place1 car0 tent0 guy0
+1
+0 0
+4
+0 1 2 1
+0 4 2 1
+0 5 2 1
+0 3 2 1
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place2 place1 car1 tent0 guy0
+1
+0 0
+4
+0 2 2 1
+0 4 2 1
+0 5 2 1
+0 3 2 1
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place2 place3 car0 tent0 guy0
+1
+0 0
+4
+0 1 2 3
+0 4 2 3
+0 5 2 3
+0 3 2 3
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place2 place3 car1 tent0 guy0
+1
+0 0
+4
+0 2 2 3
+0 4 2 3
+0 5 2 3
+0 3 2 3
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place2 place4 car0 tent0 guy0
+1
+0 0
+4
+0 1 2 4
+0 4 2 4
+0 5 2 4
+0 3 2 4
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place2 place4 car1 tent0 guy0
+1
+0 0
+4
+0 2 2 4
+0 4 2 4
+0 5 2 4
+0 3 2 4
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place2 place5 car0 tent0 guy0
+1
+0 0
+4
+0 1 2 5
+0 4 2 5
+0 5 2 5
+0 3 2 5
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place2 place5 car1 tent0 guy0
+1
+0 0
+4
+0 2 2 5
+0 4 2 5
+0 5 2 5
+0 3 2 5
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place2 place6 car0 tent0 guy0
+1
+0 0
+4
+0 1 2 6
+0 4 2 6
+0 5 2 6
+0 3 2 6
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place2 place6 car1 tent0 guy0
+1
+0 0
+4
+0 2 2 6
+0 4 2 6
+0 5 2 6
+0 3 2 6
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place3 place0 car0 tent0 guy0
+1
+0 0
+4
+0 1 3 0
+0 4 3 0
+0 5 3 0
+0 3 3 0
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place3 place0 car1 tent0 guy0
+1
+0 0
+4
+0 2 3 0
+0 4 3 0
+0 5 3 0
+0 3 3 0
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place3 place1 car0 tent0 guy0
+1
+0 0
+4
+0 1 3 1
+0 4 3 1
+0 5 3 1
+0 3 3 1
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place3 place1 car1 tent0 guy0
+1
+0 0
+4
+0 2 3 1
+0 4 3 1
+0 5 3 1
+0 3 3 1
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place3 place2 car0 tent0 guy0
+1
+0 0
+4
+0 1 3 2
+0 4 3 2
+0 5 3 2
+0 3 3 2
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place3 place2 car1 tent0 guy0
+1
+0 0
+4
+0 2 3 2
+0 4 3 2
+0 5 3 2
+0 3 3 2
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place3 place4 car0 tent0 guy0
+1
+0 0
+4
+0 1 3 4
+0 4 3 4
+0 5 3 4
+0 3 3 4
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place3 place4 car1 tent0 guy0
+1
+0 0
+4
+0 2 3 4
+0 4 3 4
+0 5 3 4
+0 3 3 4
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place3 place5 car0 tent0 guy0
+1
+0 0
+4
+0 1 3 5
+0 4 3 5
+0 5 3 5
+0 3 3 5
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place3 place5 car1 tent0 guy0
+1
+0 0
+4
+0 2 3 5
+0 4 3 5
+0 5 3 5
+0 3 3 5
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place3 place6 car0 tent0 guy0
+1
+0 0
+4
+0 1 3 6
+0 4 3 6
+0 5 3 6
+0 3 3 6
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place3 place6 car1 tent0 guy0
+1
+0 0
+4
+0 2 3 6
+0 4 3 6
+0 5 3 6
+0 3 3 6
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place4 place0 car0 tent0 guy0
+1
+0 0
+4
+0 1 4 0
+0 4 4 0
+0 5 4 0
+0 3 4 0
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place4 place0 car1 tent0 guy0
+1
+0 0
+4
+0 2 4 0
+0 4 4 0
+0 5 4 0
+0 3 4 0
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place4 place1 car0 tent0 guy0
+1
+0 0
+4
+0 1 4 1
+0 4 4 1
+0 5 4 1
+0 3 4 1
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place4 place1 car1 tent0 guy0
+1
+0 0
+4
+0 2 4 1
+0 4 4 1
+0 5 4 1
+0 3 4 1
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place4 place2 car0 tent0 guy0
+1
+0 0
+4
+0 1 4 2
+0 4 4 2
+0 5 4 2
+0 3 4 2
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place4 place2 car1 tent0 guy0
+1
+0 0
+4
+0 2 4 2
+0 4 4 2
+0 5 4 2
+0 3 4 2
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place4 place3 car0 tent0 guy0
+1
+0 0
+4
+0 1 4 3
+0 4 4 3
+0 5 4 3
+0 3 4 3
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place4 place3 car1 tent0 guy0
+1
+0 0
+4
+0 2 4 3
+0 4 4 3
+0 5 4 3
+0 3 4 3
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place4 place5 car0 tent0 guy0
+1
+0 0
+4
+0 1 4 5
+0 4 4 5
+0 5 4 5
+0 3 4 5
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place4 place5 car1 tent0 guy0
+1
+0 0
+4
+0 2 4 5
+0 4 4 5
+0 5 4 5
+0 3 4 5
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place4 place6 car0 tent0 guy0
+1
+0 0
+4
+0 1 4 6
+0 4 4 6
+0 5 4 6
+0 3 4 6
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place4 place6 car1 tent0 guy0
+1
+0 0
+4
+0 2 4 6
+0 4 4 6
+0 5 4 6
+0 3 4 6
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place5 place0 car0 tent0 guy0
+1
+0 0
+4
+0 1 5 0
+0 4 5 0
+0 5 5 0
+0 3 5 0
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place5 place0 car1 tent0 guy0
+1
+0 0
+4
+0 2 5 0
+0 4 5 0
+0 5 5 0
+0 3 5 0
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place5 place1 car0 tent0 guy0
+1
+0 0
+4
+0 1 5 1
+0 4 5 1
+0 5 5 1
+0 3 5 1
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place5 place1 car1 tent0 guy0
+1
+0 0
+4
+0 2 5 1
+0 4 5 1
+0 5 5 1
+0 3 5 1
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place5 place2 car0 tent0 guy0
+1
+0 0
+4
+0 1 5 2
+0 4 5 2
+0 5 5 2
+0 3 5 2
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place5 place2 car1 tent0 guy0
+1
+0 0
+4
+0 2 5 2
+0 4 5 2
+0 5 5 2
+0 3 5 2
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place5 place3 car0 tent0 guy0
+1
+0 0
+4
+0 1 5 3
+0 4 5 3
+0 5 5 3
+0 3 5 3
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place5 place3 car1 tent0 guy0
+1
+0 0
+4
+0 2 5 3
+0 4 5 3
+0 5 5 3
+0 3 5 3
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place5 place4 car0 tent0 guy0
+1
+0 0
+4
+0 1 5 4
+0 4 5 4
+0 5 5 4
+0 3 5 4
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place5 place4 car1 tent0 guy0
+1
+0 0
+4
+0 2 5 4
+0 4 5 4
+0 5 5 4
+0 3 5 4
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place5 place6 car0 tent0 guy0
+1
+0 0
+4
+0 1 5 6
+0 4 5 6
+0 5 5 6
+0 3 5 6
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place5 place6 car1 tent0 guy0
+1
+0 0
+4
+0 2 5 6
+0 4 5 6
+0 5 5 6
+0 3 5 6
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place6 place0 car0 tent0 guy0
+1
+0 0
+4
+0 1 6 0
+0 4 6 0
+0 5 6 0
+0 3 6 0
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place6 place0 car1 tent0 guy0
+1
+0 0
+4
+0 2 6 0
+0 4 6 0
+0 5 6 0
+0 3 6 0
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place6 place1 car0 tent0 guy0
+1
+0 0
+4
+0 1 6 1
+0 4 6 1
+0 5 6 1
+0 3 6 1
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place6 place1 car1 tent0 guy0
+1
+0 0
+4
+0 2 6 1
+0 4 6 1
+0 5 6 1
+0 3 6 1
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place6 place2 car0 tent0 guy0
+1
+0 0
+4
+0 1 6 2
+0 4 6 2
+0 5 6 2
+0 3 6 2
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place6 place2 car1 tent0 guy0
+1
+0 0
+4
+0 2 6 2
+0 4 6 2
+0 5 6 2
+0 3 6 2
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place6 place3 car0 tent0 guy0
+1
+0 0
+4
+0 1 6 3
+0 4 6 3
+0 5 6 3
+0 3 6 3
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place6 place3 car1 tent0 guy0
+1
+0 0
+4
+0 2 6 3
+0 4 6 3
+0 5 6 3
+0 3 6 3
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place6 place4 car0 tent0 guy0
+1
+0 0
+4
+0 1 6 4
+0 4 6 4
+0 5 6 4
+0 3 6 4
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place6 place4 car1 tent0 guy0
+1
+0 0
+4
+0 2 6 4
+0 4 6 4
+0 5 6 4
+0 3 6 4
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place6 place5 car0 tent0 guy0
+1
+0 0
+4
+0 1 6 5
+0 4 6 5
+0 5 6 5
+0 3 6 5
+0
+end_operator
+begin_operator
+drive_tent_passenger girl0 place6 place5 car1 tent0 guy0
+1
+0 0
+4
+0 2 6 5
+0 4 6 5
+0 5 6 5
+0 3 6 5
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place0 place1 car0 tent0 girl0
+1
+0 0
+4
+0 1 0 1
+0 4 0 1
+0 5 0 1
+0 3 0 1
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place0 place1 car1 tent0 girl0
+1
+0 0
+4
+0 2 0 1
+0 4 0 1
+0 5 0 1
+0 3 0 1
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place0 place2 car0 tent0 girl0
+1
+0 0
+4
+0 1 0 2
+0 4 0 2
+0 5 0 2
+0 3 0 2
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place0 place2 car1 tent0 girl0
+1
+0 0
+4
+0 2 0 2
+0 4 0 2
+0 5 0 2
+0 3 0 2
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place0 place3 car0 tent0 girl0
+1
+0 0
+4
+0 1 0 3
+0 4 0 3
+0 5 0 3
+0 3 0 3
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place0 place3 car1 tent0 girl0
+1
+0 0
+4
+0 2 0 3
+0 4 0 3
+0 5 0 3
+0 3 0 3
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place0 place4 car0 tent0 girl0
+1
+0 0
+4
+0 1 0 4
+0 4 0 4
+0 5 0 4
+0 3 0 4
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place0 place4 car1 tent0 girl0
+1
+0 0
+4
+0 2 0 4
+0 4 0 4
+0 5 0 4
+0 3 0 4
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place0 place5 car0 tent0 girl0
+1
+0 0
+4
+0 1 0 5
+0 4 0 5
+0 5 0 5
+0 3 0 5
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place0 place5 car1 tent0 girl0
+1
+0 0
+4
+0 2 0 5
+0 4 0 5
+0 5 0 5
+0 3 0 5
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place0 place6 car0 tent0 girl0
+1
+0 0
+4
+0 1 0 6
+0 4 0 6
+0 5 0 6
+0 3 0 6
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place0 place6 car1 tent0 girl0
+1
+0 0
+4
+0 2 0 6
+0 4 0 6
+0 5 0 6
+0 3 0 6
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place1 place0 car0 tent0 girl0
+1
+0 0
+4
+0 1 1 0
+0 4 1 0
+0 5 1 0
+0 3 1 0
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place1 place0 car1 tent0 girl0
+1
+0 0
+4
+0 2 1 0
+0 4 1 0
+0 5 1 0
+0 3 1 0
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place1 place2 car0 tent0 girl0
+1
+0 0
+4
+0 1 1 2
+0 4 1 2
+0 5 1 2
+0 3 1 2
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place1 place2 car1 tent0 girl0
+1
+0 0
+4
+0 2 1 2
+0 4 1 2
+0 5 1 2
+0 3 1 2
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place1 place3 car0 tent0 girl0
+1
+0 0
+4
+0 1 1 3
+0 4 1 3
+0 5 1 3
+0 3 1 3
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place1 place3 car1 tent0 girl0
+1
+0 0
+4
+0 2 1 3
+0 4 1 3
+0 5 1 3
+0 3 1 3
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place1 place4 car0 tent0 girl0
+1
+0 0
+4
+0 1 1 4
+0 4 1 4
+0 5 1 4
+0 3 1 4
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place1 place4 car1 tent0 girl0
+1
+0 0
+4
+0 2 1 4
+0 4 1 4
+0 5 1 4
+0 3 1 4
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place1 place5 car0 tent0 girl0
+1
+0 0
+4
+0 1 1 5
+0 4 1 5
+0 5 1 5
+0 3 1 5
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place1 place5 car1 tent0 girl0
+1
+0 0
+4
+0 2 1 5
+0 4 1 5
+0 5 1 5
+0 3 1 5
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place1 place6 car0 tent0 girl0
+1
+0 0
+4
+0 1 1 6
+0 4 1 6
+0 5 1 6
+0 3 1 6
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place1 place6 car1 tent0 girl0
+1
+0 0
+4
+0 2 1 6
+0 4 1 6
+0 5 1 6
+0 3 1 6
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place2 place0 car0 tent0 girl0
+1
+0 0
+4
+0 1 2 0
+0 4 2 0
+0 5 2 0
+0 3 2 0
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place2 place0 car1 tent0 girl0
+1
+0 0
+4
+0 2 2 0
+0 4 2 0
+0 5 2 0
+0 3 2 0
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place2 place1 car0 tent0 girl0
+1
+0 0
+4
+0 1 2 1
+0 4 2 1
+0 5 2 1
+0 3 2 1
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place2 place1 car1 tent0 girl0
+1
+0 0
+4
+0 2 2 1
+0 4 2 1
+0 5 2 1
+0 3 2 1
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place2 place3 car0 tent0 girl0
+1
+0 0
+4
+0 1 2 3
+0 4 2 3
+0 5 2 3
+0 3 2 3
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place2 place3 car1 tent0 girl0
+1
+0 0
+4
+0 2 2 3
+0 4 2 3
+0 5 2 3
+0 3 2 3
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place2 place4 car0 tent0 girl0
+1
+0 0
+4
+0 1 2 4
+0 4 2 4
+0 5 2 4
+0 3 2 4
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place2 place4 car1 tent0 girl0
+1
+0 0
+4
+0 2 2 4
+0 4 2 4
+0 5 2 4
+0 3 2 4
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place2 place5 car0 tent0 girl0
+1
+0 0
+4
+0 1 2 5
+0 4 2 5
+0 5 2 5
+0 3 2 5
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place2 place5 car1 tent0 girl0
+1
+0 0
+4
+0 2 2 5
+0 4 2 5
+0 5 2 5
+0 3 2 5
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place2 place6 car0 tent0 girl0
+1
+0 0
+4
+0 1 2 6
+0 4 2 6
+0 5 2 6
+0 3 2 6
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place2 place6 car1 tent0 girl0
+1
+0 0
+4
+0 2 2 6
+0 4 2 6
+0 5 2 6
+0 3 2 6
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place3 place0 car0 tent0 girl0
+1
+0 0
+4
+0 1 3 0
+0 4 3 0
+0 5 3 0
+0 3 3 0
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place3 place0 car1 tent0 girl0
+1
+0 0
+4
+0 2 3 0
+0 4 3 0
+0 5 3 0
+0 3 3 0
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place3 place1 car0 tent0 girl0
+1
+0 0
+4
+0 1 3 1
+0 4 3 1
+0 5 3 1
+0 3 3 1
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place3 place1 car1 tent0 girl0
+1
+0 0
+4
+0 2 3 1
+0 4 3 1
+0 5 3 1
+0 3 3 1
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place3 place2 car0 tent0 girl0
+1
+0 0
+4
+0 1 3 2
+0 4 3 2
+0 5 3 2
+0 3 3 2
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place3 place2 car1 tent0 girl0
+1
+0 0
+4
+0 2 3 2
+0 4 3 2
+0 5 3 2
+0 3 3 2
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place3 place4 car0 tent0 girl0
+1
+0 0
+4
+0 1 3 4
+0 4 3 4
+0 5 3 4
+0 3 3 4
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place3 place4 car1 tent0 girl0
+1
+0 0
+4
+0 2 3 4
+0 4 3 4
+0 5 3 4
+0 3 3 4
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place3 place5 car0 tent0 girl0
+1
+0 0
+4
+0 1 3 5
+0 4 3 5
+0 5 3 5
+0 3 3 5
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place3 place5 car1 tent0 girl0
+1
+0 0
+4
+0 2 3 5
+0 4 3 5
+0 5 3 5
+0 3 3 5
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place3 place6 car0 tent0 girl0
+1
+0 0
+4
+0 1 3 6
+0 4 3 6
+0 5 3 6
+0 3 3 6
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place3 place6 car1 tent0 girl0
+1
+0 0
+4
+0 2 3 6
+0 4 3 6
+0 5 3 6
+0 3 3 6
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place4 place0 car0 tent0 girl0
+1
+0 0
+4
+0 1 4 0
+0 4 4 0
+0 5 4 0
+0 3 4 0
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place4 place0 car1 tent0 girl0
+1
+0 0
+4
+0 2 4 0
+0 4 4 0
+0 5 4 0
+0 3 4 0
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place4 place1 car0 tent0 girl0
+1
+0 0
+4
+0 1 4 1
+0 4 4 1
+0 5 4 1
+0 3 4 1
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place4 place1 car1 tent0 girl0
+1
+0 0
+4
+0 2 4 1
+0 4 4 1
+0 5 4 1
+0 3 4 1
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place4 place2 car0 tent0 girl0
+1
+0 0
+4
+0 1 4 2
+0 4 4 2
+0 5 4 2
+0 3 4 2
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place4 place2 car1 tent0 girl0
+1
+0 0
+4
+0 2 4 2
+0 4 4 2
+0 5 4 2
+0 3 4 2
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place4 place3 car0 tent0 girl0
+1
+0 0
+4
+0 1 4 3
+0 4 4 3
+0 5 4 3
+0 3 4 3
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place4 place3 car1 tent0 girl0
+1
+0 0
+4
+0 2 4 3
+0 4 4 3
+0 5 4 3
+0 3 4 3
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place4 place5 car0 tent0 girl0
+1
+0 0
+4
+0 1 4 5
+0 4 4 5
+0 5 4 5
+0 3 4 5
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place4 place5 car1 tent0 girl0
+1
+0 0
+4
+0 2 4 5
+0 4 4 5
+0 5 4 5
+0 3 4 5
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place4 place6 car0 tent0 girl0
+1
+0 0
+4
+0 1 4 6
+0 4 4 6
+0 5 4 6
+0 3 4 6
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place4 place6 car1 tent0 girl0
+1
+0 0
+4
+0 2 4 6
+0 4 4 6
+0 5 4 6
+0 3 4 6
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place5 place0 car0 tent0 girl0
+1
+0 0
+4
+0 1 5 0
+0 4 5 0
+0 5 5 0
+0 3 5 0
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place5 place0 car1 tent0 girl0
+1
+0 0
+4
+0 2 5 0
+0 4 5 0
+0 5 5 0
+0 3 5 0
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place5 place1 car0 tent0 girl0
+1
+0 0
+4
+0 1 5 1
+0 4 5 1
+0 5 5 1
+0 3 5 1
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place5 place1 car1 tent0 girl0
+1
+0 0
+4
+0 2 5 1
+0 4 5 1
+0 5 5 1
+0 3 5 1
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place5 place2 car0 tent0 girl0
+1
+0 0
+4
+0 1 5 2
+0 4 5 2
+0 5 5 2
+0 3 5 2
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place5 place2 car1 tent0 girl0
+1
+0 0
+4
+0 2 5 2
+0 4 5 2
+0 5 5 2
+0 3 5 2
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place5 place3 car0 tent0 girl0
+1
+0 0
+4
+0 1 5 3
+0 4 5 3
+0 5 5 3
+0 3 5 3
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place5 place3 car1 tent0 girl0
+1
+0 0
+4
+0 2 5 3
+0 4 5 3
+0 5 5 3
+0 3 5 3
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place5 place4 car0 tent0 girl0
+1
+0 0
+4
+0 1 5 4
+0 4 5 4
+0 5 5 4
+0 3 5 4
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place5 place4 car1 tent0 girl0
+1
+0 0
+4
+0 2 5 4
+0 4 5 4
+0 5 5 4
+0 3 5 4
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place5 place6 car0 tent0 girl0
+1
+0 0
+4
+0 1 5 6
+0 4 5 6
+0 5 5 6
+0 3 5 6
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place5 place6 car1 tent0 girl0
+1
+0 0
+4
+0 2 5 6
+0 4 5 6
+0 5 5 6
+0 3 5 6
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place6 place0 car0 tent0 girl0
+1
+0 0
+4
+0 1 6 0
+0 4 6 0
+0 5 6 0
+0 3 6 0
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place6 place0 car1 tent0 girl0
+1
+0 0
+4
+0 2 6 0
+0 4 6 0
+0 5 6 0
+0 3 6 0
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place6 place1 car0 tent0 girl0
+1
+0 0
+4
+0 1 6 1
+0 4 6 1
+0 5 6 1
+0 3 6 1
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place6 place1 car1 tent0 girl0
+1
+0 0
+4
+0 2 6 1
+0 4 6 1
+0 5 6 1
+0 3 6 1
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place6 place2 car0 tent0 girl0
+1
+0 0
+4
+0 1 6 2
+0 4 6 2
+0 5 6 2
+0 3 6 2
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place6 place2 car1 tent0 girl0
+1
+0 0
+4
+0 2 6 2
+0 4 6 2
+0 5 6 2
+0 3 6 2
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place6 place3 car0 tent0 girl0
+1
+0 0
+4
+0 1 6 3
+0 4 6 3
+0 5 6 3
+0 3 6 3
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place6 place3 car1 tent0 girl0
+1
+0 0
+4
+0 2 6 3
+0 4 6 3
+0 5 6 3
+0 3 6 3
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place6 place4 car0 tent0 girl0
+1
+0 0
+4
+0 1 6 4
+0 4 6 4
+0 5 6 4
+0 3 6 4
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place6 place4 car1 tent0 girl0
+1
+0 0
+4
+0 2 6 4
+0 4 6 4
+0 5 6 4
+0 3 6 4
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place6 place5 car0 tent0 girl0
+1
+0 0
+4
+0 1 6 5
+0 4 6 5
+0 5 6 5
+0 3 6 5
+0
+end_operator
+begin_operator
+drive_tent_passenger guy0 place6 place5 car1 tent0 girl0
+1
+0 0
+4
+0 2 6 5
+0 4 6 5
+0 5 6 5
+0 3 6 5
+0
+end_operator
+begin_operator
+put_down girl0 place0 tent0
+2
+4 0
+3 0
+1
+0 0 1 0
+0
+end_operator
+begin_operator
+put_down girl0 place1 tent0
+2
+4 1
+3 1
+1
+0 0 1 0
+0
+end_operator
+begin_operator
+put_down girl0 place2 tent0
+2
+4 2
+3 2
+1
+0 0 1 0
+0
+end_operator
+begin_operator
+put_down girl0 place3 tent0
+2
+4 3
+3 3
+1
+0 0 1 0
+0
+end_operator
+begin_operator
+put_down girl0 place4 tent0
+2
+4 4
+3 4
+1
+0 0 1 0
+0
+end_operator
+begin_operator
+put_down girl0 place5 tent0
+2
+4 5
+3 5
+1
+0 0 1 0
+0
+end_operator
+begin_operator
+put_down girl0 place6 tent0
+2
+4 6
+3 6
+1
+0 0 1 0
+0
+end_operator
+begin_operator
+put_down guy0 place0 tent0
+2
+5 0
+3 0
+1
+0 0 1 0
+0
+end_operator
+begin_operator
+put_down guy0 place1 tent0
+2
+5 1
+3 1
+1
+0 0 1 0
+0
+end_operator
+begin_operator
+put_down guy0 place2 tent0
+2
+5 2
+3 2
+1
+0 0 1 0
+0
+end_operator
+begin_operator
+put_down guy0 place3 tent0
+2
+5 3
+3 3
+1
+0 0 1 0
+0
+end_operator
+begin_operator
+put_down guy0 place4 tent0
+2
+5 4
+3 4
+1
+0 0 1 0
+0
+end_operator
+begin_operator
+put_down guy0 place5 tent0
+2
+5 5
+3 5
+1
+0 0 1 0
+0
+end_operator
+begin_operator
+put_down guy0 place6 tent0
+2
+5 6
+3 6
+1
+0 0 1 0
+0
+end_operator
+begin_operator
+put_up girl0 place0 tent0
+2
+4 0
+3 0
+1
+0 0 0 1
+0
+end_operator
+begin_operator
+put_up girl0 place1 tent0
+2
+4 1
+3 1
+1
+0 0 0 1
+0
+end_operator
+begin_operator
+put_up girl0 place2 tent0
+2
+4 2
+3 2
+1
+0 0 0 1
+0
+end_operator
+begin_operator
+put_up girl0 place3 tent0
+2
+4 3
+3 3
+1
+0 0 0 1
+0
+end_operator
+begin_operator
+put_up girl0 place4 tent0
+2
+4 4
+3 4
+1
+0 0 0 1
+0
+end_operator
+begin_operator
+put_up girl0 place5 tent0
+2
+4 5
+3 5
+1
+0 0 0 1
+0
+end_operator
+begin_operator
+put_up girl0 place6 tent0
+2
+4 6
+3 6
+1
+0 0 0 1
+0
+end_operator
+begin_operator
+put_up guy0 place0 tent0
+2
+5 0
+3 0
+1
+0 0 0 1
+0
+end_operator
+begin_operator
+put_up guy0 place1 tent0
+2
+5 1
+3 1
+1
+0 0 0 1
+0
+end_operator
+begin_operator
+put_up guy0 place2 tent0
+2
+5 2
+3 2
+1
+0 0 0 1
+0
+end_operator
+begin_operator
+put_up guy0 place3 tent0
+2
+5 3
+3 3
+1
+0 0 0 1
+0
+end_operator
+begin_operator
+put_up guy0 place4 tent0
+2
+5 4
+3 4
+1
+0 0 0 1
+0
+end_operator
+begin_operator
+put_up guy0 place5 tent0
+2
+5 5
+3 5
+1
+0 0 0 1
+0
+end_operator
+begin_operator
+put_up guy0 place6 tent0
+2
+5 6
+3 6
+1
+0 0 0 1
+0
+end_operator
+begin_operator
+walk_together tent0 place1 guy0 place0 girl0 couple0
+2
+3 1
+0 1
+3
+0 4 0 1
+0 5 0 1
+0 6 0 1
+0
+end_operator
+begin_operator
+walk_together tent0 place2 guy0 place1 girl0 couple0
+2
+3 2
+0 1
+3
+0 4 1 2
+0 5 1 2
+0 6 1 2
+0
+end_operator
+begin_operator
+walk_together tent0 place3 guy0 place2 girl0 couple0
+2
+3 3
+0 1
+3
+0 4 2 3
+0 5 2 3
+0 6 2 3
+0
+end_operator
+begin_operator
+walk_together tent0 place4 guy0 place3 girl0 couple0
+2
+3 4
+0 1
+3
+0 4 3 4
+0 5 3 4
+0 6 3 4
+0
+end_operator
+begin_operator
+walk_together tent0 place5 guy0 place4 girl0 couple0
+2
+3 5
+0 1
+3
+0 4 4 5
+0 5 4 5
+0 6 4 5
+0
+end_operator
+begin_operator
+walk_together tent0 place6 guy0 place5 girl0 couple0
+2
+3 6
+0 1
+3
+0 4 5 6
+0 5 5 6
+0 6 5 6
+0
+end_operator
+0
+begin_SG
+switch 1
+check 0
+switch 4
+check 0
+switch 5
+check 6
+0
+2
+4
+6
+8
+10
+switch 3
+check 12
+168
+170
+172
+174
+176
+178
+252
+254
+256
+258
+260
+262
+switch 0
+check 0
+check 12
+504
+506
+508
+510
+512
+514
+588
+590
+592
+594
+596
+598
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+switch 0
+check 0
+check 6
+336
+338
+340
+342
+344
+346
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+switch 3
+check 6
+84
+86
+88
+90
+92
+94
+switch 0
+check 0
+check 6
+420
+422
+424
+426
+428
+430
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+switch 5
+check 6
+12
+14
+16
+18
+20
+22
+check 0
+switch 3
+check 12
+180
+182
+184
+186
+188
+190
+264
+266
+268
+270
+272
+274
+check 0
+switch 0
+check 0
+check 12
+516
+518
+520
+522
+524
+526
+600
+602
+604
+606
+608
+610
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+switch 0
+check 0
+check 6
+348
+350
+352
+354
+356
+358
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+switch 3
+check 6
+96
+98
+100
+102
+104
+106
+check 0
+switch 0
+check 0
+check 6
+432
+434
+436
+438
+440
+442
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 0
+switch 5
+check 6
+24
+26
+28
+30
+32
+34
+check 0
+check 0
+switch 3
+check 12
+192
+194
+196
+198
+200
+202
+276
+278
+280
+282
+284
+286
+check 0
+check 0
+switch 0
+check 0
+check 12
+528
+530
+532
+534
+536
+538
+612
+614
+616
+618
+620
+622
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+360
+362
+364
+366
+368
+370
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+switch 3
+check 6
+108
+110
+112
+114
+116
+118
+check 0
+check 0
+switch 0
+check 0
+check 6
+444
+446
+448
+450
+452
+454
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 6
+36
+38
+40
+42
+44
+46
+check 0
+check 0
+check 0
+switch 3
+check 12
+204
+206
+208
+210
+212
+214
+288
+290
+292
+294
+296
+298
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 12
+540
+542
+544
+546
+548
+550
+624
+626
+628
+630
+632
+634
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+372
+374
+376
+378
+380
+382
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 6
+120
+122
+124
+126
+128
+130
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+456
+458
+460
+462
+464
+466
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 6
+48
+50
+52
+54
+56
+58
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 12
+216
+218
+220
+222
+224
+226
+300
+302
+304
+306
+308
+310
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 12
+552
+554
+556
+558
+560
+562
+636
+638
+640
+642
+644
+646
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+384
+386
+388
+390
+392
+394
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 6
+132
+134
+136
+138
+140
+142
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+468
+470
+472
+474
+476
+478
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 6
+60
+62
+64
+66
+68
+70
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 12
+228
+230
+232
+234
+236
+238
+312
+314
+316
+318
+320
+322
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 12
+564
+566
+568
+570
+572
+574
+648
+650
+652
+654
+656
+658
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+396
+398
+400
+402
+404
+406
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 6
+144
+146
+148
+150
+152
+154
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+480
+482
+484
+486
+488
+490
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 6
+72
+74
+76
+78
+80
+82
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 12
+240
+242
+244
+246
+248
+250
+324
+326
+328
+330
+332
+334
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 12
+576
+578
+580
+582
+584
+586
+660
+662
+664
+666
+668
+670
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+408
+410
+412
+414
+416
+418
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 6
+156
+158
+160
+162
+164
+166
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+492
+494
+496
+498
+500
+502
+check 0
+check 0
+check 0
+check 0
+switch 2
+check 0
+switch 4
+check 0
+switch 5
+check 6
+1
+3
+5
+7
+9
+11
+switch 3
+check 12
+169
+171
+173
+175
+177
+179
+253
+255
+257
+259
+261
+263
+switch 0
+check 0
+check 12
+505
+507
+509
+511
+513
+515
+589
+591
+593
+595
+597
+599
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+switch 0
+check 0
+check 6
+337
+339
+341
+343
+345
+347
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+switch 3
+check 6
+85
+87
+89
+91
+93
+95
+switch 0
+check 0
+check 6
+421
+423
+425
+427
+429
+431
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+switch 5
+check 6
+13
+15
+17
+19
+21
+23
+check 0
+switch 3
+check 12
+181
+183
+185
+187
+189
+191
+265
+267
+269
+271
+273
+275
+check 0
+switch 0
+check 0
+check 12
+517
+519
+521
+523
+525
+527
+601
+603
+605
+607
+609
+611
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+switch 0
+check 0
+check 6
+349
+351
+353
+355
+357
+359
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+switch 3
+check 6
+97
+99
+101
+103
+105
+107
+check 0
+switch 0
+check 0
+check 6
+433
+435
+437
+439
+441
+443
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 0
+switch 5
+check 6
+25
+27
+29
+31
+33
+35
+check 0
+check 0
+switch 3
+check 12
+193
+195
+197
+199
+201
+203
+277
+279
+281
+283
+285
+287
+check 0
+check 0
+switch 0
+check 0
+check 12
+529
+531
+533
+535
+537
+539
+613
+615
+617
+619
+621
+623
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+361
+363
+365
+367
+369
+371
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+switch 3
+check 6
+109
+111
+113
+115
+117
+119
+check 0
+check 0
+switch 0
+check 0
+check 6
+445
+447
+449
+451
+453
+455
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 6
+37
+39
+41
+43
+45
+47
+check 0
+check 0
+check 0
+switch 3
+check 12
+205
+207
+209
+211
+213
+215
+289
+291
+293
+295
+297
+299
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 12
+541
+543
+545
+547
+549
+551
+625
+627
+629
+631
+633
+635
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+373
+375
+377
+379
+381
+383
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 6
+121
+123
+125
+127
+129
+131
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+457
+459
+461
+463
+465
+467
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 6
+49
+51
+53
+55
+57
+59
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 12
+217
+219
+221
+223
+225
+227
+301
+303
+305
+307
+309
+311
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 12
+553
+555
+557
+559
+561
+563
+637
+639
+641
+643
+645
+647
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+385
+387
+389
+391
+393
+395
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 6
+133
+135
+137
+139
+141
+143
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+469
+471
+473
+475
+477
+479
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 6
+61
+63
+65
+67
+69
+71
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 12
+229
+231
+233
+235
+237
+239
+313
+315
+317
+319
+321
+323
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 12
+565
+567
+569
+571
+573
+575
+649
+651
+653
+655
+657
+659
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+397
+399
+401
+403
+405
+407
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 6
+145
+147
+149
+151
+153
+155
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+481
+483
+485
+487
+489
+491
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 6
+73
+75
+77
+79
+81
+83
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 12
+241
+243
+245
+247
+249
+251
+325
+327
+329
+331
+333
+335
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 12
+577
+579
+581
+583
+585
+587
+661
+663
+665
+667
+669
+671
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+409
+411
+413
+415
+417
+419
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 6
+157
+159
+161
+163
+165
+167
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+493
+495
+497
+499
+501
+503
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+switch 5
+check 0
+switch 3
+check 0
+check 0
+switch 0
+check 0
+check 0
+switch 6
+check 0
+check 1
+700
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+switch 0
+check 0
+check 1
+686
+check 1
+672
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 0
+switch 6
+check 0
+check 0
+check 1
+701
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+switch 0
+check 0
+check 1
+687
+check 1
+673
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 0
+switch 6
+check 0
+check 0
+check 0
+check 1
+702
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 1
+688
+check 1
+674
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 0
+switch 6
+check 0
+check 0
+check 0
+check 0
+check 1
+703
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 1
+689
+check 1
+675
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 0
+switch 6
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+704
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 1
+690
+check 1
+676
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 0
+switch 6
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+705
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 1
+691
+check 1
+677
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 1
+692
+check 1
+678
+check 0
+check 0
+switch 5
+check 0
+switch 3
+check 0
+switch 0
+check 0
+check 1
+693
+check 1
+679
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+switch 0
+check 0
+check 1
+694
+check 1
+680
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 1
+695
+check 1
+681
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 1
+696
+check 1
+682
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 1
+697
+check 1
+683
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 1
+698
+check 1
+684
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 1
+699
+check 1
+685
+check 0
+check 0
+check 0
+end_SG
+begin_DTG
+14
+1
+686
+2
+4 0
+3 0
+1
+687
+2
+4 1
+3 1
+1
+688
+2
+4 2
+3 2
+1
+689
+2
+4 3
+3 3
+1
+690
+2
+4 4
+3 4
+1
+691
+2
+4 5
+3 5
+1
+692
+2
+4 6
+3 6
+1
+693
+2
+5 0
+3 0
+1
+694
+2
+5 1
+3 1
+1
+695
+2
+5 2
+3 2
+1
+696
+2
+5 3
+3 3
+1
+697
+2
+5 4
+3 4
+1
+698
+2
+5 5
+3 5
+1
+699
+2
+5 6
+3 6
+14
+0
+672
+2
+4 0
+3 0
+0
+673
+2
+4 1
+3 1
+0
+674
+2
+4 2
+3 2
+0
+675
+2
+4 3
+3 3
+0
+676
+2
+4 4
+3 4
+0
+677
+2
+4 5
+3 5
+0
+678
+2
+4 6
+3 6
+0
+679
+2
+5 0
+3 0
+0
+680
+2
+5 1
+3 1
+0
+681
+2
+5 2
+3 2
+0
+682
+2
+5 3
+3 3
+0
+683
+2
+5 4
+3 4
+0
+684
+2
+5 5
+3 5
+0
+685
+2
+5 6
+3 6
+end_DTG
+begin_DTG
+12
+1
+0
+1
+4 0
+1
+84
+1
+5 0
+2
+2
+1
+4 0
+2
+86
+1
+5 0
+3
+88
+1
+5 0
+3
+4
+1
+4 0
+4
+90
+1
+5 0
+4
+6
+1
+4 0
+5
+8
+1
+4 0
+5
+92
+1
+5 0
+6
+10
+1
+4 0
+6
+94
+1
+5 0
+12
+0
+12
+1
+4 1
+0
+96
+1
+5 1
+2
+14
+1
+4 1
+2
+98
+1
+5 1
+3
+100
+1
+5 1
+3
+16
+1
+4 1
+4
+102
+1
+5 1
+4
+18
+1
+4 1
+5
+20
+1
+4 1
+5
+104
+1
+5 1
+6
+22
+1
+4 1
+6
+106
+1
+5 1
+12
+0
+24
+1
+4 2
+0
+108
+1
+5 2
+1
+26
+1
+4 2
+1
+110
+1
+5 2
+3
+112
+1
+5 2
+3
+28
+1
+4 2
+4
+114
+1
+5 2
+4
+30
+1
+4 2
+5
+32
+1
+4 2
+5
+116
+1
+5 2
+6
+34
+1
+4 2
+6
+118
+1
+5 2
+12
+0
+36
+1
+4 3
+0
+120
+1
+5 3
+1
+38
+1
+4 3
+1
+122
+1
+5 3
+2
+124
+1
+5 3
+2
+40
+1
+4 3
+4
+126
+1
+5 3
+4
+42
+1
+4 3
+5
+44
+1
+4 3
+5
+128
+1
+5 3
+6
+46
+1
+4 3
+6
+130
+1
+5 3
+12
+0
+48
+1
+4 4
+0
+132
+1
+5 4
+1
+50
+1
+4 4
+1
+134
+1
+5 4
+2
+136
+1
+5 4
+2
+52
+1
+4 4
+3
+138
+1
+5 4
+3
+54
+1
+4 4
+5
+56
+1
+4 4
+5
+140
+1
+5 4
+6
+58
+1
+4 4
+6
+142
+1
+5 4
+12
+0
+60
+1
+4 5
+0
+144
+1
+5 5
+1
+62
+1
+4 5
+1
+146
+1
+5 5
+2
+148
+1
+5 5
+2
+64
+1
+4 5
+3
+150
+1
+5 5
+3
+66
+1
+4 5
+4
+68
+1
+4 5
+4
+152
+1
+5 5
+6
+70
+1
+4 5
+6
+154
+1
+5 5
+12
+0
+72
+1
+4 6
+0
+156
+1
+5 6
+1
+74
+1
+4 6
+1
+158
+1
+5 6
+2
+160
+1
+5 6
+2
+76
+1
+4 6
+3
+162
+1
+5 6
+3
+78
+1
+4 6
+4
+80
+1
+4 6
+4
+164
+1
+5 6
+5
+82
+1
+4 6
+5
+166
+1
+5 6
+end_DTG
+begin_DTG
+12
+1
+1
+1
+4 0
+1
+85
+1
+5 0
+2
+3
+1
+4 0
+2
+87
+1
+5 0
+3
+89
+1
+5 0
+3
+5
+1
+4 0
+4
+91
+1
+5 0
+4
+7
+1
+4 0
+5
+9
+1
+4 0
+5
+93
+1
+5 0
+6
+11
+1
+4 0
+6
+95
+1
+5 0
+12
+0
+13
+1
+4 1
+0
+97
+1
+5 1
+2
+15
+1
+4 1
+2
+99
+1
+5 1
+3
+101
+1
+5 1
+3
+17
+1
+4 1
+4
+103
+1
+5 1
+4
+19
+1
+4 1
+5
+21
+1
+4 1
+5
+105
+1
+5 1
+6
+23
+1
+4 1
+6
+107
+1
+5 1
+12
+0
+25
+1
+4 2
+0
+109
+1
+5 2
+1
+27
+1
+4 2
+1
+111
+1
+5 2
+3
+113
+1
+5 2
+3
+29
+1
+4 2
+4
+115
+1
+5 2
+4
+31
+1
+4 2
+5
+33
+1
+4 2
+5
+117
+1
+5 2
+6
+35
+1
+4 2
+6
+119
+1
+5 2
+12
+0
+37
+1
+4 3
+0
+121
+1
+5 3
+1
+39
+1
+4 3
+1
+123
+1
+5 3
+2
+125
+1
+5 3
+2
+41
+1
+4 3
+4
+127
+1
+5 3
+4
+43
+1
+4 3
+5
+45
+1
+4 3
+5
+129
+1
+5 3
+6
+47
+1
+4 3
+6
+131
+1
+5 3
+12
+0
+49
+1
+4 4
+0
+133
+1
+5 4
+1
+51
+1
+4 4
+1
+135
+1
+5 4
+2
+137
+1
+5 4
+2
+53
+1
+4 4
+3
+139
+1
+5 4
+3
+55
+1
+4 4
+5
+57
+1
+4 4
+5
+141
+1
+5 4
+6
+59
+1
+4 4
+6
+143
+1
+5 4
+12
+0
+61
+1
+4 5
+0
+145
+1
+5 5
+1
+63
+1
+4 5
+1
+147
+1
+5 5
+2
+149
+1
+5 5
+2
+65
+1
+4 5
+3
+151
+1
+5 5
+3
+67
+1
+4 5
+4
+69
+1
+4 5
+4
+153
+1
+5 5
+6
+71
+1
+4 5
+6
+155
+1
+5 5
+12
+0
+73
+1
+4 6
+0
+157
+1
+5 6
+1
+75
+1
+4 6
+1
+159
+1
+5 6
+2
+161
+1
+5 6
+2
+77
+1
+4 6
+3
+163
+1
+5 6
+3
+79
+1
+4 6
+4
+81
+1
+4 6
+4
+165
+1
+5 6
+5
+83
+1
+4 6
+5
+167
+1
+5 6
+end_DTG
+begin_DTG
+24
+1
+337
+3
+2 0
+4 0
+0 0
+1
+336
+3
+1 0
+4 0
+0 0
+1
+421
+3
+2 0
+5 0
+0 0
+1
+420
+3
+1 0
+5 0
+0 0
+2
+339
+3
+2 0
+4 0
+0 0
+2
+422
+3
+1 0
+5 0
+0 0
+2
+423
+3
+2 0
+5 0
+0 0
+2
+338
+3
+1 0
+4 0
+0 0
+3
+424
+3
+1 0
+5 0
+0 0
+3
+425
+3
+2 0
+5 0
+0 0
+3
+340
+3
+1 0
+4 0
+0 0
+3
+341
+3
+2 0
+4 0
+0 0
+4
+427
+3
+2 0
+5 0
+0 0
+4
+426
+3
+1 0
+5 0
+0 0
+4
+342
+3
+1 0
+4 0
+0 0
+4
+343
+3
+2 0
+4 0
+0 0
+5
+345
+3
+2 0
+4 0
+0 0
+5
+429
+3
+2 0
+5 0
+0 0
+5
+428
+3
+1 0
+5 0
+0 0
+5
+344
+3
+1 0
+4 0
+0 0
+6
+431
+3
+2 0
+5 0
+0 0
+6
+430
+3
+1 0
+5 0
+0 0
+6
+347
+3
+2 0
+4 0
+0 0
+6
+346
+3
+1 0
+4 0
+0 0
+24
+0
+349
+3
+2 1
+4 1
+0 0
+0
+348
+3
+1 1
+4 1
+0 0
+0
+433
+3
+2 1
+5 1
+0 0
+0
+432
+3
+1 1
+5 1
+0 0
+2
+351
+3
+2 1
+4 1
+0 0
+2
+434
+3
+1 1
+5 1
+0 0
+2
+435
+3
+2 1
+5 1
+0 0
+2
+350
+3
+1 1
+4 1
+0 0
+3
+436
+3
+1 1
+5 1
+0 0
+3
+437
+3
+2 1
+5 1
+0 0
+3
+352
+3
+1 1
+4 1
+0 0
+3
+353
+3
+2 1
+4 1
+0 0
+4
+439
+3
+2 1
+5 1
+0 0
+4
+438
+3
+1 1
+5 1
+0 0
+4
+354
+3
+1 1
+4 1
+0 0
+4
+355
+3
+2 1
+4 1
+0 0
+5
+357
+3
+2 1
+4 1
+0 0
+5
+441
+3
+2 1
+5 1
+0 0
+5
+440
+3
+1 1
+5 1
+0 0
+5
+356
+3
+1 1
+4 1
+0 0
+6
+443
+3
+2 1
+5 1
+0 0
+6
+442
+3
+1 1
+5 1
+0 0
+6
+359
+3
+2 1
+4 1
+0 0
+6
+358
+3
+1 1
+4 1
+0 0
+24
+0
+361
+3
+2 2
+4 2
+0 0
+0
+360
+3
+1 2
+4 2
+0 0
+0
+445
+3
+2 2
+5 2
+0 0
+0
+444
+3
+1 2
+5 2
+0 0
+1
+363
+3
+2 2
+4 2
+0 0
+1
+446
+3
+1 2
+5 2
+0 0
+1
+447
+3
+2 2
+5 2
+0 0
+1
+362
+3
+1 2
+4 2
+0 0
+3
+448
+3
+1 2
+5 2
+0 0
+3
+449
+3
+2 2
+5 2
+0 0
+3
+364
+3
+1 2
+4 2
+0 0
+3
+365
+3
+2 2
+4 2
+0 0
+4
+451
+3
+2 2
+5 2
+0 0
+4
+450
+3
+1 2
+5 2
+0 0
+4
+366
+3
+1 2
+4 2
+0 0
+4
+367
+3
+2 2
+4 2
+0 0
+5
+369
+3
+2 2
+4 2
+0 0
+5
+453
+3
+2 2
+5 2
+0 0
+5
+452
+3
+1 2
+5 2
+0 0
+5
+368
+3
+1 2
+4 2
+0 0
+6
+455
+3
+2 2
+5 2
+0 0
+6
+454
+3
+1 2
+5 2
+0 0
+6
+371
+3
+2 2
+4 2
+0 0
+6
+370
+3
+1 2
+4 2
+0 0
+24
+0
+373
+3
+2 3
+4 3
+0 0
+0
+372
+3
+1 3
+4 3
+0 0
+0
+457
+3
+2 3
+5 3
+0 0
+0
+456
+3
+1 3
+5 3
+0 0
+1
+375
+3
+2 3
+4 3
+0 0
+1
+458
+3
+1 3
+5 3
+0 0
+1
+459
+3
+2 3
+5 3
+0 0
+1
+374
+3
+1 3
+4 3
+0 0
+2
+460
+3
+1 3
+5 3
+0 0
+2
+461
+3
+2 3
+5 3
+0 0
+2
+376
+3
+1 3
+4 3
+0 0
+2
+377
+3
+2 3
+4 3
+0 0
+4
+463
+3
+2 3
+5 3
+0 0
+4
+462
+3
+1 3
+5 3
+0 0
+4
+378
+3
+1 3
+4 3
+0 0
+4
+379
+3
+2 3
+4 3
+0 0
+5
+381
+3
+2 3
+4 3
+0 0
+5
+465
+3
+2 3
+5 3
+0 0
+5
+464
+3
+1 3
+5 3
+0 0
+5
+380
+3
+1 3
+4 3
+0 0
+6
+467
+3
+2 3
+5 3
+0 0
+6
+466
+3
+1 3
+5 3
+0 0
+6
+383
+3
+2 3
+4 3
+0 0
+6
+382
+3
+1 3
+4 3
+0 0
+24
+0
+385
+3
+2 4
+4 4
+0 0
+0
+384
+3
+1 4
+4 4
+0 0
+0
+469
+3
+2 4
+5 4
+0 0
+0
+468
+3
+1 4
+5 4
+0 0
+1
+387
+3
+2 4
+4 4
+0 0
+1
+470
+3
+1 4
+5 4
+0 0
+1
+471
+3
+2 4
+5 4
+0 0
+1
+386
+3
+1 4
+4 4
+0 0
+2
+472
+3
+1 4
+5 4
+0 0
+2
+473
+3
+2 4
+5 4
+0 0
+2
+388
+3
+1 4
+4 4
+0 0
+2
+389
+3
+2 4
+4 4
+0 0
+3
+475
+3
+2 4
+5 4
+0 0
+3
+474
+3
+1 4
+5 4
+0 0
+3
+390
+3
+1 4
+4 4
+0 0
+3
+391
+3
+2 4
+4 4
+0 0
+5
+393
+3
+2 4
+4 4
+0 0
+5
+477
+3
+2 4
+5 4
+0 0
+5
+476
+3
+1 4
+5 4
+0 0
+5
+392
+3
+1 4
+4 4
+0 0
+6
+479
+3
+2 4
+5 4
+0 0
+6
+478
+3
+1 4
+5 4
+0 0
+6
+395
+3
+2 4
+4 4
+0 0
+6
+394
+3
+1 4
+4 4
+0 0
+24
+0
+397
+3
+2 5
+4 5
+0 0
+0
+396
+3
+1 5
+4 5
+0 0
+0
+481
+3
+2 5
+5 5
+0 0
+0
+480
+3
+1 5
+5 5
+0 0
+1
+399
+3
+2 5
+4 5
+0 0
+1
+482
+3
+1 5
+5 5
+0 0
+1
+483
+3
+2 5
+5 5
+0 0
+1
+398
+3
+1 5
+4 5
+0 0
+2
+484
+3
+1 5
+5 5
+0 0
+2
+485
+3
+2 5
+5 5
+0 0
+2
+400
+3
+1 5
+4 5
+0 0
+2
+401
+3
+2 5
+4 5
+0 0
+3
+487
+3
+2 5
+5 5
+0 0
+3
+486
+3
+1 5
+5 5
+0 0
+3
+402
+3
+1 5
+4 5
+0 0
+3
+403
+3
+2 5
+4 5
+0 0
+4
+405
+3
+2 5
+4 5
+0 0
+4
+489
+3
+2 5
+5 5
+0 0
+4
+488
+3
+1 5
+5 5
+0 0
+4
+404
+3
+1 5
+4 5
+0 0
+6
+491
+3
+2 5
+5 5
+0 0
+6
+490
+3
+1 5
+5 5
+0 0
+6
+407
+3
+2 5
+4 5
+0 0
+6
+406
+3
+1 5
+4 5
+0 0
+24
+0
+409
+3
+2 6
+4 6
+0 0
+0
+408
+3
+1 6
+4 6
+0 0
+0
+493
+3
+2 6
+5 6
+0 0
+0
+492
+3
+1 6
+5 6
+0 0
+1
+411
+3
+2 6
+4 6
+0 0
+1
+494
+3
+1 6
+5 6
+0 0
+1
+495
+3
+2 6
+5 6
+0 0
+1
+410
+3
+1 6
+4 6
+0 0
+2
+496
+3
+1 6
+5 6
+0 0
+2
+497
+3
+2 6
+5 6
+0 0
+2
+412
+3
+1 6
+4 6
+0 0
+2
+413
+3
+2 6
+4 6
+0 0
+3
+499
+3
+2 6
+5 6
+0 0
+3
+498
+3
+1 6
+5 6
+0 0
+3
+414
+3
+1 6
+4 6
+0 0
+3
+415
+3
+2 6
+4 6
+0 0
+4
+417
+3
+2 6
+4 6
+0 0
+4
+501
+3
+2 6
+5 6
+0 0
+4
+500
+3
+1 6
+5 6
+0 0
+4
+416
+3
+1 6
+4 6
+0 0
+5
+503
+3
+2 6
+5 6
+0 0
+5
+502
+3
+1 6
+5 6
+0 0
+5
+419
+3
+2 6
+4 6
+0 0
+5
+418
+3
+1 6
+4 6
+0 0
+end_DTG
+begin_DTG
+13
+1
+1
+1
+2 0
+1
+0
+1
+1 0
+1
+700
+4
+5 0
+3 1
+0 1
+6 0
+2
+3
+1
+2 0
+2
+2
+1
+1 0
+3
+5
+1
+2 0
+3
+4
+1
+1 0
+4
+6
+1
+1 0
+4
+7
+1
+2 0
+5
+9
+1
+2 0
+5
+8
+1
+1 0
+6
+11
+1
+2 0
+6
+10
+1
+1 0
+13
+0
+13
+1
+2 1
+0
+12
+1
+1 1
+2
+15
+1
+2 1
+2
+14
+1
+1 1
+2
+701
+4
+5 1
+3 2
+0 1
+6 1
+3
+17
+1
+2 1
+3
+16
+1
+1 1
+4
+18
+1
+1 1
+4
+19
+1
+2 1
+5
+21
+1
+2 1
+5
+20
+1
+1 1
+6
+23
+1
+2 1
+6
+22
+1
+1 1
+13
+0
+25
+1
+2 2
+0
+24
+1
+1 2
+1
+27
+1
+2 2
+1
+26
+1
+1 2
+3
+29
+1
+2 2
+3
+28
+1
+1 2
+3
+702
+4
+5 2
+3 3
+0 1
+6 2
+4
+31
+1
+2 2
+4
+30
+1
+1 2
+5
+32
+1
+1 2
+5
+33
+1
+2 2
+6
+35
+1
+2 2
+6
+34
+1
+1 2
+13
+0
+37
+1
+2 3
+0
+36
+1
+1 3
+1
+39
+1
+2 3
+1
+38
+1
+1 3
+2
+41
+1
+2 3
+2
+40
+1
+1 3
+4
+42
+1
+1 3
+4
+43
+1
+2 3
+4
+703
+4
+5 3
+3 4
+0 1
+6 3
+5
+44
+1
+1 3
+5
+45
+1
+2 3
+6
+46
+1
+1 3
+6
+47
+1
+2 3
+13
+0
+49
+1
+2 4
+0
+48
+1
+1 4
+1
+51
+1
+2 4
+1
+50
+1
+1 4
+2
+53
+1
+2 4
+2
+52
+1
+1 4
+3
+54
+1
+1 4
+3
+55
+1
+2 4
+5
+57
+1
+2 4
+5
+56
+1
+1 4
+5
+704
+4
+5 4
+3 5
+0 1
+6 4
+6
+58
+1
+1 4
+6
+59
+1
+2 4
+13
+0
+61
+1
+2 5
+0
+60
+1
+1 5
+1
+63
+1
+2 5
+1
+62
+1
+1 5
+2
+65
+1
+2 5
+2
+64
+1
+1 5
+3
+66
+1
+1 5
+3
+67
+1
+2 5
+4
+69
+1
+2 5
+4
+68
+1
+1 5
+6
+71
+1
+2 5
+6
+70
+1
+1 5
+6
+705
+4
+5 5
+3 6
+0 1
+6 5
+12
+0
+73
+1
+2 6
+0
+72
+1
+1 6
+1
+75
+1
+2 6
+1
+74
+1
+1 6
+2
+77
+1
+2 6
+2
+76
+1
+1 6
+3
+78
+1
+1 6
+3
+79
+1
+2 6
+4
+81
+1
+2 6
+4
+80
+1
+1 6
+5
+83
+1
+2 6
+5
+82
+1
+1 6
+end_DTG
+begin_DTG
+13
+1
+85
+1
+2 0
+1
+84
+1
+1 0
+1
+700
+4
+4 0
+3 1
+0 1
+6 0
+2
+87
+1
+2 0
+2
+86
+1
+1 0
+3
+89
+1
+2 0
+3
+88
+1
+1 0
+4
+90
+1
+1 0
+4
+91
+1
+2 0
+5
+93
+1
+2 0
+5
+92
+1
+1 0
+6
+95
+1
+2 0
+6
+94
+1
+1 0
+13
+0
+97
+1
+2 1
+0
+96
+1
+1 1
+2
+99
+1
+2 1
+2
+98
+1
+1 1
+2
+701
+4
+4 1
+3 2
+0 1
+6 1
+3
+101
+1
+2 1
+3
+100
+1
+1 1
+4
+102
+1
+1 1
+4
+103
+1
+2 1
+5
+105
+1
+2 1
+5
+104
+1
+1 1
+6
+107
+1
+2 1
+6
+106
+1
+1 1
+13
+0
+109
+1
+2 2
+0
+108
+1
+1 2
+1
+111
+1
+2 2
+1
+110
+1
+1 2
+3
+113
+1
+2 2
+3
+112
+1
+1 2
+3
+702
+4
+4 2
+3 3
+0 1
+6 2
+4
+115
+1
+2 2
+4
+114
+1
+1 2
+5
+116
+1
+1 2
+5
+117
+1
+2 2
+6
+119
+1
+2 2
+6
+118
+1
+1 2
+13
+0
+121
+1
+2 3
+0
+120
+1
+1 3
+1
+123
+1
+2 3
+1
+122
+1
+1 3
+2
+125
+1
+2 3
+2
+124
+1
+1 3
+4
+126
+1
+1 3
+4
+127
+1
+2 3
+4
+703
+4
+4 3
+3 4
+0 1
+6 3
+5
+128
+1
+1 3
+5
+129
+1
+2 3
+6
+130
+1
+1 3
+6
+131
+1
+2 3
+13
+0
+133
+1
+2 4
+0
+132
+1
+1 4
+1
+135
+1
+2 4
+1
+134
+1
+1 4
+2
+137
+1
+2 4
+2
+136
+1
+1 4
+3
+138
+1
+1 4
+3
+139
+1
+2 4
+5
+141
+1
+2 4
+5
+140
+1
+1 4
+5
+704
+4
+4 4
+3 5
+0 1
+6 4
+6
+142
+1
+1 4
+6
+143
+1
+2 4
+13
+0
+145
+1
+2 5
+0
+144
+1
+1 5
+1
+147
+1
+2 5
+1
+146
+1
+1 5
+2
+149
+1
+2 5
+2
+148
+1
+1 5
+3
+150
+1
+1 5
+3
+151
+1
+2 5
+4
+153
+1
+2 5
+4
+152
+1
+1 5
+6
+155
+1
+2 5
+6
+154
+1
+1 5
+6
+705
+4
+4 5
+3 6
+0 1
+6 5
+12
+0
+157
+1
+2 6
+0
+156
+1
+1 6
+1
+159
+1
+2 6
+1
+158
+1
+1 6
+2
+161
+1
+2 6
+2
+160
+1
+1 6
+3
+162
+1
+1 6
+3
+163
+1
+2 6
+4
+165
+1
+2 6
+4
+164
+1
+1 6
+5
+167
+1
+2 6
+5
+166
+1
+1 6
+end_DTG
+begin_DTG
+1
+1
+700
+4
+4 0
+5 0
+3 1
+0 1
+1
+2
+701
+4
+4 1
+5 1
+3 2
+0 1
+1
+3
+702
+4
+4 2
+5 2
+3 3
+0 1
+1
+4
+703
+4
+4 3
+5 3
+3 4
+0 1
+1
+5
+704
+4
+4 4
+5 4
+3 5
+0 1
+1
+6
+705
+4
+4 5
+5 5
+3 6
+0 1
+0
+end_DTG
+begin_CG
+6
+1 168
+2 168
+4 258
+5 258
+3 336
+6 6
+3
+4 252
+5 252
+3 168
+3
+4 252
+5 252
+3 168
+6
+1 168
+2 168
+4 258
+5 258
+0 28
+6 6
+6
+1 252
+2 252
+5 342
+3 252
+0 14
+6 6
+6
+1 252
+2 252
+4 342
+3 252
+0 14
+6 6
+2
+4 6
+5 6
+end_CG

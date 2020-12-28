@@ -1,0 +1,115 @@
+digraph G {
+v23  [label="NegatedAtom gripper-obstacle(x4, y6), NegatedAtom gripper-obstacle(x3, y3)"]
+v22  [label="Atom object-pos(object1, x3, y3), Atom object-pos(object1, x4, y6)"]
+v12  [label="NegatedAtom object-done(object1)"]
+v25  [label="Atom object-done(object1)"]
+v20  [label="NegatedAtom object-done(object3)"]
+v2  [label="Atom object-done(object3)"]
+v4  [label="NegatedAtom object-done(object2)"]
+v28  [label="Atom object-done(object2)"]
+v24  [label="NegatedAtom object-done(object0)"]
+v13  [label="Atom object-done(object0)"]
+v18  [label="Atom holding(pr2, object2)"]
+v7  [label="Atom holding(pr2, object1)"]
+v26  [label="Atom holding(pr2, object0)"]
+v9  [label="Atom gripper-empty(pr2)"]
+v27  [label="NegatedAtom base-obstacle(x1, y0)"]
+v21  [label="Atom base-pos(pr2, x0, y0)"]
+v19  [label="Atom not-pushing(pr2)"]
+v5  [label="NegatedAtom gripper-obstacle(x4, y2)"]
+v11  [label="NegatedAtom gripper-obstacle(x3, y2)"]
+v1  [label="Atom gripper-rel(pr2, xrel0, yrel0)"]
+v8  [label="Atom object-pos(object3, x4, y3)"]
+v15  [label="NegatedAtom object-pos(object2, x4, y2)"]
+v6  [label="Atom object-pos(object2, x4, y2)"]
+v10  [label="Atom object-pos(object2, x3, y3)"]
+v0  [label="Atom object-pos(object1, x6, y6)"]
+v17  [label="Atom object-pos(object0, x4, y6)"]
+v14  [label="NegatedAtom object-pos(object0, x3, y2)"]
+v16  [label="Atom object-pos(object0, x3, y2)"]
+v29  [label="NegatedAtom parked(pr2)"]
+v3  [label="Atom parked(pr2)"]
+v23 -> v16
+v23 -> v6
+v23 -> v22
+v23 -> v13
+v23 -> v28
+v23 -> v25
+v22 -> v25
+v12 -> v25
+v12 -> v7
+v20 -> v2
+v4 -> v18
+v4 -> v28
+v24 -> v26
+v24 -> v13
+v18 -> v6
+v18 -> v28
+v7 -> v22
+v7 -> v25
+v26 -> v16
+v26 -> v13
+v9 -> v18
+v9 -> v26
+v9 -> v13
+v9 -> v28
+v9 -> v25
+v9 -> v7
+v27 -> v18
+v27 -> v26
+v27 -> v13
+v27 -> v28
+v27 -> v25
+v27 -> v7
+v21 -> v18
+v21 -> v26
+v21 -> v13
+v21 -> v28
+v21 -> v25
+v21 -> v7
+v19 -> v18
+v19 -> v26
+v19 -> v13
+v19 -> v28
+v19 -> v25
+v19 -> v7
+v5 -> v6
+v5 -> v28
+v11 -> v16
+v11 -> v13
+v1 -> v18
+v1 -> v26
+v1 -> v13
+v1 -> v28
+v1 -> v25
+v1 -> v29
+v1 -> v7
+v8 -> v2
+v15 -> v6
+v6 -> v28
+v10 -> v18
+v10 -> v28
+v0 -> v25
+v0 -> v7
+v17 -> v26
+v17 -> v13
+v14 -> v16
+v16 -> v13
+v29 -> v18
+v29 -> v26
+v29 -> v13
+v29 -> v28
+v29 -> v25
+v29 -> v7
+v3 -> v18
+v3 -> v16
+v3 -> v23
+v3 -> v6
+v3 -> v26
+v3 -> v22
+v3 -> v13
+v3 -> v28
+v3 -> v25
+v3 -> v29
+v3 -> v7
+}

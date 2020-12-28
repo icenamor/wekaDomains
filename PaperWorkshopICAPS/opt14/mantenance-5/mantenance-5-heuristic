@@ -1,0 +1,999 @@
+begin_version
+3
+end_version
+begin_metric
+1
+end_metric
+31
+begin_variable
+var30
+-1
+2
+Atom today-d8()
+<none of those>
+end_variable
+begin_variable
+var29
+-1
+2
+Atom today-d10()
+<none of those>
+end_variable
+begin_variable
+var27
+-1
+2
+Atom today-d5()
+<none of those>
+end_variable
+begin_variable
+var24
+-1
+2
+Atom today-d12()
+<none of those>
+end_variable
+begin_variable
+var22
+-1
+2
+Atom today-d14()
+<none of those>
+end_variable
+begin_variable
+var20
+-1
+2
+Atom today-d9()
+<none of those>
+end_variable
+begin_variable
+var15
+-1
+2
+Atom today-d13()
+<none of those>
+end_variable
+begin_variable
+var13
+-1
+2
+Atom done-ap19()
+<none of those>
+end_variable
+begin_variable
+var10
+-1
+2
+Atom today-d6()
+<none of those>
+end_variable
+begin_variable
+var26
+-1
+2
+Atom done-ap7()
+<none of those>
+end_variable
+begin_variable
+var21
+-1
+2
+Atom done-ap17()
+<none of those>
+end_variable
+begin_variable
+var17
+-1
+2
+Atom done-ap16()
+<none of those>
+end_variable
+begin_variable
+var8
+-1
+2
+Atom done-ap11()
+<none of those>
+end_variable
+begin_variable
+var7
+-1
+2
+Atom today-d3()
+<none of those>
+end_variable
+begin_variable
+var14
+-1
+2
+Atom done-ap5()
+<none of those>
+end_variable
+begin_variable
+var11
+-1
+2
+Atom done-ap14()
+<none of those>
+end_variable
+begin_variable
+var6
+-1
+2
+Atom done-ap12()
+<none of those>
+end_variable
+begin_variable
+var5
+-1
+2
+Atom done-ap6()
+<none of those>
+end_variable
+begin_variable
+var4
+-1
+2
+Atom today-d2()
+<none of those>
+end_variable
+begin_variable
+var28
+-1
+2
+Atom done-ap2()
+<none of those>
+end_variable
+begin_variable
+var3
+-1
+2
+Atom today-d1()
+<none of those>
+end_variable
+begin_variable
+var25
+-1
+2
+Atom done-ap9()
+<none of those>
+end_variable
+begin_variable
+var2
+-1
+2
+Atom done-ap20()
+<none of those>
+end_variable
+begin_variable
+var1
+-1
+3
+Atom today-d15()
+Atom done-ap1()
+<none of those>
+end_variable
+begin_variable
+var23
+-1
+2
+Atom done-ap18()
+<none of those>
+end_variable
+begin_variable
+var19
+-1
+2
+Atom done-ap3()
+<none of those>
+end_variable
+begin_variable
+var18
+-1
+2
+Atom done-ap15()
+<none of those>
+end_variable
+begin_variable
+var12
+-1
+2
+Atom done-ap8()
+<none of those>
+end_variable
+begin_variable
+var0
+-1
+2
+Atom today-d4()
+Atom done-ap10()
+end_variable
+begin_variable
+var16
+-1
+2
+Atom done-ap13()
+<none of those>
+end_variable
+begin_variable
+var9
+-1
+2
+Atom done-ap4()
+<none of those>
+end_variable
+0
+begin_state
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+1
+0
+1
+1
+1
+1
+0
+1
+1
+end_state
+begin_goal
+20
+7 0
+9 0
+10 0
+11 0
+12 0
+14 0
+15 0
+16 0
+17 0
+19 0
+21 0
+22 0
+23 1
+24 0
+25 0
+26 0
+27 0
+28 1
+29 0
+30 0
+end_goal
+23
+begin_operator
+workat_---_d15_---_ham 
+0
+1
+0
+23 0 1
+1
+end_operator
+begin_operator
+workat_---_d15_---_ber 
+0
+4
+0
+23 0 1
+0
+27 -1 0
+0
+25 -1 0
+0
+24 -1 0
+1
+end_operator
+begin_operator
+workat_---_d15_---_fra 
+0
+2
+0
+23 0 2
+0
+26 -1 0
+1
+end_operator
+begin_operator
+workat_---_d14_---_ber 
+0
+3
+0
+12 -1 0
+0
+4 0 1
+0
+19 -1 0
+1
+end_operator
+begin_operator
+workat_---_d13_---_ham 
+0
+2
+0
+7 -1 0
+0
+6 0 1
+1
+end_operator
+begin_operator
+workat_---_d12_---_ber 
+0
+3
+0
+16 -1 0
+0
+12 -1 0
+0
+3 0 1
+1
+end_operator
+begin_operator
+workat_---_d10_---_ham 
+0
+2
+0
+24 -1 0
+0
+1 0 1
+1
+end_operator
+begin_operator
+workat_---_d10_---_ber 
+0
+4
+0
+14 -1 0
+0
+25 -1 0
+0
+9 -1 0
+0
+1 0 1
+1
+end_operator
+begin_operator
+workat_---_d10_---_fra 
+0
+2
+0
+15 -1 0
+0
+1 0 1
+1
+end_operator
+begin_operator
+workat_---_d9_---_ham 
+0
+4
+0
+22 -1 0
+0
+16 -1 0
+0
+5 0 1
+0
+21 -1 0
+1
+end_operator
+begin_operator
+workat_---_d9_---_ber 
+0
+2
+0
+27 -1 0
+0
+5 0 1
+1
+end_operator
+begin_operator
+workat_---_d8_---_ham 
+0
+3
+0
+17 -1 0
+0
+11 -1 0
+0
+0 0 1
+1
+end_operator
+begin_operator
+workat_---_d8_---_fra 
+0
+2
+0
+7 -1 0
+0
+0 0 1
+1
+end_operator
+begin_operator
+workat_---_d6_---_ham 
+0
+4
+0
+8 0 1
+0
+11 -1 0
+0
+10 -1 0
+0
+9 -1 0
+1
+end_operator
+begin_operator
+workat_---_d5_---_ber 
+0
+2
+0
+29 -1 0
+0
+2 0 1
+1
+end_operator
+begin_operator
+workat_---_d5_---_fra 
+0
+2
+0
+10 -1 0
+0
+2 0 1
+1
+end_operator
+begin_operator
+workat_---_d4_---_fra 
+0
+3
+0
+28 0 1
+0
+30 -1 0
+0
+29 -1 0
+1
+end_operator
+begin_operator
+workat_---_d3_---_ham 
+0
+2
+0
+13 0 1
+0
+30 -1 0
+1
+end_operator
+begin_operator
+workat_---_d3_---_ber 
+0
+3
+0
+17 -1 0
+0
+13 0 1
+0
+14 -1 0
+1
+end_operator
+begin_operator
+workat_---_d3_---_fra 
+0
+2
+0
+13 0 1
+0
+15 -1 0
+1
+end_operator
+begin_operator
+workat_---_d2_---_ham 
+0
+2
+0
+18 0 1
+0
+19 -1 0
+1
+end_operator
+begin_operator
+workat_---_d1_---_ham 
+0
+2
+0
+20 0 1
+0
+26 -1 0
+1
+end_operator
+begin_operator
+workat_---_d1_---_ber 
+0
+3
+0
+22 -1 0
+0
+20 0 1
+0
+21 -1 0
+1
+end_operator
+0
+begin_SG
+switch 28
+check 0
+check 1
+16
+check 0
+switch 23
+check 0
+check 3
+0
+1
+2
+check 0
+check 0
+switch 20
+check 0
+check 2
+21
+22
+check 0
+switch 18
+check 0
+check 1
+20
+check 0
+switch 13
+check 0
+check 3
+17
+18
+19
+check 0
+switch 8
+check 0
+check 1
+13
+check 0
+switch 6
+check 0
+check 1
+4
+check 0
+switch 5
+check 0
+check 2
+9
+10
+check 0
+switch 4
+check 0
+check 1
+3
+check 0
+switch 3
+check 0
+check 1
+5
+check 0
+switch 2
+check 0
+check 2
+14
+15
+check 0
+switch 1
+check 0
+check 3
+6
+7
+8
+check 0
+switch 0
+check 0
+check 2
+11
+12
+check 0
+check 0
+end_SG
+begin_DTG
+1
+1
+11
+0
+0
+end_DTG
+begin_DTG
+1
+1
+6
+0
+0
+end_DTG
+begin_DTG
+1
+1
+14
+0
+0
+end_DTG
+begin_DTG
+1
+1
+5
+0
+0
+end_DTG
+begin_DTG
+1
+1
+3
+0
+0
+end_DTG
+begin_DTG
+1
+1
+9
+0
+0
+end_DTG
+begin_DTG
+1
+1
+4
+0
+0
+end_DTG
+begin_DTG
+0
+2
+0
+4
+1
+6 0
+0
+12
+1
+0 0
+end_DTG
+begin_DTG
+1
+1
+13
+0
+0
+end_DTG
+begin_DTG
+0
+2
+0
+7
+1
+1 0
+0
+13
+1
+8 0
+end_DTG
+begin_DTG
+0
+2
+0
+13
+1
+8 0
+0
+15
+1
+2 0
+end_DTG
+begin_DTG
+0
+2
+0
+11
+1
+0 0
+0
+13
+1
+8 0
+end_DTG
+begin_DTG
+0
+2
+0
+3
+1
+4 0
+0
+5
+1
+3 0
+end_DTG
+begin_DTG
+1
+1
+17
+0
+0
+end_DTG
+begin_DTG
+0
+2
+0
+7
+1
+1 0
+0
+18
+1
+13 0
+end_DTG
+begin_DTG
+0
+2
+0
+8
+1
+1 0
+0
+19
+1
+13 0
+end_DTG
+begin_DTG
+0
+2
+0
+5
+1
+3 0
+0
+9
+1
+5 0
+end_DTG
+begin_DTG
+0
+2
+0
+11
+1
+0 0
+0
+18
+1
+13 0
+end_DTG
+begin_DTG
+1
+1
+20
+0
+0
+end_DTG
+begin_DTG
+0
+2
+0
+3
+1
+4 0
+0
+20
+1
+18 0
+end_DTG
+begin_DTG
+1
+1
+21
+0
+0
+end_DTG
+begin_DTG
+0
+2
+0
+9
+1
+5 0
+0
+22
+1
+20 0
+end_DTG
+begin_DTG
+0
+2
+0
+9
+1
+5 0
+0
+22
+1
+20 0
+end_DTG
+begin_DTG
+2
+1
+0
+0
+2
+2
+0
+0
+0
+end_DTG
+begin_DTG
+0
+2
+0
+1
+1
+23 0
+0
+6
+1
+1 0
+end_DTG
+begin_DTG
+0
+2
+0
+1
+1
+23 0
+0
+7
+1
+1 0
+end_DTG
+begin_DTG
+0
+2
+0
+2
+1
+23 0
+0
+21
+1
+20 0
+end_DTG
+begin_DTG
+0
+2
+0
+1
+1
+23 0
+0
+10
+1
+5 0
+end_DTG
+begin_DTG
+1
+1
+16
+0
+0
+end_DTG
+begin_DTG
+0
+2
+0
+14
+1
+2 0
+0
+16
+1
+28 0
+end_DTG
+begin_DTG
+0
+2
+0
+16
+1
+28 0
+0
+17
+1
+13 0
+end_DTG
+begin_CG
+3
+17 1
+7 1
+11 1
+5
+15 1
+14 1
+25 1
+24 1
+9 1
+2
+29 1
+10 1
+2
+16 1
+12 1
+2
+12 1
+19 1
+4
+22 1
+16 1
+27 1
+21 1
+1
+7 1
+0
+3
+11 1
+10 1
+9 1
+0
+0
+0
+0
+4
+17 1
+30 1
+15 1
+14 1
+0
+0
+0
+0
+1
+19 1
+0
+3
+22 1
+26 1
+21 1
+0
+0
+4
+27 1
+26 1
+25 1
+24 1
+0
+0
+0
+0
+2
+30 1
+29 1
+0
+0
+end_CG

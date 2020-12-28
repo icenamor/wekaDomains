@@ -1,0 +1,352 @@
+digraph G {
+v70  [label="Atom robot-pos(pos-4-6), Atom robot-pos(pos-5-5), Atom robot-pos(pos-5-7), Atom robot-pos(pos-6-6)"]
+v61  [label="Atom robot-pos(pos-3-1), Atom robot-pos(pos-4-0), Atom robot-pos(pos-4-2), Atom robot-pos(pos-5-1)"]
+v79  [label="Atom robot-pos(pos-1-6), Atom robot-pos(pos-2-5), Atom robot-pos(pos-2-7), Atom robot-pos(pos-3-6)"]
+v73  [label="Atom robot-pos(pos-0-1), Atom robot-pos(pos-1-0), Atom robot-pos(pos-1-2), Atom robot-pos(pos-2-1)"]
+v10  [label="Atom robot-pos(pos-5-0), Atom robot-pos(pos-6-1), Atom robot-pos(pos-7-0)"]
+v23  [label="Atom robot-pos(pos-0-2), Atom robot-pos(pos-0-4), Atom robot-pos(pos-1-3)"]
+v2  [label="NegatedAtom group-painted(g7)"]
+v16  [label="Atom group-painted(g7)"]
+v65  [label="NegatedAtom group-painted(g0)"]
+v13  [label="Atom group-painted(g0)"]
+v68  [label="NegatedAtom group-painted(g1)"]
+v27  [label="Atom group-painted(g1)"]
+v59  [label="NegatedAtom group-painted(g2)"]
+v25  [label="Atom group-painted(g2)"]
+v67  [label="NegatedAtom group-painted(g3)"]
+v49  [label="Atom group-painted(g3)"]
+v57  [label="NegatedAtom group-painted(g4)"]
+v4  [label="Atom group-painted(g4)"]
+v74  [label="NegatedAtom group-painted(g5)"]
+v29  [label="Atom group-painted(g5)"]
+v64  [label="NegatedAtom group-painted(g6)"]
+v40  [label="Atom group-painted(g6)"]
+v39  [label="Atom remaining-cells(g7, n7)"]
+v44  [label="Atom remaining-cells(g7, n6)"]
+v33  [label="Atom remaining-cells(g7, n5)"]
+v14  [label="Atom remaining-cells(g7, n4)"]
+v48  [label="Atom remaining-cells(g7, n3)"]
+v42  [label="Atom remaining-cells(g7, n2)"]
+v5  [label="Atom remaining-cells(g7, n1)"]
+v6  [label="Atom remaining-cells(g7, n0)"]
+v17  [label="Atom robot-pos(pos-6-0)"]
+v26  [label="Atom robot-pos(pos-5-6)"]
+v1  [label="Atom robot-pos(pos-4-1)"]
+v19  [label="Atom robot-pos(pos-2-6)"]
+v3  [label="Atom robot-pos(pos-1-1)"]
+v0  [label="Atom robot-pos(pos-0-6)"]
+v80  [label="Atom robot-pos(pos-0-3)"]
+v71  [label="Atom robot-pos(pos-0-0)"]
+v81  [label="Atom remaining-cells(g3, n7)"]
+v69  [label="Atom remaining-cells(g3, n6)"]
+v77  [label="Atom remaining-cells(g3, n5)"]
+v72  [label="Atom remaining-cells(g3, n4)"]
+v75  [label="Atom remaining-cells(g3, n3)"]
+v76  [label="Atom remaining-cells(g3, n2)"]
+v63  [label="Atom remaining-cells(g3, n1)"]
+v66  [label="Atom remaining-cells(g3, n0)"]
+v53  [label="Atom remaining-cells(g1, n5)"]
+v35  [label="Atom remaining-cells(g1, n4)"]
+v51  [label="Atom remaining-cells(g1, n3)"]
+v24  [label="Atom remaining-cells(g1, n2)"]
+v12  [label="Atom remaining-cells(g1, n1)"]
+v28  [label="Atom remaining-cells(g1, n0)"]
+v50  [label="Atom remaining-cells(g4, n3)"]
+v9  [label="Atom remaining-cells(g4, n2)"]
+v78  [label="Atom remaining-cells(g4, n1)"]
+v54  [label="Atom remaining-cells(g4, n0)"]
+v21  [label="Atom remaining-cells(g2, n3)"]
+v43  [label="Atom remaining-cells(g2, n2)"]
+v60  [label="Atom remaining-cells(g2, n1)"]
+v56  [label="Atom remaining-cells(g2, n0)"]
+v62  [label="Atom remaining-cells(g6, n1)"]
+v15  [label="Atom remaining-cells(g6, n0)"]
+v11  [label="Atom remaining-cells(g5, n1)"]
+v7  [label="Atom remaining-cells(g5, n0)"]
+v52  [label="Atom remaining-cells(g0, n1)"]
+v46  [label="Atom remaining-cells(g0, n0)"]
+v45  [label="NegatedAtom painted(pos-5-6)"]
+v37  [label="NegatedAtom painted(pos-4-1)"]
+v30  [label="NegatedAtom painted(pos-1-1)"]
+v34  [label="NegatedAtom painted(pos-2-6)"]
+v31  [label="NegatedAtom painted(pos-6-0)"]
+v38  [label="NegatedAtom painted(pos-0-3)"]
+v32  [label="NegatedAtom painted(pos-0-6)"]
+v18  [label="Atom painting(g7)"]
+v58  [label="Atom painting(g6)"]
+v47  [label="Atom painting(g5)"]
+v41  [label="Atom painting(g4)"]
+v22  [label="Atom painting(g3)"]
+v36  [label="Atom painting(g2)"]
+v20  [label="Atom painting(g1)"]
+v55  [label="Atom painting(g0)"]
+v8  [label="Atom moving()"]
+v70 -> v26
+v70 -> v16
+v70 -> v18
+v61 -> v49
+v61 -> v22
+v61 -> v1
+v79 -> v40
+v79 -> v58
+v79 -> v19
+v73 -> v40
+v73 -> v4
+v73 -> v26
+v73 -> v41
+v73 -> v20
+v73 -> v80
+v73 -> v17
+v73 -> v58
+v73 -> v36
+v73 -> v47
+v73 -> v49
+v73 -> v29
+v73 -> v16
+v73 -> v22
+v73 -> v27
+v73 -> v25
+v73 -> v0
+v73 -> v3
+v73 -> v1
+v73 -> v19
+v73 -> v18
+v10 -> v20
+v10 -> v17
+v10 -> v27
+v23 -> v4
+v23 -> v41
+v23 -> v80
+v2 -> v16
+v65 -> v13
+v68 -> v27
+v59 -> v25
+v67 -> v49
+v57 -> v4
+v74 -> v29
+v64 -> v40
+v39 -> v42
+v39 -> v48
+v39 -> v14
+v39 -> v6
+v39 -> v33
+v39 -> v16
+v39 -> v5
+v39 -> v44
+v39 -> v18
+v44 -> v42
+v44 -> v48
+v44 -> v14
+v44 -> v6
+v44 -> v33
+v44 -> v16
+v44 -> v5
+v33 -> v42
+v33 -> v48
+v33 -> v14
+v33 -> v6
+v33 -> v16
+v33 -> v5
+v14 -> v42
+v14 -> v48
+v14 -> v6
+v14 -> v16
+v14 -> v5
+v48 -> v42
+v48 -> v6
+v48 -> v16
+v48 -> v5
+v42 -> v6
+v42 -> v16
+v42 -> v5
+v5 -> v6
+v5 -> v16
+v6 -> v16
+v17 -> v20
+v17 -> v27
+v17 -> v35
+v26 -> v16
+v26 -> v44
+v26 -> v18
+v1 -> v69
+v1 -> v49
+v1 -> v22
+v19 -> v40
+v19 -> v58
+v19 -> v15
+v3 -> v36
+v3 -> v43
+v3 -> v25
+v0 -> v47
+v0 -> v29
+v0 -> v7
+v80 -> v4
+v80 -> v41
+v80 -> v9
+v71 -> v40
+v71 -> v73
+v71 -> v4
+v71 -> v26
+v71 -> v80
+v71 -> v46
+v71 -> v17
+v71 -> v49
+v71 -> v29
+v71 -> v16
+v71 -> v27
+v71 -> v25
+v71 -> v0
+v71 -> v55
+v71 -> v3
+v71 -> v13
+v71 -> v1
+v71 -> v19
+v81 -> v69
+v81 -> v63
+v81 -> v75
+v81 -> v77
+v81 -> v49
+v81 -> v22
+v81 -> v66
+v81 -> v72
+v81 -> v76
+v69 -> v63
+v69 -> v75
+v69 -> v77
+v69 -> v49
+v69 -> v66
+v69 -> v72
+v69 -> v76
+v77 -> v63
+v77 -> v75
+v77 -> v49
+v77 -> v66
+v77 -> v72
+v77 -> v76
+v72 -> v63
+v72 -> v75
+v72 -> v49
+v72 -> v66
+v72 -> v76
+v75 -> v63
+v75 -> v49
+v75 -> v66
+v75 -> v76
+v76 -> v63
+v76 -> v49
+v76 -> v66
+v63 -> v49
+v63 -> v66
+v66 -> v49
+v53 -> v12
+v53 -> v20
+v53 -> v24
+v53 -> v28
+v53 -> v51
+v53 -> v27
+v53 -> v35
+v35 -> v12
+v35 -> v24
+v35 -> v28
+v35 -> v51
+v35 -> v27
+v51 -> v12
+v51 -> v24
+v51 -> v28
+v51 -> v27
+v24 -> v12
+v24 -> v28
+v24 -> v27
+v12 -> v28
+v12 -> v27
+v28 -> v27
+v50 -> v4
+v50 -> v41
+v50 -> v54
+v50 -> v9
+v50 -> v78
+v9 -> v4
+v9 -> v54
+v9 -> v78
+v78 -> v4
+v78 -> v54
+v54 -> v4
+v21 -> v36
+v21 -> v43
+v21 -> v60
+v21 -> v25
+v21 -> v56
+v43 -> v60
+v43 -> v25
+v43 -> v56
+v60 -> v25
+v60 -> v56
+v56 -> v25
+v62 -> v40
+v62 -> v58
+v62 -> v15
+v15 -> v40
+v11 -> v47
+v11 -> v29
+v11 -> v7
+v7 -> v29
+v52 -> v46
+v52 -> v55
+v52 -> v13
+v46 -> v13
+v45 -> v26
+v45 -> v16
+v45 -> v44
+v37 -> v49
+v37 -> v1
+v30 -> v25
+v30 -> v3
+v34 -> v40
+v34 -> v19
+v31 -> v17
+v31 -> v27
+v38 -> v4
+v38 -> v80
+v32 -> v29
+v32 -> v0
+v18 -> v16
+v58 -> v40
+v47 -> v29
+v41 -> v4
+v22 -> v49
+v36 -> v25
+v20 -> v27
+v55 -> v13
+v8 -> v69
+v8 -> v40
+v8 -> v73
+v8 -> v4
+v8 -> v26
+v8 -> v41
+v8 -> v80
+v8 -> v20
+v8 -> v46
+v8 -> v58
+v8 -> v17
+v8 -> v36
+v8 -> v43
+v8 -> v47
+v8 -> v49
+v8 -> v29
+v8 -> v15
+v8 -> v16
+v8 -> v22
+v8 -> v27
+v8 -> v9
+v8 -> v25
+v8 -> v0
+v8 -> v55
+v8 -> v44
+v8 -> v3
+v8 -> v13
+v8 -> v1
+v8 -> v7
+v8 -> v19
+v8 -> v18
+v8 -> v35
+}

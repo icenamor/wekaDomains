@@ -1,0 +1,1 @@
+  1, /home/isabel/domains/seq-opt/CaveDiving/testing18A_easy.pddl, 97, 804, 5, 10, 2.000000, -2, 0.000000, 0.406138, 1, 1.000000, 0.000000, 0.977612, 0.238806, 9

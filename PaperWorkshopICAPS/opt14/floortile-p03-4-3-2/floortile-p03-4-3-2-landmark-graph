@@ -1,0 +1,68 @@
+digraph G {
+v32  [label="Atom robot-at(robot1, tile_0-3), Atom robot-at(robot1, tile_2-3), Atom robot-at(robot2, tile_0-3), Atom robot-at(robot2, tile_2-3)"]
+v33  [label="Atom robot-at(robot1, tile_0-2), Atom robot-at(robot1, tile_2-2), Atom robot-at(robot2, tile_0-2), Atom robot-at(robot2, tile_2-2)"]
+v31  [label="Atom robot-at(robot1, tile_0-1), Atom robot-at(robot1, tile_2-1), Atom robot-at(robot2, tile_0-1), Atom robot-at(robot2, tile_2-1)"]
+v29  [label="Atom robot-at(robot1, tile_3-3), Atom robot-at(robot2, tile_3-3)"]
+v30  [label="Atom robot-at(robot1, tile_3-2), Atom robot-at(robot2, tile_3-2)"]
+v28  [label="Atom robot-at(robot1, tile_3-1), Atom robot-at(robot2, tile_3-1)"]
+v8  [label="Atom painted(tile_2-2, white)"]
+v25  [label="Atom clear(tile_2-2)"]
+v6  [label="Atom painted(tile_3-2, black)"]
+v24  [label="Atom clear(tile_3-2)"]
+v27  [label="<none of those>"]
+v7  [label="Atom painted(tile_1-2, black)"]
+v23  [label="Atom clear(tile_1-2)"]
+v10  [label="Atom painted(tile_2-3, black)"]
+v22  [label="Atom clear(tile_2-3)"]
+v3  [label="Atom painted(tile_3-3, white)"]
+v21  [label="Atom clear(tile_3-3)"]
+v4  [label="Atom painted(tile_2-1, black)"]
+v20  [label="Atom clear(tile_2-1)"]
+v9  [label="Atom painted(tile_3-1, white)"]
+v19  [label="Atom clear(tile_3-1)"]
+v12  [label="Atom painted(tile_1-3, white)"]
+v18  [label="Atom clear(tile_1-3)"]
+v26  [label="<none of those>"]
+v14  [label="Atom painted(tile_1-1, white)"]
+v17  [label="Atom clear(tile_1-1)"]
+v5  [label="Atom painted(tile_4-2, white)"]
+v16  [label="Atom clear(tile_4-2)"]
+v13  [label="Atom painted(tile_4-3, black)"]
+v11  [label="Atom clear(tile_4-3)"]
+v15  [label="Atom painted(tile_4-1, black)"]
+v2  [label="Atom clear(tile_4-1)"]
+v1  [label="Atom robot-at(robot2, tile_1-1)"]
+v0  [label="Atom robot-at(robot1, tile_1-2)"]
+v32 -> v12
+v33 -> v7
+v31 -> v14
+v29 -> v13
+v30 -> v5
+v28 -> v15
+v25 -> v8
+v24 -> v30
+v24 -> v5
+v24 -> v6
+v27 -> v7
+v27 -> v23
+v23 -> v7
+v22 -> v10
+v21 -> v3
+v21 -> v13
+v21 -> v29
+v20 -> v4
+v19 -> v28
+v19 -> v15
+v19 -> v9
+v18 -> v12
+v26 -> v17
+v26 -> v14
+v17 -> v14
+v16 -> v5
+v11 -> v13
+v2 -> v15
+v1 -> v17
+v1 -> v14
+v0 -> v7
+v0 -> v23
+}

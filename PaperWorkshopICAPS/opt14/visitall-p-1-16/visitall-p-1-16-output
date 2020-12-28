@@ -1,0 +1,19964 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+256
+begin_variable
+var0
+-1
+256
+Atom at-robot(loc-x0-y0)
+Atom at-robot(loc-x0-y1)
+Atom at-robot(loc-x0-y10)
+Atom at-robot(loc-x0-y11)
+Atom at-robot(loc-x0-y12)
+Atom at-robot(loc-x0-y13)
+Atom at-robot(loc-x0-y14)
+Atom at-robot(loc-x0-y15)
+Atom at-robot(loc-x0-y2)
+Atom at-robot(loc-x0-y3)
+Atom at-robot(loc-x0-y4)
+Atom at-robot(loc-x0-y5)
+Atom at-robot(loc-x0-y6)
+Atom at-robot(loc-x0-y7)
+Atom at-robot(loc-x0-y8)
+Atom at-robot(loc-x0-y9)
+Atom at-robot(loc-x1-y0)
+Atom at-robot(loc-x1-y1)
+Atom at-robot(loc-x1-y10)
+Atom at-robot(loc-x1-y11)
+Atom at-robot(loc-x1-y12)
+Atom at-robot(loc-x1-y13)
+Atom at-robot(loc-x1-y14)
+Atom at-robot(loc-x1-y15)
+Atom at-robot(loc-x1-y2)
+Atom at-robot(loc-x1-y3)
+Atom at-robot(loc-x1-y4)
+Atom at-robot(loc-x1-y5)
+Atom at-robot(loc-x1-y6)
+Atom at-robot(loc-x1-y7)
+Atom at-robot(loc-x1-y8)
+Atom at-robot(loc-x1-y9)
+Atom at-robot(loc-x10-y0)
+Atom at-robot(loc-x10-y1)
+Atom at-robot(loc-x10-y10)
+Atom at-robot(loc-x10-y11)
+Atom at-robot(loc-x10-y12)
+Atom at-robot(loc-x10-y13)
+Atom at-robot(loc-x10-y14)
+Atom at-robot(loc-x10-y15)
+Atom at-robot(loc-x10-y2)
+Atom at-robot(loc-x10-y3)
+Atom at-robot(loc-x10-y4)
+Atom at-robot(loc-x10-y5)
+Atom at-robot(loc-x10-y6)
+Atom at-robot(loc-x10-y7)
+Atom at-robot(loc-x10-y8)
+Atom at-robot(loc-x10-y9)
+Atom at-robot(loc-x11-y0)
+Atom at-robot(loc-x11-y1)
+Atom at-robot(loc-x11-y10)
+Atom at-robot(loc-x11-y11)
+Atom at-robot(loc-x11-y12)
+Atom at-robot(loc-x11-y13)
+Atom at-robot(loc-x11-y14)
+Atom at-robot(loc-x11-y15)
+Atom at-robot(loc-x11-y2)
+Atom at-robot(loc-x11-y3)
+Atom at-robot(loc-x11-y4)
+Atom at-robot(loc-x11-y5)
+Atom at-robot(loc-x11-y6)
+Atom at-robot(loc-x11-y7)
+Atom at-robot(loc-x11-y8)
+Atom at-robot(loc-x11-y9)
+Atom at-robot(loc-x12-y0)
+Atom at-robot(loc-x12-y1)
+Atom at-robot(loc-x12-y10)
+Atom at-robot(loc-x12-y11)
+Atom at-robot(loc-x12-y12)
+Atom at-robot(loc-x12-y13)
+Atom at-robot(loc-x12-y14)
+Atom at-robot(loc-x12-y15)
+Atom at-robot(loc-x12-y2)
+Atom at-robot(loc-x12-y3)
+Atom at-robot(loc-x12-y4)
+Atom at-robot(loc-x12-y5)
+Atom at-robot(loc-x12-y6)
+Atom at-robot(loc-x12-y7)
+Atom at-robot(loc-x12-y8)
+Atom at-robot(loc-x12-y9)
+Atom at-robot(loc-x13-y0)
+Atom at-robot(loc-x13-y1)
+Atom at-robot(loc-x13-y10)
+Atom at-robot(loc-x13-y11)
+Atom at-robot(loc-x13-y12)
+Atom at-robot(loc-x13-y13)
+Atom at-robot(loc-x13-y14)
+Atom at-robot(loc-x13-y15)
+Atom at-robot(loc-x13-y2)
+Atom at-robot(loc-x13-y3)
+Atom at-robot(loc-x13-y4)
+Atom at-robot(loc-x13-y5)
+Atom at-robot(loc-x13-y6)
+Atom at-robot(loc-x13-y7)
+Atom at-robot(loc-x13-y8)
+Atom at-robot(loc-x13-y9)
+Atom at-robot(loc-x14-y0)
+Atom at-robot(loc-x14-y1)
+Atom at-robot(loc-x14-y10)
+Atom at-robot(loc-x14-y11)
+Atom at-robot(loc-x14-y12)
+Atom at-robot(loc-x14-y13)
+Atom at-robot(loc-x14-y14)
+Atom at-robot(loc-x14-y15)
+Atom at-robot(loc-x14-y2)
+Atom at-robot(loc-x14-y3)
+Atom at-robot(loc-x14-y4)
+Atom at-robot(loc-x14-y5)
+Atom at-robot(loc-x14-y6)
+Atom at-robot(loc-x14-y7)
+Atom at-robot(loc-x14-y8)
+Atom at-robot(loc-x14-y9)
+Atom at-robot(loc-x15-y0)
+Atom at-robot(loc-x15-y1)
+Atom at-robot(loc-x15-y10)
+Atom at-robot(loc-x15-y11)
+Atom at-robot(loc-x15-y12)
+Atom at-robot(loc-x15-y13)
+Atom at-robot(loc-x15-y14)
+Atom at-robot(loc-x15-y15)
+Atom at-robot(loc-x15-y2)
+Atom at-robot(loc-x15-y3)
+Atom at-robot(loc-x15-y4)
+Atom at-robot(loc-x15-y5)
+Atom at-robot(loc-x15-y6)
+Atom at-robot(loc-x15-y7)
+Atom at-robot(loc-x15-y8)
+Atom at-robot(loc-x15-y9)
+Atom at-robot(loc-x2-y0)
+Atom at-robot(loc-x2-y1)
+Atom at-robot(loc-x2-y10)
+Atom at-robot(loc-x2-y11)
+Atom at-robot(loc-x2-y12)
+Atom at-robot(loc-x2-y13)
+Atom at-robot(loc-x2-y14)
+Atom at-robot(loc-x2-y15)
+Atom at-robot(loc-x2-y2)
+Atom at-robot(loc-x2-y3)
+Atom at-robot(loc-x2-y4)
+Atom at-robot(loc-x2-y5)
+Atom at-robot(loc-x2-y6)
+Atom at-robot(loc-x2-y7)
+Atom at-robot(loc-x2-y8)
+Atom at-robot(loc-x2-y9)
+Atom at-robot(loc-x3-y0)
+Atom at-robot(loc-x3-y1)
+Atom at-robot(loc-x3-y10)
+Atom at-robot(loc-x3-y11)
+Atom at-robot(loc-x3-y12)
+Atom at-robot(loc-x3-y13)
+Atom at-robot(loc-x3-y14)
+Atom at-robot(loc-x3-y15)
+Atom at-robot(loc-x3-y2)
+Atom at-robot(loc-x3-y3)
+Atom at-robot(loc-x3-y4)
+Atom at-robot(loc-x3-y5)
+Atom at-robot(loc-x3-y6)
+Atom at-robot(loc-x3-y7)
+Atom at-robot(loc-x3-y8)
+Atom at-robot(loc-x3-y9)
+Atom at-robot(loc-x4-y0)
+Atom at-robot(loc-x4-y1)
+Atom at-robot(loc-x4-y10)
+Atom at-robot(loc-x4-y11)
+Atom at-robot(loc-x4-y12)
+Atom at-robot(loc-x4-y13)
+Atom at-robot(loc-x4-y14)
+Atom at-robot(loc-x4-y15)
+Atom at-robot(loc-x4-y2)
+Atom at-robot(loc-x4-y3)
+Atom at-robot(loc-x4-y4)
+Atom at-robot(loc-x4-y5)
+Atom at-robot(loc-x4-y6)
+Atom at-robot(loc-x4-y7)
+Atom at-robot(loc-x4-y8)
+Atom at-robot(loc-x4-y9)
+Atom at-robot(loc-x5-y0)
+Atom at-robot(loc-x5-y1)
+Atom at-robot(loc-x5-y10)
+Atom at-robot(loc-x5-y11)
+Atom at-robot(loc-x5-y12)
+Atom at-robot(loc-x5-y13)
+Atom at-robot(loc-x5-y14)
+Atom at-robot(loc-x5-y15)
+Atom at-robot(loc-x5-y2)
+Atom at-robot(loc-x5-y3)
+Atom at-robot(loc-x5-y4)
+Atom at-robot(loc-x5-y5)
+Atom at-robot(loc-x5-y6)
+Atom at-robot(loc-x5-y7)
+Atom at-robot(loc-x5-y8)
+Atom at-robot(loc-x5-y9)
+Atom at-robot(loc-x6-y0)
+Atom at-robot(loc-x6-y1)
+Atom at-robot(loc-x6-y10)
+Atom at-robot(loc-x6-y11)
+Atom at-robot(loc-x6-y12)
+Atom at-robot(loc-x6-y13)
+Atom at-robot(loc-x6-y14)
+Atom at-robot(loc-x6-y15)
+Atom at-robot(loc-x6-y2)
+Atom at-robot(loc-x6-y3)
+Atom at-robot(loc-x6-y4)
+Atom at-robot(loc-x6-y5)
+Atom at-robot(loc-x6-y6)
+Atom at-robot(loc-x6-y7)
+Atom at-robot(loc-x6-y8)
+Atom at-robot(loc-x6-y9)
+Atom at-robot(loc-x7-y0)
+Atom at-robot(loc-x7-y1)
+Atom at-robot(loc-x7-y10)
+Atom at-robot(loc-x7-y11)
+Atom at-robot(loc-x7-y12)
+Atom at-robot(loc-x7-y13)
+Atom at-robot(loc-x7-y14)
+Atom at-robot(loc-x7-y15)
+Atom at-robot(loc-x7-y2)
+Atom at-robot(loc-x7-y3)
+Atom at-robot(loc-x7-y4)
+Atom at-robot(loc-x7-y5)
+Atom at-robot(loc-x7-y6)
+Atom at-robot(loc-x7-y7)
+Atom at-robot(loc-x7-y8)
+Atom at-robot(loc-x7-y9)
+Atom at-robot(loc-x8-y0)
+Atom at-robot(loc-x8-y1)
+Atom at-robot(loc-x8-y10)
+Atom at-robot(loc-x8-y11)
+Atom at-robot(loc-x8-y12)
+Atom at-robot(loc-x8-y13)
+Atom at-robot(loc-x8-y14)
+Atom at-robot(loc-x8-y15)
+Atom at-robot(loc-x8-y2)
+Atom at-robot(loc-x8-y3)
+Atom at-robot(loc-x8-y4)
+Atom at-robot(loc-x8-y5)
+Atom at-robot(loc-x8-y6)
+Atom at-robot(loc-x8-y7)
+Atom at-robot(loc-x8-y8)
+Atom at-robot(loc-x8-y9)
+Atom at-robot(loc-x9-y0)
+Atom at-robot(loc-x9-y1)
+Atom at-robot(loc-x9-y10)
+Atom at-robot(loc-x9-y11)
+Atom at-robot(loc-x9-y12)
+Atom at-robot(loc-x9-y13)
+Atom at-robot(loc-x9-y14)
+Atom at-robot(loc-x9-y15)
+Atom at-robot(loc-x9-y2)
+Atom at-robot(loc-x9-y3)
+Atom at-robot(loc-x9-y4)
+Atom at-robot(loc-x9-y5)
+Atom at-robot(loc-x9-y6)
+Atom at-robot(loc-x9-y7)
+Atom at-robot(loc-x9-y8)
+Atom at-robot(loc-x9-y9)
+end_variable
+begin_variable
+var255
+-1
+2
+Atom visited(loc-x9-y9)
+NegatedAtom visited(loc-x9-y9)
+end_variable
+begin_variable
+var254
+-1
+2
+Atom visited(loc-x9-y8)
+NegatedAtom visited(loc-x9-y8)
+end_variable
+begin_variable
+var253
+-1
+2
+Atom visited(loc-x9-y7)
+NegatedAtom visited(loc-x9-y7)
+end_variable
+begin_variable
+var252
+-1
+2
+Atom visited(loc-x9-y6)
+NegatedAtom visited(loc-x9-y6)
+end_variable
+begin_variable
+var251
+-1
+2
+Atom visited(loc-x9-y5)
+NegatedAtom visited(loc-x9-y5)
+end_variable
+begin_variable
+var250
+-1
+2
+Atom visited(loc-x9-y4)
+NegatedAtom visited(loc-x9-y4)
+end_variable
+begin_variable
+var249
+-1
+2
+Atom visited(loc-x9-y3)
+NegatedAtom visited(loc-x9-y3)
+end_variable
+begin_variable
+var248
+-1
+2
+Atom visited(loc-x9-y2)
+NegatedAtom visited(loc-x9-y2)
+end_variable
+begin_variable
+var247
+-1
+2
+Atom visited(loc-x9-y15)
+NegatedAtom visited(loc-x9-y15)
+end_variable
+begin_variable
+var246
+-1
+2
+Atom visited(loc-x9-y14)
+NegatedAtom visited(loc-x9-y14)
+end_variable
+begin_variable
+var245
+-1
+2
+Atom visited(loc-x9-y13)
+NegatedAtom visited(loc-x9-y13)
+end_variable
+begin_variable
+var244
+-1
+2
+Atom visited(loc-x9-y12)
+NegatedAtom visited(loc-x9-y12)
+end_variable
+begin_variable
+var243
+-1
+2
+Atom visited(loc-x9-y11)
+NegatedAtom visited(loc-x9-y11)
+end_variable
+begin_variable
+var242
+-1
+2
+Atom visited(loc-x9-y10)
+NegatedAtom visited(loc-x9-y10)
+end_variable
+begin_variable
+var241
+-1
+2
+Atom visited(loc-x9-y1)
+NegatedAtom visited(loc-x9-y1)
+end_variable
+begin_variable
+var240
+-1
+2
+Atom visited(loc-x9-y0)
+NegatedAtom visited(loc-x9-y0)
+end_variable
+begin_variable
+var239
+-1
+2
+Atom visited(loc-x8-y9)
+NegatedAtom visited(loc-x8-y9)
+end_variable
+begin_variable
+var238
+-1
+2
+Atom visited(loc-x8-y7)
+NegatedAtom visited(loc-x8-y7)
+end_variable
+begin_variable
+var237
+-1
+2
+Atom visited(loc-x8-y6)
+NegatedAtom visited(loc-x8-y6)
+end_variable
+begin_variable
+var236
+-1
+2
+Atom visited(loc-x8-y5)
+NegatedAtom visited(loc-x8-y5)
+end_variable
+begin_variable
+var235
+-1
+2
+Atom visited(loc-x8-y4)
+NegatedAtom visited(loc-x8-y4)
+end_variable
+begin_variable
+var234
+-1
+2
+Atom visited(loc-x8-y3)
+NegatedAtom visited(loc-x8-y3)
+end_variable
+begin_variable
+var233
+-1
+2
+Atom visited(loc-x8-y2)
+NegatedAtom visited(loc-x8-y2)
+end_variable
+begin_variable
+var232
+-1
+2
+Atom visited(loc-x8-y15)
+NegatedAtom visited(loc-x8-y15)
+end_variable
+begin_variable
+var231
+-1
+2
+Atom visited(loc-x8-y14)
+NegatedAtom visited(loc-x8-y14)
+end_variable
+begin_variable
+var230
+-1
+2
+Atom visited(loc-x8-y13)
+NegatedAtom visited(loc-x8-y13)
+end_variable
+begin_variable
+var229
+-1
+2
+Atom visited(loc-x8-y12)
+NegatedAtom visited(loc-x8-y12)
+end_variable
+begin_variable
+var228
+-1
+2
+Atom visited(loc-x8-y11)
+NegatedAtom visited(loc-x8-y11)
+end_variable
+begin_variable
+var227
+-1
+2
+Atom visited(loc-x8-y10)
+NegatedAtom visited(loc-x8-y10)
+end_variable
+begin_variable
+var226
+-1
+2
+Atom visited(loc-x8-y1)
+NegatedAtom visited(loc-x8-y1)
+end_variable
+begin_variable
+var225
+-1
+2
+Atom visited(loc-x8-y0)
+NegatedAtom visited(loc-x8-y0)
+end_variable
+begin_variable
+var224
+-1
+2
+Atom visited(loc-x7-y9)
+NegatedAtom visited(loc-x7-y9)
+end_variable
+begin_variable
+var223
+-1
+2
+Atom visited(loc-x7-y8)
+NegatedAtom visited(loc-x7-y8)
+end_variable
+begin_variable
+var222
+-1
+2
+Atom visited(loc-x7-y7)
+NegatedAtom visited(loc-x7-y7)
+end_variable
+begin_variable
+var221
+-1
+2
+Atom visited(loc-x7-y6)
+NegatedAtom visited(loc-x7-y6)
+end_variable
+begin_variable
+var220
+-1
+2
+Atom visited(loc-x7-y5)
+NegatedAtom visited(loc-x7-y5)
+end_variable
+begin_variable
+var219
+-1
+2
+Atom visited(loc-x7-y4)
+NegatedAtom visited(loc-x7-y4)
+end_variable
+begin_variable
+var218
+-1
+2
+Atom visited(loc-x7-y3)
+NegatedAtom visited(loc-x7-y3)
+end_variable
+begin_variable
+var217
+-1
+2
+Atom visited(loc-x7-y2)
+NegatedAtom visited(loc-x7-y2)
+end_variable
+begin_variable
+var216
+-1
+2
+Atom visited(loc-x7-y15)
+NegatedAtom visited(loc-x7-y15)
+end_variable
+begin_variable
+var215
+-1
+2
+Atom visited(loc-x7-y14)
+NegatedAtom visited(loc-x7-y14)
+end_variable
+begin_variable
+var214
+-1
+2
+Atom visited(loc-x7-y13)
+NegatedAtom visited(loc-x7-y13)
+end_variable
+begin_variable
+var213
+-1
+2
+Atom visited(loc-x7-y12)
+NegatedAtom visited(loc-x7-y12)
+end_variable
+begin_variable
+var212
+-1
+2
+Atom visited(loc-x7-y11)
+NegatedAtom visited(loc-x7-y11)
+end_variable
+begin_variable
+var211
+-1
+2
+Atom visited(loc-x7-y10)
+NegatedAtom visited(loc-x7-y10)
+end_variable
+begin_variable
+var210
+-1
+2
+Atom visited(loc-x7-y1)
+NegatedAtom visited(loc-x7-y1)
+end_variable
+begin_variable
+var209
+-1
+2
+Atom visited(loc-x7-y0)
+NegatedAtom visited(loc-x7-y0)
+end_variable
+begin_variable
+var208
+-1
+2
+Atom visited(loc-x6-y9)
+NegatedAtom visited(loc-x6-y9)
+end_variable
+begin_variable
+var207
+-1
+2
+Atom visited(loc-x6-y8)
+NegatedAtom visited(loc-x6-y8)
+end_variable
+begin_variable
+var206
+-1
+2
+Atom visited(loc-x6-y7)
+NegatedAtom visited(loc-x6-y7)
+end_variable
+begin_variable
+var205
+-1
+2
+Atom visited(loc-x6-y6)
+NegatedAtom visited(loc-x6-y6)
+end_variable
+begin_variable
+var204
+-1
+2
+Atom visited(loc-x6-y5)
+NegatedAtom visited(loc-x6-y5)
+end_variable
+begin_variable
+var203
+-1
+2
+Atom visited(loc-x6-y4)
+NegatedAtom visited(loc-x6-y4)
+end_variable
+begin_variable
+var202
+-1
+2
+Atom visited(loc-x6-y3)
+NegatedAtom visited(loc-x6-y3)
+end_variable
+begin_variable
+var201
+-1
+2
+Atom visited(loc-x6-y2)
+NegatedAtom visited(loc-x6-y2)
+end_variable
+begin_variable
+var200
+-1
+2
+Atom visited(loc-x6-y15)
+NegatedAtom visited(loc-x6-y15)
+end_variable
+begin_variable
+var199
+-1
+2
+Atom visited(loc-x6-y14)
+NegatedAtom visited(loc-x6-y14)
+end_variable
+begin_variable
+var198
+-1
+2
+Atom visited(loc-x6-y13)
+NegatedAtom visited(loc-x6-y13)
+end_variable
+begin_variable
+var197
+-1
+2
+Atom visited(loc-x6-y12)
+NegatedAtom visited(loc-x6-y12)
+end_variable
+begin_variable
+var196
+-1
+2
+Atom visited(loc-x6-y11)
+NegatedAtom visited(loc-x6-y11)
+end_variable
+begin_variable
+var195
+-1
+2
+Atom visited(loc-x6-y10)
+NegatedAtom visited(loc-x6-y10)
+end_variable
+begin_variable
+var194
+-1
+2
+Atom visited(loc-x6-y1)
+NegatedAtom visited(loc-x6-y1)
+end_variable
+begin_variable
+var193
+-1
+2
+Atom visited(loc-x6-y0)
+NegatedAtom visited(loc-x6-y0)
+end_variable
+begin_variable
+var192
+-1
+2
+Atom visited(loc-x5-y9)
+NegatedAtom visited(loc-x5-y9)
+end_variable
+begin_variable
+var191
+-1
+2
+Atom visited(loc-x5-y8)
+NegatedAtom visited(loc-x5-y8)
+end_variable
+begin_variable
+var190
+-1
+2
+Atom visited(loc-x5-y7)
+NegatedAtom visited(loc-x5-y7)
+end_variable
+begin_variable
+var189
+-1
+2
+Atom visited(loc-x5-y6)
+NegatedAtom visited(loc-x5-y6)
+end_variable
+begin_variable
+var188
+-1
+2
+Atom visited(loc-x5-y5)
+NegatedAtom visited(loc-x5-y5)
+end_variable
+begin_variable
+var187
+-1
+2
+Atom visited(loc-x5-y4)
+NegatedAtom visited(loc-x5-y4)
+end_variable
+begin_variable
+var186
+-1
+2
+Atom visited(loc-x5-y3)
+NegatedAtom visited(loc-x5-y3)
+end_variable
+begin_variable
+var185
+-1
+2
+Atom visited(loc-x5-y2)
+NegatedAtom visited(loc-x5-y2)
+end_variable
+begin_variable
+var184
+-1
+2
+Atom visited(loc-x5-y15)
+NegatedAtom visited(loc-x5-y15)
+end_variable
+begin_variable
+var183
+-1
+2
+Atom visited(loc-x5-y14)
+NegatedAtom visited(loc-x5-y14)
+end_variable
+begin_variable
+var182
+-1
+2
+Atom visited(loc-x5-y13)
+NegatedAtom visited(loc-x5-y13)
+end_variable
+begin_variable
+var181
+-1
+2
+Atom visited(loc-x5-y12)
+NegatedAtom visited(loc-x5-y12)
+end_variable
+begin_variable
+var180
+-1
+2
+Atom visited(loc-x5-y11)
+NegatedAtom visited(loc-x5-y11)
+end_variable
+begin_variable
+var179
+-1
+2
+Atom visited(loc-x5-y10)
+NegatedAtom visited(loc-x5-y10)
+end_variable
+begin_variable
+var178
+-1
+2
+Atom visited(loc-x5-y1)
+NegatedAtom visited(loc-x5-y1)
+end_variable
+begin_variable
+var177
+-1
+2
+Atom visited(loc-x5-y0)
+NegatedAtom visited(loc-x5-y0)
+end_variable
+begin_variable
+var176
+-1
+2
+Atom visited(loc-x4-y9)
+NegatedAtom visited(loc-x4-y9)
+end_variable
+begin_variable
+var175
+-1
+2
+Atom visited(loc-x4-y8)
+NegatedAtom visited(loc-x4-y8)
+end_variable
+begin_variable
+var174
+-1
+2
+Atom visited(loc-x4-y7)
+NegatedAtom visited(loc-x4-y7)
+end_variable
+begin_variable
+var173
+-1
+2
+Atom visited(loc-x4-y6)
+NegatedAtom visited(loc-x4-y6)
+end_variable
+begin_variable
+var172
+-1
+2
+Atom visited(loc-x4-y5)
+NegatedAtom visited(loc-x4-y5)
+end_variable
+begin_variable
+var171
+-1
+2
+Atom visited(loc-x4-y4)
+NegatedAtom visited(loc-x4-y4)
+end_variable
+begin_variable
+var170
+-1
+2
+Atom visited(loc-x4-y3)
+NegatedAtom visited(loc-x4-y3)
+end_variable
+begin_variable
+var169
+-1
+2
+Atom visited(loc-x4-y2)
+NegatedAtom visited(loc-x4-y2)
+end_variable
+begin_variable
+var168
+-1
+2
+Atom visited(loc-x4-y15)
+NegatedAtom visited(loc-x4-y15)
+end_variable
+begin_variable
+var167
+-1
+2
+Atom visited(loc-x4-y14)
+NegatedAtom visited(loc-x4-y14)
+end_variable
+begin_variable
+var166
+-1
+2
+Atom visited(loc-x4-y13)
+NegatedAtom visited(loc-x4-y13)
+end_variable
+begin_variable
+var165
+-1
+2
+Atom visited(loc-x4-y12)
+NegatedAtom visited(loc-x4-y12)
+end_variable
+begin_variable
+var164
+-1
+2
+Atom visited(loc-x4-y11)
+NegatedAtom visited(loc-x4-y11)
+end_variable
+begin_variable
+var163
+-1
+2
+Atom visited(loc-x4-y10)
+NegatedAtom visited(loc-x4-y10)
+end_variable
+begin_variable
+var162
+-1
+2
+Atom visited(loc-x4-y1)
+NegatedAtom visited(loc-x4-y1)
+end_variable
+begin_variable
+var161
+-1
+2
+Atom visited(loc-x4-y0)
+NegatedAtom visited(loc-x4-y0)
+end_variable
+begin_variable
+var160
+-1
+2
+Atom visited(loc-x3-y9)
+NegatedAtom visited(loc-x3-y9)
+end_variable
+begin_variable
+var159
+-1
+2
+Atom visited(loc-x3-y8)
+NegatedAtom visited(loc-x3-y8)
+end_variable
+begin_variable
+var158
+-1
+2
+Atom visited(loc-x3-y7)
+NegatedAtom visited(loc-x3-y7)
+end_variable
+begin_variable
+var157
+-1
+2
+Atom visited(loc-x3-y6)
+NegatedAtom visited(loc-x3-y6)
+end_variable
+begin_variable
+var156
+-1
+2
+Atom visited(loc-x3-y5)
+NegatedAtom visited(loc-x3-y5)
+end_variable
+begin_variable
+var155
+-1
+2
+Atom visited(loc-x3-y4)
+NegatedAtom visited(loc-x3-y4)
+end_variable
+begin_variable
+var154
+-1
+2
+Atom visited(loc-x3-y3)
+NegatedAtom visited(loc-x3-y3)
+end_variable
+begin_variable
+var153
+-1
+2
+Atom visited(loc-x3-y2)
+NegatedAtom visited(loc-x3-y2)
+end_variable
+begin_variable
+var152
+-1
+2
+Atom visited(loc-x3-y15)
+NegatedAtom visited(loc-x3-y15)
+end_variable
+begin_variable
+var151
+-1
+2
+Atom visited(loc-x3-y14)
+NegatedAtom visited(loc-x3-y14)
+end_variable
+begin_variable
+var150
+-1
+2
+Atom visited(loc-x3-y13)
+NegatedAtom visited(loc-x3-y13)
+end_variable
+begin_variable
+var149
+-1
+2
+Atom visited(loc-x3-y12)
+NegatedAtom visited(loc-x3-y12)
+end_variable
+begin_variable
+var148
+-1
+2
+Atom visited(loc-x3-y11)
+NegatedAtom visited(loc-x3-y11)
+end_variable
+begin_variable
+var147
+-1
+2
+Atom visited(loc-x3-y10)
+NegatedAtom visited(loc-x3-y10)
+end_variable
+begin_variable
+var146
+-1
+2
+Atom visited(loc-x3-y1)
+NegatedAtom visited(loc-x3-y1)
+end_variable
+begin_variable
+var145
+-1
+2
+Atom visited(loc-x3-y0)
+NegatedAtom visited(loc-x3-y0)
+end_variable
+begin_variable
+var144
+-1
+2
+Atom visited(loc-x2-y9)
+NegatedAtom visited(loc-x2-y9)
+end_variable
+begin_variable
+var143
+-1
+2
+Atom visited(loc-x2-y8)
+NegatedAtom visited(loc-x2-y8)
+end_variable
+begin_variable
+var142
+-1
+2
+Atom visited(loc-x2-y7)
+NegatedAtom visited(loc-x2-y7)
+end_variable
+begin_variable
+var141
+-1
+2
+Atom visited(loc-x2-y6)
+NegatedAtom visited(loc-x2-y6)
+end_variable
+begin_variable
+var140
+-1
+2
+Atom visited(loc-x2-y5)
+NegatedAtom visited(loc-x2-y5)
+end_variable
+begin_variable
+var139
+-1
+2
+Atom visited(loc-x2-y4)
+NegatedAtom visited(loc-x2-y4)
+end_variable
+begin_variable
+var138
+-1
+2
+Atom visited(loc-x2-y3)
+NegatedAtom visited(loc-x2-y3)
+end_variable
+begin_variable
+var137
+-1
+2
+Atom visited(loc-x2-y2)
+NegatedAtom visited(loc-x2-y2)
+end_variable
+begin_variable
+var136
+-1
+2
+Atom visited(loc-x2-y15)
+NegatedAtom visited(loc-x2-y15)
+end_variable
+begin_variable
+var135
+-1
+2
+Atom visited(loc-x2-y14)
+NegatedAtom visited(loc-x2-y14)
+end_variable
+begin_variable
+var134
+-1
+2
+Atom visited(loc-x2-y13)
+NegatedAtom visited(loc-x2-y13)
+end_variable
+begin_variable
+var133
+-1
+2
+Atom visited(loc-x2-y12)
+NegatedAtom visited(loc-x2-y12)
+end_variable
+begin_variable
+var132
+-1
+2
+Atom visited(loc-x2-y11)
+NegatedAtom visited(loc-x2-y11)
+end_variable
+begin_variable
+var131
+-1
+2
+Atom visited(loc-x2-y10)
+NegatedAtom visited(loc-x2-y10)
+end_variable
+begin_variable
+var130
+-1
+2
+Atom visited(loc-x2-y1)
+NegatedAtom visited(loc-x2-y1)
+end_variable
+begin_variable
+var129
+-1
+2
+Atom visited(loc-x2-y0)
+NegatedAtom visited(loc-x2-y0)
+end_variable
+begin_variable
+var128
+-1
+2
+Atom visited(loc-x15-y9)
+NegatedAtom visited(loc-x15-y9)
+end_variable
+begin_variable
+var127
+-1
+2
+Atom visited(loc-x15-y8)
+NegatedAtom visited(loc-x15-y8)
+end_variable
+begin_variable
+var126
+-1
+2
+Atom visited(loc-x15-y7)
+NegatedAtom visited(loc-x15-y7)
+end_variable
+begin_variable
+var125
+-1
+2
+Atom visited(loc-x15-y6)
+NegatedAtom visited(loc-x15-y6)
+end_variable
+begin_variable
+var124
+-1
+2
+Atom visited(loc-x15-y5)
+NegatedAtom visited(loc-x15-y5)
+end_variable
+begin_variable
+var123
+-1
+2
+Atom visited(loc-x15-y4)
+NegatedAtom visited(loc-x15-y4)
+end_variable
+begin_variable
+var122
+-1
+2
+Atom visited(loc-x15-y3)
+NegatedAtom visited(loc-x15-y3)
+end_variable
+begin_variable
+var121
+-1
+2
+Atom visited(loc-x15-y2)
+NegatedAtom visited(loc-x15-y2)
+end_variable
+begin_variable
+var120
+-1
+2
+Atom visited(loc-x15-y15)
+NegatedAtom visited(loc-x15-y15)
+end_variable
+begin_variable
+var119
+-1
+2
+Atom visited(loc-x15-y14)
+NegatedAtom visited(loc-x15-y14)
+end_variable
+begin_variable
+var118
+-1
+2
+Atom visited(loc-x15-y13)
+NegatedAtom visited(loc-x15-y13)
+end_variable
+begin_variable
+var117
+-1
+2
+Atom visited(loc-x15-y12)
+NegatedAtom visited(loc-x15-y12)
+end_variable
+begin_variable
+var116
+-1
+2
+Atom visited(loc-x15-y11)
+NegatedAtom visited(loc-x15-y11)
+end_variable
+begin_variable
+var115
+-1
+2
+Atom visited(loc-x15-y10)
+NegatedAtom visited(loc-x15-y10)
+end_variable
+begin_variable
+var114
+-1
+2
+Atom visited(loc-x15-y1)
+NegatedAtom visited(loc-x15-y1)
+end_variable
+begin_variable
+var113
+-1
+2
+Atom visited(loc-x15-y0)
+NegatedAtom visited(loc-x15-y0)
+end_variable
+begin_variable
+var112
+-1
+2
+Atom visited(loc-x14-y9)
+NegatedAtom visited(loc-x14-y9)
+end_variable
+begin_variable
+var111
+-1
+2
+Atom visited(loc-x14-y8)
+NegatedAtom visited(loc-x14-y8)
+end_variable
+begin_variable
+var110
+-1
+2
+Atom visited(loc-x14-y7)
+NegatedAtom visited(loc-x14-y7)
+end_variable
+begin_variable
+var109
+-1
+2
+Atom visited(loc-x14-y6)
+NegatedAtom visited(loc-x14-y6)
+end_variable
+begin_variable
+var108
+-1
+2
+Atom visited(loc-x14-y5)
+NegatedAtom visited(loc-x14-y5)
+end_variable
+begin_variable
+var107
+-1
+2
+Atom visited(loc-x14-y4)
+NegatedAtom visited(loc-x14-y4)
+end_variable
+begin_variable
+var106
+-1
+2
+Atom visited(loc-x14-y3)
+NegatedAtom visited(loc-x14-y3)
+end_variable
+begin_variable
+var105
+-1
+2
+Atom visited(loc-x14-y2)
+NegatedAtom visited(loc-x14-y2)
+end_variable
+begin_variable
+var104
+-1
+2
+Atom visited(loc-x14-y15)
+NegatedAtom visited(loc-x14-y15)
+end_variable
+begin_variable
+var103
+-1
+2
+Atom visited(loc-x14-y14)
+NegatedAtom visited(loc-x14-y14)
+end_variable
+begin_variable
+var102
+-1
+2
+Atom visited(loc-x14-y13)
+NegatedAtom visited(loc-x14-y13)
+end_variable
+begin_variable
+var101
+-1
+2
+Atom visited(loc-x14-y12)
+NegatedAtom visited(loc-x14-y12)
+end_variable
+begin_variable
+var100
+-1
+2
+Atom visited(loc-x14-y11)
+NegatedAtom visited(loc-x14-y11)
+end_variable
+begin_variable
+var99
+-1
+2
+Atom visited(loc-x14-y10)
+NegatedAtom visited(loc-x14-y10)
+end_variable
+begin_variable
+var98
+-1
+2
+Atom visited(loc-x14-y1)
+NegatedAtom visited(loc-x14-y1)
+end_variable
+begin_variable
+var97
+-1
+2
+Atom visited(loc-x14-y0)
+NegatedAtom visited(loc-x14-y0)
+end_variable
+begin_variable
+var96
+-1
+2
+Atom visited(loc-x13-y9)
+NegatedAtom visited(loc-x13-y9)
+end_variable
+begin_variable
+var95
+-1
+2
+Atom visited(loc-x13-y8)
+NegatedAtom visited(loc-x13-y8)
+end_variable
+begin_variable
+var94
+-1
+2
+Atom visited(loc-x13-y7)
+NegatedAtom visited(loc-x13-y7)
+end_variable
+begin_variable
+var93
+-1
+2
+Atom visited(loc-x13-y6)
+NegatedAtom visited(loc-x13-y6)
+end_variable
+begin_variable
+var92
+-1
+2
+Atom visited(loc-x13-y5)
+NegatedAtom visited(loc-x13-y5)
+end_variable
+begin_variable
+var91
+-1
+2
+Atom visited(loc-x13-y4)
+NegatedAtom visited(loc-x13-y4)
+end_variable
+begin_variable
+var90
+-1
+2
+Atom visited(loc-x13-y3)
+NegatedAtom visited(loc-x13-y3)
+end_variable
+begin_variable
+var89
+-1
+2
+Atom visited(loc-x13-y2)
+NegatedAtom visited(loc-x13-y2)
+end_variable
+begin_variable
+var88
+-1
+2
+Atom visited(loc-x13-y15)
+NegatedAtom visited(loc-x13-y15)
+end_variable
+begin_variable
+var87
+-1
+2
+Atom visited(loc-x13-y14)
+NegatedAtom visited(loc-x13-y14)
+end_variable
+begin_variable
+var86
+-1
+2
+Atom visited(loc-x13-y13)
+NegatedAtom visited(loc-x13-y13)
+end_variable
+begin_variable
+var85
+-1
+2
+Atom visited(loc-x13-y12)
+NegatedAtom visited(loc-x13-y12)
+end_variable
+begin_variable
+var84
+-1
+2
+Atom visited(loc-x13-y11)
+NegatedAtom visited(loc-x13-y11)
+end_variable
+begin_variable
+var83
+-1
+2
+Atom visited(loc-x13-y10)
+NegatedAtom visited(loc-x13-y10)
+end_variable
+begin_variable
+var82
+-1
+2
+Atom visited(loc-x13-y1)
+NegatedAtom visited(loc-x13-y1)
+end_variable
+begin_variable
+var81
+-1
+2
+Atom visited(loc-x13-y0)
+NegatedAtom visited(loc-x13-y0)
+end_variable
+begin_variable
+var80
+-1
+2
+Atom visited(loc-x12-y9)
+NegatedAtom visited(loc-x12-y9)
+end_variable
+begin_variable
+var79
+-1
+2
+Atom visited(loc-x12-y8)
+NegatedAtom visited(loc-x12-y8)
+end_variable
+begin_variable
+var78
+-1
+2
+Atom visited(loc-x12-y7)
+NegatedAtom visited(loc-x12-y7)
+end_variable
+begin_variable
+var77
+-1
+2
+Atom visited(loc-x12-y6)
+NegatedAtom visited(loc-x12-y6)
+end_variable
+begin_variable
+var76
+-1
+2
+Atom visited(loc-x12-y5)
+NegatedAtom visited(loc-x12-y5)
+end_variable
+begin_variable
+var75
+-1
+2
+Atom visited(loc-x12-y4)
+NegatedAtom visited(loc-x12-y4)
+end_variable
+begin_variable
+var74
+-1
+2
+Atom visited(loc-x12-y3)
+NegatedAtom visited(loc-x12-y3)
+end_variable
+begin_variable
+var73
+-1
+2
+Atom visited(loc-x12-y2)
+NegatedAtom visited(loc-x12-y2)
+end_variable
+begin_variable
+var72
+-1
+2
+Atom visited(loc-x12-y15)
+NegatedAtom visited(loc-x12-y15)
+end_variable
+begin_variable
+var71
+-1
+2
+Atom visited(loc-x12-y14)
+NegatedAtom visited(loc-x12-y14)
+end_variable
+begin_variable
+var70
+-1
+2
+Atom visited(loc-x12-y13)
+NegatedAtom visited(loc-x12-y13)
+end_variable
+begin_variable
+var69
+-1
+2
+Atom visited(loc-x12-y12)
+NegatedAtom visited(loc-x12-y12)
+end_variable
+begin_variable
+var68
+-1
+2
+Atom visited(loc-x12-y11)
+NegatedAtom visited(loc-x12-y11)
+end_variable
+begin_variable
+var67
+-1
+2
+Atom visited(loc-x12-y10)
+NegatedAtom visited(loc-x12-y10)
+end_variable
+begin_variable
+var66
+-1
+2
+Atom visited(loc-x12-y1)
+NegatedAtom visited(loc-x12-y1)
+end_variable
+begin_variable
+var65
+-1
+2
+Atom visited(loc-x12-y0)
+NegatedAtom visited(loc-x12-y0)
+end_variable
+begin_variable
+var64
+-1
+2
+Atom visited(loc-x11-y9)
+NegatedAtom visited(loc-x11-y9)
+end_variable
+begin_variable
+var63
+-1
+2
+Atom visited(loc-x11-y8)
+NegatedAtom visited(loc-x11-y8)
+end_variable
+begin_variable
+var62
+-1
+2
+Atom visited(loc-x11-y7)
+NegatedAtom visited(loc-x11-y7)
+end_variable
+begin_variable
+var61
+-1
+2
+Atom visited(loc-x11-y6)
+NegatedAtom visited(loc-x11-y6)
+end_variable
+begin_variable
+var60
+-1
+2
+Atom visited(loc-x11-y5)
+NegatedAtom visited(loc-x11-y5)
+end_variable
+begin_variable
+var59
+-1
+2
+Atom visited(loc-x11-y4)
+NegatedAtom visited(loc-x11-y4)
+end_variable
+begin_variable
+var58
+-1
+2
+Atom visited(loc-x11-y3)
+NegatedAtom visited(loc-x11-y3)
+end_variable
+begin_variable
+var57
+-1
+2
+Atom visited(loc-x11-y2)
+NegatedAtom visited(loc-x11-y2)
+end_variable
+begin_variable
+var56
+-1
+2
+Atom visited(loc-x11-y15)
+NegatedAtom visited(loc-x11-y15)
+end_variable
+begin_variable
+var55
+-1
+2
+Atom visited(loc-x11-y14)
+NegatedAtom visited(loc-x11-y14)
+end_variable
+begin_variable
+var54
+-1
+2
+Atom visited(loc-x11-y13)
+NegatedAtom visited(loc-x11-y13)
+end_variable
+begin_variable
+var53
+-1
+2
+Atom visited(loc-x11-y12)
+NegatedAtom visited(loc-x11-y12)
+end_variable
+begin_variable
+var52
+-1
+2
+Atom visited(loc-x11-y11)
+NegatedAtom visited(loc-x11-y11)
+end_variable
+begin_variable
+var51
+-1
+2
+Atom visited(loc-x11-y10)
+NegatedAtom visited(loc-x11-y10)
+end_variable
+begin_variable
+var50
+-1
+2
+Atom visited(loc-x11-y1)
+NegatedAtom visited(loc-x11-y1)
+end_variable
+begin_variable
+var49
+-1
+2
+Atom visited(loc-x11-y0)
+NegatedAtom visited(loc-x11-y0)
+end_variable
+begin_variable
+var48
+-1
+2
+Atom visited(loc-x10-y9)
+NegatedAtom visited(loc-x10-y9)
+end_variable
+begin_variable
+var47
+-1
+2
+Atom visited(loc-x10-y8)
+NegatedAtom visited(loc-x10-y8)
+end_variable
+begin_variable
+var46
+-1
+2
+Atom visited(loc-x10-y7)
+NegatedAtom visited(loc-x10-y7)
+end_variable
+begin_variable
+var45
+-1
+2
+Atom visited(loc-x10-y6)
+NegatedAtom visited(loc-x10-y6)
+end_variable
+begin_variable
+var44
+-1
+2
+Atom visited(loc-x10-y5)
+NegatedAtom visited(loc-x10-y5)
+end_variable
+begin_variable
+var43
+-1
+2
+Atom visited(loc-x10-y4)
+NegatedAtom visited(loc-x10-y4)
+end_variable
+begin_variable
+var42
+-1
+2
+Atom visited(loc-x10-y3)
+NegatedAtom visited(loc-x10-y3)
+end_variable
+begin_variable
+var41
+-1
+2
+Atom visited(loc-x10-y2)
+NegatedAtom visited(loc-x10-y2)
+end_variable
+begin_variable
+var40
+-1
+2
+Atom visited(loc-x10-y15)
+NegatedAtom visited(loc-x10-y15)
+end_variable
+begin_variable
+var39
+-1
+2
+Atom visited(loc-x10-y14)
+NegatedAtom visited(loc-x10-y14)
+end_variable
+begin_variable
+var38
+-1
+2
+Atom visited(loc-x10-y13)
+NegatedAtom visited(loc-x10-y13)
+end_variable
+begin_variable
+var37
+-1
+2
+Atom visited(loc-x10-y12)
+NegatedAtom visited(loc-x10-y12)
+end_variable
+begin_variable
+var36
+-1
+2
+Atom visited(loc-x10-y11)
+NegatedAtom visited(loc-x10-y11)
+end_variable
+begin_variable
+var35
+-1
+2
+Atom visited(loc-x10-y10)
+NegatedAtom visited(loc-x10-y10)
+end_variable
+begin_variable
+var34
+-1
+2
+Atom visited(loc-x10-y1)
+NegatedAtom visited(loc-x10-y1)
+end_variable
+begin_variable
+var33
+-1
+2
+Atom visited(loc-x10-y0)
+NegatedAtom visited(loc-x10-y0)
+end_variable
+begin_variable
+var32
+-1
+2
+Atom visited(loc-x1-y9)
+NegatedAtom visited(loc-x1-y9)
+end_variable
+begin_variable
+var31
+-1
+2
+Atom visited(loc-x1-y8)
+NegatedAtom visited(loc-x1-y8)
+end_variable
+begin_variable
+var30
+-1
+2
+Atom visited(loc-x1-y7)
+NegatedAtom visited(loc-x1-y7)
+end_variable
+begin_variable
+var29
+-1
+2
+Atom visited(loc-x1-y6)
+NegatedAtom visited(loc-x1-y6)
+end_variable
+begin_variable
+var28
+-1
+2
+Atom visited(loc-x1-y5)
+NegatedAtom visited(loc-x1-y5)
+end_variable
+begin_variable
+var27
+-1
+2
+Atom visited(loc-x1-y4)
+NegatedAtom visited(loc-x1-y4)
+end_variable
+begin_variable
+var26
+-1
+2
+Atom visited(loc-x1-y3)
+NegatedAtom visited(loc-x1-y3)
+end_variable
+begin_variable
+var25
+-1
+2
+Atom visited(loc-x1-y2)
+NegatedAtom visited(loc-x1-y2)
+end_variable
+begin_variable
+var24
+-1
+2
+Atom visited(loc-x1-y15)
+NegatedAtom visited(loc-x1-y15)
+end_variable
+begin_variable
+var23
+-1
+2
+Atom visited(loc-x1-y14)
+NegatedAtom visited(loc-x1-y14)
+end_variable
+begin_variable
+var22
+-1
+2
+Atom visited(loc-x1-y13)
+NegatedAtom visited(loc-x1-y13)
+end_variable
+begin_variable
+var21
+-1
+2
+Atom visited(loc-x1-y12)
+NegatedAtom visited(loc-x1-y12)
+end_variable
+begin_variable
+var20
+-1
+2
+Atom visited(loc-x1-y11)
+NegatedAtom visited(loc-x1-y11)
+end_variable
+begin_variable
+var19
+-1
+2
+Atom visited(loc-x1-y10)
+NegatedAtom visited(loc-x1-y10)
+end_variable
+begin_variable
+var18
+-1
+2
+Atom visited(loc-x1-y1)
+NegatedAtom visited(loc-x1-y1)
+end_variable
+begin_variable
+var17
+-1
+2
+Atom visited(loc-x1-y0)
+NegatedAtom visited(loc-x1-y0)
+end_variable
+begin_variable
+var16
+-1
+2
+Atom visited(loc-x0-y9)
+NegatedAtom visited(loc-x0-y9)
+end_variable
+begin_variable
+var15
+-1
+2
+Atom visited(loc-x0-y8)
+NegatedAtom visited(loc-x0-y8)
+end_variable
+begin_variable
+var14
+-1
+2
+Atom visited(loc-x0-y7)
+NegatedAtom visited(loc-x0-y7)
+end_variable
+begin_variable
+var13
+-1
+2
+Atom visited(loc-x0-y6)
+NegatedAtom visited(loc-x0-y6)
+end_variable
+begin_variable
+var12
+-1
+2
+Atom visited(loc-x0-y5)
+NegatedAtom visited(loc-x0-y5)
+end_variable
+begin_variable
+var11
+-1
+2
+Atom visited(loc-x0-y4)
+NegatedAtom visited(loc-x0-y4)
+end_variable
+begin_variable
+var10
+-1
+2
+Atom visited(loc-x0-y3)
+NegatedAtom visited(loc-x0-y3)
+end_variable
+begin_variable
+var9
+-1
+2
+Atom visited(loc-x0-y2)
+NegatedAtom visited(loc-x0-y2)
+end_variable
+begin_variable
+var8
+-1
+2
+Atom visited(loc-x0-y15)
+NegatedAtom visited(loc-x0-y15)
+end_variable
+begin_variable
+var7
+-1
+2
+Atom visited(loc-x0-y14)
+NegatedAtom visited(loc-x0-y14)
+end_variable
+begin_variable
+var6
+-1
+2
+Atom visited(loc-x0-y13)
+NegatedAtom visited(loc-x0-y13)
+end_variable
+begin_variable
+var5
+-1
+2
+Atom visited(loc-x0-y12)
+NegatedAtom visited(loc-x0-y12)
+end_variable
+begin_variable
+var4
+-1
+2
+Atom visited(loc-x0-y11)
+NegatedAtom visited(loc-x0-y11)
+end_variable
+begin_variable
+var3
+-1
+2
+Atom visited(loc-x0-y10)
+NegatedAtom visited(loc-x0-y10)
+end_variable
+begin_variable
+var2
+-1
+2
+Atom visited(loc-x0-y1)
+NegatedAtom visited(loc-x0-y1)
+end_variable
+begin_variable
+var1
+-1
+2
+Atom visited(loc-x0-y0)
+NegatedAtom visited(loc-x0-y0)
+end_variable
+0
+begin_state
+238
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+end_state
+begin_goal
+255
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+49 0
+50 0
+51 0
+52 0
+53 0
+54 0
+55 0
+56 0
+57 0
+58 0
+59 0
+60 0
+61 0
+62 0
+63 0
+64 0
+65 0
+66 0
+67 0
+68 0
+69 0
+70 0
+71 0
+72 0
+73 0
+74 0
+75 0
+76 0
+77 0
+78 0
+79 0
+80 0
+81 0
+82 0
+83 0
+84 0
+85 0
+86 0
+87 0
+88 0
+89 0
+90 0
+91 0
+92 0
+93 0
+94 0
+95 0
+96 0
+97 0
+98 0
+99 0
+100 0
+101 0
+102 0
+103 0
+104 0
+105 0
+106 0
+107 0
+108 0
+109 0
+110 0
+111 0
+112 0
+113 0
+114 0
+115 0
+116 0
+117 0
+118 0
+119 0
+120 0
+121 0
+122 0
+123 0
+124 0
+125 0
+126 0
+127 0
+128 0
+129 0
+130 0
+131 0
+132 0
+133 0
+134 0
+135 0
+136 0
+137 0
+138 0
+139 0
+140 0
+141 0
+142 0
+143 0
+144 0
+145 0
+146 0
+147 0
+148 0
+149 0
+150 0
+151 0
+152 0
+153 0
+154 0
+155 0
+156 0
+157 0
+158 0
+159 0
+160 0
+161 0
+162 0
+163 0
+164 0
+165 0
+166 0
+167 0
+168 0
+169 0
+170 0
+171 0
+172 0
+173 0
+174 0
+175 0
+176 0
+177 0
+178 0
+179 0
+180 0
+181 0
+182 0
+183 0
+184 0
+185 0
+186 0
+187 0
+188 0
+189 0
+190 0
+191 0
+192 0
+193 0
+194 0
+195 0
+196 0
+197 0
+198 0
+199 0
+200 0
+201 0
+202 0
+203 0
+204 0
+205 0
+206 0
+207 0
+208 0
+209 0
+210 0
+211 0
+212 0
+213 0
+214 0
+215 0
+216 0
+217 0
+218 0
+219 0
+220 0
+221 0
+222 0
+223 0
+224 0
+225 0
+226 0
+227 0
+228 0
+229 0
+230 0
+231 0
+232 0
+233 0
+234 0
+235 0
+236 0
+237 0
+238 0
+239 0
+240 0
+241 0
+242 0
+243 0
+244 0
+245 0
+246 0
+247 0
+248 0
+249 0
+250 0
+251 0
+252 0
+253 0
+254 0
+255 0
+end_goal
+960
+begin_operator
+move loc-x0-y0 loc-x0-y1
+0
+2
+0 0 0 1
+0 254 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y0 loc-x1-y0
+0
+2
+0 0 0 16
+0 239 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y1 loc-x0-y0
+0
+2
+0 0 1 0
+0 255 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y1 loc-x0-y2
+0
+2
+0 0 1 8
+0 247 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y1 loc-x1-y1
+0
+2
+0 0 1 17
+0 238 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y10 loc-x0-y11
+0
+2
+0 0 2 3
+0 252 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y10 loc-x0-y9
+0
+2
+0 0 2 15
+0 240 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y10 loc-x1-y10
+0
+2
+0 0 2 18
+0 237 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y11 loc-x0-y10
+0
+2
+0 0 3 2
+0 253 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y11 loc-x0-y12
+0
+2
+0 0 3 4
+0 251 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y11 loc-x1-y11
+0
+2
+0 0 3 19
+0 236 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y12 loc-x0-y11
+0
+2
+0 0 4 3
+0 252 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y12 loc-x0-y13
+0
+2
+0 0 4 5
+0 250 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y12 loc-x1-y12
+0
+2
+0 0 4 20
+0 235 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y13 loc-x0-y12
+0
+2
+0 0 5 4
+0 251 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y13 loc-x0-y14
+0
+2
+0 0 5 6
+0 249 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y13 loc-x1-y13
+0
+2
+0 0 5 21
+0 234 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y14 loc-x0-y13
+0
+2
+0 0 6 5
+0 250 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y14 loc-x0-y15
+0
+2
+0 0 6 7
+0 248 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y14 loc-x1-y14
+0
+2
+0 0 6 22
+0 233 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y15 loc-x0-y14
+0
+2
+0 0 7 6
+0 249 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y15 loc-x1-y15
+0
+2
+0 0 7 23
+0 232 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y2 loc-x0-y1
+0
+2
+0 0 8 1
+0 254 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y2 loc-x0-y3
+0
+2
+0 0 8 9
+0 246 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y2 loc-x1-y2
+0
+2
+0 0 8 24
+0 231 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y3 loc-x0-y2
+0
+2
+0 0 9 8
+0 247 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y3 loc-x0-y4
+0
+2
+0 0 9 10
+0 245 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y3 loc-x1-y3
+0
+2
+0 0 9 25
+0 230 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y4 loc-x0-y3
+0
+2
+0 0 10 9
+0 246 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y4 loc-x0-y5
+0
+2
+0 0 10 11
+0 244 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y4 loc-x1-y4
+0
+2
+0 0 10 26
+0 229 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y5 loc-x0-y4
+0
+2
+0 0 11 10
+0 245 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y5 loc-x0-y6
+0
+2
+0 0 11 12
+0 243 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y5 loc-x1-y5
+0
+2
+0 0 11 27
+0 228 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y6 loc-x0-y5
+0
+2
+0 0 12 11
+0 244 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y6 loc-x0-y7
+0
+2
+0 0 12 13
+0 242 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y6 loc-x1-y6
+0
+2
+0 0 12 28
+0 227 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y7 loc-x0-y6
+0
+2
+0 0 13 12
+0 243 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y7 loc-x0-y8
+0
+2
+0 0 13 14
+0 241 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y7 loc-x1-y7
+0
+2
+0 0 13 29
+0 226 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y8 loc-x0-y7
+0
+2
+0 0 14 13
+0 242 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y8 loc-x0-y9
+0
+2
+0 0 14 15
+0 240 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y8 loc-x1-y8
+0
+2
+0 0 14 30
+0 225 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y9 loc-x0-y10
+0
+2
+0 0 15 2
+0 253 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y9 loc-x0-y8
+0
+2
+0 0 15 14
+0 241 -1 0
+0
+end_operator
+begin_operator
+move loc-x0-y9 loc-x1-y9
+0
+2
+0 0 15 31
+0 224 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y0 loc-x0-y0
+0
+2
+0 0 16 0
+0 255 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y0 loc-x1-y1
+0
+2
+0 0 16 17
+0 238 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y0 loc-x2-y0
+0
+2
+0 0 16 128
+0 127 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y1 loc-x0-y1
+0
+2
+0 0 17 1
+0 254 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y1 loc-x1-y0
+0
+2
+0 0 17 16
+0 239 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y1 loc-x1-y2
+0
+2
+0 0 17 24
+0 231 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y1 loc-x2-y1
+0
+2
+0 0 17 129
+0 126 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y10 loc-x0-y10
+0
+2
+0 0 18 2
+0 253 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y10 loc-x1-y11
+0
+2
+0 0 18 19
+0 236 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y10 loc-x1-y9
+0
+2
+0 0 18 31
+0 224 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y10 loc-x2-y10
+0
+2
+0 0 18 130
+0 125 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y11 loc-x0-y11
+0
+2
+0 0 19 3
+0 252 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y11 loc-x1-y10
+0
+2
+0 0 19 18
+0 237 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y11 loc-x1-y12
+0
+2
+0 0 19 20
+0 235 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y11 loc-x2-y11
+0
+2
+0 0 19 131
+0 124 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y12 loc-x0-y12
+0
+2
+0 0 20 4
+0 251 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y12 loc-x1-y11
+0
+2
+0 0 20 19
+0 236 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y12 loc-x1-y13
+0
+2
+0 0 20 21
+0 234 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y12 loc-x2-y12
+0
+2
+0 0 20 132
+0 123 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y13 loc-x0-y13
+0
+2
+0 0 21 5
+0 250 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y13 loc-x1-y12
+0
+2
+0 0 21 20
+0 235 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y13 loc-x1-y14
+0
+2
+0 0 21 22
+0 233 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y13 loc-x2-y13
+0
+2
+0 0 21 133
+0 122 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y14 loc-x0-y14
+0
+2
+0 0 22 6
+0 249 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y14 loc-x1-y13
+0
+2
+0 0 22 21
+0 234 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y14 loc-x1-y15
+0
+2
+0 0 22 23
+0 232 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y14 loc-x2-y14
+0
+2
+0 0 22 134
+0 121 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y15 loc-x0-y15
+0
+2
+0 0 23 7
+0 248 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y15 loc-x1-y14
+0
+2
+0 0 23 22
+0 233 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y15 loc-x2-y15
+0
+2
+0 0 23 135
+0 120 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y2 loc-x0-y2
+0
+2
+0 0 24 8
+0 247 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y2 loc-x1-y1
+0
+2
+0 0 24 17
+0 238 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y2 loc-x1-y3
+0
+2
+0 0 24 25
+0 230 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y2 loc-x2-y2
+0
+2
+0 0 24 136
+0 119 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y3 loc-x0-y3
+0
+2
+0 0 25 9
+0 246 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y3 loc-x1-y2
+0
+2
+0 0 25 24
+0 231 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y3 loc-x1-y4
+0
+2
+0 0 25 26
+0 229 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y3 loc-x2-y3
+0
+2
+0 0 25 137
+0 118 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y4 loc-x0-y4
+0
+2
+0 0 26 10
+0 245 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y4 loc-x1-y3
+0
+2
+0 0 26 25
+0 230 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y4 loc-x1-y5
+0
+2
+0 0 26 27
+0 228 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y4 loc-x2-y4
+0
+2
+0 0 26 138
+0 117 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y5 loc-x0-y5
+0
+2
+0 0 27 11
+0 244 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y5 loc-x1-y4
+0
+2
+0 0 27 26
+0 229 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y5 loc-x1-y6
+0
+2
+0 0 27 28
+0 227 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y5 loc-x2-y5
+0
+2
+0 0 27 139
+0 116 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y6 loc-x0-y6
+0
+2
+0 0 28 12
+0 243 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y6 loc-x1-y5
+0
+2
+0 0 28 27
+0 228 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y6 loc-x1-y7
+0
+2
+0 0 28 29
+0 226 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y6 loc-x2-y6
+0
+2
+0 0 28 140
+0 115 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y7 loc-x0-y7
+0
+2
+0 0 29 13
+0 242 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y7 loc-x1-y6
+0
+2
+0 0 29 28
+0 227 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y7 loc-x1-y8
+0
+2
+0 0 29 30
+0 225 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y7 loc-x2-y7
+0
+2
+0 0 29 141
+0 114 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y8 loc-x0-y8
+0
+2
+0 0 30 14
+0 241 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y8 loc-x1-y7
+0
+2
+0 0 30 29
+0 226 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y8 loc-x1-y9
+0
+2
+0 0 30 31
+0 224 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y8 loc-x2-y8
+0
+2
+0 0 30 142
+0 113 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y9 loc-x0-y9
+0
+2
+0 0 31 15
+0 240 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y9 loc-x1-y10
+0
+2
+0 0 31 18
+0 237 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y9 loc-x1-y8
+0
+2
+0 0 31 30
+0 225 -1 0
+0
+end_operator
+begin_operator
+move loc-x1-y9 loc-x2-y9
+0
+2
+0 0 31 143
+0 112 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y0 loc-x10-y1
+0
+2
+0 0 32 33
+0 222 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y0 loc-x11-y0
+0
+2
+0 0 32 48
+0 207 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y0 loc-x9-y0
+0
+2
+0 0 32 240
+0 16 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y1 loc-x10-y0
+0
+2
+0 0 33 32
+0 223 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y1 loc-x10-y2
+0
+2
+0 0 33 40
+0 215 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y1 loc-x11-y1
+0
+2
+0 0 33 49
+0 206 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y1 loc-x9-y1
+0
+2
+0 0 33 241
+0 15 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y10 loc-x10-y11
+0
+2
+0 0 34 35
+0 220 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y10 loc-x10-y9
+0
+2
+0 0 34 47
+0 208 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y10 loc-x11-y10
+0
+2
+0 0 34 50
+0 205 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y10 loc-x9-y10
+0
+2
+0 0 34 242
+0 14 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y11 loc-x10-y10
+0
+2
+0 0 35 34
+0 221 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y11 loc-x10-y12
+0
+2
+0 0 35 36
+0 219 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y11 loc-x11-y11
+0
+2
+0 0 35 51
+0 204 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y11 loc-x9-y11
+0
+2
+0 0 35 243
+0 13 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y12 loc-x10-y11
+0
+2
+0 0 36 35
+0 220 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y12 loc-x10-y13
+0
+2
+0 0 36 37
+0 218 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y12 loc-x11-y12
+0
+2
+0 0 36 52
+0 203 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y12 loc-x9-y12
+0
+2
+0 0 36 244
+0 12 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y13 loc-x10-y12
+0
+2
+0 0 37 36
+0 219 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y13 loc-x10-y14
+0
+2
+0 0 37 38
+0 217 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y13 loc-x11-y13
+0
+2
+0 0 37 53
+0 202 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y13 loc-x9-y13
+0
+2
+0 0 37 245
+0 11 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y14 loc-x10-y13
+0
+2
+0 0 38 37
+0 218 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y14 loc-x10-y15
+0
+2
+0 0 38 39
+0 216 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y14 loc-x11-y14
+0
+2
+0 0 38 54
+0 201 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y14 loc-x9-y14
+0
+2
+0 0 38 246
+0 10 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y15 loc-x10-y14
+0
+2
+0 0 39 38
+0 217 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y15 loc-x11-y15
+0
+2
+0 0 39 55
+0 200 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y15 loc-x9-y15
+0
+2
+0 0 39 247
+0 9 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y2 loc-x10-y1
+0
+2
+0 0 40 33
+0 222 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y2 loc-x10-y3
+0
+2
+0 0 40 41
+0 214 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y2 loc-x11-y2
+0
+2
+0 0 40 56
+0 199 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y2 loc-x9-y2
+0
+2
+0 0 40 248
+0 8 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y3 loc-x10-y2
+0
+2
+0 0 41 40
+0 215 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y3 loc-x10-y4
+0
+2
+0 0 41 42
+0 213 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y3 loc-x11-y3
+0
+2
+0 0 41 57
+0 198 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y3 loc-x9-y3
+0
+2
+0 0 41 249
+0 7 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y4 loc-x10-y3
+0
+2
+0 0 42 41
+0 214 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y4 loc-x10-y5
+0
+2
+0 0 42 43
+0 212 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y4 loc-x11-y4
+0
+2
+0 0 42 58
+0 197 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y4 loc-x9-y4
+0
+2
+0 0 42 250
+0 6 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y5 loc-x10-y4
+0
+2
+0 0 43 42
+0 213 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y5 loc-x10-y6
+0
+2
+0 0 43 44
+0 211 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y5 loc-x11-y5
+0
+2
+0 0 43 59
+0 196 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y5 loc-x9-y5
+0
+2
+0 0 43 251
+0 5 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y6 loc-x10-y5
+0
+2
+0 0 44 43
+0 212 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y6 loc-x10-y7
+0
+2
+0 0 44 45
+0 210 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y6 loc-x11-y6
+0
+2
+0 0 44 60
+0 195 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y6 loc-x9-y6
+0
+2
+0 0 44 252
+0 4 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y7 loc-x10-y6
+0
+2
+0 0 45 44
+0 211 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y7 loc-x10-y8
+0
+2
+0 0 45 46
+0 209 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y7 loc-x11-y7
+0
+2
+0 0 45 61
+0 194 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y7 loc-x9-y7
+0
+2
+0 0 45 253
+0 3 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y8 loc-x10-y7
+0
+2
+0 0 46 45
+0 210 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y8 loc-x10-y9
+0
+2
+0 0 46 47
+0 208 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y8 loc-x11-y8
+0
+2
+0 0 46 62
+0 193 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y8 loc-x9-y8
+0
+2
+0 0 46 254
+0 2 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y9 loc-x10-y10
+0
+2
+0 0 47 34
+0 221 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y9 loc-x10-y8
+0
+2
+0 0 47 46
+0 209 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y9 loc-x11-y9
+0
+2
+0 0 47 63
+0 192 -1 0
+0
+end_operator
+begin_operator
+move loc-x10-y9 loc-x9-y9
+0
+2
+0 0 47 255
+0 1 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y0 loc-x10-y0
+0
+2
+0 0 48 32
+0 223 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y0 loc-x11-y1
+0
+2
+0 0 48 49
+0 206 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y0 loc-x12-y0
+0
+2
+0 0 48 64
+0 191 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y1 loc-x10-y1
+0
+2
+0 0 49 33
+0 222 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y1 loc-x11-y0
+0
+2
+0 0 49 48
+0 207 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y1 loc-x11-y2
+0
+2
+0 0 49 56
+0 199 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y1 loc-x12-y1
+0
+2
+0 0 49 65
+0 190 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y10 loc-x10-y10
+0
+2
+0 0 50 34
+0 221 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y10 loc-x11-y11
+0
+2
+0 0 50 51
+0 204 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y10 loc-x11-y9
+0
+2
+0 0 50 63
+0 192 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y10 loc-x12-y10
+0
+2
+0 0 50 66
+0 189 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y11 loc-x10-y11
+0
+2
+0 0 51 35
+0 220 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y11 loc-x11-y10
+0
+2
+0 0 51 50
+0 205 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y11 loc-x11-y12
+0
+2
+0 0 51 52
+0 203 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y11 loc-x12-y11
+0
+2
+0 0 51 67
+0 188 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y12 loc-x10-y12
+0
+2
+0 0 52 36
+0 219 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y12 loc-x11-y11
+0
+2
+0 0 52 51
+0 204 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y12 loc-x11-y13
+0
+2
+0 0 52 53
+0 202 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y12 loc-x12-y12
+0
+2
+0 0 52 68
+0 187 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y13 loc-x10-y13
+0
+2
+0 0 53 37
+0 218 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y13 loc-x11-y12
+0
+2
+0 0 53 52
+0 203 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y13 loc-x11-y14
+0
+2
+0 0 53 54
+0 201 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y13 loc-x12-y13
+0
+2
+0 0 53 69
+0 186 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y14 loc-x10-y14
+0
+2
+0 0 54 38
+0 217 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y14 loc-x11-y13
+0
+2
+0 0 54 53
+0 202 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y14 loc-x11-y15
+0
+2
+0 0 54 55
+0 200 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y14 loc-x12-y14
+0
+2
+0 0 54 70
+0 185 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y15 loc-x10-y15
+0
+2
+0 0 55 39
+0 216 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y15 loc-x11-y14
+0
+2
+0 0 55 54
+0 201 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y15 loc-x12-y15
+0
+2
+0 0 55 71
+0 184 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y2 loc-x10-y2
+0
+2
+0 0 56 40
+0 215 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y2 loc-x11-y1
+0
+2
+0 0 56 49
+0 206 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y2 loc-x11-y3
+0
+2
+0 0 56 57
+0 198 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y2 loc-x12-y2
+0
+2
+0 0 56 72
+0 183 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y3 loc-x10-y3
+0
+2
+0 0 57 41
+0 214 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y3 loc-x11-y2
+0
+2
+0 0 57 56
+0 199 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y3 loc-x11-y4
+0
+2
+0 0 57 58
+0 197 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y3 loc-x12-y3
+0
+2
+0 0 57 73
+0 182 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y4 loc-x10-y4
+0
+2
+0 0 58 42
+0 213 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y4 loc-x11-y3
+0
+2
+0 0 58 57
+0 198 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y4 loc-x11-y5
+0
+2
+0 0 58 59
+0 196 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y4 loc-x12-y4
+0
+2
+0 0 58 74
+0 181 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y5 loc-x10-y5
+0
+2
+0 0 59 43
+0 212 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y5 loc-x11-y4
+0
+2
+0 0 59 58
+0 197 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y5 loc-x11-y6
+0
+2
+0 0 59 60
+0 195 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y5 loc-x12-y5
+0
+2
+0 0 59 75
+0 180 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y6 loc-x10-y6
+0
+2
+0 0 60 44
+0 211 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y6 loc-x11-y5
+0
+2
+0 0 60 59
+0 196 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y6 loc-x11-y7
+0
+2
+0 0 60 61
+0 194 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y6 loc-x12-y6
+0
+2
+0 0 60 76
+0 179 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y7 loc-x10-y7
+0
+2
+0 0 61 45
+0 210 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y7 loc-x11-y6
+0
+2
+0 0 61 60
+0 195 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y7 loc-x11-y8
+0
+2
+0 0 61 62
+0 193 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y7 loc-x12-y7
+0
+2
+0 0 61 77
+0 178 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y8 loc-x10-y8
+0
+2
+0 0 62 46
+0 209 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y8 loc-x11-y7
+0
+2
+0 0 62 61
+0 194 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y8 loc-x11-y9
+0
+2
+0 0 62 63
+0 192 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y8 loc-x12-y8
+0
+2
+0 0 62 78
+0 177 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y9 loc-x10-y9
+0
+2
+0 0 63 47
+0 208 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y9 loc-x11-y10
+0
+2
+0 0 63 50
+0 205 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y9 loc-x11-y8
+0
+2
+0 0 63 62
+0 193 -1 0
+0
+end_operator
+begin_operator
+move loc-x11-y9 loc-x12-y9
+0
+2
+0 0 63 79
+0 176 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y0 loc-x11-y0
+0
+2
+0 0 64 48
+0 207 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y0 loc-x12-y1
+0
+2
+0 0 64 65
+0 190 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y0 loc-x13-y0
+0
+2
+0 0 64 80
+0 175 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y1 loc-x11-y1
+0
+2
+0 0 65 49
+0 206 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y1 loc-x12-y0
+0
+2
+0 0 65 64
+0 191 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y1 loc-x12-y2
+0
+2
+0 0 65 72
+0 183 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y1 loc-x13-y1
+0
+2
+0 0 65 81
+0 174 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y10 loc-x11-y10
+0
+2
+0 0 66 50
+0 205 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y10 loc-x12-y11
+0
+2
+0 0 66 67
+0 188 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y10 loc-x12-y9
+0
+2
+0 0 66 79
+0 176 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y10 loc-x13-y10
+0
+2
+0 0 66 82
+0 173 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y11 loc-x11-y11
+0
+2
+0 0 67 51
+0 204 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y11 loc-x12-y10
+0
+2
+0 0 67 66
+0 189 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y11 loc-x12-y12
+0
+2
+0 0 67 68
+0 187 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y11 loc-x13-y11
+0
+2
+0 0 67 83
+0 172 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y12 loc-x11-y12
+0
+2
+0 0 68 52
+0 203 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y12 loc-x12-y11
+0
+2
+0 0 68 67
+0 188 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y12 loc-x12-y13
+0
+2
+0 0 68 69
+0 186 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y12 loc-x13-y12
+0
+2
+0 0 68 84
+0 171 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y13 loc-x11-y13
+0
+2
+0 0 69 53
+0 202 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y13 loc-x12-y12
+0
+2
+0 0 69 68
+0 187 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y13 loc-x12-y14
+0
+2
+0 0 69 70
+0 185 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y13 loc-x13-y13
+0
+2
+0 0 69 85
+0 170 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y14 loc-x11-y14
+0
+2
+0 0 70 54
+0 201 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y14 loc-x12-y13
+0
+2
+0 0 70 69
+0 186 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y14 loc-x12-y15
+0
+2
+0 0 70 71
+0 184 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y14 loc-x13-y14
+0
+2
+0 0 70 86
+0 169 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y15 loc-x11-y15
+0
+2
+0 0 71 55
+0 200 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y15 loc-x12-y14
+0
+2
+0 0 71 70
+0 185 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y15 loc-x13-y15
+0
+2
+0 0 71 87
+0 168 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y2 loc-x11-y2
+0
+2
+0 0 72 56
+0 199 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y2 loc-x12-y1
+0
+2
+0 0 72 65
+0 190 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y2 loc-x12-y3
+0
+2
+0 0 72 73
+0 182 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y2 loc-x13-y2
+0
+2
+0 0 72 88
+0 167 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y3 loc-x11-y3
+0
+2
+0 0 73 57
+0 198 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y3 loc-x12-y2
+0
+2
+0 0 73 72
+0 183 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y3 loc-x12-y4
+0
+2
+0 0 73 74
+0 181 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y3 loc-x13-y3
+0
+2
+0 0 73 89
+0 166 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y4 loc-x11-y4
+0
+2
+0 0 74 58
+0 197 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y4 loc-x12-y3
+0
+2
+0 0 74 73
+0 182 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y4 loc-x12-y5
+0
+2
+0 0 74 75
+0 180 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y4 loc-x13-y4
+0
+2
+0 0 74 90
+0 165 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y5 loc-x11-y5
+0
+2
+0 0 75 59
+0 196 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y5 loc-x12-y4
+0
+2
+0 0 75 74
+0 181 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y5 loc-x12-y6
+0
+2
+0 0 75 76
+0 179 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y5 loc-x13-y5
+0
+2
+0 0 75 91
+0 164 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y6 loc-x11-y6
+0
+2
+0 0 76 60
+0 195 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y6 loc-x12-y5
+0
+2
+0 0 76 75
+0 180 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y6 loc-x12-y7
+0
+2
+0 0 76 77
+0 178 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y6 loc-x13-y6
+0
+2
+0 0 76 92
+0 163 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y7 loc-x11-y7
+0
+2
+0 0 77 61
+0 194 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y7 loc-x12-y6
+0
+2
+0 0 77 76
+0 179 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y7 loc-x12-y8
+0
+2
+0 0 77 78
+0 177 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y7 loc-x13-y7
+0
+2
+0 0 77 93
+0 162 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y8 loc-x11-y8
+0
+2
+0 0 78 62
+0 193 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y8 loc-x12-y7
+0
+2
+0 0 78 77
+0 178 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y8 loc-x12-y9
+0
+2
+0 0 78 79
+0 176 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y8 loc-x13-y8
+0
+2
+0 0 78 94
+0 161 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y9 loc-x11-y9
+0
+2
+0 0 79 63
+0 192 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y9 loc-x12-y10
+0
+2
+0 0 79 66
+0 189 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y9 loc-x12-y8
+0
+2
+0 0 79 78
+0 177 -1 0
+0
+end_operator
+begin_operator
+move loc-x12-y9 loc-x13-y9
+0
+2
+0 0 79 95
+0 160 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y0 loc-x12-y0
+0
+2
+0 0 80 64
+0 191 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y0 loc-x13-y1
+0
+2
+0 0 80 81
+0 174 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y0 loc-x14-y0
+0
+2
+0 0 80 96
+0 159 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y1 loc-x12-y1
+0
+2
+0 0 81 65
+0 190 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y1 loc-x13-y0
+0
+2
+0 0 81 80
+0 175 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y1 loc-x13-y2
+0
+2
+0 0 81 88
+0 167 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y1 loc-x14-y1
+0
+2
+0 0 81 97
+0 158 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y10 loc-x12-y10
+0
+2
+0 0 82 66
+0 189 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y10 loc-x13-y11
+0
+2
+0 0 82 83
+0 172 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y10 loc-x13-y9
+0
+2
+0 0 82 95
+0 160 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y10 loc-x14-y10
+0
+2
+0 0 82 98
+0 157 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y11 loc-x12-y11
+0
+2
+0 0 83 67
+0 188 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y11 loc-x13-y10
+0
+2
+0 0 83 82
+0 173 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y11 loc-x13-y12
+0
+2
+0 0 83 84
+0 171 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y11 loc-x14-y11
+0
+2
+0 0 83 99
+0 156 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y12 loc-x12-y12
+0
+2
+0 0 84 68
+0 187 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y12 loc-x13-y11
+0
+2
+0 0 84 83
+0 172 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y12 loc-x13-y13
+0
+2
+0 0 84 85
+0 170 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y12 loc-x14-y12
+0
+2
+0 0 84 100
+0 155 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y13 loc-x12-y13
+0
+2
+0 0 85 69
+0 186 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y13 loc-x13-y12
+0
+2
+0 0 85 84
+0 171 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y13 loc-x13-y14
+0
+2
+0 0 85 86
+0 169 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y13 loc-x14-y13
+0
+2
+0 0 85 101
+0 154 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y14 loc-x12-y14
+0
+2
+0 0 86 70
+0 185 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y14 loc-x13-y13
+0
+2
+0 0 86 85
+0 170 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y14 loc-x13-y15
+0
+2
+0 0 86 87
+0 168 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y14 loc-x14-y14
+0
+2
+0 0 86 102
+0 153 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y15 loc-x12-y15
+0
+2
+0 0 87 71
+0 184 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y15 loc-x13-y14
+0
+2
+0 0 87 86
+0 169 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y15 loc-x14-y15
+0
+2
+0 0 87 103
+0 152 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y2 loc-x12-y2
+0
+2
+0 0 88 72
+0 183 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y2 loc-x13-y1
+0
+2
+0 0 88 81
+0 174 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y2 loc-x13-y3
+0
+2
+0 0 88 89
+0 166 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y2 loc-x14-y2
+0
+2
+0 0 88 104
+0 151 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y3 loc-x12-y3
+0
+2
+0 0 89 73
+0 182 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y3 loc-x13-y2
+0
+2
+0 0 89 88
+0 167 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y3 loc-x13-y4
+0
+2
+0 0 89 90
+0 165 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y3 loc-x14-y3
+0
+2
+0 0 89 105
+0 150 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y4 loc-x12-y4
+0
+2
+0 0 90 74
+0 181 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y4 loc-x13-y3
+0
+2
+0 0 90 89
+0 166 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y4 loc-x13-y5
+0
+2
+0 0 90 91
+0 164 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y4 loc-x14-y4
+0
+2
+0 0 90 106
+0 149 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y5 loc-x12-y5
+0
+2
+0 0 91 75
+0 180 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y5 loc-x13-y4
+0
+2
+0 0 91 90
+0 165 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y5 loc-x13-y6
+0
+2
+0 0 91 92
+0 163 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y5 loc-x14-y5
+0
+2
+0 0 91 107
+0 148 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y6 loc-x12-y6
+0
+2
+0 0 92 76
+0 179 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y6 loc-x13-y5
+0
+2
+0 0 92 91
+0 164 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y6 loc-x13-y7
+0
+2
+0 0 92 93
+0 162 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y6 loc-x14-y6
+0
+2
+0 0 92 108
+0 147 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y7 loc-x12-y7
+0
+2
+0 0 93 77
+0 178 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y7 loc-x13-y6
+0
+2
+0 0 93 92
+0 163 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y7 loc-x13-y8
+0
+2
+0 0 93 94
+0 161 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y7 loc-x14-y7
+0
+2
+0 0 93 109
+0 146 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y8 loc-x12-y8
+0
+2
+0 0 94 78
+0 177 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y8 loc-x13-y7
+0
+2
+0 0 94 93
+0 162 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y8 loc-x13-y9
+0
+2
+0 0 94 95
+0 160 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y8 loc-x14-y8
+0
+2
+0 0 94 110
+0 145 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y9 loc-x12-y9
+0
+2
+0 0 95 79
+0 176 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y9 loc-x13-y10
+0
+2
+0 0 95 82
+0 173 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y9 loc-x13-y8
+0
+2
+0 0 95 94
+0 161 -1 0
+0
+end_operator
+begin_operator
+move loc-x13-y9 loc-x14-y9
+0
+2
+0 0 95 111
+0 144 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y0 loc-x13-y0
+0
+2
+0 0 96 80
+0 175 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y0 loc-x14-y1
+0
+2
+0 0 96 97
+0 158 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y0 loc-x15-y0
+0
+2
+0 0 96 112
+0 143 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y1 loc-x13-y1
+0
+2
+0 0 97 81
+0 174 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y1 loc-x14-y0
+0
+2
+0 0 97 96
+0 159 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y1 loc-x14-y2
+0
+2
+0 0 97 104
+0 151 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y1 loc-x15-y1
+0
+2
+0 0 97 113
+0 142 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y10 loc-x13-y10
+0
+2
+0 0 98 82
+0 173 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y10 loc-x14-y11
+0
+2
+0 0 98 99
+0 156 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y10 loc-x14-y9
+0
+2
+0 0 98 111
+0 144 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y10 loc-x15-y10
+0
+2
+0 0 98 114
+0 141 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y11 loc-x13-y11
+0
+2
+0 0 99 83
+0 172 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y11 loc-x14-y10
+0
+2
+0 0 99 98
+0 157 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y11 loc-x14-y12
+0
+2
+0 0 99 100
+0 155 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y11 loc-x15-y11
+0
+2
+0 0 99 115
+0 140 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y12 loc-x13-y12
+0
+2
+0 0 100 84
+0 171 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y12 loc-x14-y11
+0
+2
+0 0 100 99
+0 156 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y12 loc-x14-y13
+0
+2
+0 0 100 101
+0 154 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y12 loc-x15-y12
+0
+2
+0 0 100 116
+0 139 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y13 loc-x13-y13
+0
+2
+0 0 101 85
+0 170 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y13 loc-x14-y12
+0
+2
+0 0 101 100
+0 155 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y13 loc-x14-y14
+0
+2
+0 0 101 102
+0 153 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y13 loc-x15-y13
+0
+2
+0 0 101 117
+0 138 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y14 loc-x13-y14
+0
+2
+0 0 102 86
+0 169 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y14 loc-x14-y13
+0
+2
+0 0 102 101
+0 154 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y14 loc-x14-y15
+0
+2
+0 0 102 103
+0 152 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y14 loc-x15-y14
+0
+2
+0 0 102 118
+0 137 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y15 loc-x13-y15
+0
+2
+0 0 103 87
+0 168 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y15 loc-x14-y14
+0
+2
+0 0 103 102
+0 153 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y15 loc-x15-y15
+0
+2
+0 0 103 119
+0 136 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y2 loc-x13-y2
+0
+2
+0 0 104 88
+0 167 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y2 loc-x14-y1
+0
+2
+0 0 104 97
+0 158 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y2 loc-x14-y3
+0
+2
+0 0 104 105
+0 150 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y2 loc-x15-y2
+0
+2
+0 0 104 120
+0 135 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y3 loc-x13-y3
+0
+2
+0 0 105 89
+0 166 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y3 loc-x14-y2
+0
+2
+0 0 105 104
+0 151 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y3 loc-x14-y4
+0
+2
+0 0 105 106
+0 149 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y3 loc-x15-y3
+0
+2
+0 0 105 121
+0 134 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y4 loc-x13-y4
+0
+2
+0 0 106 90
+0 165 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y4 loc-x14-y3
+0
+2
+0 0 106 105
+0 150 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y4 loc-x14-y5
+0
+2
+0 0 106 107
+0 148 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y4 loc-x15-y4
+0
+2
+0 0 106 122
+0 133 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y5 loc-x13-y5
+0
+2
+0 0 107 91
+0 164 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y5 loc-x14-y4
+0
+2
+0 0 107 106
+0 149 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y5 loc-x14-y6
+0
+2
+0 0 107 108
+0 147 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y5 loc-x15-y5
+0
+2
+0 0 107 123
+0 132 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y6 loc-x13-y6
+0
+2
+0 0 108 92
+0 163 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y6 loc-x14-y5
+0
+2
+0 0 108 107
+0 148 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y6 loc-x14-y7
+0
+2
+0 0 108 109
+0 146 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y6 loc-x15-y6
+0
+2
+0 0 108 124
+0 131 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y7 loc-x13-y7
+0
+2
+0 0 109 93
+0 162 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y7 loc-x14-y6
+0
+2
+0 0 109 108
+0 147 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y7 loc-x14-y8
+0
+2
+0 0 109 110
+0 145 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y7 loc-x15-y7
+0
+2
+0 0 109 125
+0 130 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y8 loc-x13-y8
+0
+2
+0 0 110 94
+0 161 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y8 loc-x14-y7
+0
+2
+0 0 110 109
+0 146 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y8 loc-x14-y9
+0
+2
+0 0 110 111
+0 144 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y8 loc-x15-y8
+0
+2
+0 0 110 126
+0 129 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y9 loc-x13-y9
+0
+2
+0 0 111 95
+0 160 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y9 loc-x14-y10
+0
+2
+0 0 111 98
+0 157 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y9 loc-x14-y8
+0
+2
+0 0 111 110
+0 145 -1 0
+0
+end_operator
+begin_operator
+move loc-x14-y9 loc-x15-y9
+0
+2
+0 0 111 127
+0 128 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y0 loc-x14-y0
+0
+2
+0 0 112 96
+0 159 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y0 loc-x15-y1
+0
+2
+0 0 112 113
+0 142 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y1 loc-x14-y1
+0
+2
+0 0 113 97
+0 158 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y1 loc-x15-y0
+0
+2
+0 0 113 112
+0 143 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y1 loc-x15-y2
+0
+2
+0 0 113 120
+0 135 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y10 loc-x14-y10
+0
+2
+0 0 114 98
+0 157 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y10 loc-x15-y11
+0
+2
+0 0 114 115
+0 140 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y10 loc-x15-y9
+0
+2
+0 0 114 127
+0 128 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y11 loc-x14-y11
+0
+2
+0 0 115 99
+0 156 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y11 loc-x15-y10
+0
+2
+0 0 115 114
+0 141 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y11 loc-x15-y12
+0
+2
+0 0 115 116
+0 139 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y12 loc-x14-y12
+0
+2
+0 0 116 100
+0 155 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y12 loc-x15-y11
+0
+2
+0 0 116 115
+0 140 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y12 loc-x15-y13
+0
+2
+0 0 116 117
+0 138 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y13 loc-x14-y13
+0
+2
+0 0 117 101
+0 154 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y13 loc-x15-y12
+0
+2
+0 0 117 116
+0 139 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y13 loc-x15-y14
+0
+2
+0 0 117 118
+0 137 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y14 loc-x14-y14
+0
+2
+0 0 118 102
+0 153 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y14 loc-x15-y13
+0
+2
+0 0 118 117
+0 138 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y14 loc-x15-y15
+0
+2
+0 0 118 119
+0 136 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y15 loc-x14-y15
+0
+2
+0 0 119 103
+0 152 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y15 loc-x15-y14
+0
+2
+0 0 119 118
+0 137 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y2 loc-x14-y2
+0
+2
+0 0 120 104
+0 151 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y2 loc-x15-y1
+0
+2
+0 0 120 113
+0 142 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y2 loc-x15-y3
+0
+2
+0 0 120 121
+0 134 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y3 loc-x14-y3
+0
+2
+0 0 121 105
+0 150 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y3 loc-x15-y2
+0
+2
+0 0 121 120
+0 135 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y3 loc-x15-y4
+0
+2
+0 0 121 122
+0 133 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y4 loc-x14-y4
+0
+2
+0 0 122 106
+0 149 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y4 loc-x15-y3
+0
+2
+0 0 122 121
+0 134 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y4 loc-x15-y5
+0
+2
+0 0 122 123
+0 132 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y5 loc-x14-y5
+0
+2
+0 0 123 107
+0 148 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y5 loc-x15-y4
+0
+2
+0 0 123 122
+0 133 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y5 loc-x15-y6
+0
+2
+0 0 123 124
+0 131 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y6 loc-x14-y6
+0
+2
+0 0 124 108
+0 147 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y6 loc-x15-y5
+0
+2
+0 0 124 123
+0 132 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y6 loc-x15-y7
+0
+2
+0 0 124 125
+0 130 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y7 loc-x14-y7
+0
+2
+0 0 125 109
+0 146 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y7 loc-x15-y6
+0
+2
+0 0 125 124
+0 131 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y7 loc-x15-y8
+0
+2
+0 0 125 126
+0 129 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y8 loc-x14-y8
+0
+2
+0 0 126 110
+0 145 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y8 loc-x15-y7
+0
+2
+0 0 126 125
+0 130 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y8 loc-x15-y9
+0
+2
+0 0 126 127
+0 128 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y9 loc-x14-y9
+0
+2
+0 0 127 111
+0 144 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y9 loc-x15-y10
+0
+2
+0 0 127 114
+0 141 -1 0
+0
+end_operator
+begin_operator
+move loc-x15-y9 loc-x15-y8
+0
+2
+0 0 127 126
+0 129 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y0 loc-x1-y0
+0
+2
+0 0 128 16
+0 239 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y0 loc-x2-y1
+0
+2
+0 0 128 129
+0 126 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y0 loc-x3-y0
+0
+2
+0 0 128 144
+0 111 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y1 loc-x1-y1
+0
+2
+0 0 129 17
+0 238 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y1 loc-x2-y0
+0
+2
+0 0 129 128
+0 127 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y1 loc-x2-y2
+0
+2
+0 0 129 136
+0 119 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y1 loc-x3-y1
+0
+2
+0 0 129 145
+0 110 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y10 loc-x1-y10
+0
+2
+0 0 130 18
+0 237 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y10 loc-x2-y11
+0
+2
+0 0 130 131
+0 124 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y10 loc-x2-y9
+0
+2
+0 0 130 143
+0 112 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y10 loc-x3-y10
+0
+2
+0 0 130 146
+0 109 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y11 loc-x1-y11
+0
+2
+0 0 131 19
+0 236 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y11 loc-x2-y10
+0
+2
+0 0 131 130
+0 125 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y11 loc-x2-y12
+0
+2
+0 0 131 132
+0 123 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y11 loc-x3-y11
+0
+2
+0 0 131 147
+0 108 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y12 loc-x1-y12
+0
+2
+0 0 132 20
+0 235 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y12 loc-x2-y11
+0
+2
+0 0 132 131
+0 124 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y12 loc-x2-y13
+0
+2
+0 0 132 133
+0 122 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y12 loc-x3-y12
+0
+2
+0 0 132 148
+0 107 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y13 loc-x1-y13
+0
+2
+0 0 133 21
+0 234 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y13 loc-x2-y12
+0
+2
+0 0 133 132
+0 123 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y13 loc-x2-y14
+0
+2
+0 0 133 134
+0 121 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y13 loc-x3-y13
+0
+2
+0 0 133 149
+0 106 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y14 loc-x1-y14
+0
+2
+0 0 134 22
+0 233 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y14 loc-x2-y13
+0
+2
+0 0 134 133
+0 122 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y14 loc-x2-y15
+0
+2
+0 0 134 135
+0 120 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y14 loc-x3-y14
+0
+2
+0 0 134 150
+0 105 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y15 loc-x1-y15
+0
+2
+0 0 135 23
+0 232 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y15 loc-x2-y14
+0
+2
+0 0 135 134
+0 121 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y15 loc-x3-y15
+0
+2
+0 0 135 151
+0 104 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y2 loc-x1-y2
+0
+2
+0 0 136 24
+0 231 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y2 loc-x2-y1
+0
+2
+0 0 136 129
+0 126 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y2 loc-x2-y3
+0
+2
+0 0 136 137
+0 118 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y2 loc-x3-y2
+0
+2
+0 0 136 152
+0 103 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y3 loc-x1-y3
+0
+2
+0 0 137 25
+0 230 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y3 loc-x2-y2
+0
+2
+0 0 137 136
+0 119 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y3 loc-x2-y4
+0
+2
+0 0 137 138
+0 117 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y3 loc-x3-y3
+0
+2
+0 0 137 153
+0 102 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y4 loc-x1-y4
+0
+2
+0 0 138 26
+0 229 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y4 loc-x2-y3
+0
+2
+0 0 138 137
+0 118 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y4 loc-x2-y5
+0
+2
+0 0 138 139
+0 116 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y4 loc-x3-y4
+0
+2
+0 0 138 154
+0 101 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y5 loc-x1-y5
+0
+2
+0 0 139 27
+0 228 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y5 loc-x2-y4
+0
+2
+0 0 139 138
+0 117 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y5 loc-x2-y6
+0
+2
+0 0 139 140
+0 115 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y5 loc-x3-y5
+0
+2
+0 0 139 155
+0 100 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y6 loc-x1-y6
+0
+2
+0 0 140 28
+0 227 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y6 loc-x2-y5
+0
+2
+0 0 140 139
+0 116 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y6 loc-x2-y7
+0
+2
+0 0 140 141
+0 114 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y6 loc-x3-y6
+0
+2
+0 0 140 156
+0 99 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y7 loc-x1-y7
+0
+2
+0 0 141 29
+0 226 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y7 loc-x2-y6
+0
+2
+0 0 141 140
+0 115 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y7 loc-x2-y8
+0
+2
+0 0 141 142
+0 113 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y7 loc-x3-y7
+0
+2
+0 0 141 157
+0 98 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y8 loc-x1-y8
+0
+2
+0 0 142 30
+0 225 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y8 loc-x2-y7
+0
+2
+0 0 142 141
+0 114 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y8 loc-x2-y9
+0
+2
+0 0 142 143
+0 112 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y8 loc-x3-y8
+0
+2
+0 0 142 158
+0 97 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y9 loc-x1-y9
+0
+2
+0 0 143 31
+0 224 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y9 loc-x2-y10
+0
+2
+0 0 143 130
+0 125 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y9 loc-x2-y8
+0
+2
+0 0 143 142
+0 113 -1 0
+0
+end_operator
+begin_operator
+move loc-x2-y9 loc-x3-y9
+0
+2
+0 0 143 159
+0 96 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y0 loc-x2-y0
+0
+2
+0 0 144 128
+0 127 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y0 loc-x3-y1
+0
+2
+0 0 144 145
+0 110 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y0 loc-x4-y0
+0
+2
+0 0 144 160
+0 95 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y1 loc-x2-y1
+0
+2
+0 0 145 129
+0 126 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y1 loc-x3-y0
+0
+2
+0 0 145 144
+0 111 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y1 loc-x3-y2
+0
+2
+0 0 145 152
+0 103 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y1 loc-x4-y1
+0
+2
+0 0 145 161
+0 94 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y10 loc-x2-y10
+0
+2
+0 0 146 130
+0 125 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y10 loc-x3-y11
+0
+2
+0 0 146 147
+0 108 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y10 loc-x3-y9
+0
+2
+0 0 146 159
+0 96 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y10 loc-x4-y10
+0
+2
+0 0 146 162
+0 93 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y11 loc-x2-y11
+0
+2
+0 0 147 131
+0 124 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y11 loc-x3-y10
+0
+2
+0 0 147 146
+0 109 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y11 loc-x3-y12
+0
+2
+0 0 147 148
+0 107 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y11 loc-x4-y11
+0
+2
+0 0 147 163
+0 92 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y12 loc-x2-y12
+0
+2
+0 0 148 132
+0 123 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y12 loc-x3-y11
+0
+2
+0 0 148 147
+0 108 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y12 loc-x3-y13
+0
+2
+0 0 148 149
+0 106 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y12 loc-x4-y12
+0
+2
+0 0 148 164
+0 91 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y13 loc-x2-y13
+0
+2
+0 0 149 133
+0 122 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y13 loc-x3-y12
+0
+2
+0 0 149 148
+0 107 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y13 loc-x3-y14
+0
+2
+0 0 149 150
+0 105 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y13 loc-x4-y13
+0
+2
+0 0 149 165
+0 90 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y14 loc-x2-y14
+0
+2
+0 0 150 134
+0 121 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y14 loc-x3-y13
+0
+2
+0 0 150 149
+0 106 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y14 loc-x3-y15
+0
+2
+0 0 150 151
+0 104 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y14 loc-x4-y14
+0
+2
+0 0 150 166
+0 89 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y15 loc-x2-y15
+0
+2
+0 0 151 135
+0 120 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y15 loc-x3-y14
+0
+2
+0 0 151 150
+0 105 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y15 loc-x4-y15
+0
+2
+0 0 151 167
+0 88 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y2 loc-x2-y2
+0
+2
+0 0 152 136
+0 119 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y2 loc-x3-y1
+0
+2
+0 0 152 145
+0 110 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y2 loc-x3-y3
+0
+2
+0 0 152 153
+0 102 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y2 loc-x4-y2
+0
+2
+0 0 152 168
+0 87 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y3 loc-x2-y3
+0
+2
+0 0 153 137
+0 118 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y3 loc-x3-y2
+0
+2
+0 0 153 152
+0 103 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y3 loc-x3-y4
+0
+2
+0 0 153 154
+0 101 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y3 loc-x4-y3
+0
+2
+0 0 153 169
+0 86 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y4 loc-x2-y4
+0
+2
+0 0 154 138
+0 117 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y4 loc-x3-y3
+0
+2
+0 0 154 153
+0 102 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y4 loc-x3-y5
+0
+2
+0 0 154 155
+0 100 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y4 loc-x4-y4
+0
+2
+0 0 154 170
+0 85 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y5 loc-x2-y5
+0
+2
+0 0 155 139
+0 116 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y5 loc-x3-y4
+0
+2
+0 0 155 154
+0 101 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y5 loc-x3-y6
+0
+2
+0 0 155 156
+0 99 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y5 loc-x4-y5
+0
+2
+0 0 155 171
+0 84 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y6 loc-x2-y6
+0
+2
+0 0 156 140
+0 115 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y6 loc-x3-y5
+0
+2
+0 0 156 155
+0 100 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y6 loc-x3-y7
+0
+2
+0 0 156 157
+0 98 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y6 loc-x4-y6
+0
+2
+0 0 156 172
+0 83 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y7 loc-x2-y7
+0
+2
+0 0 157 141
+0 114 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y7 loc-x3-y6
+0
+2
+0 0 157 156
+0 99 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y7 loc-x3-y8
+0
+2
+0 0 157 158
+0 97 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y7 loc-x4-y7
+0
+2
+0 0 157 173
+0 82 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y8 loc-x2-y8
+0
+2
+0 0 158 142
+0 113 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y8 loc-x3-y7
+0
+2
+0 0 158 157
+0 98 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y8 loc-x3-y9
+0
+2
+0 0 158 159
+0 96 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y8 loc-x4-y8
+0
+2
+0 0 158 174
+0 81 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y9 loc-x2-y9
+0
+2
+0 0 159 143
+0 112 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y9 loc-x3-y10
+0
+2
+0 0 159 146
+0 109 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y9 loc-x3-y8
+0
+2
+0 0 159 158
+0 97 -1 0
+0
+end_operator
+begin_operator
+move loc-x3-y9 loc-x4-y9
+0
+2
+0 0 159 175
+0 80 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y0 loc-x3-y0
+0
+2
+0 0 160 144
+0 111 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y0 loc-x4-y1
+0
+2
+0 0 160 161
+0 94 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y0 loc-x5-y0
+0
+2
+0 0 160 176
+0 79 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y1 loc-x3-y1
+0
+2
+0 0 161 145
+0 110 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y1 loc-x4-y0
+0
+2
+0 0 161 160
+0 95 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y1 loc-x4-y2
+0
+2
+0 0 161 168
+0 87 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y1 loc-x5-y1
+0
+2
+0 0 161 177
+0 78 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y10 loc-x3-y10
+0
+2
+0 0 162 146
+0 109 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y10 loc-x4-y11
+0
+2
+0 0 162 163
+0 92 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y10 loc-x4-y9
+0
+2
+0 0 162 175
+0 80 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y10 loc-x5-y10
+0
+2
+0 0 162 178
+0 77 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y11 loc-x3-y11
+0
+2
+0 0 163 147
+0 108 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y11 loc-x4-y10
+0
+2
+0 0 163 162
+0 93 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y11 loc-x4-y12
+0
+2
+0 0 163 164
+0 91 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y11 loc-x5-y11
+0
+2
+0 0 163 179
+0 76 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y12 loc-x3-y12
+0
+2
+0 0 164 148
+0 107 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y12 loc-x4-y11
+0
+2
+0 0 164 163
+0 92 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y12 loc-x4-y13
+0
+2
+0 0 164 165
+0 90 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y12 loc-x5-y12
+0
+2
+0 0 164 180
+0 75 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y13 loc-x3-y13
+0
+2
+0 0 165 149
+0 106 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y13 loc-x4-y12
+0
+2
+0 0 165 164
+0 91 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y13 loc-x4-y14
+0
+2
+0 0 165 166
+0 89 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y13 loc-x5-y13
+0
+2
+0 0 165 181
+0 74 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y14 loc-x3-y14
+0
+2
+0 0 166 150
+0 105 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y14 loc-x4-y13
+0
+2
+0 0 166 165
+0 90 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y14 loc-x4-y15
+0
+2
+0 0 166 167
+0 88 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y14 loc-x5-y14
+0
+2
+0 0 166 182
+0 73 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y15 loc-x3-y15
+0
+2
+0 0 167 151
+0 104 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y15 loc-x4-y14
+0
+2
+0 0 167 166
+0 89 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y15 loc-x5-y15
+0
+2
+0 0 167 183
+0 72 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y2 loc-x3-y2
+0
+2
+0 0 168 152
+0 103 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y2 loc-x4-y1
+0
+2
+0 0 168 161
+0 94 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y2 loc-x4-y3
+0
+2
+0 0 168 169
+0 86 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y2 loc-x5-y2
+0
+2
+0 0 168 184
+0 71 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y3 loc-x3-y3
+0
+2
+0 0 169 153
+0 102 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y3 loc-x4-y2
+0
+2
+0 0 169 168
+0 87 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y3 loc-x4-y4
+0
+2
+0 0 169 170
+0 85 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y3 loc-x5-y3
+0
+2
+0 0 169 185
+0 70 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y4 loc-x3-y4
+0
+2
+0 0 170 154
+0 101 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y4 loc-x4-y3
+0
+2
+0 0 170 169
+0 86 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y4 loc-x4-y5
+0
+2
+0 0 170 171
+0 84 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y4 loc-x5-y4
+0
+2
+0 0 170 186
+0 69 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y5 loc-x3-y5
+0
+2
+0 0 171 155
+0 100 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y5 loc-x4-y4
+0
+2
+0 0 171 170
+0 85 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y5 loc-x4-y6
+0
+2
+0 0 171 172
+0 83 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y5 loc-x5-y5
+0
+2
+0 0 171 187
+0 68 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y6 loc-x3-y6
+0
+2
+0 0 172 156
+0 99 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y6 loc-x4-y5
+0
+2
+0 0 172 171
+0 84 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y6 loc-x4-y7
+0
+2
+0 0 172 173
+0 82 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y6 loc-x5-y6
+0
+2
+0 0 172 188
+0 67 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y7 loc-x3-y7
+0
+2
+0 0 173 157
+0 98 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y7 loc-x4-y6
+0
+2
+0 0 173 172
+0 83 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y7 loc-x4-y8
+0
+2
+0 0 173 174
+0 81 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y7 loc-x5-y7
+0
+2
+0 0 173 189
+0 66 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y8 loc-x3-y8
+0
+2
+0 0 174 158
+0 97 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y8 loc-x4-y7
+0
+2
+0 0 174 173
+0 82 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y8 loc-x4-y9
+0
+2
+0 0 174 175
+0 80 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y8 loc-x5-y8
+0
+2
+0 0 174 190
+0 65 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y9 loc-x3-y9
+0
+2
+0 0 175 159
+0 96 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y9 loc-x4-y10
+0
+2
+0 0 175 162
+0 93 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y9 loc-x4-y8
+0
+2
+0 0 175 174
+0 81 -1 0
+0
+end_operator
+begin_operator
+move loc-x4-y9 loc-x5-y9
+0
+2
+0 0 175 191
+0 64 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y0 loc-x4-y0
+0
+2
+0 0 176 160
+0 95 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y0 loc-x5-y1
+0
+2
+0 0 176 177
+0 78 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y0 loc-x6-y0
+0
+2
+0 0 176 192
+0 63 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y1 loc-x4-y1
+0
+2
+0 0 177 161
+0 94 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y1 loc-x5-y0
+0
+2
+0 0 177 176
+0 79 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y1 loc-x5-y2
+0
+2
+0 0 177 184
+0 71 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y1 loc-x6-y1
+0
+2
+0 0 177 193
+0 62 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y10 loc-x4-y10
+0
+2
+0 0 178 162
+0 93 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y10 loc-x5-y11
+0
+2
+0 0 178 179
+0 76 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y10 loc-x5-y9
+0
+2
+0 0 178 191
+0 64 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y10 loc-x6-y10
+0
+2
+0 0 178 194
+0 61 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y11 loc-x4-y11
+0
+2
+0 0 179 163
+0 92 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y11 loc-x5-y10
+0
+2
+0 0 179 178
+0 77 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y11 loc-x5-y12
+0
+2
+0 0 179 180
+0 75 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y11 loc-x6-y11
+0
+2
+0 0 179 195
+0 60 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y12 loc-x4-y12
+0
+2
+0 0 180 164
+0 91 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y12 loc-x5-y11
+0
+2
+0 0 180 179
+0 76 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y12 loc-x5-y13
+0
+2
+0 0 180 181
+0 74 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y12 loc-x6-y12
+0
+2
+0 0 180 196
+0 59 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y13 loc-x4-y13
+0
+2
+0 0 181 165
+0 90 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y13 loc-x5-y12
+0
+2
+0 0 181 180
+0 75 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y13 loc-x5-y14
+0
+2
+0 0 181 182
+0 73 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y13 loc-x6-y13
+0
+2
+0 0 181 197
+0 58 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y14 loc-x4-y14
+0
+2
+0 0 182 166
+0 89 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y14 loc-x5-y13
+0
+2
+0 0 182 181
+0 74 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y14 loc-x5-y15
+0
+2
+0 0 182 183
+0 72 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y14 loc-x6-y14
+0
+2
+0 0 182 198
+0 57 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y15 loc-x4-y15
+0
+2
+0 0 183 167
+0 88 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y15 loc-x5-y14
+0
+2
+0 0 183 182
+0 73 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y15 loc-x6-y15
+0
+2
+0 0 183 199
+0 56 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y2 loc-x4-y2
+0
+2
+0 0 184 168
+0 87 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y2 loc-x5-y1
+0
+2
+0 0 184 177
+0 78 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y2 loc-x5-y3
+0
+2
+0 0 184 185
+0 70 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y2 loc-x6-y2
+0
+2
+0 0 184 200
+0 55 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y3 loc-x4-y3
+0
+2
+0 0 185 169
+0 86 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y3 loc-x5-y2
+0
+2
+0 0 185 184
+0 71 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y3 loc-x5-y4
+0
+2
+0 0 185 186
+0 69 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y3 loc-x6-y3
+0
+2
+0 0 185 201
+0 54 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y4 loc-x4-y4
+0
+2
+0 0 186 170
+0 85 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y4 loc-x5-y3
+0
+2
+0 0 186 185
+0 70 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y4 loc-x5-y5
+0
+2
+0 0 186 187
+0 68 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y4 loc-x6-y4
+0
+2
+0 0 186 202
+0 53 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y5 loc-x4-y5
+0
+2
+0 0 187 171
+0 84 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y5 loc-x5-y4
+0
+2
+0 0 187 186
+0 69 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y5 loc-x5-y6
+0
+2
+0 0 187 188
+0 67 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y5 loc-x6-y5
+0
+2
+0 0 187 203
+0 52 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y6 loc-x4-y6
+0
+2
+0 0 188 172
+0 83 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y6 loc-x5-y5
+0
+2
+0 0 188 187
+0 68 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y6 loc-x5-y7
+0
+2
+0 0 188 189
+0 66 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y6 loc-x6-y6
+0
+2
+0 0 188 204
+0 51 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y7 loc-x4-y7
+0
+2
+0 0 189 173
+0 82 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y7 loc-x5-y6
+0
+2
+0 0 189 188
+0 67 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y7 loc-x5-y8
+0
+2
+0 0 189 190
+0 65 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y7 loc-x6-y7
+0
+2
+0 0 189 205
+0 50 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y8 loc-x4-y8
+0
+2
+0 0 190 174
+0 81 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y8 loc-x5-y7
+0
+2
+0 0 190 189
+0 66 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y8 loc-x5-y9
+0
+2
+0 0 190 191
+0 64 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y8 loc-x6-y8
+0
+2
+0 0 190 206
+0 49 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y9 loc-x4-y9
+0
+2
+0 0 191 175
+0 80 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y9 loc-x5-y10
+0
+2
+0 0 191 178
+0 77 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y9 loc-x5-y8
+0
+2
+0 0 191 190
+0 65 -1 0
+0
+end_operator
+begin_operator
+move loc-x5-y9 loc-x6-y9
+0
+2
+0 0 191 207
+0 48 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y0 loc-x5-y0
+0
+2
+0 0 192 176
+0 79 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y0 loc-x6-y1
+0
+2
+0 0 192 193
+0 62 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y0 loc-x7-y0
+0
+2
+0 0 192 208
+0 47 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y1 loc-x5-y1
+0
+2
+0 0 193 177
+0 78 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y1 loc-x6-y0
+0
+2
+0 0 193 192
+0 63 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y1 loc-x6-y2
+0
+2
+0 0 193 200
+0 55 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y1 loc-x7-y1
+0
+2
+0 0 193 209
+0 46 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y10 loc-x5-y10
+0
+2
+0 0 194 178
+0 77 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y10 loc-x6-y11
+0
+2
+0 0 194 195
+0 60 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y10 loc-x6-y9
+0
+2
+0 0 194 207
+0 48 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y10 loc-x7-y10
+0
+2
+0 0 194 210
+0 45 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y11 loc-x5-y11
+0
+2
+0 0 195 179
+0 76 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y11 loc-x6-y10
+0
+2
+0 0 195 194
+0 61 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y11 loc-x6-y12
+0
+2
+0 0 195 196
+0 59 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y11 loc-x7-y11
+0
+2
+0 0 195 211
+0 44 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y12 loc-x5-y12
+0
+2
+0 0 196 180
+0 75 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y12 loc-x6-y11
+0
+2
+0 0 196 195
+0 60 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y12 loc-x6-y13
+0
+2
+0 0 196 197
+0 58 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y12 loc-x7-y12
+0
+2
+0 0 196 212
+0 43 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y13 loc-x5-y13
+0
+2
+0 0 197 181
+0 74 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y13 loc-x6-y12
+0
+2
+0 0 197 196
+0 59 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y13 loc-x6-y14
+0
+2
+0 0 197 198
+0 57 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y13 loc-x7-y13
+0
+2
+0 0 197 213
+0 42 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y14 loc-x5-y14
+0
+2
+0 0 198 182
+0 73 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y14 loc-x6-y13
+0
+2
+0 0 198 197
+0 58 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y14 loc-x6-y15
+0
+2
+0 0 198 199
+0 56 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y14 loc-x7-y14
+0
+2
+0 0 198 214
+0 41 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y15 loc-x5-y15
+0
+2
+0 0 199 183
+0 72 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y15 loc-x6-y14
+0
+2
+0 0 199 198
+0 57 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y15 loc-x7-y15
+0
+2
+0 0 199 215
+0 40 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y2 loc-x5-y2
+0
+2
+0 0 200 184
+0 71 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y2 loc-x6-y1
+0
+2
+0 0 200 193
+0 62 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y2 loc-x6-y3
+0
+2
+0 0 200 201
+0 54 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y2 loc-x7-y2
+0
+2
+0 0 200 216
+0 39 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y3 loc-x5-y3
+0
+2
+0 0 201 185
+0 70 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y3 loc-x6-y2
+0
+2
+0 0 201 200
+0 55 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y3 loc-x6-y4
+0
+2
+0 0 201 202
+0 53 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y3 loc-x7-y3
+0
+2
+0 0 201 217
+0 38 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y4 loc-x5-y4
+0
+2
+0 0 202 186
+0 69 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y4 loc-x6-y3
+0
+2
+0 0 202 201
+0 54 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y4 loc-x6-y5
+0
+2
+0 0 202 203
+0 52 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y4 loc-x7-y4
+0
+2
+0 0 202 218
+0 37 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y5 loc-x5-y5
+0
+2
+0 0 203 187
+0 68 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y5 loc-x6-y4
+0
+2
+0 0 203 202
+0 53 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y5 loc-x6-y6
+0
+2
+0 0 203 204
+0 51 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y5 loc-x7-y5
+0
+2
+0 0 203 219
+0 36 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y6 loc-x5-y6
+0
+2
+0 0 204 188
+0 67 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y6 loc-x6-y5
+0
+2
+0 0 204 203
+0 52 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y6 loc-x6-y7
+0
+2
+0 0 204 205
+0 50 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y6 loc-x7-y6
+0
+2
+0 0 204 220
+0 35 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y7 loc-x5-y7
+0
+2
+0 0 205 189
+0 66 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y7 loc-x6-y6
+0
+2
+0 0 205 204
+0 51 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y7 loc-x6-y8
+0
+2
+0 0 205 206
+0 49 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y7 loc-x7-y7
+0
+2
+0 0 205 221
+0 34 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y8 loc-x5-y8
+0
+2
+0 0 206 190
+0 65 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y8 loc-x6-y7
+0
+2
+0 0 206 205
+0 50 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y8 loc-x6-y9
+0
+2
+0 0 206 207
+0 48 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y8 loc-x7-y8
+0
+2
+0 0 206 222
+0 33 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y9 loc-x5-y9
+0
+2
+0 0 207 191
+0 64 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y9 loc-x6-y10
+0
+2
+0 0 207 194
+0 61 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y9 loc-x6-y8
+0
+2
+0 0 207 206
+0 49 -1 0
+0
+end_operator
+begin_operator
+move loc-x6-y9 loc-x7-y9
+0
+2
+0 0 207 223
+0 32 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y0 loc-x6-y0
+0
+2
+0 0 208 192
+0 63 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y0 loc-x7-y1
+0
+2
+0 0 208 209
+0 46 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y0 loc-x8-y0
+0
+2
+0 0 208 224
+0 31 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y1 loc-x6-y1
+0
+2
+0 0 209 193
+0 62 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y1 loc-x7-y0
+0
+2
+0 0 209 208
+0 47 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y1 loc-x7-y2
+0
+2
+0 0 209 216
+0 39 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y1 loc-x8-y1
+0
+2
+0 0 209 225
+0 30 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y10 loc-x6-y10
+0
+2
+0 0 210 194
+0 61 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y10 loc-x7-y11
+0
+2
+0 0 210 211
+0 44 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y10 loc-x7-y9
+0
+2
+0 0 210 223
+0 32 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y10 loc-x8-y10
+0
+2
+0 0 210 226
+0 29 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y11 loc-x6-y11
+0
+2
+0 0 211 195
+0 60 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y11 loc-x7-y10
+0
+2
+0 0 211 210
+0 45 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y11 loc-x7-y12
+0
+2
+0 0 211 212
+0 43 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y11 loc-x8-y11
+0
+2
+0 0 211 227
+0 28 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y12 loc-x6-y12
+0
+2
+0 0 212 196
+0 59 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y12 loc-x7-y11
+0
+2
+0 0 212 211
+0 44 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y12 loc-x7-y13
+0
+2
+0 0 212 213
+0 42 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y12 loc-x8-y12
+0
+2
+0 0 212 228
+0 27 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y13 loc-x6-y13
+0
+2
+0 0 213 197
+0 58 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y13 loc-x7-y12
+0
+2
+0 0 213 212
+0 43 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y13 loc-x7-y14
+0
+2
+0 0 213 214
+0 41 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y13 loc-x8-y13
+0
+2
+0 0 213 229
+0 26 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y14 loc-x6-y14
+0
+2
+0 0 214 198
+0 57 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y14 loc-x7-y13
+0
+2
+0 0 214 213
+0 42 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y14 loc-x7-y15
+0
+2
+0 0 214 215
+0 40 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y14 loc-x8-y14
+0
+2
+0 0 214 230
+0 25 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y15 loc-x6-y15
+0
+2
+0 0 215 199
+0 56 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y15 loc-x7-y14
+0
+2
+0 0 215 214
+0 41 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y15 loc-x8-y15
+0
+2
+0 0 215 231
+0 24 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y2 loc-x6-y2
+0
+2
+0 0 216 200
+0 55 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y2 loc-x7-y1
+0
+2
+0 0 216 209
+0 46 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y2 loc-x7-y3
+0
+2
+0 0 216 217
+0 38 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y2 loc-x8-y2
+0
+2
+0 0 216 232
+0 23 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y3 loc-x6-y3
+0
+2
+0 0 217 201
+0 54 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y3 loc-x7-y2
+0
+2
+0 0 217 216
+0 39 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y3 loc-x7-y4
+0
+2
+0 0 217 218
+0 37 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y3 loc-x8-y3
+0
+2
+0 0 217 233
+0 22 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y4 loc-x6-y4
+0
+2
+0 0 218 202
+0 53 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y4 loc-x7-y3
+0
+2
+0 0 218 217
+0 38 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y4 loc-x7-y5
+0
+2
+0 0 218 219
+0 36 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y4 loc-x8-y4
+0
+2
+0 0 218 234
+0 21 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y5 loc-x6-y5
+0
+2
+0 0 219 203
+0 52 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y5 loc-x7-y4
+0
+2
+0 0 219 218
+0 37 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y5 loc-x7-y6
+0
+2
+0 0 219 220
+0 35 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y5 loc-x8-y5
+0
+2
+0 0 219 235
+0 20 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y6 loc-x6-y6
+0
+2
+0 0 220 204
+0 51 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y6 loc-x7-y5
+0
+2
+0 0 220 219
+0 36 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y6 loc-x7-y7
+0
+2
+0 0 220 221
+0 34 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y6 loc-x8-y6
+0
+2
+0 0 220 236
+0 19 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y7 loc-x6-y7
+0
+2
+0 0 221 205
+0 50 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y7 loc-x7-y6
+0
+2
+0 0 221 220
+0 35 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y7 loc-x7-y8
+0
+2
+0 0 221 222
+0 33 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y7 loc-x8-y7
+0
+2
+0 0 221 237
+0 18 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y8 loc-x6-y8
+0
+2
+0 0 222 206
+0 49 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y8 loc-x7-y7
+0
+2
+0 0 222 221
+0 34 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y8 loc-x7-y9
+0
+2
+0 0 222 223
+0 32 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y8 loc-x8-y8
+0
+1
+0 0 222 238
+0
+end_operator
+begin_operator
+move loc-x7-y9 loc-x6-y9
+0
+2
+0 0 223 207
+0 48 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y9 loc-x7-y10
+0
+2
+0 0 223 210
+0 45 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y9 loc-x7-y8
+0
+2
+0 0 223 222
+0 33 -1 0
+0
+end_operator
+begin_operator
+move loc-x7-y9 loc-x8-y9
+0
+2
+0 0 223 239
+0 17 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y0 loc-x7-y0
+0
+2
+0 0 224 208
+0 47 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y0 loc-x8-y1
+0
+2
+0 0 224 225
+0 30 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y0 loc-x9-y0
+0
+2
+0 0 224 240
+0 16 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y1 loc-x7-y1
+0
+2
+0 0 225 209
+0 46 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y1 loc-x8-y0
+0
+2
+0 0 225 224
+0 31 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y1 loc-x8-y2
+0
+2
+0 0 225 232
+0 23 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y1 loc-x9-y1
+0
+2
+0 0 225 241
+0 15 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y10 loc-x7-y10
+0
+2
+0 0 226 210
+0 45 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y10 loc-x8-y11
+0
+2
+0 0 226 227
+0 28 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y10 loc-x8-y9
+0
+2
+0 0 226 239
+0 17 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y10 loc-x9-y10
+0
+2
+0 0 226 242
+0 14 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y11 loc-x7-y11
+0
+2
+0 0 227 211
+0 44 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y11 loc-x8-y10
+0
+2
+0 0 227 226
+0 29 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y11 loc-x8-y12
+0
+2
+0 0 227 228
+0 27 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y11 loc-x9-y11
+0
+2
+0 0 227 243
+0 13 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y12 loc-x7-y12
+0
+2
+0 0 228 212
+0 43 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y12 loc-x8-y11
+0
+2
+0 0 228 227
+0 28 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y12 loc-x8-y13
+0
+2
+0 0 228 229
+0 26 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y12 loc-x9-y12
+0
+2
+0 0 228 244
+0 12 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y13 loc-x7-y13
+0
+2
+0 0 229 213
+0 42 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y13 loc-x8-y12
+0
+2
+0 0 229 228
+0 27 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y13 loc-x8-y14
+0
+2
+0 0 229 230
+0 25 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y13 loc-x9-y13
+0
+2
+0 0 229 245
+0 11 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y14 loc-x7-y14
+0
+2
+0 0 230 214
+0 41 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y14 loc-x8-y13
+0
+2
+0 0 230 229
+0 26 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y14 loc-x8-y15
+0
+2
+0 0 230 231
+0 24 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y14 loc-x9-y14
+0
+2
+0 0 230 246
+0 10 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y15 loc-x7-y15
+0
+2
+0 0 231 215
+0 40 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y15 loc-x8-y14
+0
+2
+0 0 231 230
+0 25 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y15 loc-x9-y15
+0
+2
+0 0 231 247
+0 9 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y2 loc-x7-y2
+0
+2
+0 0 232 216
+0 39 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y2 loc-x8-y1
+0
+2
+0 0 232 225
+0 30 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y2 loc-x8-y3
+0
+2
+0 0 232 233
+0 22 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y2 loc-x9-y2
+0
+2
+0 0 232 248
+0 8 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y3 loc-x7-y3
+0
+2
+0 0 233 217
+0 38 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y3 loc-x8-y2
+0
+2
+0 0 233 232
+0 23 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y3 loc-x8-y4
+0
+2
+0 0 233 234
+0 21 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y3 loc-x9-y3
+0
+2
+0 0 233 249
+0 7 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y4 loc-x7-y4
+0
+2
+0 0 234 218
+0 37 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y4 loc-x8-y3
+0
+2
+0 0 234 233
+0 22 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y4 loc-x8-y5
+0
+2
+0 0 234 235
+0 20 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y4 loc-x9-y4
+0
+2
+0 0 234 250
+0 6 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y5 loc-x7-y5
+0
+2
+0 0 235 219
+0 36 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y5 loc-x8-y4
+0
+2
+0 0 235 234
+0 21 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y5 loc-x8-y6
+0
+2
+0 0 235 236
+0 19 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y5 loc-x9-y5
+0
+2
+0 0 235 251
+0 5 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y6 loc-x7-y6
+0
+2
+0 0 236 220
+0 35 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y6 loc-x8-y5
+0
+2
+0 0 236 235
+0 20 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y6 loc-x8-y7
+0
+2
+0 0 236 237
+0 18 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y6 loc-x9-y6
+0
+2
+0 0 236 252
+0 4 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y7 loc-x7-y7
+0
+2
+0 0 237 221
+0 34 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y7 loc-x8-y6
+0
+2
+0 0 237 236
+0 19 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y7 loc-x8-y8
+0
+1
+0 0 237 238
+0
+end_operator
+begin_operator
+move loc-x8-y7 loc-x9-y7
+0
+2
+0 0 237 253
+0 3 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y8 loc-x7-y8
+0
+2
+0 0 238 222
+0 33 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y8 loc-x8-y7
+0
+2
+0 0 238 237
+0 18 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y8 loc-x8-y9
+0
+2
+0 0 238 239
+0 17 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y8 loc-x9-y8
+0
+2
+0 0 238 254
+0 2 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y9 loc-x7-y9
+0
+2
+0 0 239 223
+0 32 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y9 loc-x8-y10
+0
+2
+0 0 239 226
+0 29 -1 0
+0
+end_operator
+begin_operator
+move loc-x8-y9 loc-x8-y8
+0
+1
+0 0 239 238
+0
+end_operator
+begin_operator
+move loc-x8-y9 loc-x9-y9
+0
+2
+0 0 239 255
+0 1 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y0 loc-x10-y0
+0
+2
+0 0 240 32
+0 223 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y0 loc-x8-y0
+0
+2
+0 0 240 224
+0 31 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y0 loc-x9-y1
+0
+2
+0 0 240 241
+0 15 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y1 loc-x10-y1
+0
+2
+0 0 241 33
+0 222 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y1 loc-x8-y1
+0
+2
+0 0 241 225
+0 30 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y1 loc-x9-y0
+0
+2
+0 0 241 240
+0 16 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y1 loc-x9-y2
+0
+2
+0 0 241 248
+0 8 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y10 loc-x10-y10
+0
+2
+0 0 242 34
+0 221 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y10 loc-x8-y10
+0
+2
+0 0 242 226
+0 29 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y10 loc-x9-y11
+0
+2
+0 0 242 243
+0 13 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y10 loc-x9-y9
+0
+2
+0 0 242 255
+0 1 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y11 loc-x10-y11
+0
+2
+0 0 243 35
+0 220 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y11 loc-x8-y11
+0
+2
+0 0 243 227
+0 28 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y11 loc-x9-y10
+0
+2
+0 0 243 242
+0 14 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y11 loc-x9-y12
+0
+2
+0 0 243 244
+0 12 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y12 loc-x10-y12
+0
+2
+0 0 244 36
+0 219 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y12 loc-x8-y12
+0
+2
+0 0 244 228
+0 27 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y12 loc-x9-y11
+0
+2
+0 0 244 243
+0 13 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y12 loc-x9-y13
+0
+2
+0 0 244 245
+0 11 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y13 loc-x10-y13
+0
+2
+0 0 245 37
+0 218 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y13 loc-x8-y13
+0
+2
+0 0 245 229
+0 26 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y13 loc-x9-y12
+0
+2
+0 0 245 244
+0 12 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y13 loc-x9-y14
+0
+2
+0 0 245 246
+0 10 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y14 loc-x10-y14
+0
+2
+0 0 246 38
+0 217 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y14 loc-x8-y14
+0
+2
+0 0 246 230
+0 25 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y14 loc-x9-y13
+0
+2
+0 0 246 245
+0 11 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y14 loc-x9-y15
+0
+2
+0 0 246 247
+0 9 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y15 loc-x10-y15
+0
+2
+0 0 247 39
+0 216 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y15 loc-x8-y15
+0
+2
+0 0 247 231
+0 24 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y15 loc-x9-y14
+0
+2
+0 0 247 246
+0 10 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y2 loc-x10-y2
+0
+2
+0 0 248 40
+0 215 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y2 loc-x8-y2
+0
+2
+0 0 248 232
+0 23 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y2 loc-x9-y1
+0
+2
+0 0 248 241
+0 15 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y2 loc-x9-y3
+0
+2
+0 0 248 249
+0 7 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y3 loc-x10-y3
+0
+2
+0 0 249 41
+0 214 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y3 loc-x8-y3
+0
+2
+0 0 249 233
+0 22 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y3 loc-x9-y2
+0
+2
+0 0 249 248
+0 8 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y3 loc-x9-y4
+0
+2
+0 0 249 250
+0 6 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y4 loc-x10-y4
+0
+2
+0 0 250 42
+0 213 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y4 loc-x8-y4
+0
+2
+0 0 250 234
+0 21 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y4 loc-x9-y3
+0
+2
+0 0 250 249
+0 7 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y4 loc-x9-y5
+0
+2
+0 0 250 251
+0 5 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y5 loc-x10-y5
+0
+2
+0 0 251 43
+0 212 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y5 loc-x8-y5
+0
+2
+0 0 251 235
+0 20 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y5 loc-x9-y4
+0
+2
+0 0 251 250
+0 6 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y5 loc-x9-y6
+0
+2
+0 0 251 252
+0 4 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y6 loc-x10-y6
+0
+2
+0 0 252 44
+0 211 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y6 loc-x8-y6
+0
+2
+0 0 252 236
+0 19 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y6 loc-x9-y5
+0
+2
+0 0 252 251
+0 5 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y6 loc-x9-y7
+0
+2
+0 0 252 253
+0 3 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y7 loc-x10-y7
+0
+2
+0 0 253 45
+0 210 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y7 loc-x8-y7
+0
+2
+0 0 253 237
+0 18 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y7 loc-x9-y6
+0
+2
+0 0 253 252
+0 4 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y7 loc-x9-y8
+0
+2
+0 0 253 254
+0 2 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y8 loc-x10-y8
+0
+2
+0 0 254 46
+0 209 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y8 loc-x8-y8
+0
+1
+0 0 254 238
+0
+end_operator
+begin_operator
+move loc-x9-y8 loc-x9-y7
+0
+2
+0 0 254 253
+0 3 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y8 loc-x9-y9
+0
+2
+0 0 254 255
+0 1 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y9 loc-x10-y9
+0
+2
+0 0 255 47
+0 208 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y9 loc-x8-y9
+0
+2
+0 0 255 239
+0 17 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y9 loc-x9-y10
+0
+2
+0 0 255 242
+0 14 -1 0
+0
+end_operator
+begin_operator
+move loc-x9-y9 loc-x9-y8
+0
+2
+0 0 255 254
+0 2 -1 0
+0
+end_operator
+0
+begin_SG
+switch 0
+check 0
+check 2
+0
+1
+check 3
+2
+3
+4
+check 3
+5
+6
+7
+check 3
+8
+9
+10
+check 3
+11
+12
+13
+check 3
+14
+15
+16
+check 3
+17
+18
+19
+check 2
+20
+21
+check 3
+22
+23
+24
+check 3
+25
+26
+27
+check 3
+28
+29
+30
+check 3
+31
+32
+33
+check 3
+34
+35
+36
+check 3
+37
+38
+39
+check 3
+40
+41
+42
+check 3
+43
+44
+45
+check 3
+46
+47
+48
+check 4
+49
+50
+51
+52
+check 4
+53
+54
+55
+56
+check 4
+57
+58
+59
+60
+check 4
+61
+62
+63
+64
+check 4
+65
+66
+67
+68
+check 4
+69
+70
+71
+72
+check 3
+73
+74
+75
+check 4
+76
+77
+78
+79
+check 4
+80
+81
+82
+83
+check 4
+84
+85
+86
+87
+check 4
+88
+89
+90
+91
+check 4
+92
+93
+94
+95
+check 4
+96
+97
+98
+99
+check 4
+100
+101
+102
+103
+check 4
+104
+105
+106
+107
+check 3
+108
+109
+110
+check 4
+111
+112
+113
+114
+check 4
+115
+116
+117
+118
+check 4
+119
+120
+121
+122
+check 4
+123
+124
+125
+126
+check 4
+127
+128
+129
+130
+check 4
+131
+132
+133
+134
+check 3
+135
+136
+137
+check 4
+138
+139
+140
+141
+check 4
+142
+143
+144
+145
+check 4
+146
+147
+148
+149
+check 4
+150
+151
+152
+153
+check 4
+154
+155
+156
+157
+check 4
+158
+159
+160
+161
+check 4
+162
+163
+164
+165
+check 4
+166
+167
+168
+169
+check 3
+170
+171
+172
+check 4
+173
+174
+175
+176
+check 4
+177
+178
+179
+180
+check 4
+181
+182
+183
+184
+check 4
+185
+186
+187
+188
+check 4
+189
+190
+191
+192
+check 4
+193
+194
+195
+196
+check 3
+197
+198
+199
+check 4
+200
+201
+202
+203
+check 4
+204
+205
+206
+207
+check 4
+208
+209
+210
+211
+check 4
+212
+213
+214
+215
+check 4
+216
+217
+218
+219
+check 4
+220
+221
+222
+223
+check 4
+224
+225
+226
+227
+check 4
+228
+229
+230
+231
+check 3
+232
+233
+234
+check 4
+235
+236
+237
+238
+check 4
+239
+240
+241
+242
+check 4
+243
+244
+245
+246
+check 4
+247
+248
+249
+250
+check 4
+251
+252
+253
+254
+check 4
+255
+256
+257
+258
+check 3
+259
+260
+261
+check 4
+262
+263
+264
+265
+check 4
+266
+267
+268
+269
+check 4
+270
+271
+272
+273
+check 4
+274
+275
+276
+277
+check 4
+278
+279
+280
+281
+check 4
+282
+283
+284
+285
+check 4
+286
+287
+288
+289
+check 4
+290
+291
+292
+293
+check 3
+294
+295
+296
+check 4
+297
+298
+299
+300
+check 4
+301
+302
+303
+304
+check 4
+305
+306
+307
+308
+check 4
+309
+310
+311
+312
+check 4
+313
+314
+315
+316
+check 4
+317
+318
+319
+320
+check 3
+321
+322
+323
+check 4
+324
+325
+326
+327
+check 4
+328
+329
+330
+331
+check 4
+332
+333
+334
+335
+check 4
+336
+337
+338
+339
+check 4
+340
+341
+342
+343
+check 4
+344
+345
+346
+347
+check 4
+348
+349
+350
+351
+check 4
+352
+353
+354
+355
+check 3
+356
+357
+358
+check 4
+359
+360
+361
+362
+check 4
+363
+364
+365
+366
+check 4
+367
+368
+369
+370
+check 4
+371
+372
+373
+374
+check 4
+375
+376
+377
+378
+check 4
+379
+380
+381
+382
+check 3
+383
+384
+385
+check 4
+386
+387
+388
+389
+check 4
+390
+391
+392
+393
+check 4
+394
+395
+396
+397
+check 4
+398
+399
+400
+401
+check 4
+402
+403
+404
+405
+check 4
+406
+407
+408
+409
+check 4
+410
+411
+412
+413
+check 4
+414
+415
+416
+417
+check 2
+418
+419
+check 3
+420
+421
+422
+check 3
+423
+424
+425
+check 3
+426
+427
+428
+check 3
+429
+430
+431
+check 3
+432
+433
+434
+check 3
+435
+436
+437
+check 2
+438
+439
+check 3
+440
+441
+442
+check 3
+443
+444
+445
+check 3
+446
+447
+448
+check 3
+449
+450
+451
+check 3
+452
+453
+454
+check 3
+455
+456
+457
+check 3
+458
+459
+460
+check 3
+461
+462
+463
+check 3
+464
+465
+466
+check 4
+467
+468
+469
+470
+check 4
+471
+472
+473
+474
+check 4
+475
+476
+477
+478
+check 4
+479
+480
+481
+482
+check 4
+483
+484
+485
+486
+check 4
+487
+488
+489
+490
+check 3
+491
+492
+493
+check 4
+494
+495
+496
+497
+check 4
+498
+499
+500
+501
+check 4
+502
+503
+504
+505
+check 4
+506
+507
+508
+509
+check 4
+510
+511
+512
+513
+check 4
+514
+515
+516
+517
+check 4
+518
+519
+520
+521
+check 4
+522
+523
+524
+525
+check 3
+526
+527
+528
+check 4
+529
+530
+531
+532
+check 4
+533
+534
+535
+536
+check 4
+537
+538
+539
+540
+check 4
+541
+542
+543
+544
+check 4
+545
+546
+547
+548
+check 4
+549
+550
+551
+552
+check 3
+553
+554
+555
+check 4
+556
+557
+558
+559
+check 4
+560
+561
+562
+563
+check 4
+564
+565
+566
+567
+check 4
+568
+569
+570
+571
+check 4
+572
+573
+574
+575
+check 4
+576
+577
+578
+579
+check 4
+580
+581
+582
+583
+check 4
+584
+585
+586
+587
+check 3
+588
+589
+590
+check 4
+591
+592
+593
+594
+check 4
+595
+596
+597
+598
+check 4
+599
+600
+601
+602
+check 4
+603
+604
+605
+606
+check 4
+607
+608
+609
+610
+check 4
+611
+612
+613
+614
+check 3
+615
+616
+617
+check 4
+618
+619
+620
+621
+check 4
+622
+623
+624
+625
+check 4
+626
+627
+628
+629
+check 4
+630
+631
+632
+633
+check 4
+634
+635
+636
+637
+check 4
+638
+639
+640
+641
+check 4
+642
+643
+644
+645
+check 4
+646
+647
+648
+649
+check 3
+650
+651
+652
+check 4
+653
+654
+655
+656
+check 4
+657
+658
+659
+660
+check 4
+661
+662
+663
+664
+check 4
+665
+666
+667
+668
+check 4
+669
+670
+671
+672
+check 4
+673
+674
+675
+676
+check 3
+677
+678
+679
+check 4
+680
+681
+682
+683
+check 4
+684
+685
+686
+687
+check 4
+688
+689
+690
+691
+check 4
+692
+693
+694
+695
+check 4
+696
+697
+698
+699
+check 4
+700
+701
+702
+703
+check 4
+704
+705
+706
+707
+check 4
+708
+709
+710
+711
+check 3
+712
+713
+714
+check 4
+715
+716
+717
+718
+check 4
+719
+720
+721
+722
+check 4
+723
+724
+725
+726
+check 4
+727
+728
+729
+730
+check 4
+731
+732
+733
+734
+check 4
+735
+736
+737
+738
+check 3
+739
+740
+741
+check 4
+742
+743
+744
+745
+check 4
+746
+747
+748
+749
+check 4
+750
+751
+752
+753
+check 4
+754
+755
+756
+757
+check 4
+758
+759
+760
+761
+check 4
+762
+763
+764
+765
+check 4
+766
+767
+768
+769
+check 4
+770
+771
+772
+773
+check 3
+774
+775
+776
+check 4
+777
+778
+779
+780
+check 4
+781
+782
+783
+784
+check 4
+785
+786
+787
+788
+check 4
+789
+790
+791
+792
+check 4
+793
+794
+795
+796
+check 4
+797
+798
+799
+800
+check 3
+801
+802
+803
+check 4
+804
+805
+806
+807
+check 4
+808
+809
+810
+811
+check 4
+812
+813
+814
+815
+check 4
+816
+817
+818
+819
+check 4
+820
+821
+822
+823
+check 4
+824
+825
+826
+827
+check 4
+828
+829
+830
+831
+check 4
+832
+833
+834
+835
+check 3
+836
+837
+838
+check 4
+839
+840
+841
+842
+check 4
+843
+844
+845
+846
+check 4
+847
+848
+849
+850
+check 4
+851
+852
+853
+854
+check 4
+855
+856
+857
+858
+check 4
+859
+860
+861
+862
+check 3
+863
+864
+865
+check 4
+866
+867
+868
+869
+check 4
+870
+871
+872
+873
+check 4
+874
+875
+876
+877
+check 4
+878
+879
+880
+881
+check 4
+882
+883
+884
+885
+check 4
+886
+887
+888
+889
+check 4
+890
+891
+892
+893
+check 4
+894
+895
+896
+897
+check 3
+898
+899
+900
+check 4
+901
+902
+903
+904
+check 4
+905
+906
+907
+908
+check 4
+909
+910
+911
+912
+check 4
+913
+914
+915
+916
+check 4
+917
+918
+919
+920
+check 4
+921
+922
+923
+924
+check 3
+925
+926
+927
+check 4
+928
+929
+930
+931
+check 4
+932
+933
+934
+935
+check 4
+936
+937
+938
+939
+check 4
+940
+941
+942
+943
+check 4
+944
+945
+946
+947
+check 4
+948
+949
+950
+951
+check 4
+952
+953
+954
+955
+check 4
+956
+957
+958
+959
+check 0
+end_SG
+begin_DTG
+2
+1
+0
+0
+16
+1
+0
+3
+0
+2
+0
+8
+3
+0
+17
+4
+0
+3
+3
+5
+0
+15
+6
+0
+18
+7
+0
+3
+2
+8
+0
+4
+9
+0
+19
+10
+0
+3
+3
+11
+0
+5
+12
+0
+20
+13
+0
+3
+4
+14
+0
+6
+15
+0
+21
+16
+0
+3
+5
+17
+0
+7
+18
+0
+22
+19
+0
+2
+6
+20
+0
+23
+21
+0
+3
+1
+22
+0
+9
+23
+0
+24
+24
+0
+3
+8
+25
+0
+10
+26
+0
+25
+27
+0
+3
+9
+28
+0
+11
+29
+0
+26
+30
+0
+3
+10
+31
+0
+12
+32
+0
+27
+33
+0
+3
+11
+34
+0
+13
+35
+0
+28
+36
+0
+3
+12
+37
+0
+14
+38
+0
+29
+39
+0
+3
+13
+40
+0
+15
+41
+0
+30
+42
+0
+3
+2
+43
+0
+14
+44
+0
+31
+45
+0
+3
+0
+46
+0
+17
+47
+0
+128
+48
+0
+4
+1
+49
+0
+16
+50
+0
+24
+51
+0
+129
+52
+0
+4
+2
+53
+0
+19
+54
+0
+31
+55
+0
+130
+56
+0
+4
+3
+57
+0
+18
+58
+0
+20
+59
+0
+131
+60
+0
+4
+4
+61
+0
+19
+62
+0
+21
+63
+0
+132
+64
+0
+4
+5
+65
+0
+20
+66
+0
+22
+67
+0
+133
+68
+0
+4
+6
+69
+0
+21
+70
+0
+23
+71
+0
+134
+72
+0
+3
+7
+73
+0
+22
+74
+0
+135
+75
+0
+4
+8
+76
+0
+17
+77
+0
+25
+78
+0
+136
+79
+0
+4
+9
+80
+0
+24
+81
+0
+26
+82
+0
+137
+83
+0
+4
+10
+84
+0
+25
+85
+0
+27
+86
+0
+138
+87
+0
+4
+11
+88
+0
+26
+89
+0
+28
+90
+0
+139
+91
+0
+4
+12
+92
+0
+27
+93
+0
+29
+94
+0
+140
+95
+0
+4
+13
+96
+0
+28
+97
+0
+30
+98
+0
+141
+99
+0
+4
+14
+100
+0
+29
+101
+0
+31
+102
+0
+142
+103
+0
+4
+15
+104
+0
+18
+105
+0
+30
+106
+0
+143
+107
+0
+3
+33
+108
+0
+48
+109
+0
+240
+110
+0
+4
+32
+111
+0
+40
+112
+0
+49
+113
+0
+241
+114
+0
+4
+35
+115
+0
+47
+116
+0
+50
+117
+0
+242
+118
+0
+4
+34
+119
+0
+36
+120
+0
+51
+121
+0
+243
+122
+0
+4
+35
+123
+0
+37
+124
+0
+52
+125
+0
+244
+126
+0
+4
+36
+127
+0
+38
+128
+0
+53
+129
+0
+245
+130
+0
+4
+37
+131
+0
+39
+132
+0
+54
+133
+0
+246
+134
+0
+3
+38
+135
+0
+55
+136
+0
+247
+137
+0
+4
+33
+138
+0
+41
+139
+0
+56
+140
+0
+248
+141
+0
+4
+40
+142
+0
+42
+143
+0
+57
+144
+0
+249
+145
+0
+4
+41
+146
+0
+43
+147
+0
+58
+148
+0
+250
+149
+0
+4
+42
+150
+0
+44
+151
+0
+59
+152
+0
+251
+153
+0
+4
+43
+154
+0
+45
+155
+0
+60
+156
+0
+252
+157
+0
+4
+44
+158
+0
+46
+159
+0
+61
+160
+0
+253
+161
+0
+4
+45
+162
+0
+47
+163
+0
+62
+164
+0
+254
+165
+0
+4
+34
+166
+0
+46
+167
+0
+63
+168
+0
+255
+169
+0
+3
+32
+170
+0
+49
+171
+0
+64
+172
+0
+4
+33
+173
+0
+48
+174
+0
+56
+175
+0
+65
+176
+0
+4
+34
+177
+0
+51
+178
+0
+63
+179
+0
+66
+180
+0
+4
+35
+181
+0
+50
+182
+0
+52
+183
+0
+67
+184
+0
+4
+36
+185
+0
+51
+186
+0
+53
+187
+0
+68
+188
+0
+4
+37
+189
+0
+52
+190
+0
+54
+191
+0
+69
+192
+0
+4
+38
+193
+0
+53
+194
+0
+55
+195
+0
+70
+196
+0
+3
+39
+197
+0
+54
+198
+0
+71
+199
+0
+4
+40
+200
+0
+49
+201
+0
+57
+202
+0
+72
+203
+0
+4
+41
+204
+0
+56
+205
+0
+58
+206
+0
+73
+207
+0
+4
+42
+208
+0
+57
+209
+0
+59
+210
+0
+74
+211
+0
+4
+43
+212
+0
+58
+213
+0
+60
+214
+0
+75
+215
+0
+4
+44
+216
+0
+59
+217
+0
+61
+218
+0
+76
+219
+0
+4
+45
+220
+0
+60
+221
+0
+62
+222
+0
+77
+223
+0
+4
+46
+224
+0
+61
+225
+0
+63
+226
+0
+78
+227
+0
+4
+47
+228
+0
+50
+229
+0
+62
+230
+0
+79
+231
+0
+3
+48
+232
+0
+65
+233
+0
+80
+234
+0
+4
+49
+235
+0
+64
+236
+0
+72
+237
+0
+81
+238
+0
+4
+50
+239
+0
+67
+240
+0
+79
+241
+0
+82
+242
+0
+4
+51
+243
+0
+66
+244
+0
+68
+245
+0
+83
+246
+0
+4
+52
+247
+0
+67
+248
+0
+69
+249
+0
+84
+250
+0
+4
+53
+251
+0
+68
+252
+0
+70
+253
+0
+85
+254
+0
+4
+54
+255
+0
+69
+256
+0
+71
+257
+0
+86
+258
+0
+3
+55
+259
+0
+70
+260
+0
+87
+261
+0
+4
+56
+262
+0
+65
+263
+0
+73
+264
+0
+88
+265
+0
+4
+57
+266
+0
+72
+267
+0
+74
+268
+0
+89
+269
+0
+4
+58
+270
+0
+73
+271
+0
+75
+272
+0
+90
+273
+0
+4
+59
+274
+0
+74
+275
+0
+76
+276
+0
+91
+277
+0
+4
+60
+278
+0
+75
+279
+0
+77
+280
+0
+92
+281
+0
+4
+61
+282
+0
+76
+283
+0
+78
+284
+0
+93
+285
+0
+4
+62
+286
+0
+77
+287
+0
+79
+288
+0
+94
+289
+0
+4
+63
+290
+0
+66
+291
+0
+78
+292
+0
+95
+293
+0
+3
+64
+294
+0
+81
+295
+0
+96
+296
+0
+4
+65
+297
+0
+80
+298
+0
+88
+299
+0
+97
+300
+0
+4
+66
+301
+0
+83
+302
+0
+95
+303
+0
+98
+304
+0
+4
+67
+305
+0
+82
+306
+0
+84
+307
+0
+99
+308
+0
+4
+68
+309
+0
+83
+310
+0
+85
+311
+0
+100
+312
+0
+4
+69
+313
+0
+84
+314
+0
+86
+315
+0
+101
+316
+0
+4
+70
+317
+0
+85
+318
+0
+87
+319
+0
+102
+320
+0
+3
+71
+321
+0
+86
+322
+0
+103
+323
+0
+4
+72
+324
+0
+81
+325
+0
+89
+326
+0
+104
+327
+0
+4
+73
+328
+0
+88
+329
+0
+90
+330
+0
+105
+331
+0
+4
+74
+332
+0
+89
+333
+0
+91
+334
+0
+106
+335
+0
+4
+75
+336
+0
+90
+337
+0
+92
+338
+0
+107
+339
+0
+4
+76
+340
+0
+91
+341
+0
+93
+342
+0
+108
+343
+0
+4
+77
+344
+0
+92
+345
+0
+94
+346
+0
+109
+347
+0
+4
+78
+348
+0
+93
+349
+0
+95
+350
+0
+110
+351
+0
+4
+79
+352
+0
+82
+353
+0
+94
+354
+0
+111
+355
+0
+3
+80
+356
+0
+97
+357
+0
+112
+358
+0
+4
+81
+359
+0
+96
+360
+0
+104
+361
+0
+113
+362
+0
+4
+82
+363
+0
+99
+364
+0
+111
+365
+0
+114
+366
+0
+4
+83
+367
+0
+98
+368
+0
+100
+369
+0
+115
+370
+0
+4
+84
+371
+0
+99
+372
+0
+101
+373
+0
+116
+374
+0
+4
+85
+375
+0
+100
+376
+0
+102
+377
+0
+117
+378
+0
+4
+86
+379
+0
+101
+380
+0
+103
+381
+0
+118
+382
+0
+3
+87
+383
+0
+102
+384
+0
+119
+385
+0
+4
+88
+386
+0
+97
+387
+0
+105
+388
+0
+120
+389
+0
+4
+89
+390
+0
+104
+391
+0
+106
+392
+0
+121
+393
+0
+4
+90
+394
+0
+105
+395
+0
+107
+396
+0
+122
+397
+0
+4
+91
+398
+0
+106
+399
+0
+108
+400
+0
+123
+401
+0
+4
+92
+402
+0
+107
+403
+0
+109
+404
+0
+124
+405
+0
+4
+93
+406
+0
+108
+407
+0
+110
+408
+0
+125
+409
+0
+4
+94
+410
+0
+109
+411
+0
+111
+412
+0
+126
+413
+0
+4
+95
+414
+0
+98
+415
+0
+110
+416
+0
+127
+417
+0
+2
+96
+418
+0
+113
+419
+0
+3
+97
+420
+0
+112
+421
+0
+120
+422
+0
+3
+98
+423
+0
+115
+424
+0
+127
+425
+0
+3
+99
+426
+0
+114
+427
+0
+116
+428
+0
+3
+100
+429
+0
+115
+430
+0
+117
+431
+0
+3
+101
+432
+0
+116
+433
+0
+118
+434
+0
+3
+102
+435
+0
+117
+436
+0
+119
+437
+0
+2
+103
+438
+0
+118
+439
+0
+3
+104
+440
+0
+113
+441
+0
+121
+442
+0
+3
+105
+443
+0
+120
+444
+0
+122
+445
+0
+3
+106
+446
+0
+121
+447
+0
+123
+448
+0
+3
+107
+449
+0
+122
+450
+0
+124
+451
+0
+3
+108
+452
+0
+123
+453
+0
+125
+454
+0
+3
+109
+455
+0
+124
+456
+0
+126
+457
+0
+3
+110
+458
+0
+125
+459
+0
+127
+460
+0
+3
+111
+461
+0
+114
+462
+0
+126
+463
+0
+3
+16
+464
+0
+129
+465
+0
+144
+466
+0
+4
+17
+467
+0
+128
+468
+0
+136
+469
+0
+145
+470
+0
+4
+18
+471
+0
+131
+472
+0
+143
+473
+0
+146
+474
+0
+4
+19
+475
+0
+130
+476
+0
+132
+477
+0
+147
+478
+0
+4
+20
+479
+0
+131
+480
+0
+133
+481
+0
+148
+482
+0
+4
+21
+483
+0
+132
+484
+0
+134
+485
+0
+149
+486
+0
+4
+22
+487
+0
+133
+488
+0
+135
+489
+0
+150
+490
+0
+3
+23
+491
+0
+134
+492
+0
+151
+493
+0
+4
+24
+494
+0
+129
+495
+0
+137
+496
+0
+152
+497
+0
+4
+25
+498
+0
+136
+499
+0
+138
+500
+0
+153
+501
+0
+4
+26
+502
+0
+137
+503
+0
+139
+504
+0
+154
+505
+0
+4
+27
+506
+0
+138
+507
+0
+140
+508
+0
+155
+509
+0
+4
+28
+510
+0
+139
+511
+0
+141
+512
+0
+156
+513
+0
+4
+29
+514
+0
+140
+515
+0
+142
+516
+0
+157
+517
+0
+4
+30
+518
+0
+141
+519
+0
+143
+520
+0
+158
+521
+0
+4
+31
+522
+0
+130
+523
+0
+142
+524
+0
+159
+525
+0
+3
+128
+526
+0
+145
+527
+0
+160
+528
+0
+4
+129
+529
+0
+144
+530
+0
+152
+531
+0
+161
+532
+0
+4
+130
+533
+0
+147
+534
+0
+159
+535
+0
+162
+536
+0
+4
+131
+537
+0
+146
+538
+0
+148
+539
+0
+163
+540
+0
+4
+132
+541
+0
+147
+542
+0
+149
+543
+0
+164
+544
+0
+4
+133
+545
+0
+148
+546
+0
+150
+547
+0
+165
+548
+0
+4
+134
+549
+0
+149
+550
+0
+151
+551
+0
+166
+552
+0
+3
+135
+553
+0
+150
+554
+0
+167
+555
+0
+4
+136
+556
+0
+145
+557
+0
+153
+558
+0
+168
+559
+0
+4
+137
+560
+0
+152
+561
+0
+154
+562
+0
+169
+563
+0
+4
+138
+564
+0
+153
+565
+0
+155
+566
+0
+170
+567
+0
+4
+139
+568
+0
+154
+569
+0
+156
+570
+0
+171
+571
+0
+4
+140
+572
+0
+155
+573
+0
+157
+574
+0
+172
+575
+0
+4
+141
+576
+0
+156
+577
+0
+158
+578
+0
+173
+579
+0
+4
+142
+580
+0
+157
+581
+0
+159
+582
+0
+174
+583
+0
+4
+143
+584
+0
+146
+585
+0
+158
+586
+0
+175
+587
+0
+3
+144
+588
+0
+161
+589
+0
+176
+590
+0
+4
+145
+591
+0
+160
+592
+0
+168
+593
+0
+177
+594
+0
+4
+146
+595
+0
+163
+596
+0
+175
+597
+0
+178
+598
+0
+4
+147
+599
+0
+162
+600
+0
+164
+601
+0
+179
+602
+0
+4
+148
+603
+0
+163
+604
+0
+165
+605
+0
+180
+606
+0
+4
+149
+607
+0
+164
+608
+0
+166
+609
+0
+181
+610
+0
+4
+150
+611
+0
+165
+612
+0
+167
+613
+0
+182
+614
+0
+3
+151
+615
+0
+166
+616
+0
+183
+617
+0
+4
+152
+618
+0
+161
+619
+0
+169
+620
+0
+184
+621
+0
+4
+153
+622
+0
+168
+623
+0
+170
+624
+0
+185
+625
+0
+4
+154
+626
+0
+169
+627
+0
+171
+628
+0
+186
+629
+0
+4
+155
+630
+0
+170
+631
+0
+172
+632
+0
+187
+633
+0
+4
+156
+634
+0
+171
+635
+0
+173
+636
+0
+188
+637
+0
+4
+157
+638
+0
+172
+639
+0
+174
+640
+0
+189
+641
+0
+4
+158
+642
+0
+173
+643
+0
+175
+644
+0
+190
+645
+0
+4
+159
+646
+0
+162
+647
+0
+174
+648
+0
+191
+649
+0
+3
+160
+650
+0
+177
+651
+0
+192
+652
+0
+4
+161
+653
+0
+176
+654
+0
+184
+655
+0
+193
+656
+0
+4
+162
+657
+0
+179
+658
+0
+191
+659
+0
+194
+660
+0
+4
+163
+661
+0
+178
+662
+0
+180
+663
+0
+195
+664
+0
+4
+164
+665
+0
+179
+666
+0
+181
+667
+0
+196
+668
+0
+4
+165
+669
+0
+180
+670
+0
+182
+671
+0
+197
+672
+0
+4
+166
+673
+0
+181
+674
+0
+183
+675
+0
+198
+676
+0
+3
+167
+677
+0
+182
+678
+0
+199
+679
+0
+4
+168
+680
+0
+177
+681
+0
+185
+682
+0
+200
+683
+0
+4
+169
+684
+0
+184
+685
+0
+186
+686
+0
+201
+687
+0
+4
+170
+688
+0
+185
+689
+0
+187
+690
+0
+202
+691
+0
+4
+171
+692
+0
+186
+693
+0
+188
+694
+0
+203
+695
+0
+4
+172
+696
+0
+187
+697
+0
+189
+698
+0
+204
+699
+0
+4
+173
+700
+0
+188
+701
+0
+190
+702
+0
+205
+703
+0
+4
+174
+704
+0
+189
+705
+0
+191
+706
+0
+206
+707
+0
+4
+175
+708
+0
+178
+709
+0
+190
+710
+0
+207
+711
+0
+3
+176
+712
+0
+193
+713
+0
+208
+714
+0
+4
+177
+715
+0
+192
+716
+0
+200
+717
+0
+209
+718
+0
+4
+178
+719
+0
+195
+720
+0
+207
+721
+0
+210
+722
+0
+4
+179
+723
+0
+194
+724
+0
+196
+725
+0
+211
+726
+0
+4
+180
+727
+0
+195
+728
+0
+197
+729
+0
+212
+730
+0
+4
+181
+731
+0
+196
+732
+0
+198
+733
+0
+213
+734
+0
+4
+182
+735
+0
+197
+736
+0
+199
+737
+0
+214
+738
+0
+3
+183
+739
+0
+198
+740
+0
+215
+741
+0
+4
+184
+742
+0
+193
+743
+0
+201
+744
+0
+216
+745
+0
+4
+185
+746
+0
+200
+747
+0
+202
+748
+0
+217
+749
+0
+4
+186
+750
+0
+201
+751
+0
+203
+752
+0
+218
+753
+0
+4
+187
+754
+0
+202
+755
+0
+204
+756
+0
+219
+757
+0
+4
+188
+758
+0
+203
+759
+0
+205
+760
+0
+220
+761
+0
+4
+189
+762
+0
+204
+763
+0
+206
+764
+0
+221
+765
+0
+4
+190
+766
+0
+205
+767
+0
+207
+768
+0
+222
+769
+0
+4
+191
+770
+0
+194
+771
+0
+206
+772
+0
+223
+773
+0
+3
+192
+774
+0
+209
+775
+0
+224
+776
+0
+4
+193
+777
+0
+208
+778
+0
+216
+779
+0
+225
+780
+0
+4
+194
+781
+0
+211
+782
+0
+223
+783
+0
+226
+784
+0
+4
+195
+785
+0
+210
+786
+0
+212
+787
+0
+227
+788
+0
+4
+196
+789
+0
+211
+790
+0
+213
+791
+0
+228
+792
+0
+4
+197
+793
+0
+212
+794
+0
+214
+795
+0
+229
+796
+0
+4
+198
+797
+0
+213
+798
+0
+215
+799
+0
+230
+800
+0
+3
+199
+801
+0
+214
+802
+0
+231
+803
+0
+4
+200
+804
+0
+209
+805
+0
+217
+806
+0
+232
+807
+0
+4
+201
+808
+0
+216
+809
+0
+218
+810
+0
+233
+811
+0
+4
+202
+812
+0
+217
+813
+0
+219
+814
+0
+234
+815
+0
+4
+203
+816
+0
+218
+817
+0
+220
+818
+0
+235
+819
+0
+4
+204
+820
+0
+219
+821
+0
+221
+822
+0
+236
+823
+0
+4
+205
+824
+0
+220
+825
+0
+222
+826
+0
+237
+827
+0
+4
+206
+828
+0
+221
+829
+0
+223
+830
+0
+238
+831
+0
+4
+207
+832
+0
+210
+833
+0
+222
+834
+0
+239
+835
+0
+3
+208
+836
+0
+225
+837
+0
+240
+838
+0
+4
+209
+839
+0
+224
+840
+0
+232
+841
+0
+241
+842
+0
+4
+210
+843
+0
+227
+844
+0
+239
+845
+0
+242
+846
+0
+4
+211
+847
+0
+226
+848
+0
+228
+849
+0
+243
+850
+0
+4
+212
+851
+0
+227
+852
+0
+229
+853
+0
+244
+854
+0
+4
+213
+855
+0
+228
+856
+0
+230
+857
+0
+245
+858
+0
+4
+214
+859
+0
+229
+860
+0
+231
+861
+0
+246
+862
+0
+3
+215
+863
+0
+230
+864
+0
+247
+865
+0
+4
+216
+866
+0
+225
+867
+0
+233
+868
+0
+248
+869
+0
+4
+217
+870
+0
+232
+871
+0
+234
+872
+0
+249
+873
+0
+4
+218
+874
+0
+233
+875
+0
+235
+876
+0
+250
+877
+0
+4
+219
+878
+0
+234
+879
+0
+236
+880
+0
+251
+881
+0
+4
+220
+882
+0
+235
+883
+0
+237
+884
+0
+252
+885
+0
+4
+221
+886
+0
+236
+887
+0
+238
+888
+0
+253
+889
+0
+4
+222
+890
+0
+237
+891
+0
+239
+892
+0
+254
+893
+0
+4
+223
+894
+0
+226
+895
+0
+238
+896
+0
+255
+897
+0
+3
+32
+898
+0
+224
+899
+0
+241
+900
+0
+4
+33
+901
+0
+225
+902
+0
+240
+903
+0
+248
+904
+0
+4
+34
+905
+0
+226
+906
+0
+243
+907
+0
+255
+908
+0
+4
+35
+909
+0
+227
+910
+0
+242
+911
+0
+244
+912
+0
+4
+36
+913
+0
+228
+914
+0
+243
+915
+0
+245
+916
+0
+4
+37
+917
+0
+229
+918
+0
+244
+919
+0
+246
+920
+0
+4
+38
+921
+0
+230
+922
+0
+245
+923
+0
+247
+924
+0
+3
+39
+925
+0
+231
+926
+0
+246
+927
+0
+4
+40
+928
+0
+232
+929
+0
+241
+930
+0
+249
+931
+0
+4
+41
+932
+0
+233
+933
+0
+248
+934
+0
+250
+935
+0
+4
+42
+936
+0
+234
+937
+0
+249
+938
+0
+251
+939
+0
+4
+43
+940
+0
+235
+941
+0
+250
+942
+0
+252
+943
+0
+4
+44
+944
+0
+236
+945
+0
+251
+946
+0
+253
+947
+0
+4
+45
+948
+0
+237
+949
+0
+252
+950
+0
+254
+951
+0
+4
+46
+952
+0
+238
+953
+0
+253
+954
+0
+255
+955
+0
+4
+47
+956
+0
+239
+957
+0
+242
+958
+0
+254
+959
+0
+end_DTG
+begin_DTG
+0
+4
+0
+169
+1
+0 47
+0
+897
+1
+0 239
+0
+908
+1
+0 242
+0
+955
+1
+0 254
+end_DTG
+begin_DTG
+0
+4
+0
+165
+1
+0 46
+0
+893
+1
+0 238
+0
+951
+1
+0 253
+0
+959
+1
+0 255
+end_DTG
+begin_DTG
+0
+4
+0
+161
+1
+0 45
+0
+889
+1
+0 237
+0
+947
+1
+0 252
+0
+954
+1
+0 254
+end_DTG
+begin_DTG
+0
+4
+0
+157
+1
+0 44
+0
+885
+1
+0 236
+0
+943
+1
+0 251
+0
+950
+1
+0 253
+end_DTG
+begin_DTG
+0
+4
+0
+153
+1
+0 43
+0
+881
+1
+0 235
+0
+939
+1
+0 250
+0
+946
+1
+0 252
+end_DTG
+begin_DTG
+0
+4
+0
+149
+1
+0 42
+0
+877
+1
+0 234
+0
+935
+1
+0 249
+0
+942
+1
+0 251
+end_DTG
+begin_DTG
+0
+4
+0
+145
+1
+0 41
+0
+873
+1
+0 233
+0
+931
+1
+0 248
+0
+938
+1
+0 250
+end_DTG
+begin_DTG
+0
+4
+0
+141
+1
+0 40
+0
+869
+1
+0 232
+0
+904
+1
+0 241
+0
+934
+1
+0 249
+end_DTG
+begin_DTG
+0
+3
+0
+137
+1
+0 39
+0
+865
+1
+0 231
+0
+924
+1
+0 246
+end_DTG
+begin_DTG
+0
+4
+0
+134
+1
+0 38
+0
+862
+1
+0 230
+0
+920
+1
+0 245
+0
+927
+1
+0 247
+end_DTG
+begin_DTG
+0
+4
+0
+130
+1
+0 37
+0
+858
+1
+0 229
+0
+916
+1
+0 244
+0
+923
+1
+0 246
+end_DTG
+begin_DTG
+0
+4
+0
+126
+1
+0 36
+0
+854
+1
+0 228
+0
+912
+1
+0 243
+0
+919
+1
+0 245
+end_DTG
+begin_DTG
+0
+4
+0
+122
+1
+0 35
+0
+850
+1
+0 227
+0
+907
+1
+0 242
+0
+915
+1
+0 244
+end_DTG
+begin_DTG
+0
+4
+0
+118
+1
+0 34
+0
+846
+1
+0 226
+0
+911
+1
+0 243
+0
+958
+1
+0 255
+end_DTG
+begin_DTG
+0
+4
+0
+114
+1
+0 33
+0
+842
+1
+0 225
+0
+900
+1
+0 240
+0
+930
+1
+0 248
+end_DTG
+begin_DTG
+0
+3
+0
+110
+1
+0 32
+0
+838
+1
+0 224
+0
+903
+1
+0 241
+end_DTG
+begin_DTG
+0
+4
+0
+835
+1
+0 223
+0
+845
+1
+0 226
+0
+892
+1
+0 238
+0
+957
+1
+0 255
+end_DTG
+begin_DTG
+0
+4
+0
+827
+1
+0 221
+0
+884
+1
+0 236
+0
+891
+1
+0 238
+0
+949
+1
+0 253
+end_DTG
+begin_DTG
+0
+4
+0
+823
+1
+0 220
+0
+880
+1
+0 235
+0
+887
+1
+0 237
+0
+945
+1
+0 252
+end_DTG
+begin_DTG
+0
+4
+0
+819
+1
+0 219
+0
+876
+1
+0 234
+0
+883
+1
+0 236
+0
+941
+1
+0 251
+end_DTG
+begin_DTG
+0
+4
+0
+815
+1
+0 218
+0
+872
+1
+0 233
+0
+879
+1
+0 235
+0
+937
+1
+0 250
+end_DTG
+begin_DTG
+0
+4
+0
+811
+1
+0 217
+0
+868
+1
+0 232
+0
+875
+1
+0 234
+0
+933
+1
+0 249
+end_DTG
+begin_DTG
+0
+4
+0
+807
+1
+0 216
+0
+841
+1
+0 225
+0
+871
+1
+0 233
+0
+929
+1
+0 248
+end_DTG
+begin_DTG
+0
+3
+0
+803
+1
+0 215
+0
+861
+1
+0 230
+0
+926
+1
+0 247
+end_DTG
+begin_DTG
+0
+4
+0
+800
+1
+0 214
+0
+857
+1
+0 229
+0
+864
+1
+0 231
+0
+922
+1
+0 246
+end_DTG
+begin_DTG
+0
+4
+0
+796
+1
+0 213
+0
+853
+1
+0 228
+0
+860
+1
+0 230
+0
+918
+1
+0 245
+end_DTG
+begin_DTG
+0
+4
+0
+792
+1
+0 212
+0
+849
+1
+0 227
+0
+856
+1
+0 229
+0
+914
+1
+0 244
+end_DTG
+begin_DTG
+0
+4
+0
+788
+1
+0 211
+0
+844
+1
+0 226
+0
+852
+1
+0 228
+0
+910
+1
+0 243
+end_DTG
+begin_DTG
+0
+4
+0
+784
+1
+0 210
+0
+848
+1
+0 227
+0
+895
+1
+0 239
+0
+906
+1
+0 242
+end_DTG
+begin_DTG
+0
+4
+0
+780
+1
+0 209
+0
+837
+1
+0 224
+0
+867
+1
+0 232
+0
+902
+1
+0 241
+end_DTG
+begin_DTG
+0
+3
+0
+776
+1
+0 208
+0
+840
+1
+0 225
+0
+899
+1
+0 240
+end_DTG
+begin_DTG
+0
+4
+0
+773
+1
+0 207
+0
+783
+1
+0 210
+0
+830
+1
+0 222
+0
+894
+1
+0 239
+end_DTG
+begin_DTG
+0
+4
+0
+769
+1
+0 206
+0
+826
+1
+0 221
+0
+834
+1
+0 223
+0
+890
+1
+0 238
+end_DTG
+begin_DTG
+0
+4
+0
+765
+1
+0 205
+0
+822
+1
+0 220
+0
+829
+1
+0 222
+0
+886
+1
+0 237
+end_DTG
+begin_DTG
+0
+4
+0
+761
+1
+0 204
+0
+818
+1
+0 219
+0
+825
+1
+0 221
+0
+882
+1
+0 236
+end_DTG
+begin_DTG
+0
+4
+0
+757
+1
+0 203
+0
+814
+1
+0 218
+0
+821
+1
+0 220
+0
+878
+1
+0 235
+end_DTG
+begin_DTG
+0
+4
+0
+753
+1
+0 202
+0
+810
+1
+0 217
+0
+817
+1
+0 219
+0
+874
+1
+0 234
+end_DTG
+begin_DTG
+0
+4
+0
+749
+1
+0 201
+0
+806
+1
+0 216
+0
+813
+1
+0 218
+0
+870
+1
+0 233
+end_DTG
+begin_DTG
+0
+4
+0
+745
+1
+0 200
+0
+779
+1
+0 209
+0
+809
+1
+0 217
+0
+866
+1
+0 232
+end_DTG
+begin_DTG
+0
+3
+0
+741
+1
+0 199
+0
+799
+1
+0 214
+0
+863
+1
+0 231
+end_DTG
+begin_DTG
+0
+4
+0
+738
+1
+0 198
+0
+795
+1
+0 213
+0
+802
+1
+0 215
+0
+859
+1
+0 230
+end_DTG
+begin_DTG
+0
+4
+0
+734
+1
+0 197
+0
+791
+1
+0 212
+0
+798
+1
+0 214
+0
+855
+1
+0 229
+end_DTG
+begin_DTG
+0
+4
+0
+730
+1
+0 196
+0
+787
+1
+0 211
+0
+794
+1
+0 213
+0
+851
+1
+0 228
+end_DTG
+begin_DTG
+0
+4
+0
+726
+1
+0 195
+0
+782
+1
+0 210
+0
+790
+1
+0 212
+0
+847
+1
+0 227
+end_DTG
+begin_DTG
+0
+4
+0
+722
+1
+0 194
+0
+786
+1
+0 211
+0
+833
+1
+0 223
+0
+843
+1
+0 226
+end_DTG
+begin_DTG
+0
+4
+0
+718
+1
+0 193
+0
+775
+1
+0 208
+0
+805
+1
+0 216
+0
+839
+1
+0 225
+end_DTG
+begin_DTG
+0
+3
+0
+714
+1
+0 192
+0
+778
+1
+0 209
+0
+836
+1
+0 224
+end_DTG
+begin_DTG
+0
+4
+0
+711
+1
+0 191
+0
+721
+1
+0 194
+0
+768
+1
+0 206
+0
+832
+1
+0 223
+end_DTG
+begin_DTG
+0
+4
+0
+707
+1
+0 190
+0
+764
+1
+0 205
+0
+772
+1
+0 207
+0
+828
+1
+0 222
+end_DTG
+begin_DTG
+0
+4
+0
+703
+1
+0 189
+0
+760
+1
+0 204
+0
+767
+1
+0 206
+0
+824
+1
+0 221
+end_DTG
+begin_DTG
+0
+4
+0
+699
+1
+0 188
+0
+756
+1
+0 203
+0
+763
+1
+0 205
+0
+820
+1
+0 220
+end_DTG
+begin_DTG
+0
+4
+0
+695
+1
+0 187
+0
+752
+1
+0 202
+0
+759
+1
+0 204
+0
+816
+1
+0 219
+end_DTG
+begin_DTG
+0
+4
+0
+691
+1
+0 186
+0
+748
+1
+0 201
+0
+755
+1
+0 203
+0
+812
+1
+0 218
+end_DTG
+begin_DTG
+0
+4
+0
+687
+1
+0 185
+0
+744
+1
+0 200
+0
+751
+1
+0 202
+0
+808
+1
+0 217
+end_DTG
+begin_DTG
+0
+4
+0
+683
+1
+0 184
+0
+717
+1
+0 193
+0
+747
+1
+0 201
+0
+804
+1
+0 216
+end_DTG
+begin_DTG
+0
+3
+0
+679
+1
+0 183
+0
+737
+1
+0 198
+0
+801
+1
+0 215
+end_DTG
+begin_DTG
+0
+4
+0
+676
+1
+0 182
+0
+733
+1
+0 197
+0
+740
+1
+0 199
+0
+797
+1
+0 214
+end_DTG
+begin_DTG
+0
+4
+0
+672
+1
+0 181
+0
+729
+1
+0 196
+0
+736
+1
+0 198
+0
+793
+1
+0 213
+end_DTG
+begin_DTG
+0
+4
+0
+668
+1
+0 180
+0
+725
+1
+0 195
+0
+732
+1
+0 197
+0
+789
+1
+0 212
+end_DTG
+begin_DTG
+0
+4
+0
+664
+1
+0 179
+0
+720
+1
+0 194
+0
+728
+1
+0 196
+0
+785
+1
+0 211
+end_DTG
+begin_DTG
+0
+4
+0
+660
+1
+0 178
+0
+724
+1
+0 195
+0
+771
+1
+0 207
+0
+781
+1
+0 210
+end_DTG
+begin_DTG
+0
+4
+0
+656
+1
+0 177
+0
+713
+1
+0 192
+0
+743
+1
+0 200
+0
+777
+1
+0 209
+end_DTG
+begin_DTG
+0
+3
+0
+652
+1
+0 176
+0
+716
+1
+0 193
+0
+774
+1
+0 208
+end_DTG
+begin_DTG
+0
+4
+0
+649
+1
+0 175
+0
+659
+1
+0 178
+0
+706
+1
+0 190
+0
+770
+1
+0 207
+end_DTG
+begin_DTG
+0
+4
+0
+645
+1
+0 174
+0
+702
+1
+0 189
+0
+710
+1
+0 191
+0
+766
+1
+0 206
+end_DTG
+begin_DTG
+0
+4
+0
+641
+1
+0 173
+0
+698
+1
+0 188
+0
+705
+1
+0 190
+0
+762
+1
+0 205
+end_DTG
+begin_DTG
+0
+4
+0
+637
+1
+0 172
+0
+694
+1
+0 187
+0
+701
+1
+0 189
+0
+758
+1
+0 204
+end_DTG
+begin_DTG
+0
+4
+0
+633
+1
+0 171
+0
+690
+1
+0 186
+0
+697
+1
+0 188
+0
+754
+1
+0 203
+end_DTG
+begin_DTG
+0
+4
+0
+629
+1
+0 170
+0
+686
+1
+0 185
+0
+693
+1
+0 187
+0
+750
+1
+0 202
+end_DTG
+begin_DTG
+0
+4
+0
+625
+1
+0 169
+0
+682
+1
+0 184
+0
+689
+1
+0 186
+0
+746
+1
+0 201
+end_DTG
+begin_DTG
+0
+4
+0
+621
+1
+0 168
+0
+655
+1
+0 177
+0
+685
+1
+0 185
+0
+742
+1
+0 200
+end_DTG
+begin_DTG
+0
+3
+0
+617
+1
+0 167
+0
+675
+1
+0 182
+0
+739
+1
+0 199
+end_DTG
+begin_DTG
+0
+4
+0
+614
+1
+0 166
+0
+671
+1
+0 181
+0
+678
+1
+0 183
+0
+735
+1
+0 198
+end_DTG
+begin_DTG
+0
+4
+0
+610
+1
+0 165
+0
+667
+1
+0 180
+0
+674
+1
+0 182
+0
+731
+1
+0 197
+end_DTG
+begin_DTG
+0
+4
+0
+606
+1
+0 164
+0
+663
+1
+0 179
+0
+670
+1
+0 181
+0
+727
+1
+0 196
+end_DTG
+begin_DTG
+0
+4
+0
+602
+1
+0 163
+0
+658
+1
+0 178
+0
+666
+1
+0 180
+0
+723
+1
+0 195
+end_DTG
+begin_DTG
+0
+4
+0
+598
+1
+0 162
+0
+662
+1
+0 179
+0
+709
+1
+0 191
+0
+719
+1
+0 194
+end_DTG
+begin_DTG
+0
+4
+0
+594
+1
+0 161
+0
+651
+1
+0 176
+0
+681
+1
+0 184
+0
+715
+1
+0 193
+end_DTG
+begin_DTG
+0
+3
+0
+590
+1
+0 160
+0
+654
+1
+0 177
+0
+712
+1
+0 192
+end_DTG
+begin_DTG
+0
+4
+0
+587
+1
+0 159
+0
+597
+1
+0 162
+0
+644
+1
+0 174
+0
+708
+1
+0 191
+end_DTG
+begin_DTG
+0
+4
+0
+583
+1
+0 158
+0
+640
+1
+0 173
+0
+648
+1
+0 175
+0
+704
+1
+0 190
+end_DTG
+begin_DTG
+0
+4
+0
+579
+1
+0 157
+0
+636
+1
+0 172
+0
+643
+1
+0 174
+0
+700
+1
+0 189
+end_DTG
+begin_DTG
+0
+4
+0
+575
+1
+0 156
+0
+632
+1
+0 171
+0
+639
+1
+0 173
+0
+696
+1
+0 188
+end_DTG
+begin_DTG
+0
+4
+0
+571
+1
+0 155
+0
+628
+1
+0 170
+0
+635
+1
+0 172
+0
+692
+1
+0 187
+end_DTG
+begin_DTG
+0
+4
+0
+567
+1
+0 154
+0
+624
+1
+0 169
+0
+631
+1
+0 171
+0
+688
+1
+0 186
+end_DTG
+begin_DTG
+0
+4
+0
+563
+1
+0 153
+0
+620
+1
+0 168
+0
+627
+1
+0 170
+0
+684
+1
+0 185
+end_DTG
+begin_DTG
+0
+4
+0
+559
+1
+0 152
+0
+593
+1
+0 161
+0
+623
+1
+0 169
+0
+680
+1
+0 184
+end_DTG
+begin_DTG
+0
+3
+0
+555
+1
+0 151
+0
+613
+1
+0 166
+0
+677
+1
+0 183
+end_DTG
+begin_DTG
+0
+4
+0
+552
+1
+0 150
+0
+609
+1
+0 165
+0
+616
+1
+0 167
+0
+673
+1
+0 182
+end_DTG
+begin_DTG
+0
+4
+0
+548
+1
+0 149
+0
+605
+1
+0 164
+0
+612
+1
+0 166
+0
+669
+1
+0 181
+end_DTG
+begin_DTG
+0
+4
+0
+544
+1
+0 148
+0
+601
+1
+0 163
+0
+608
+1
+0 165
+0
+665
+1
+0 180
+end_DTG
+begin_DTG
+0
+4
+0
+540
+1
+0 147
+0
+596
+1
+0 162
+0
+604
+1
+0 164
+0
+661
+1
+0 179
+end_DTG
+begin_DTG
+0
+4
+0
+536
+1
+0 146
+0
+600
+1
+0 163
+0
+647
+1
+0 175
+0
+657
+1
+0 178
+end_DTG
+begin_DTG
+0
+4
+0
+532
+1
+0 145
+0
+589
+1
+0 160
+0
+619
+1
+0 168
+0
+653
+1
+0 177
+end_DTG
+begin_DTG
+0
+3
+0
+528
+1
+0 144
+0
+592
+1
+0 161
+0
+650
+1
+0 176
+end_DTG
+begin_DTG
+0
+4
+0
+525
+1
+0 143
+0
+535
+1
+0 146
+0
+582
+1
+0 158
+0
+646
+1
+0 175
+end_DTG
+begin_DTG
+0
+4
+0
+521
+1
+0 142
+0
+578
+1
+0 157
+0
+586
+1
+0 159
+0
+642
+1
+0 174
+end_DTG
+begin_DTG
+0
+4
+0
+517
+1
+0 141
+0
+574
+1
+0 156
+0
+581
+1
+0 158
+0
+638
+1
+0 173
+end_DTG
+begin_DTG
+0
+4
+0
+513
+1
+0 140
+0
+570
+1
+0 155
+0
+577
+1
+0 157
+0
+634
+1
+0 172
+end_DTG
+begin_DTG
+0
+4
+0
+509
+1
+0 139
+0
+566
+1
+0 154
+0
+573
+1
+0 156
+0
+630
+1
+0 171
+end_DTG
+begin_DTG
+0
+4
+0
+505
+1
+0 138
+0
+562
+1
+0 153
+0
+569
+1
+0 155
+0
+626
+1
+0 170
+end_DTG
+begin_DTG
+0
+4
+0
+501
+1
+0 137
+0
+558
+1
+0 152
+0
+565
+1
+0 154
+0
+622
+1
+0 169
+end_DTG
+begin_DTG
+0
+4
+0
+497
+1
+0 136
+0
+531
+1
+0 145
+0
+561
+1
+0 153
+0
+618
+1
+0 168
+end_DTG
+begin_DTG
+0
+3
+0
+493
+1
+0 135
+0
+551
+1
+0 150
+0
+615
+1
+0 167
+end_DTG
+begin_DTG
+0
+4
+0
+490
+1
+0 134
+0
+547
+1
+0 149
+0
+554
+1
+0 151
+0
+611
+1
+0 166
+end_DTG
+begin_DTG
+0
+4
+0
+486
+1
+0 133
+0
+543
+1
+0 148
+0
+550
+1
+0 150
+0
+607
+1
+0 165
+end_DTG
+begin_DTG
+0
+4
+0
+482
+1
+0 132
+0
+539
+1
+0 147
+0
+546
+1
+0 149
+0
+603
+1
+0 164
+end_DTG
+begin_DTG
+0
+4
+0
+478
+1
+0 131
+0
+534
+1
+0 146
+0
+542
+1
+0 148
+0
+599
+1
+0 163
+end_DTG
+begin_DTG
+0
+4
+0
+474
+1
+0 130
+0
+538
+1
+0 147
+0
+585
+1
+0 159
+0
+595
+1
+0 162
+end_DTG
+begin_DTG
+0
+4
+0
+470
+1
+0 129
+0
+527
+1
+0 144
+0
+557
+1
+0 152
+0
+591
+1
+0 161
+end_DTG
+begin_DTG
+0
+3
+0
+466
+1
+0 128
+0
+530
+1
+0 145
+0
+588
+1
+0 160
+end_DTG
+begin_DTG
+0
+4
+0
+107
+1
+0 31
+0
+473
+1
+0 130
+0
+520
+1
+0 142
+0
+584
+1
+0 159
+end_DTG
+begin_DTG
+0
+4
+0
+103
+1
+0 30
+0
+516
+1
+0 141
+0
+524
+1
+0 143
+0
+580
+1
+0 158
+end_DTG
+begin_DTG
+0
+4
+0
+99
+1
+0 29
+0
+512
+1
+0 140
+0
+519
+1
+0 142
+0
+576
+1
+0 157
+end_DTG
+begin_DTG
+0
+4
+0
+95
+1
+0 28
+0
+508
+1
+0 139
+0
+515
+1
+0 141
+0
+572
+1
+0 156
+end_DTG
+begin_DTG
+0
+4
+0
+91
+1
+0 27
+0
+504
+1
+0 138
+0
+511
+1
+0 140
+0
+568
+1
+0 155
+end_DTG
+begin_DTG
+0
+4
+0
+87
+1
+0 26
+0
+500
+1
+0 137
+0
+507
+1
+0 139
+0
+564
+1
+0 154
+end_DTG
+begin_DTG
+0
+4
+0
+83
+1
+0 25
+0
+496
+1
+0 136
+0
+503
+1
+0 138
+0
+560
+1
+0 153
+end_DTG
+begin_DTG
+0
+4
+0
+79
+1
+0 24
+0
+469
+1
+0 129
+0
+499
+1
+0 137
+0
+556
+1
+0 152
+end_DTG
+begin_DTG
+0
+3
+0
+75
+1
+0 23
+0
+489
+1
+0 134
+0
+553
+1
+0 151
+end_DTG
+begin_DTG
+0
+4
+0
+72
+1
+0 22
+0
+485
+1
+0 133
+0
+492
+1
+0 135
+0
+549
+1
+0 150
+end_DTG
+begin_DTG
+0
+4
+0
+68
+1
+0 21
+0
+481
+1
+0 132
+0
+488
+1
+0 134
+0
+545
+1
+0 149
+end_DTG
+begin_DTG
+0
+4
+0
+64
+1
+0 20
+0
+477
+1
+0 131
+0
+484
+1
+0 133
+0
+541
+1
+0 148
+end_DTG
+begin_DTG
+0
+4
+0
+60
+1
+0 19
+0
+472
+1
+0 130
+0
+480
+1
+0 132
+0
+537
+1
+0 147
+end_DTG
+begin_DTG
+0
+4
+0
+56
+1
+0 18
+0
+476
+1
+0 131
+0
+523
+1
+0 143
+0
+533
+1
+0 146
+end_DTG
+begin_DTG
+0
+4
+0
+52
+1
+0 17
+0
+465
+1
+0 128
+0
+495
+1
+0 136
+0
+529
+1
+0 145
+end_DTG
+begin_DTG
+0
+3
+0
+48
+1
+0 16
+0
+468
+1
+0 129
+0
+526
+1
+0 144
+end_DTG
+begin_DTG
+0
+3
+0
+417
+1
+0 111
+0
+425
+1
+0 114
+0
+460
+1
+0 126
+end_DTG
+begin_DTG
+0
+3
+0
+413
+1
+0 110
+0
+457
+1
+0 125
+0
+463
+1
+0 127
+end_DTG
+begin_DTG
+0
+3
+0
+409
+1
+0 109
+0
+454
+1
+0 124
+0
+459
+1
+0 126
+end_DTG
+begin_DTG
+0
+3
+0
+405
+1
+0 108
+0
+451
+1
+0 123
+0
+456
+1
+0 125
+end_DTG
+begin_DTG
+0
+3
+0
+401
+1
+0 107
+0
+448
+1
+0 122
+0
+453
+1
+0 124
+end_DTG
+begin_DTG
+0
+3
+0
+397
+1
+0 106
+0
+445
+1
+0 121
+0
+450
+1
+0 123
+end_DTG
+begin_DTG
+0
+3
+0
+393
+1
+0 105
+0
+442
+1
+0 120
+0
+447
+1
+0 122
+end_DTG
+begin_DTG
+0
+3
+0
+389
+1
+0 104
+0
+422
+1
+0 113
+0
+444
+1
+0 121
+end_DTG
+begin_DTG
+0
+2
+0
+385
+1
+0 103
+0
+437
+1
+0 118
+end_DTG
+begin_DTG
+0
+3
+0
+382
+1
+0 102
+0
+434
+1
+0 117
+0
+439
+1
+0 119
+end_DTG
+begin_DTG
+0
+3
+0
+378
+1
+0 101
+0
+431
+1
+0 116
+0
+436
+1
+0 118
+end_DTG
+begin_DTG
+0
+3
+0
+374
+1
+0 100
+0
+428
+1
+0 115
+0
+433
+1
+0 117
+end_DTG
+begin_DTG
+0
+3
+0
+370
+1
+0 99
+0
+424
+1
+0 114
+0
+430
+1
+0 116
+end_DTG
+begin_DTG
+0
+3
+0
+366
+1
+0 98
+0
+427
+1
+0 115
+0
+462
+1
+0 127
+end_DTG
+begin_DTG
+0
+3
+0
+362
+1
+0 97
+0
+419
+1
+0 112
+0
+441
+1
+0 120
+end_DTG
+begin_DTG
+0
+2
+0
+358
+1
+0 96
+0
+421
+1
+0 113
+end_DTG
+begin_DTG
+0
+4
+0
+355
+1
+0 95
+0
+365
+1
+0 98
+0
+412
+1
+0 110
+0
+461
+1
+0 127
+end_DTG
+begin_DTG
+0
+4
+0
+351
+1
+0 94
+0
+408
+1
+0 109
+0
+416
+1
+0 111
+0
+458
+1
+0 126
+end_DTG
+begin_DTG
+0
+4
+0
+347
+1
+0 93
+0
+404
+1
+0 108
+0
+411
+1
+0 110
+0
+455
+1
+0 125
+end_DTG
+begin_DTG
+0
+4
+0
+343
+1
+0 92
+0
+400
+1
+0 107
+0
+407
+1
+0 109
+0
+452
+1
+0 124
+end_DTG
+begin_DTG
+0
+4
+0
+339
+1
+0 91
+0
+396
+1
+0 106
+0
+403
+1
+0 108
+0
+449
+1
+0 123
+end_DTG
+begin_DTG
+0
+4
+0
+335
+1
+0 90
+0
+392
+1
+0 105
+0
+399
+1
+0 107
+0
+446
+1
+0 122
+end_DTG
+begin_DTG
+0
+4
+0
+331
+1
+0 89
+0
+388
+1
+0 104
+0
+395
+1
+0 106
+0
+443
+1
+0 121
+end_DTG
+begin_DTG
+0
+4
+0
+327
+1
+0 88
+0
+361
+1
+0 97
+0
+391
+1
+0 105
+0
+440
+1
+0 120
+end_DTG
+begin_DTG
+0
+3
+0
+323
+1
+0 87
+0
+381
+1
+0 102
+0
+438
+1
+0 119
+end_DTG
+begin_DTG
+0
+4
+0
+320
+1
+0 86
+0
+377
+1
+0 101
+0
+384
+1
+0 103
+0
+435
+1
+0 118
+end_DTG
+begin_DTG
+0
+4
+0
+316
+1
+0 85
+0
+373
+1
+0 100
+0
+380
+1
+0 102
+0
+432
+1
+0 117
+end_DTG
+begin_DTG
+0
+4
+0
+312
+1
+0 84
+0
+369
+1
+0 99
+0
+376
+1
+0 101
+0
+429
+1
+0 116
+end_DTG
+begin_DTG
+0
+4
+0
+308
+1
+0 83
+0
+364
+1
+0 98
+0
+372
+1
+0 100
+0
+426
+1
+0 115
+end_DTG
+begin_DTG
+0
+4
+0
+304
+1
+0 82
+0
+368
+1
+0 99
+0
+415
+1
+0 111
+0
+423
+1
+0 114
+end_DTG
+begin_DTG
+0
+4
+0
+300
+1
+0 81
+0
+357
+1
+0 96
+0
+387
+1
+0 104
+0
+420
+1
+0 113
+end_DTG
+begin_DTG
+0
+3
+0
+296
+1
+0 80
+0
+360
+1
+0 97
+0
+418
+1
+0 112
+end_DTG
+begin_DTG
+0
+4
+0
+293
+1
+0 79
+0
+303
+1
+0 82
+0
+350
+1
+0 94
+0
+414
+1
+0 111
+end_DTG
+begin_DTG
+0
+4
+0
+289
+1
+0 78
+0
+346
+1
+0 93
+0
+354
+1
+0 95
+0
+410
+1
+0 110
+end_DTG
+begin_DTG
+0
+4
+0
+285
+1
+0 77
+0
+342
+1
+0 92
+0
+349
+1
+0 94
+0
+406
+1
+0 109
+end_DTG
+begin_DTG
+0
+4
+0
+281
+1
+0 76
+0
+338
+1
+0 91
+0
+345
+1
+0 93
+0
+402
+1
+0 108
+end_DTG
+begin_DTG
+0
+4
+0
+277
+1
+0 75
+0
+334
+1
+0 90
+0
+341
+1
+0 92
+0
+398
+1
+0 107
+end_DTG
+begin_DTG
+0
+4
+0
+273
+1
+0 74
+0
+330
+1
+0 89
+0
+337
+1
+0 91
+0
+394
+1
+0 106
+end_DTG
+begin_DTG
+0
+4
+0
+269
+1
+0 73
+0
+326
+1
+0 88
+0
+333
+1
+0 90
+0
+390
+1
+0 105
+end_DTG
+begin_DTG
+0
+4
+0
+265
+1
+0 72
+0
+299
+1
+0 81
+0
+329
+1
+0 89
+0
+386
+1
+0 104
+end_DTG
+begin_DTG
+0
+3
+0
+261
+1
+0 71
+0
+319
+1
+0 86
+0
+383
+1
+0 103
+end_DTG
+begin_DTG
+0
+4
+0
+258
+1
+0 70
+0
+315
+1
+0 85
+0
+322
+1
+0 87
+0
+379
+1
+0 102
+end_DTG
+begin_DTG
+0
+4
+0
+254
+1
+0 69
+0
+311
+1
+0 84
+0
+318
+1
+0 86
+0
+375
+1
+0 101
+end_DTG
+begin_DTG
+0
+4
+0
+250
+1
+0 68
+0
+307
+1
+0 83
+0
+314
+1
+0 85
+0
+371
+1
+0 100
+end_DTG
+begin_DTG
+0
+4
+0
+246
+1
+0 67
+0
+302
+1
+0 82
+0
+310
+1
+0 84
+0
+367
+1
+0 99
+end_DTG
+begin_DTG
+0
+4
+0
+242
+1
+0 66
+0
+306
+1
+0 83
+0
+353
+1
+0 95
+0
+363
+1
+0 98
+end_DTG
+begin_DTG
+0
+4
+0
+238
+1
+0 65
+0
+295
+1
+0 80
+0
+325
+1
+0 88
+0
+359
+1
+0 97
+end_DTG
+begin_DTG
+0
+3
+0
+234
+1
+0 64
+0
+298
+1
+0 81
+0
+356
+1
+0 96
+end_DTG
+begin_DTG
+0
+4
+0
+231
+1
+0 63
+0
+241
+1
+0 66
+0
+288
+1
+0 78
+0
+352
+1
+0 95
+end_DTG
+begin_DTG
+0
+4
+0
+227
+1
+0 62
+0
+284
+1
+0 77
+0
+292
+1
+0 79
+0
+348
+1
+0 94
+end_DTG
+begin_DTG
+0
+4
+0
+223
+1
+0 61
+0
+280
+1
+0 76
+0
+287
+1
+0 78
+0
+344
+1
+0 93
+end_DTG
+begin_DTG
+0
+4
+0
+219
+1
+0 60
+0
+276
+1
+0 75
+0
+283
+1
+0 77
+0
+340
+1
+0 92
+end_DTG
+begin_DTG
+0
+4
+0
+215
+1
+0 59
+0
+272
+1
+0 74
+0
+279
+1
+0 76
+0
+336
+1
+0 91
+end_DTG
+begin_DTG
+0
+4
+0
+211
+1
+0 58
+0
+268
+1
+0 73
+0
+275
+1
+0 75
+0
+332
+1
+0 90
+end_DTG
+begin_DTG
+0
+4
+0
+207
+1
+0 57
+0
+264
+1
+0 72
+0
+271
+1
+0 74
+0
+328
+1
+0 89
+end_DTG
+begin_DTG
+0
+4
+0
+203
+1
+0 56
+0
+237
+1
+0 65
+0
+267
+1
+0 73
+0
+324
+1
+0 88
+end_DTG
+begin_DTG
+0
+3
+0
+199
+1
+0 55
+0
+257
+1
+0 70
+0
+321
+1
+0 87
+end_DTG
+begin_DTG
+0
+4
+0
+196
+1
+0 54
+0
+253
+1
+0 69
+0
+260
+1
+0 71
+0
+317
+1
+0 86
+end_DTG
+begin_DTG
+0
+4
+0
+192
+1
+0 53
+0
+249
+1
+0 68
+0
+256
+1
+0 70
+0
+313
+1
+0 85
+end_DTG
+begin_DTG
+0
+4
+0
+188
+1
+0 52
+0
+245
+1
+0 67
+0
+252
+1
+0 69
+0
+309
+1
+0 84
+end_DTG
+begin_DTG
+0
+4
+0
+184
+1
+0 51
+0
+240
+1
+0 66
+0
+248
+1
+0 68
+0
+305
+1
+0 83
+end_DTG
+begin_DTG
+0
+4
+0
+180
+1
+0 50
+0
+244
+1
+0 67
+0
+291
+1
+0 79
+0
+301
+1
+0 82
+end_DTG
+begin_DTG
+0
+4
+0
+176
+1
+0 49
+0
+233
+1
+0 64
+0
+263
+1
+0 72
+0
+297
+1
+0 81
+end_DTG
+begin_DTG
+0
+3
+0
+172
+1
+0 48
+0
+236
+1
+0 65
+0
+294
+1
+0 80
+end_DTG
+begin_DTG
+0
+4
+0
+168
+1
+0 47
+0
+179
+1
+0 50
+0
+226
+1
+0 62
+0
+290
+1
+0 79
+end_DTG
+begin_DTG
+0
+4
+0
+164
+1
+0 46
+0
+222
+1
+0 61
+0
+230
+1
+0 63
+0
+286
+1
+0 78
+end_DTG
+begin_DTG
+0
+4
+0
+160
+1
+0 45
+0
+218
+1
+0 60
+0
+225
+1
+0 62
+0
+282
+1
+0 77
+end_DTG
+begin_DTG
+0
+4
+0
+156
+1
+0 44
+0
+214
+1
+0 59
+0
+221
+1
+0 61
+0
+278
+1
+0 76
+end_DTG
+begin_DTG
+0
+4
+0
+152
+1
+0 43
+0
+210
+1
+0 58
+0
+217
+1
+0 60
+0
+274
+1
+0 75
+end_DTG
+begin_DTG
+0
+4
+0
+148
+1
+0 42
+0
+206
+1
+0 57
+0
+213
+1
+0 59
+0
+270
+1
+0 74
+end_DTG
+begin_DTG
+0
+4
+0
+144
+1
+0 41
+0
+202
+1
+0 56
+0
+209
+1
+0 58
+0
+266
+1
+0 73
+end_DTG
+begin_DTG
+0
+4
+0
+140
+1
+0 40
+0
+175
+1
+0 49
+0
+205
+1
+0 57
+0
+262
+1
+0 72
+end_DTG
+begin_DTG
+0
+3
+0
+136
+1
+0 39
+0
+195
+1
+0 54
+0
+259
+1
+0 71
+end_DTG
+begin_DTG
+0
+4
+0
+133
+1
+0 38
+0
+191
+1
+0 53
+0
+198
+1
+0 55
+0
+255
+1
+0 70
+end_DTG
+begin_DTG
+0
+4
+0
+129
+1
+0 37
+0
+187
+1
+0 52
+0
+194
+1
+0 54
+0
+251
+1
+0 69
+end_DTG
+begin_DTG
+0
+4
+0
+125
+1
+0 36
+0
+183
+1
+0 51
+0
+190
+1
+0 53
+0
+247
+1
+0 68
+end_DTG
+begin_DTG
+0
+4
+0
+121
+1
+0 35
+0
+178
+1
+0 50
+0
+186
+1
+0 52
+0
+243
+1
+0 67
+end_DTG
+begin_DTG
+0
+4
+0
+117
+1
+0 34
+0
+182
+1
+0 51
+0
+229
+1
+0 63
+0
+239
+1
+0 66
+end_DTG
+begin_DTG
+0
+4
+0
+113
+1
+0 33
+0
+171
+1
+0 48
+0
+201
+1
+0 56
+0
+235
+1
+0 65
+end_DTG
+begin_DTG
+0
+3
+0
+109
+1
+0 32
+0
+174
+1
+0 49
+0
+232
+1
+0 64
+end_DTG
+begin_DTG
+0
+4
+0
+116
+1
+0 34
+0
+163
+1
+0 46
+0
+228
+1
+0 63
+0
+956
+1
+0 255
+end_DTG
+begin_DTG
+0
+4
+0
+159
+1
+0 45
+0
+167
+1
+0 47
+0
+224
+1
+0 62
+0
+952
+1
+0 254
+end_DTG
+begin_DTG
+0
+4
+0
+155
+1
+0 44
+0
+162
+1
+0 46
+0
+220
+1
+0 61
+0
+948
+1
+0 253
+end_DTG
+begin_DTG
+0
+4
+0
+151
+1
+0 43
+0
+158
+1
+0 45
+0
+216
+1
+0 60
+0
+944
+1
+0 252
+end_DTG
+begin_DTG
+0
+4
+0
+147
+1
+0 42
+0
+154
+1
+0 44
+0
+212
+1
+0 59
+0
+940
+1
+0 251
+end_DTG
+begin_DTG
+0
+4
+0
+143
+1
+0 41
+0
+150
+1
+0 43
+0
+208
+1
+0 58
+0
+936
+1
+0 250
+end_DTG
+begin_DTG
+0
+4
+0
+139
+1
+0 40
+0
+146
+1
+0 42
+0
+204
+1
+0 57
+0
+932
+1
+0 249
+end_DTG
+begin_DTG
+0
+4
+0
+112
+1
+0 33
+0
+142
+1
+0 41
+0
+200
+1
+0 56
+0
+928
+1
+0 248
+end_DTG
+begin_DTG
+0
+3
+0
+132
+1
+0 38
+0
+197
+1
+0 55
+0
+925
+1
+0 247
+end_DTG
+begin_DTG
+0
+4
+0
+128
+1
+0 37
+0
+135
+1
+0 39
+0
+193
+1
+0 54
+0
+921
+1
+0 246
+end_DTG
+begin_DTG
+0
+4
+0
+124
+1
+0 36
+0
+131
+1
+0 38
+0
+189
+1
+0 53
+0
+917
+1
+0 245
+end_DTG
+begin_DTG
+0
+4
+0
+120
+1
+0 35
+0
+127
+1
+0 37
+0
+185
+1
+0 52
+0
+913
+1
+0 244
+end_DTG
+begin_DTG
+0
+4
+0
+115
+1
+0 34
+0
+123
+1
+0 36
+0
+181
+1
+0 51
+0
+909
+1
+0 243
+end_DTG
+begin_DTG
+0
+4
+0
+119
+1
+0 35
+0
+166
+1
+0 47
+0
+177
+1
+0 50
+0
+905
+1
+0 242
+end_DTG
+begin_DTG
+0
+4
+0
+108
+1
+0 32
+0
+138
+1
+0 40
+0
+173
+1
+0 49
+0
+901
+1
+0 241
+end_DTG
+begin_DTG
+0
+3
+0
+111
+1
+0 33
+0
+170
+1
+0 48
+0
+898
+1
+0 240
+end_DTG
+begin_DTG
+0
+4
+0
+45
+1
+0 15
+0
+55
+1
+0 18
+0
+102
+1
+0 30
+0
+522
+1
+0 143
+end_DTG
+begin_DTG
+0
+4
+0
+42
+1
+0 14
+0
+98
+1
+0 29
+0
+106
+1
+0 31
+0
+518
+1
+0 142
+end_DTG
+begin_DTG
+0
+4
+0
+39
+1
+0 13
+0
+94
+1
+0 28
+0
+101
+1
+0 30
+0
+514
+1
+0 141
+end_DTG
+begin_DTG
+0
+4
+0
+36
+1
+0 12
+0
+90
+1
+0 27
+0
+97
+1
+0 29
+0
+510
+1
+0 140
+end_DTG
+begin_DTG
+0
+4
+0
+33
+1
+0 11
+0
+86
+1
+0 26
+0
+93
+1
+0 28
+0
+506
+1
+0 139
+end_DTG
+begin_DTG
+0
+4
+0
+30
+1
+0 10
+0
+82
+1
+0 25
+0
+89
+1
+0 27
+0
+502
+1
+0 138
+end_DTG
+begin_DTG
+0
+4
+0
+27
+1
+0 9
+0
+78
+1
+0 24
+0
+85
+1
+0 26
+0
+498
+1
+0 137
+end_DTG
+begin_DTG
+0
+4
+0
+24
+1
+0 8
+0
+51
+1
+0 17
+0
+81
+1
+0 25
+0
+494
+1
+0 136
+end_DTG
+begin_DTG
+0
+3
+0
+21
+1
+0 7
+0
+71
+1
+0 22
+0
+491
+1
+0 135
+end_DTG
+begin_DTG
+0
+4
+0
+19
+1
+0 6
+0
+67
+1
+0 21
+0
+74
+1
+0 23
+0
+487
+1
+0 134
+end_DTG
+begin_DTG
+0
+4
+0
+16
+1
+0 5
+0
+63
+1
+0 20
+0
+70
+1
+0 22
+0
+483
+1
+0 133
+end_DTG
+begin_DTG
+0
+4
+0
+13
+1
+0 4
+0
+59
+1
+0 19
+0
+66
+1
+0 21
+0
+479
+1
+0 132
+end_DTG
+begin_DTG
+0
+4
+0
+10
+1
+0 3
+0
+54
+1
+0 18
+0
+62
+1
+0 20
+0
+475
+1
+0 131
+end_DTG
+begin_DTG
+0
+4
+0
+7
+1
+0 2
+0
+58
+1
+0 19
+0
+105
+1
+0 31
+0
+471
+1
+0 130
+end_DTG
+begin_DTG
+0
+4
+0
+4
+1
+0 1
+0
+47
+1
+0 16
+0
+77
+1
+0 24
+0
+467
+1
+0 129
+end_DTG
+begin_DTG
+0
+3
+0
+1
+1
+0 0
+0
+50
+1
+0 17
+0
+464
+1
+0 128
+end_DTG
+begin_DTG
+0
+3
+0
+6
+1
+0 2
+0
+41
+1
+0 14
+0
+104
+1
+0 31
+end_DTG
+begin_DTG
+0
+3
+0
+38
+1
+0 13
+0
+44
+1
+0 15
+0
+100
+1
+0 30
+end_DTG
+begin_DTG
+0
+3
+0
+35
+1
+0 12
+0
+40
+1
+0 14
+0
+96
+1
+0 29
+end_DTG
+begin_DTG
+0
+3
+0
+32
+1
+0 11
+0
+37
+1
+0 13
+0
+92
+1
+0 28
+end_DTG
+begin_DTG
+0
+3
+0
+29
+1
+0 10
+0
+34
+1
+0 12
+0
+88
+1
+0 27
+end_DTG
+begin_DTG
+0
+3
+0
+26
+1
+0 9
+0
+31
+1
+0 11
+0
+84
+1
+0 26
+end_DTG
+begin_DTG
+0
+3
+0
+23
+1
+0 8
+0
+28
+1
+0 10
+0
+80
+1
+0 25
+end_DTG
+begin_DTG
+0
+3
+0
+3
+1
+0 1
+0
+25
+1
+0 9
+0
+76
+1
+0 24
+end_DTG
+begin_DTG
+0
+2
+0
+18
+1
+0 6
+0
+73
+1
+0 23
+end_DTG
+begin_DTG
+0
+3
+0
+15
+1
+0 5
+0
+20
+1
+0 7
+0
+69
+1
+0 22
+end_DTG
+begin_DTG
+0
+3
+0
+12
+1
+0 4
+0
+17
+1
+0 6
+0
+65
+1
+0 21
+end_DTG
+begin_DTG
+0
+3
+0
+9
+1
+0 3
+0
+14
+1
+0 5
+0
+61
+1
+0 20
+end_DTG
+begin_DTG
+0
+3
+0
+5
+1
+0 2
+0
+11
+1
+0 4
+0
+57
+1
+0 19
+end_DTG
+begin_DTG
+0
+3
+0
+8
+1
+0 3
+0
+43
+1
+0 15
+0
+53
+1
+0 18
+end_DTG
+begin_DTG
+0
+3
+0
+0
+1
+0 0
+0
+22
+1
+0 8
+0
+49
+1
+0 17
+end_DTG
+begin_DTG
+0
+2
+0
+2
+1
+0 1
+0
+46
+1
+0 16
+end_DTG
+begin_CG
+255
+255 2
+254 3
+253 3
+252 3
+251 3
+250 3
+249 3
+248 2
+247 3
+246 3
+245 3
+244 3
+243 3
+242 3
+241 3
+240 3
+239 3
+238 4
+237 4
+236 4
+235 4
+234 4
+233 4
+232 3
+231 4
+230 4
+229 4
+228 4
+227 4
+226 4
+225 4
+224 4
+223 3
+222 4
+221 4
+220 4
+219 4
+218 4
+217 4
+216 3
+215 4
+214 4
+213 4
+212 4
+211 4
+210 4
+209 4
+208 4
+207 3
+206 4
+205 4
+204 4
+203 4
+202 4
+201 4
+200 3
+199 4
+198 4
+197 4
+196 4
+195 4
+194 4
+193 4
+192 4
+191 3
+190 4
+189 4
+188 4
+187 4
+186 4
+185 4
+184 3
+183 4
+182 4
+181 4
+180 4
+179 4
+178 4
+177 4
+176 4
+175 3
+174 4
+173 4
+172 4
+171 4
+170 4
+169 4
+168 3
+167 4
+166 4
+165 4
+164 4
+163 4
+162 4
+161 4
+160 4
+159 3
+158 4
+157 4
+156 4
+155 4
+154 4
+153 4
+152 3
+151 4
+150 4
+149 4
+148 4
+147 4
+146 4
+145 4
+144 4
+143 2
+142 3
+141 3
+140 3
+139 3
+138 3
+137 3
+136 2
+135 3
+134 3
+133 3
+132 3
+131 3
+130 3
+129 3
+128 3
+127 3
+126 4
+125 4
+124 4
+123 4
+122 4
+121 4
+120 3
+119 4
+118 4
+117 4
+116 4
+115 4
+114 4
+113 4
+112 4
+111 3
+110 4
+109 4
+108 4
+107 4
+106 4
+105 4
+104 3
+103 4
+102 4
+101 4
+100 4
+99 4
+98 4
+97 4
+96 4
+95 3
+94 4
+93 4
+92 4
+91 4
+90 4
+89 4
+88 3
+87 4
+86 4
+85 4
+84 4
+83 4
+82 4
+81 4
+80 4
+79 3
+78 4
+77 4
+76 4
+75 4
+74 4
+73 4
+72 3
+71 4
+70 4
+69 4
+68 4
+67 4
+66 4
+65 4
+64 4
+63 3
+62 4
+61 4
+60 4
+59 4
+58 4
+57 4
+56 3
+55 4
+54 4
+53 4
+52 4
+51 4
+50 4
+49 4
+48 4
+47 3
+46 4
+45 4
+44 4
+43 4
+42 4
+41 4
+40 3
+39 4
+38 4
+37 4
+36 4
+35 4
+34 4
+33 4
+32 4
+31 3
+30 4
+29 4
+28 4
+27 4
+26 4
+25 4
+24 3
+23 4
+22 4
+21 4
+20 4
+19 4
+18 4
+17 4
+16 3
+15 4
+14 4
+13 4
+12 4
+11 4
+10 4
+9 3
+8 4
+7 4
+6 4
+5 4
+4 4
+3 4
+2 4
+1 4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+end_CG

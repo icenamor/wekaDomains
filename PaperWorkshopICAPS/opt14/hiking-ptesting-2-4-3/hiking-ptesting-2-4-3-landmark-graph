@@ -1,0 +1,51 @@
+digraph G {
+v15  [label="Atom at_tent(tent0, place2), Atom at_tent(tent1, place2)"]
+v16  [label="Atom at_tent(tent0, place1), Atom at_tent(tent1, place1)"]
+v14  [label="Atom up(tent0), Atom up(tent1)"]
+v1  [label="Atom walked(couple1, place2)"]
+v13  [label="Atom walked(couple1, place1)"]
+v11  [label="Atom walked(couple1, place0)"]
+v2  [label="Atom walked(couple0, place2)"]
+v10  [label="Atom walked(couple0, place1)"]
+v9  [label="Atom walked(couple0, place0)"]
+v8  [label="Atom at_person(guy1, place1)"]
+v7  [label="Atom at_person(guy1, place0)"]
+v3  [label="Atom at_person(girl1, place1)"]
+v4  [label="Atom at_person(girl1, place0)"]
+v6  [label="Atom at_person(guy0, place1)"]
+v5  [label="Atom at_person(guy0, place0)"]
+v12  [label="Atom at_person(girl0, place1)"]
+v0  [label="Atom at_person(girl0, place0)"]
+v15 -> v1
+v15 -> v2
+v16 -> v1
+v16 -> v2
+v16 -> v10
+v16 -> v13
+v14 -> v1
+v14 -> v2
+v14 -> v10
+v14 -> v13
+v13 -> v1
+v11 -> v1
+v11 -> v13
+v10 -> v2
+v9 -> v2
+v9 -> v10
+v8 -> v1
+v7 -> v1
+v7 -> v13
+v7 -> v8
+v3 -> v1
+v4 -> v3
+v4 -> v1
+v4 -> v13
+v6 -> v2
+v5 -> v2
+v5 -> v6
+v5 -> v10
+v12 -> v2
+v0 -> v2
+v0 -> v12
+v0 -> v10
+}

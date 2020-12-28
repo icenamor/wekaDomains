@@ -1,0 +1,86 @@
+digraph G {
+v23  [label="Atom headsnake(pos1-1), Atom headsnake(pos2-0), Atom headsnake(pos2-2), Atom headsnake(pos3-1)"]
+v40  [label="Atom headsnake(pos0-5), Atom headsnake(pos1-4), Atom headsnake(pos2-5), Atom headsnake(pos3-6)"]
+v22  [label="Atom headsnake(pos4-2), Atom headsnake(pos5-1), Atom headsnake(pos5-3)"]
+v20  [label="Atom headsnake(pos4-1), Atom headsnake(pos5-0), Atom headsnake(pos5-2)"]
+v29  [label="Atom headsnake(pos0-6), Atom headsnake(pos1-5), Atom headsnake(pos2-6)"]
+v19  [label="Atom headsnake(pos0-1), Atom headsnake(pos1-0)"]
+v44  [label="NegatedAtom ispoint(pos5-6)"]
+v33  [label="NegatedAtom ispoint(pos0-6)"]
+v21  [label="NegatedAtom ispoint(pos5-5)"]
+v27  [label="NegatedAtom ispoint(pos5-4)"]
+v38  [label="NegatedAtom ispoint(pos5-3)"]
+v42  [label="NegatedAtom ispoint(pos4-6)"]
+v8  [label="NegatedAtom ispoint(pos3-6)"]
+v25  [label="NegatedAtom ispoint(pos2-0)"]
+v2  [label="NegatedAtom ispoint(pos1-0)"]
+v18  [label="NegatedAtom ispoint(pos0-5)"]
+v43  [label="NegatedAtom ispoint(pos0-1)"]
+v10  [label="NegatedAtom ispoint(pos4-5)"]
+v26  [label="NegatedAtom ispoint(pos4-4)"]
+v37  [label="NegatedAtom ispoint(pos4-3)"]
+v5  [label="NegatedAtom ispoint(pos4-2)"]
+v4  [label="NegatedAtom ispoint(pos4-1)"]
+v7  [label="NegatedAtom ispoint(pos3-4)"]
+v3  [label="NegatedAtom ispoint(pos3-3)"]
+v46  [label="NegatedAtom ispoint(pos1-5)"]
+v6  [label="NegatedAtom ispoint(pos1-3)"]
+v13  [label="NegatedAtom ispoint(pos1-2)"]
+v28  [label="NegatedAtom ispoint(pos1-1)"]
+v32  [label="NegatedAtom ispoint(pos5-2)"]
+v1  [label="Atom ispoint(pos5-2)"]
+v14  [label="NegatedAtom ispoint(pos5-1)"]
+v45  [label="Atom ispoint(pos5-1)"]
+v24  [label="NegatedAtom ispoint(pos2-1)"]
+v34  [label="Atom ispoint(pos2-1)"]
+v0  [label="NegatedAtom ispoint(pos1-6)"]
+v9  [label="Atom ispoint(pos1-6)"]
+v31  [label="NegatedAtom ispoint(pos0-0)"]
+v36  [label="Atom ispoint(pos0-0)"]
+v35  [label="Atom headsnake(pos0-3)"]
+v17  [label="Atom tailsnake(pos0-2)"]
+v15  [label="Atom spawn(pos5-3)"]
+v12  [label="NegatedAtom blocked(pos2-1)"]
+v39  [label="NegatedAtom blocked(pos5-2)"]
+v11  [label="NegatedAtom blocked(pos5-1)"]
+v16  [label="NegatedAtom blocked(pos1-6)"]
+v30  [label="NegatedAtom blocked(pos0-0)"]
+v41  [label="Atom nextsnake(pos0-3, pos0-2)"]
+v23 -> v24
+v40 -> v29
+v40 -> v0
+v22 -> v32
+v20 -> v14
+v29 -> v0
+v19 -> v31
+v1 -> v32
+v45 -> v14
+v34 -> v24
+v9 -> v0
+v36 -> v31
+v35 -> v32
+v35 -> v31
+v35 -> v24
+v35 -> v0
+v35 -> v14
+v17 -> v32
+v17 -> v31
+v17 -> v24
+v17 -> v0
+v17 -> v14
+v15 -> v32
+v15 -> v31
+v15 -> v24
+v15 -> v0
+v15 -> v14
+v12 -> v24
+v39 -> v32
+v11 -> v14
+v16 -> v0
+v30 -> v31
+v41 -> v32
+v41 -> v31
+v41 -> v24
+v41 -> v0
+v41 -> v14
+}

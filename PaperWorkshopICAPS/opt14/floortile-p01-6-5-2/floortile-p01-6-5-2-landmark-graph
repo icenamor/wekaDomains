@@ -1,0 +1,150 @@
+digraph G {
+v70  [label="Atom robot-at(robot1, tile_4-5), Atom robot-at(robot1, tile_6-5), Atom robot-at(robot2, tile_4-5), Atom robot-at(robot2, tile_6-5)"]
+v78  [label="Atom robot-at(robot1, tile_4-4), Atom robot-at(robot1, tile_6-4), Atom robot-at(robot2, tile_4-4), Atom robot-at(robot2, tile_6-4)"]
+v68  [label="Atom robot-at(robot1, tile_4-1), Atom robot-at(robot1, tile_6-1), Atom robot-at(robot2, tile_4-1), Atom robot-at(robot2, tile_6-1)"]
+v74  [label="Atom robot-at(robot1, tile_1-5), Atom robot-at(robot1, tile_3-5), Atom robot-at(robot2, tile_1-5), Atom robot-at(robot2, tile_3-5)"]
+v80  [label="Atom robot-at(robot1, tile_1-4), Atom robot-at(robot1, tile_3-4), Atom robot-at(robot2, tile_1-4), Atom robot-at(robot2, tile_3-4)"]
+v81  [label="Atom robot-at(robot1, tile_1-3), Atom robot-at(robot1, tile_3-3), Atom robot-at(robot2, tile_1-3), Atom robot-at(robot2, tile_3-3)"]
+v79  [label="Atom robot-at(robot1, tile_1-2), Atom robot-at(robot1, tile_3-2), Atom robot-at(robot2, tile_1-2), Atom robot-at(robot2, tile_3-2)"]
+v73  [label="Atom robot-at(robot1, tile_1-1), Atom robot-at(robot1, tile_3-1), Atom robot-at(robot2, tile_1-1), Atom robot-at(robot2, tile_3-1)"]
+v67  [label="Atom robot-at(robot1, tile_0-5), Atom robot-at(robot1, tile_2-5), Atom robot-at(robot2, tile_0-5), Atom robot-at(robot2, tile_2-5)"]
+v76  [label="Atom robot-at(robot1, tile_0-4), Atom robot-at(robot1, tile_2-4), Atom robot-at(robot2, tile_0-4), Atom robot-at(robot2, tile_2-4)"]
+v77  [label="Atom robot-at(robot1, tile_0-3), Atom robot-at(robot1, tile_2-3), Atom robot-at(robot2, tile_0-3), Atom robot-at(robot2, tile_2-3)"]
+v75  [label="Atom robot-at(robot1, tile_0-2), Atom robot-at(robot1, tile_2-2), Atom robot-at(robot2, tile_0-2), Atom robot-at(robot2, tile_2-2)"]
+v66  [label="Atom robot-at(robot1, tile_0-1), Atom robot-at(robot1, tile_2-1), Atom robot-at(robot2, tile_0-1), Atom robot-at(robot2, tile_2-1)"]
+v65  [label="Atom robot-at(robot1, tile_5-5), Atom robot-at(robot2, tile_5-5)"]
+v71  [label="Atom robot-at(robot1, tile_5-4), Atom robot-at(robot2, tile_5-4)"]
+v72  [label="Atom robot-at(robot1, tile_5-3), Atom robot-at(robot2, tile_5-3)"]
+v69  [label="Atom robot-at(robot1, tile_5-2), Atom robot-at(robot2, tile_5-2)"]
+v64  [label="Atom robot-at(robot1, tile_5-1), Atom robot-at(robot2, tile_5-1)"]
+v53  [label="Atom painted(tile_3-3, white)"]
+v61  [label="Atom clear(tile_3-3)"]
+v63  [label="<none of those>"]
+v52  [label="Atom painted(tile_4-3, black)"]
+v60  [label="Atom clear(tile_4-3)"]
+v51  [label="Atom painted(tile_3-4, black)"]
+v59  [label="Atom clear(tile_3-4)"]
+v33  [label="Atom painted(tile_4-4, white)"]
+v12  [label="Atom clear(tile_4-4)"]
+v32  [label="Atom painted(tile_3-2, black)"]
+v11  [label="Atom clear(tile_3-2)"]
+v48  [label="Atom painted(tile_4-2, white)"]
+v10  [label="Atom clear(tile_4-2)"]
+v43  [label="Atom painted(tile_2-3, black)"]
+v9  [label="Atom clear(tile_2-3)"]
+v26  [label="Atom painted(tile_2-4, white)"]
+v8  [label="Atom clear(tile_2-4)"]
+v25  [label="Atom painted(tile_2-2, white)"]
+v7  [label="Atom clear(tile_2-2)"]
+v28  [label="Atom painted(tile_5-3, white)"]
+v6  [label="Atom clear(tile_5-3)"]
+v27  [label="Atom painted(tile_5-4, black)"]
+v5  [label="Atom clear(tile_5-4)"]
+v45  [label="Atom painted(tile_5-2, black)"]
+v4  [label="Atom clear(tile_5-2)"]
+v35  [label="Atom painted(tile_1-3, white)"]
+v3  [label="Atom clear(tile_1-3)"]
+v38  [label="Atom painted(tile_1-4, black)"]
+v2  [label="Atom clear(tile_1-4)"]
+v40  [label="Atom painted(tile_1-2, black)"]
+v1  [label="Atom clear(tile_1-2)"]
+v37  [label="Atom painted(tile_3-5, white)"]
+v0  [label="Atom clear(tile_3-5)"]
+v34  [label="Atom painted(tile_4-5, black)"]
+v23  [label="Atom clear(tile_4-5)"]
+v39  [label="Atom painted(tile_3-1, white)"]
+v22  [label="Atom clear(tile_3-1)"]
+v29  [label="Atom painted(tile_4-1, black)"]
+v21  [label="Atom clear(tile_4-1)"]
+v30  [label="Atom painted(tile_2-5, black)"]
+v20  [label="Atom clear(tile_2-5)"]
+v36  [label="Atom painted(tile_2-1, black)"]
+v19  [label="Atom clear(tile_2-1)"]
+v24  [label="Atom painted(tile_6-3, black)"]
+v18  [label="Atom clear(tile_6-3)"]
+v41  [label="Atom painted(tile_6-4, white)"]
+v17  [label="Atom clear(tile_6-4)"]
+v49  [label="Atom painted(tile_5-5, white)"]
+v16  [label="Atom clear(tile_5-5)"]
+v62  [label="<none of those>"]
+v46  [label="Atom painted(tile_6-2, white)"]
+v15  [label="Atom clear(tile_6-2)"]
+v31  [label="Atom painted(tile_5-1, white)"]
+v14  [label="Atom clear(tile_5-1)"]
+v47  [label="Atom painted(tile_1-5, white)"]
+v13  [label="Atom clear(tile_1-5)"]
+v50  [label="Atom painted(tile_1-1, white)"]
+v58  [label="Atom clear(tile_1-1)"]
+v42  [label="Atom painted(tile_6-5, black)"]
+v57  [label="Atom clear(tile_6-5)"]
+v44  [label="Atom painted(tile_6-1, black)"]
+v56  [label="Atom clear(tile_6-1)"]
+v55  [label="Atom robot-at(robot2, tile_4-3)"]
+v54  [label="Atom robot-at(robot1, tile_6-2)"]
+v70 -> v49
+v78 -> v27
+v68 -> v31
+v74 -> v30
+v80 -> v26
+v81 -> v43
+v79 -> v25
+v73 -> v36
+v67 -> v47
+v76 -> v38
+v77 -> v35
+v75 -> v40
+v66 -> v50
+v65 -> v42
+v71 -> v41
+v72 -> v24
+v69 -> v46
+v64 -> v44
+v61 -> v53
+v63 -> v52
+v63 -> v60
+v60 -> v52
+v59 -> v51
+v12 -> v33
+v11 -> v32
+v10 -> v48
+v9 -> v43
+v8 -> v26
+v7 -> v25
+v6 -> v72
+v6 -> v24
+v6 -> v28
+v5 -> v71
+v5 -> v41
+v5 -> v27
+v4 -> v69
+v4 -> v45
+v4 -> v46
+v3 -> v35
+v2 -> v38
+v1 -> v40
+v0 -> v37
+v23 -> v34
+v22 -> v39
+v21 -> v29
+v20 -> v30
+v19 -> v36
+v18 -> v24
+v17 -> v41
+v16 -> v65
+v16 -> v42
+v16 -> v49
+v62 -> v15
+v62 -> v46
+v15 -> v46
+v14 -> v31
+v14 -> v64
+v14 -> v44
+v13 -> v47
+v58 -> v50
+v57 -> v42
+v56 -> v44
+v55 -> v52
+v55 -> v60
+v54 -> v15
+v54 -> v46
+}

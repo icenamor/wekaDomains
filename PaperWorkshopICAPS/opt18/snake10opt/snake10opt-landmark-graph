@@ -1,0 +1,68 @@
+digraph G {
+v25  [label="Atom headsnake(pos2-3), Atom headsnake(pos3-2), Atom headsnake(pos3-4), Atom headsnake(pos4-3)"]
+v22  [label="Atom headsnake(pos2-4), Atom headsnake(pos3-3), Atom headsnake(pos4-4)"]
+v21  [label="Atom headsnake(pos2-0), Atom headsnake(pos3-1), Atom headsnake(pos4-0)"]
+v24  [label="Atom headsnake(pos1-0), Atom headsnake(pos2-1), Atom headsnake(pos3-0)"]
+v5  [label="NegatedAtom ispoint(pos5-0)"]
+v9  [label="NegatedAtom ispoint(pos4-0)"]
+v1  [label="NegatedAtom ispoint(pos0-1)"]
+v31  [label="NegatedAtom ispoint(pos4-3)"]
+v18  [label="NegatedAtom ispoint(pos4-1)"]
+v20  [label="NegatedAtom ispoint(pos3-1)"]
+v16  [label="NegatedAtom ispoint(pos2-3)"]
+v12  [label="NegatedAtom ispoint(pos2-2)"]
+v13  [label="NegatedAtom ispoint(pos2-1)"]
+v4  [label="NegatedAtom ispoint(pos5-4)"]
+v29  [label="Atom ispoint(pos5-4)"]
+v8  [label="NegatedAtom ispoint(pos3-4)"]
+v3  [label="Atom ispoint(pos3-4)"]
+v11  [label="NegatedAtom ispoint(pos3-3)"]
+v15  [label="Atom ispoint(pos3-3)"]
+v26  [label="NegatedAtom ispoint(pos3-0)"]
+v2  [label="Atom ispoint(pos3-0)"]
+v6  [label="NegatedAtom ispoint(pos2-0)"]
+v0  [label="Atom ispoint(pos2-0)"]
+v27  [label="Atom headsnake(pos5-1)"]
+v7  [label="Atom tailsnake(pos5-2)"]
+v17  [label="NegatedAtom blocked(pos3-3)"]
+v23  [label="NegatedAtom blocked(pos3-4)"]
+v10  [label="NegatedAtom blocked(pos3-0)"]
+v30  [label="NegatedAtom blocked(pos2-0)"]
+v14  [label="NegatedAtom blocked(pos5-4)"]
+v19  [label="Atom spawn(pos3-1)"]
+v28  [label="Atom nextsnake(pos5-1, pos5-2)"]
+v25 -> v11
+v22 -> v8
+v21 -> v26
+v24 -> v6
+v29 -> v4
+v3 -> v8
+v15 -> v11
+v2 -> v26
+v0 -> v6
+v27 -> v4
+v27 -> v8
+v27 -> v26
+v27 -> v6
+v27 -> v11
+v7 -> v4
+v7 -> v8
+v7 -> v26
+v7 -> v6
+v7 -> v11
+v17 -> v11
+v23 -> v8
+v10 -> v26
+v30 -> v6
+v14 -> v4
+v19 -> v4
+v19 -> v8
+v19 -> v26
+v19 -> v6
+v19 -> v11
+v28 -> v4
+v28 -> v8
+v28 -> v26
+v28 -> v6
+v28 -> v11
+}

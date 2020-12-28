@@ -1,0 +1,13 @@
+digraph G {
+v3  [label="Atom bond(o067, c018)"]
+v6  [label="NegatedAtom bond(o067, c051)"]
+v1  [label="Atom bond(o067, c051)"]
+v0  [label="Atom procnone()"]
+v5  [label="NegatedAtom bond(c051, o067)"]
+v2  [label="Atom bond(c051, o067)"]
+v4  [label="Atom bond(c018, o067)"]
+v6 -> v1
+v0 -> v1
+v0 -> v2
+v5 -> v2
+}

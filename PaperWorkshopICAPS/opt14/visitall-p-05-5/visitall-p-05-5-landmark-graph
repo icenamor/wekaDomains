@@ -1,0 +1,85 @@
+digraph G {
+v40  [label="Atom at-robot(loc-x0-y1), Atom at-robot(loc-x1-y0), Atom at-robot(loc-x1-y2), Atom at-robot(loc-x2-y1)"]
+v35  [label="Atom at-robot(loc-x3-y3), Atom at-robot(loc-x4-y2), Atom at-robot(loc-x4-y4)"]
+v36  [label="Atom at-robot(loc-x3-y2), Atom at-robot(loc-x4-y1), Atom at-robot(loc-x4-y3)"]
+v37  [label="Atom at-robot(loc-x2-y0), Atom at-robot(loc-x3-y1), Atom at-robot(loc-x4-y0)"]
+v38  [label="Atom at-robot(loc-x1-y4), Atom at-robot(loc-x2-y3), Atom at-robot(loc-x3-y4)"]
+v39  [label="Atom at-robot(loc-x0-y4), Atom at-robot(loc-x1-y3), Atom at-robot(loc-x2-y4)"]
+v41  [label="Atom at-robot(loc-x0-y0), Atom at-robot(loc-x0-y2), Atom at-robot(loc-x1-y1)"]
+v34  [label="NegatedAtom visited(loc-x0-y1)"]
+v16  [label="Atom visited(loc-x0-y1)"]
+v33  [label="NegatedAtom visited(loc-x0-y2)"]
+v15  [label="Atom visited(loc-x0-y2)"]
+v32  [label="NegatedAtom visited(loc-x0-y3)"]
+v14  [label="Atom visited(loc-x0-y3)"]
+v31  [label="NegatedAtom visited(loc-x0-y4)"]
+v7  [label="Atom visited(loc-x0-y4)"]
+v30  [label="NegatedAtom visited(loc-x1-y0)"]
+v6  [label="Atom visited(loc-x1-y0)"]
+v29  [label="NegatedAtom visited(loc-x1-y1)"]
+v5  [label="Atom visited(loc-x1-y1)"]
+v28  [label="NegatedAtom visited(loc-x1-y2)"]
+v4  [label="Atom visited(loc-x1-y2)"]
+v27  [label="NegatedAtom visited(loc-x1-y3)"]
+v3  [label="Atom visited(loc-x1-y3)"]
+v26  [label="NegatedAtom visited(loc-x1-y4)"]
+v2  [label="Atom visited(loc-x1-y4)"]
+v25  [label="NegatedAtom visited(loc-x2-y1)"]
+v1  [label="Atom visited(loc-x2-y1)"]
+v24  [label="NegatedAtom visited(loc-x2-y4)"]
+v0  [label="Atom visited(loc-x2-y4)"]
+v23  [label="NegatedAtom visited(loc-x3-y0)"]
+v13  [label="Atom visited(loc-x3-y0)"]
+v22  [label="NegatedAtom visited(loc-x3-y2)"]
+v11  [label="Atom visited(loc-x3-y2)"]
+v21  [label="NegatedAtom visited(loc-x3-y4)"]
+v10  [label="Atom visited(loc-x3-y4)"]
+v20  [label="NegatedAtom visited(loc-x4-y1)"]
+v9  [label="Atom visited(loc-x4-y1)"]
+v19  [label="NegatedAtom visited(loc-x4-y2)"]
+v8  [label="Atom visited(loc-x4-y2)"]
+v18  [label="NegatedAtom visited(loc-x4-y3)"]
+v12  [label="Atom visited(loc-x4-y3)"]
+v17  [label="Atom at-robot(loc-x2-y2)"]
+v40 -> v5
+v35 -> v12
+v36 -> v8
+v37 -> v13
+v38 -> v0
+v39 -> v2
+v41 -> v16
+v34 -> v16
+v33 -> v15
+v32 -> v14
+v31 -> v7
+v30 -> v6
+v29 -> v5
+v28 -> v4
+v27 -> v3
+v26 -> v2
+v25 -> v1
+v24 -> v0
+v23 -> v13
+v22 -> v11
+v21 -> v10
+v20 -> v9
+v19 -> v8
+v18 -> v12
+v17 -> v2
+v17 -> v10
+v17 -> v7
+v17 -> v3
+v17 -> v11
+v17 -> v15
+v17 -> v12
+v17 -> v4
+v17 -> v14
+v17 -> v16
+v17 -> v0
+v17 -> v13
+v17 -> v8
+v17 -> v5
+v17 -> v1
+v17 -> v9
+v17 -> v6
+}

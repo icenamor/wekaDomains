@@ -1,0 +1,79 @@
+digraph G {
+v16  [label="Atom in(package-6, truck-1), Atom in(package-6, truck-2), Atom in(package-6, truck-3)"]
+v15  [label="Atom in(package-5, truck-1), Atom in(package-5, truck-2), Atom in(package-5, truck-3)"]
+v18  [label="Atom in(package-4, truck-1), Atom in(package-4, truck-2), Atom in(package-4, truck-3)"]
+v4  [label="Atom in(package-3, truck-1), Atom in(package-3, truck-2), Atom in(package-3, truck-3)"]
+v5  [label="Atom in(package-2, truck-1), Atom in(package-2, truck-2), Atom in(package-2, truck-3)"]
+v12  [label="Atom in(package-1, truck-1), Atom in(package-1, truck-2), Atom in(package-1, truck-3)"]
+v14  [label="Atom at(truck-3, city-2-loc-9), Atom at(truck-2, city-2-loc-9), Atom at(truck-1, city-2-loc-9)"]
+v11  [label="Atom at(truck-3, city-2-loc-5), Atom at(truck-2, city-2-loc-5), Atom at(truck-1, city-2-loc-5)"]
+v3  [label="Atom at(truck-3, city-2-loc-3), Atom at(truck-2, city-2-loc-3), Atom at(truck-1, city-2-loc-3)"]
+v20  [label="Atom at(truck-3, city-2-loc-2), Atom at(truck-2, city-2-loc-2), Atom at(truck-1, city-2-loc-2)"]
+v19  [label="Atom at(truck-3, city-2-loc-14), Atom at(truck-2, city-2-loc-14), Atom at(truck-1, city-2-loc-14)"]
+v17  [label="Atom at(truck-3, city-2-loc-12), Atom at(truck-2, city-2-loc-12), Atom at(truck-1, city-2-loc-12)"]
+v13  [label="Atom at(truck-3, city-2-loc-10), Atom at(truck-2, city-2-loc-10), Atom at(truck-1, city-2-loc-10)"]
+v23  [label="Atom at(truck-3, city-1-loc-7), Atom at(truck-2, city-1-loc-7), Atom at(truck-1, city-1-loc-7)"]
+v26  [label="Atom at(truck-3, city-1-loc-20), Atom at(truck-2, city-1-loc-20), Atom at(truck-1, city-1-loc-20)"]
+v25  [label="Atom at(truck-3, city-1-loc-18), Atom at(truck-2, city-1-loc-18), Atom at(truck-1, city-1-loc-18)"]
+v22  [label="Atom at(truck-3, city-1-loc-16), Atom at(truck-2, city-1-loc-16), Atom at(truck-1, city-1-loc-16)"]
+v21  [label="Atom at(truck-3, city-1-loc-13), Atom at(truck-2, city-1-loc-13), Atom at(truck-1, city-1-loc-13)"]
+v24  [label="Atom at(truck-3, city-1-loc-12), Atom at(truck-2, city-1-loc-12), Atom at(truck-1, city-1-loc-12)"]
+v27  [label="Atom at(package-6, city-2-loc-14)"]
+v0  [label="Atom at(package-6, city-1-loc-20)"]
+v6  [label="Atom at(package-5, city-2-loc-3)"]
+v30  [label="Atom at(package-5, city-1-loc-18)"]
+v9  [label="Atom at(package-4, city-2-loc-12)"]
+v28  [label="Atom at(package-4, city-1-loc-12)"]
+v8  [label="Atom at(package-3, city-2-loc-9)"]
+v1  [label="Atom at(package-3, city-1-loc-16)"]
+v2  [label="Atom at(package-2, city-2-loc-10)"]
+v29  [label="Atom at(package-2, city-1-loc-7)"]
+v10  [label="Atom at(package-1, city-2-loc-5)"]
+v7  [label="Atom at(package-1, city-1-loc-13)"]
+v16 -> v27
+v15 -> v6
+v18 -> v9
+v4 -> v8
+v5 -> v2
+v12 -> v10
+v14 -> v8
+v11 -> v10
+v3 -> v6
+v20 -> v10
+v20 -> v11
+v19 -> v27
+v17 -> v9
+v13 -> v2
+v23 -> v10
+v23 -> v5
+v23 -> v2
+v23 -> v6
+v23 -> v27
+v26 -> v16
+v26 -> v27
+v25 -> v6
+v25 -> v15
+v22 -> v8
+v22 -> v4
+v21 -> v10
+v21 -> v12
+v24 -> v10
+v24 -> v9
+v24 -> v8
+v24 -> v18
+v24 -> v2
+v24 -> v6
+v24 -> v27
+v0 -> v16
+v0 -> v27
+v30 -> v6
+v30 -> v15
+v28 -> v9
+v28 -> v18
+v1 -> v8
+v1 -> v4
+v29 -> v5
+v29 -> v2
+v7 -> v10
+v7 -> v12
+}

@@ -1,0 +1,77 @@
+digraph G {
+v0  [label="Atom headsnake(pos1-4), Atom headsnake(pos2-3), Atom headsnake(pos2-5), Atom headsnake(pos3-4)"]
+v28  [label="Atom headsnake(pos0-3), Atom headsnake(pos1-2), Atom headsnake(pos2-1), Atom headsnake(pos3-0)"]
+v21  [label="Atom headsnake(pos0-2), Atom headsnake(pos1-1), Atom headsnake(pos2-0)"]
+v34  [label="Atom headsnake(pos4-0), Atom headsnake(pos5-1)"]
+v15  [label="Atom headsnake(pos0-1), Atom headsnake(pos1-0)"]
+v20  [label="NegatedAtom ispoint(pos5-5)"]
+v23  [label="NegatedAtom ispoint(pos0-5)"]
+v12  [label="NegatedAtom ispoint(pos3-5)"]
+v3  [label="NegatedAtom ispoint(pos3-0)"]
+v17  [label="NegatedAtom ispoint(pos4-4)"]
+v19  [label="NegatedAtom ispoint(pos4-2)"]
+v30  [label="NegatedAtom ispoint(pos4-1)"]
+v7  [label="NegatedAtom ispoint(pos3-4)"]
+v8  [label="NegatedAtom ispoint(pos3-2)"]
+v11  [label="NegatedAtom ispoint(pos1-4)"]
+v25  [label="NegatedAtom ispoint(pos1-3)"]
+v26  [label="NegatedAtom ispoint(pos1-2)"]
+v5  [label="NegatedAtom ispoint(pos5-0)"]
+v32  [label="Atom ispoint(pos5-0)"]
+v33  [label="NegatedAtom ispoint(pos2-4)"]
+v24  [label="Atom ispoint(pos2-4)"]
+v9  [label="NegatedAtom ispoint(pos1-1)"]
+v22  [label="Atom ispoint(pos1-1)"]
+v13  [label="NegatedAtom ispoint(pos0-2)"]
+v1  [label="Atom ispoint(pos0-2)"]
+v14  [label="NegatedAtom ispoint(pos0-0)"]
+v10  [label="Atom ispoint(pos0-0)"]
+v4  [label="Atom headsnake(pos5-2)"]
+v2  [label="Atom tailsnake(pos5-1)"]
+v29  [label="NegatedAtom blocked(pos2-4)"]
+v31  [label="NegatedAtom blocked(pos1-1)"]
+v18  [label="NegatedAtom blocked(pos0-2)"]
+v35  [label="Atom spawn(pos1-2)"]
+v27  [label="NegatedAtom blocked(pos5-0)"]
+v6  [label="NegatedAtom blocked(pos0-0)"]
+v16  [label="Atom nextsnake(pos5-2, pos5-1)"]
+v0 -> v33
+v28 -> v9
+v28 -> v13
+v28 -> v21
+v28 -> v14
+v21 -> v15
+v21 -> v14
+v34 -> v5
+v15 -> v14
+v32 -> v5
+v24 -> v33
+v22 -> v9
+v1 -> v13
+v10 -> v14
+v4 -> v9
+v4 -> v13
+v4 -> v5
+v4 -> v33
+v4 -> v14
+v2 -> v9
+v2 -> v13
+v2 -> v5
+v2 -> v33
+v2 -> v14
+v29 -> v33
+v31 -> v9
+v18 -> v13
+v35 -> v9
+v35 -> v13
+v35 -> v5
+v35 -> v33
+v35 -> v14
+v27 -> v5
+v6 -> v14
+v16 -> v9
+v16 -> v13
+v16 -> v5
+v16 -> v33
+v16 -> v14
+}

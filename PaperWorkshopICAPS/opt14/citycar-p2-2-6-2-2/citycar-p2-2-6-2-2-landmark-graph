@@ -1,0 +1,88 @@
+digraph G {
+v37  [label="Atom in_place(road0), Atom in_place(road1), Atom in_place(road2), Atom in_place(road3)"]
+v15  [label="NegatedAtom arrived(car0, junction1-1)"]
+v4  [label="Atom arrived(car0, junction1-1)"]
+v14  [label="NegatedAtom arrived(car1, junction1-1)"]
+v3  [label="Atom arrived(car1, junction1-1)"]
+v13  [label="NegatedAtom arrived(car2, junction1-0)"]
+v7  [label="Atom arrived(car2, junction1-0)"]
+v12  [label="NegatedAtom arrived(car3, junction1-1)"]
+v1  [label="Atom arrived(car3, junction1-1)"]
+v19  [label="NegatedAtom arrived(car4, junction1-0)"]
+v6  [label="Atom arrived(car4, junction1-0)"]
+v21  [label="NegatedAtom arrived(car5, junction1-0)"]
+v5  [label="Atom arrived(car5, junction1-0)"]
+v16  [label="NegatedAtom at_car_jun(car5, junction1-0)"]
+v10  [label="Atom at_car_jun(car5, junction1-0)"]
+v36  [label="Atom at_car_jun(car5, junction0-1)"]
+v29  [label="Atom clear(junction0-1)"]
+v31  [label="Atom at_car_jun(car4, junction0-1)"]
+v22  [label="NegatedAtom at_car_jun(car4, junction1-0)"]
+v9  [label="Atom at_car_jun(car4, junction1-0)"]
+v35  [label="Atom at_car_jun(car3, junction0-1)"]
+v23  [label="NegatedAtom at_car_jun(car3, junction1-1)"]
+v8  [label="Atom at_car_jun(car3, junction1-1)"]
+v32  [label="Atom at_car_jun(car2, junction0-1)"]
+v20  [label="NegatedAtom at_car_jun(car2, junction1-0)"]
+v11  [label="Atom at_car_jun(car2, junction1-0)"]
+v33  [label="Atom at_car_jun(car1, junction0-1)"]
+v17  [label="NegatedAtom at_car_jun(car1, junction1-1)"]
+v0  [label="Atom at_car_jun(car1, junction1-1)"]
+v27  [label="Atom at_car_jun(car0, junction0-1)"]
+v18  [label="NegatedAtom at_car_jun(car0, junction1-1)"]
+v2  [label="Atom at_car_jun(car0, junction1-1)"]
+v24  [label="Atom starting(car5, garage1)"]
+v25  [label="Atom starting(car4, garage0)"]
+v34  [label="Atom starting(car3, garage0)"]
+v30  [label="Atom starting(car2, garage0)"]
+v28  [label="Atom starting(car1, garage0)"]
+v26  [label="Atom starting(car0, garage1)"]
+v37 -> v5
+v37 -> v4
+v37 -> v0
+v37 -> v11
+v37 -> v2
+v37 -> v10
+v37 -> v3
+v37 -> v9
+v37 -> v8
+v37 -> v1
+v37 -> v7
+v37 -> v6
+v15 -> v4
+v14 -> v3
+v13 -> v7
+v12 -> v1
+v19 -> v6
+v21 -> v5
+v16 -> v10
+v10 -> v5
+v36 -> v5
+v29 -> v5
+v29 -> v4
+v29 -> v3
+v29 -> v1
+v29 -> v7
+v29 -> v6
+v31 -> v6
+v22 -> v9
+v9 -> v6
+v35 -> v1
+v23 -> v8
+v8 -> v1
+v32 -> v7
+v20 -> v11
+v11 -> v7
+v33 -> v3
+v17 -> v0
+v0 -> v3
+v27 -> v4
+v18 -> v2
+v2 -> v4
+v24 -> v5
+v25 -> v6
+v34 -> v1
+v30 -> v7
+v28 -> v3
+v26 -> v4
+}

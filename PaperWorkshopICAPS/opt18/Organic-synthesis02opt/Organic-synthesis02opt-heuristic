@@ -1,0 +1,10940 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+12
+begin_variable
+var8
+-1
+2
+Atom bond(c013, h061)
+<none of those>
+end_variable
+begin_variable
+var0
+-1
+2
+Atom bond(c011, o066)
+<none of those>
+end_variable
+begin_variable
+var2
+-1
+2
+Atom bond(o066, h061)
+<none of those>
+end_variable
+begin_variable
+var1
+-1
+2
+Atom doublebond(c011, c013)
+<none of those>
+end_variable
+begin_variable
+var5
+-1
+2
+Atom doublebond(c013, c011)
+<none of those>
+end_variable
+begin_variable
+var11
+-1
+2
+Atom bond(h061, o066)
+<none of those>
+end_variable
+begin_variable
+var6
+-1
+2
+Atom bond(c011, h061)
+<none of those>
+end_variable
+begin_variable
+var4
+-1
+2
+Atom bond(c013, o066)
+<none of those>
+end_variable
+begin_variable
+var10
+-1
+2
+Atom bond(c011, c013)
+<none of those>
+end_variable
+begin_variable
+var13
+-1
+2
+Atom bond(c013, c011)
+<none of those>
+end_variable
+begin_variable
+var12
+-1
+2
+Atom bond(o066, c013)
+<none of those>
+end_variable
+begin_variable
+var9
+-1
+2
+Atom bond(h061, c011)
+<none of those>
+end_variable
+0
+begin_state
+1
+1
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+end_state
+begin_goal
+6
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+end_goal
+432
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c015 c014 c010 c016
+0
+8
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c015 c014 c010 h061
+0
+8
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c014 c015 c010 c016
+0
+8
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c014 c015 c010 h061
+0
+8
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c015 c014 c012 c016
+0
+8
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c015 c014 c012 h061
+0
+8
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c014 c015 c012 c016
+0
+8
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c014 c015 c012 h061
+0
+8
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c010 c012 c015 c016
+0
+10
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c010 c012 c015 h061
+0
+10
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c012 c010 c015 c016
+0
+10
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c012 c010 c015 h061
+0
+10
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c010 c012 c014 c016
+0
+10
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c010 c012 c014 h061
+0
+10
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c012 c010 c014 c016
+0
+10
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c012 c010 c014 h061
+0
+10
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c010 c013 c015 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c010 c013 c015 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c010 c013 c014 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c010 c013 c014 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c012 c013 c015 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c012 c013 c015 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c012 c013 c014 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c012 c013 c014 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c013 c010 c015 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c013 c010 c015 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c013 c010 c014 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c013 c010 c014 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c013 c012 c015 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c013 c012 c015 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c013 c012 c014 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c013 c012 c014 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c015 c011 c010 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c015 c011 c010 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c015 c011 c012 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c015 c011 c012 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c014 c011 c010 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c014 c011 c010 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c014 c011 c012 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c014 c011 c012 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c011 c015 c010 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c011 c015 c010 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c011 c015 c012 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c011 c015 c012 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c011 c014 c010 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c011 c014 c010 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c011 c014 c012 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c011 c014 c012 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c015 c014 c010 c011
+1
+1 0
+7
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c014 c015 c010 c011
+1
+1 0
+7
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c015 c014 c012 c011
+1
+1 0
+7
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c014 c015 c012 c011
+1
+1 0
+7
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c010 c012 c015 c011
+1
+1 0
+10
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c012 c010 c015 c011
+1
+1 0
+10
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c010 c012 c014 c011
+1
+1 0
+10
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c012 c010 c014 c011
+1
+1 0
+10
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c010 c013 c015 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c010 c013 c014 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c012 c013 c015 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c012 c013 c014 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c013 c010 c015 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c013 c010 c014 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c013 c012 c015 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c013 c012 c014 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c015 c011 c010 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c015 c011 c012 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c014 c011 c010 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c014 c011 c012 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c011 c015 c010 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c011 c015 c012 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c011 c014 c010 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c011 c014 c012 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c015 c014 c010 c013
+1
+7 0
+8
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c014 c015 c010 c013
+1
+7 0
+8
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c015 c014 c012 c013
+1
+7 0
+8
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c014 c015 c012 c013
+1
+7 0
+8
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c010 c012 c015 c013
+1
+7 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c012 c010 c015 c013
+1
+7 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c010 c012 c014 c013
+1
+7 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c012 c010 c014 c013
+1
+7 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c010 c013 c015 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c010 c013 c014 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c012 c013 c015 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c012 c013 c014 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c013 c010 c015 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c013 c010 c014 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c013 c012 c015 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c013 c012 c014 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c015 c011 c010 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c015 c011 c012 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c014 c011 c010 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c014 c011 c012 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c011 c015 c010 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c011 c015 c012 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c011 c014 c010 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c011 c014 c012 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c015 c014 c010 c016
+1
+8 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c015 c014 c010 h061
+1
+8 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c015 c014 c010 c011
+2
+1 0
+8 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c015 c014 c010 c013
+2
+7 0
+8 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c014 c015 c010 c016
+1
+8 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c014 c015 c010 h061
+1
+8 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c014 c015 c010 c011
+2
+1 0
+8 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c014 c015 c010 c013
+2
+7 0
+8 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c015 c011 c010 c016
+2
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c015 c011 c010 h061
+2
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c015 c011 c010 c011
+3
+1 0
+8 0
+9 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c015 c011 c010 c013
+3
+7 0
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c014 c011 c010 c016
+2
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c014 c011 c010 h061
+2
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c014 c011 c010 c011
+3
+1 0
+8 0
+9 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c014 c011 c010 c013
+3
+7 0
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c011 c015 c010 c016
+2
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c011 c015 c010 h061
+2
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c011 c015 c010 c011
+3
+1 0
+8 0
+9 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c011 c015 c010 c013
+3
+7 0
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c011 c014 c010 c016
+2
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c011 c014 c010 h061
+2
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c011 c014 c010 c011
+3
+1 0
+8 0
+9 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c011 c014 c010 c013
+3
+7 0
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c015 c014 c012 c016
+1
+8 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c015 c014 c012 h061
+1
+8 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c015 c014 c012 c011
+2
+1 0
+8 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c015 c014 c012 c013
+2
+7 0
+8 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c014 c015 c012 c016
+1
+8 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c014 c015 c012 h061
+1
+8 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c014 c015 c012 c011
+2
+1 0
+8 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c014 c015 c012 c013
+2
+7 0
+8 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c015 c011 c012 c016
+2
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c015 c011 c012 h061
+2
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c015 c011 c012 c011
+3
+1 0
+8 0
+9 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c015 c011 c012 c013
+3
+7 0
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c014 c011 c012 c016
+2
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c014 c011 c012 h061
+2
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c014 c011 c012 c011
+3
+1 0
+8 0
+9 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c014 c011 c012 c013
+3
+7 0
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c011 c015 c012 c016
+2
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c011 c015 c012 h061
+2
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c011 c015 c012 c011
+3
+1 0
+8 0
+9 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c011 c015 c012 c013
+3
+7 0
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c011 c014 c012 c016
+2
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c011 c014 c012 h061
+2
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c011 c014 c012 c011
+3
+1 0
+8 0
+9 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c013 c011 c014 c012 c013
+3
+7 0
+8 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c010 c012 c011 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c010 c012 c011 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c010 c012 c011 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c010 c012 c011 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c012 c010 c011 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c012 c010 c011 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c012 c010 c011 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c012 c010 c011 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c010 c013 c011 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c010 c013 c011 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c010 c013 c011 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c010 c013 c011 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c012 c013 c011 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c012 c013 c011 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c012 c013 c011 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c012 c013 c011 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c013 c010 c011 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c013 c010 c011 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c013 c010 c011 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c013 c010 c011 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c013 c012 c011 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c013 c012 c011 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c013 c012 c011 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c015 c013 c012 c011 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c010 c012 c011 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c010 c012 c011 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c010 c012 c011 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c010 c012 c011 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c012 c010 c011 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c012 c010 c011 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c012 c010 c011 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c012 c010 c011 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c010 c013 c011 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c010 c013 c011 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c010 c013 c011 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c010 c013 c011 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c012 c013 c011 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c012 c013 c011 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c012 c013 c011 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c012 c013 c011 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c013 c010 c011 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c013 c010 c011 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c013 c010 c011 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c013 c010 c011 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c013 c012 c011 c016
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c013 c012 c011 h061
+1
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c013 c012 c011 c011
+2
+1 0
+8 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c014 c013 c012 c011 c013
+2
+7 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c010 c012 c015 c016
+1
+9 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c010 c012 c015 h061
+1
+9 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c010 c012 c015 c011
+2
+1 0
+9 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c010 c012 c015 c013
+2
+7 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c012 c010 c015 c016
+1
+9 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c012 c010 c015 h061
+1
+9 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c012 c010 c015 c011
+2
+1 0
+9 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c012 c010 c015 c013
+2
+7 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c010 c013 c015 c016
+2
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c010 c013 c015 h061
+2
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c010 c013 c015 c011
+3
+1 0
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c010 c013 c015 c013
+3
+7 0
+8 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c012 c013 c015 c016
+2
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c012 c013 c015 h061
+2
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c012 c013 c015 c011
+3
+1 0
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c012 c013 c015 c013
+3
+7 0
+8 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c013 c010 c015 c016
+2
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c013 c010 c015 h061
+2
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c013 c010 c015 c011
+3
+1 0
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c013 c010 c015 c013
+3
+7 0
+8 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c013 c012 c015 c016
+2
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c013 c012 c015 h061
+2
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c013 c012 c015 c011
+3
+1 0
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c013 c012 c015 c013
+3
+7 0
+8 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c010 c012 c014 c016
+1
+9 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c010 c012 c014 h061
+1
+9 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c010 c012 c014 c011
+2
+1 0
+9 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c010 c012 c014 c013
+2
+7 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c012 c010 c014 c016
+1
+9 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c012 c010 c014 h061
+1
+9 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c012 c010 c014 c011
+2
+1 0
+9 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c012 c010 c014 c013
+2
+7 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c010 c013 c014 c016
+2
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c010 c013 c014 h061
+2
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c010 c013 c014 c011
+3
+1 0
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c010 c013 c014 c013
+3
+7 0
+8 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c012 c013 c014 c016
+2
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c012 c013 c014 h061
+2
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c012 c013 c014 c011
+3
+1 0
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c012 c013 c014 c013
+3
+7 0
+8 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c013 c010 c014 c016
+2
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c013 c010 c014 h061
+2
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c013 c010 c014 c011
+3
+1 0
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c013 c010 c014 c013
+3
+7 0
+8 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c013 c012 c014 c016
+2
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c013 c012 c014 h061
+2
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c013 c012 c014 c011
+3
+1 0
+8 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c013 o066 c011 h061 c011 c013 c012 c014 c013
+3
+7 0
+8 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+6 -1 0
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c015 c014 c013 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c015 c014 c013 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c015 c014 c013 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c015 c014 c013 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c014 c015 c013 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c014 c015 c013 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c014 c015 c013 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c014 c015 c013 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c015 c011 c013 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c015 c011 c013 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c015 c011 c013 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c015 c011 c013 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c014 c011 c013 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c014 c011 c013 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c014 c011 c013 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c014 c011 c013 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c011 c015 c013 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c011 c015 c013 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c011 c015 c013 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c011 c015 c013 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c011 c014 c013 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c011 c014 c013 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c011 c014 c013 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c010 c011 c014 c013 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c015 c014 c013 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c015 c014 c013 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c015 c014 c013 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c015 c014 c013 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c014 c015 c013 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c014 c015 c013 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c014 c015 c013 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c014 c015 c013 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c015 c011 c013 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c015 c011 c013 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c015 c011 c013 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c015 c011 c013 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c014 c011 c013 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c014 c011 c013 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c014 c011 c013 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c014 c011 c013 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c011 c015 c013 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c011 c015 c013 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c011 c015 c013 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c011 c015 c013 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c011 c014 c013 c016
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c011 c014 c013 h061
+1
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c011 c014 c013 c011
+2
+1 0
+9 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstetrasubstitutedalkene c011 o066 c013 h061 c012 c011 c014 c013 c013
+2
+7 0
+9 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+0 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c010 c012 c016
+1
+0 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c010 c012 h061
+1
+0 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c010 c012 c011
+2
+1 0
+0 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c010 c012 c013
+2
+7 0
+0 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c012 c010 c016
+1
+0 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c012 c010 h061
+1
+0 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c012 c010 c011
+2
+1 0
+0 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c012 c010 c013
+2
+7 0
+0 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c010 c013 c016
+2
+0 0
+8 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c010 c013 h061
+2
+0 0
+8 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c010 c013 c011
+3
+1 0
+0 0
+8 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c010 c013 c013
+3
+7 0
+0 0
+8 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c012 c013 c016
+2
+0 0
+8 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c012 c013 h061
+2
+0 0
+8 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c012 c013 c011
+3
+1 0
+0 0
+8 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c012 c013 c013
+3
+7 0
+0 0
+8 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c013 c010 c016
+2
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c013 c010 h061
+2
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c013 c010 c011
+3
+1 0
+0 0
+9 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c013 c010 c013
+3
+7 0
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c013 c012 c016
+2
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c013 c012 h061
+2
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c013 c012 c011
+3
+1 0
+0 0
+9 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c015 h061 c013 c012 c013
+3
+7 0
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c010 c012 c016
+1
+0 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c010 c012 h061
+1
+0 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c010 c012 c011
+2
+1 0
+0 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c010 c012 c013
+2
+7 0
+0 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c012 c010 c016
+1
+0 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c012 c010 h061
+1
+0 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c012 c010 c011
+2
+1 0
+0 0
+6
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c012 c010 c013
+2
+7 0
+0 0
+7
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c010 c013 c016
+2
+0 0
+8 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c010 c013 h061
+2
+0 0
+8 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c010 c013 c011
+3
+1 0
+0 0
+8 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c010 c013 c013
+3
+7 0
+0 0
+8 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c012 c013 c016
+2
+0 0
+8 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c012 c013 h061
+2
+0 0
+8 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c012 c013 c011
+3
+1 0
+0 0
+8 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c012 c013 c013
+3
+7 0
+0 0
+8 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c013 c010 c016
+2
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c013 c010 h061
+2
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c013 c010 c011
+3
+1 0
+0 0
+9 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c013 c010 c013
+3
+7 0
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c013 c012 c016
+2
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c013 c012 h061
+2
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c013 c012 c011
+3
+1 0
+0 0
+9 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c014 h061 c013 c012 c013
+3
+7 0
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c010 c012 c016
+2
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c010 c012 h061
+2
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c010 c012 c011
+3
+1 0
+0 0
+9 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c010 c012 c013
+3
+7 0
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c012 c010 c016
+2
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c012 c010 h061
+2
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c012 c010 c011
+3
+1 0
+0 0
+9 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c012 c010 c013
+3
+7 0
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c010 c013 c016
+3
+0 0
+8 0
+9 0
+5
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c010 c013 h061
+3
+0 0
+8 0
+9 0
+5
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c010 c013 c011
+4
+1 0
+0 0
+8 0
+9 0
+4
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c010 c013 c013
+4
+7 0
+0 0
+8 0
+9 0
+5
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c012 c013 c016
+3
+0 0
+8 0
+9 0
+5
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c012 c013 h061
+3
+0 0
+8 0
+9 0
+5
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c012 c013 c011
+4
+1 0
+0 0
+8 0
+9 0
+4
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c012 c013 c013
+4
+7 0
+0 0
+8 0
+9 0
+5
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c013 c010 c016
+2
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c013 c010 h061
+2
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c013 c010 c011
+3
+1 0
+0 0
+9 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c013 c010 c013
+3
+7 0
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c013 c012 c016
+2
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c013 c012 h061
+2
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c013 c012 c011
+3
+1 0
+0 0
+9 0
+5
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c011 o066 h061 c013 c011 h061 c013 c012 c013
+3
+7 0
+0 0
+9 0
+6
+0
+1 -1 0
+0
+3 0 1
+0
+2 0 1
+0
+4 -1 1
+0
+8 -1 0
+0
+5 -1 1
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c015 c014 c016
+1
+6 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c015 c014 h061
+1
+6 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c015 c014 c011
+2
+1 0
+6 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c015 c014 c013
+2
+7 0
+6 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c014 c015 c016
+1
+6 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c014 c015 h061
+1
+6 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c014 c015 c011
+2
+1 0
+6 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c014 c015 c013
+2
+7 0
+6 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c015 c011 c016
+2
+6 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c015 c011 h061
+2
+6 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c015 c011 c011
+3
+1 0
+6 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c015 c011 c013
+3
+7 0
+6 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c014 c011 c016
+2
+6 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c014 c011 h061
+2
+6 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c014 c011 c011
+3
+1 0
+6 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c014 c011 c013
+3
+7 0
+6 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c011 c015 c016
+2
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c011 c015 h061
+2
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c011 c015 c011
+3
+1 0
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c011 c015 c013
+3
+7 0
+6 0
+8 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c011 c014 c016
+2
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c011 c014 h061
+2
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c011 c014 c011
+3
+1 0
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c010 h061 c011 c014 c013
+3
+7 0
+6 0
+8 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c015 c014 c016
+1
+6 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c015 c014 h061
+1
+6 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c015 c014 c011
+2
+1 0
+6 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c015 c014 c013
+2
+7 0
+6 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c014 c015 c016
+1
+6 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c014 c015 h061
+1
+6 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c014 c015 c011
+2
+1 0
+6 0
+9
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c014 c015 c013
+2
+7 0
+6 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c015 c011 c016
+2
+6 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c015 c011 h061
+2
+6 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c015 c011 c011
+3
+1 0
+6 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c015 c011 c013
+3
+7 0
+6 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c014 c011 c016
+2
+6 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c014 c011 h061
+2
+6 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c014 c011 c011
+3
+1 0
+6 0
+9 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c014 c011 c013
+3
+7 0
+6 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+8 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c011 c015 c016
+2
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c011 c015 h061
+2
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c011 c015 c011
+3
+1 0
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c011 c015 c013
+3
+7 0
+6 0
+8 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c011 c014 c016
+2
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c011 c014 h061
+2
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c011 c014 c011
+3
+1 0
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c012 h061 c011 c014 c013
+3
+7 0
+6 0
+8 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c015 c014 c016
+2
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c015 c014 h061
+2
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c015 c014 c011
+3
+1 0
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c015 c014 c013
+3
+7 0
+6 0
+8 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c014 c015 c016
+2
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c014 c015 h061
+2
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c014 c015 c011
+3
+1 0
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c014 c015 c013
+3
+7 0
+6 0
+8 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c015 c011 c016
+3
+6 0
+8 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c015 c011 h061
+3
+6 0
+8 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c015 c011 c011
+4
+1 0
+6 0
+8 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c015 c011 c013
+4
+7 0
+6 0
+8 0
+9 0
+6
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c014 c011 c016
+3
+6 0
+8 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c014 c011 h061
+3
+6 0
+8 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c014 c011 c011
+4
+1 0
+6 0
+8 0
+9 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c014 c011 c013
+4
+7 0
+6 0
+8 0
+9 0
+6
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c011 c015 c016
+2
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c011 c015 h061
+2
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c011 c015 c011
+3
+1 0
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c011 c015 c013
+3
+7 0
+6 0
+8 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c011 c014 c016
+2
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c011 c014 h061
+2
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 0 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c011 c014 c011
+3
+1 0
+6 0
+8 0
+8
+0
+3 -1 1
+0
+2 0 1
+0
+7 -1 0
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+begin_operator
+additionofrohacrosstrisubstitutedalkene c013 o066 h061 c011 c013 h061 c011 c014 c013
+3
+7 0
+6 0
+8 0
+7
+0
+3 -1 1
+0
+2 0 1
+0
+4 0 1
+0
+11 -1 0
+0
+5 -1 1
+0
+10 -1 0
+0
+9 -1 0
+0
+end_operator
+0
+begin_SG
+switch 1
+check 0
+switch 3
+check 0
+switch 2
+check 0
+switch 7
+check 4
+48
+49
+50
+51
+check 0
+check 0
+switch 0
+check 0
+switch 11
+check 4
+290
+294
+314
+318
+check 0
+check 0
+switch 8
+check 0
+switch 5
+check 4
+298
+302
+322
+326
+check 0
+check 0
+switch 9
+check 0
+check 2
+346
+350
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 8
+306
+310
+330
+334
+338
+342
+354
+358
+check 0
+check 0
+check 0
+switch 8
+check 0
+switch 5
+check 4
+98
+102
+122
+126
+check 0
+check 0
+switch 9
+check 0
+check 8
+106
+110
+114
+118
+130
+134
+138
+142
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 20
+64
+65
+66
+67
+68
+69
+70
+71
+242
+246
+250
+254
+258
+262
+266
+270
+274
+278
+282
+286
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 2
+check 0
+switch 4
+check 0
+switch 6
+check 4
+52
+53
+54
+55
+switch 0
+check 4
+362
+366
+386
+390
+check 0
+check 0
+switch 8
+check 0
+switch 5
+check 8
+378
+382
+402
+406
+410
+414
+426
+430
+check 0
+check 0
+switch 9
+check 0
+check 2
+418
+422
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 4
+370
+374
+394
+398
+check 0
+check 0
+check 0
+switch 8
+check 0
+switch 5
+check 20
+56
+57
+58
+59
+60
+61
+62
+63
+146
+150
+154
+158
+162
+166
+170
+174
+178
+182
+186
+190
+check 0
+check 0
+switch 9
+check 0
+check 8
+202
+206
+210
+214
+226
+230
+234
+238
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 4
+194
+198
+218
+222
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+switch 2
+check 0
+switch 7
+check 4
+0
+2
+4
+6
+switch 4
+check 4
+72
+73
+74
+75
+check 0
+check 0
+switch 0
+check 0
+switch 11
+check 4
+291
+295
+315
+319
+check 0
+check 0
+switch 8
+check 0
+switch 5
+check 4
+299
+303
+323
+327
+check 0
+check 0
+switch 9
+check 0
+check 2
+347
+351
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 8
+307
+311
+331
+335
+339
+343
+355
+359
+check 0
+check 0
+check 0
+switch 8
+check 0
+switch 5
+check 4
+99
+103
+123
+127
+check 0
+check 0
+switch 9
+check 0
+check 8
+107
+111
+115
+119
+131
+135
+139
+143
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 20
+88
+89
+90
+91
+92
+93
+94
+95
+243
+247
+251
+255
+259
+263
+267
+271
+275
+279
+283
+287
+check 0
+check 0
+check 0
+switch 0
+check 0
+switch 11
+check 4
+288
+292
+312
+316
+check 0
+check 0
+switch 8
+check 0
+switch 5
+check 4
+296
+300
+320
+324
+switch 10
+check 4
+297
+301
+321
+325
+check 0
+check 0
+switch 9
+check 0
+check 2
+345
+349
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 2
+344
+348
+check 0
+check 0
+check 0
+switch 5
+check 0
+switch 10
+check 4
+289
+293
+313
+317
+check 0
+check 0
+switch 9
+check 0
+check 8
+305
+309
+329
+333
+337
+341
+353
+357
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 8
+304
+308
+328
+332
+336
+340
+352
+356
+check 0
+check 0
+check 0
+switch 8
+check 0
+switch 5
+check 4
+96
+100
+120
+124
+switch 10
+check 4
+97
+101
+121
+125
+check 0
+check 0
+switch 9
+check 0
+check 8
+105
+109
+113
+117
+129
+133
+137
+141
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 8
+104
+108
+112
+116
+128
+132
+136
+140
+check 0
+check 0
+check 0
+switch 5
+check 0
+switch 10
+check 4
+1
+3
+5
+7
+check 0
+check 0
+switch 9
+check 0
+check 20
+33
+35
+37
+39
+41
+43
+45
+47
+241
+245
+249
+253
+257
+261
+265
+269
+273
+277
+281
+285
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 20
+32
+34
+36
+38
+40
+42
+44
+46
+240
+244
+248
+252
+256
+260
+264
+268
+272
+276
+280
+284
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 2
+check 0
+switch 7
+check 0
+switch 4
+check 0
+switch 6
+check 4
+76
+77
+78
+79
+switch 0
+check 4
+363
+367
+387
+391
+check 0
+check 0
+switch 8
+check 0
+switch 5
+check 8
+379
+383
+403
+407
+411
+415
+427
+431
+check 0
+check 0
+switch 9
+check 0
+check 2
+419
+423
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 4
+371
+375
+395
+399
+check 0
+check 0
+check 0
+switch 8
+check 0
+switch 5
+check 20
+80
+81
+82
+83
+84
+85
+86
+87
+147
+151
+155
+159
+163
+167
+171
+175
+179
+183
+187
+191
+check 0
+check 0
+switch 9
+check 0
+check 8
+203
+207
+211
+215
+227
+231
+235
+239
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 4
+195
+199
+219
+223
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+switch 6
+check 4
+8
+10
+12
+14
+switch 0
+check 4
+360
+364
+384
+388
+check 0
+check 0
+switch 8
+check 0
+switch 5
+check 8
+376
+380
+400
+404
+408
+412
+424
+428
+switch 10
+check 8
+377
+381
+401
+405
+409
+413
+425
+429
+check 0
+check 0
+switch 9
+check 0
+check 2
+417
+421
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 2
+416
+420
+check 0
+check 0
+check 0
+switch 5
+check 0
+switch 10
+check 4
+361
+365
+385
+389
+check 0
+check 0
+switch 9
+check 0
+check 4
+369
+373
+393
+397
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 4
+368
+372
+392
+396
+check 0
+check 0
+check 0
+switch 8
+check 0
+switch 5
+check 20
+16
+18
+20
+22
+24
+26
+28
+30
+144
+148
+152
+156
+160
+164
+168
+172
+176
+180
+184
+188
+switch 10
+check 20
+17
+19
+21
+23
+25
+27
+29
+31
+145
+149
+153
+157
+161
+165
+169
+173
+177
+181
+185
+189
+check 0
+check 0
+switch 9
+check 0
+check 8
+201
+205
+209
+213
+225
+229
+233
+237
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 8
+200
+204
+208
+212
+224
+228
+232
+236
+check 0
+check 0
+check 0
+switch 5
+check 0
+switch 10
+check 4
+9
+11
+13
+15
+check 0
+check 0
+switch 9
+check 0
+check 4
+193
+197
+217
+221
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 4
+192
+196
+216
+220
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+end_SG
+begin_DTG
+0
+1
+0
+0
+2
+3 0
+2 0
+end_DTG
+begin_DTG
+0
+1
+0
+0
+2
+3 0
+2 0
+end_DTG
+begin_DTG
+2
+1
+0
+1
+3 0
+1
+14
+1
+4 0
+0
+end_DTG
+begin_DTG
+1
+1
+0
+1
+2 0
+0
+end_DTG
+begin_DTG
+1
+1
+14
+1
+2 0
+0
+end_DTG
+begin_DTG
+2
+1
+1
+2
+3 0
+2 0
+1
+15
+2
+2 0
+4 0
+0
+end_DTG
+begin_DTG
+0
+1
+0
+8
+2
+2 0
+4 0
+end_DTG
+begin_DTG
+0
+1
+0
+10
+2
+2 0
+4 0
+end_DTG
+begin_DTG
+0
+2
+0
+0
+2
+3 0
+2 0
+0
+14
+2
+2 0
+4 0
+end_DTG
+begin_DTG
+0
+2
+0
+0
+2
+3 0
+2 0
+0
+14
+2
+2 0
+4 0
+end_DTG
+begin_DTG
+0
+1
+0
+10
+2
+2 0
+4 0
+end_DTG
+begin_DTG
+0
+1
+0
+10
+2
+2 0
+4 0
+end_DTG
+begin_CG
+7
+1 54
+3 72
+2 72
+4 72
+8 48
+5 72
+9 32
+11
+3 108
+2 108
+7 54
+4 108
+6 36
+0 36
+11 54
+8 52
+5 108
+10 54
+9 52
+11
+1 162
+3 432
+7 162
+4 432
+6 144
+0 144
+11 216
+8 208
+5 432
+10 216
+9 208
+7
+1 162
+2 216
+4 216
+0 144
+8 144
+5 216
+9 64
+9
+3 216
+2 216
+7 162
+6 144
+11 216
+8 64
+5 216
+10 216
+9 144
+11
+1 54
+3 108
+2 108
+7 54
+4 108
+6 36
+0 36
+11 54
+8 52
+10 54
+9 52
+9
+3 72
+2 72
+7 54
+4 72
+11 72
+8 32
+5 72
+10 72
+9 48
+11
+1 54
+3 108
+2 108
+4 108
+6 36
+0 36
+11 54
+8 52
+5 108
+10 54
+9 52
+11
+1 54
+3 224
+2 224
+7 114
+4 224
+6 112
+0 48
+11 152
+5 224
+10 152
+9 144
+11
+1 114
+3 224
+2 224
+7 54
+4 224
+6 48
+0 112
+11 72
+8 144
+5 224
+10 72
+0
+0
+end_CG

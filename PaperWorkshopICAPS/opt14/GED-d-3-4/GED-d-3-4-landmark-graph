@@ -1,0 +1,48 @@
+digraph G {
+v20  [label="Atom cw(sub3, sub6)"]
+v21  [label="Atom cw(g40, sub6)"]
+v16  [label="Atom cw(sub4, sub5)"]
+v14  [label="Atom cw(sub2, sub5)"]
+v5  [label="Atom cw(sub5, sub4)"]
+v15  [label="Atom cw(sub2, sub4)"]
+v12  [label="Atom cw(sub5, sub3)"]
+v22  [label="Atom cw(g40, sub3)"]
+v7  [label="Atom cw(sub1, sub2)"]
+v17  [label="Atom cw(sub6, sub1)"]
+v9  [label="Atom cw(sub4, g40)"]
+v0  [label="Atom cw(sub3, g40)"]
+v11  [label="Atom normal(sub6)"]
+v13  [label="Atom inverted(sub6)"]
+v2  [label="Atom normal(sub5)"]
+v10  [label="Atom normal(sub4)"]
+v6  [label="Atom inverted(sub4)"]
+v4  [label="Atom normal(sub3)"]
+v1  [label="Atom inverted(sub3)"]
+v8  [label="Atom normal(sub2)"]
+v18  [label="Atom normal(sub1)"]
+v23  [label="Atom normal(g40)"]
+v19  [label="Atom idle()"]
+v3  [label="Atom cutting()"]
+v21 -> v20
+v16 -> v14
+v15 -> v5
+v12 -> v22
+v0 -> v9
+v11 -> v13
+v10 -> v6
+v4 -> v1
+v19 -> v22
+v19 -> v9
+v19 -> v13
+v19 -> v1
+v19 -> v3
+v19 -> v5
+v19 -> v6
+v19 -> v14
+v19 -> v20
+v3 -> v22
+v3 -> v9
+v3 -> v5
+v3 -> v14
+v3 -> v20
+}

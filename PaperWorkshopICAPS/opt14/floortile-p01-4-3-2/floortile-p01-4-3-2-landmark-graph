@@ -1,0 +1,60 @@
+digraph G {
+v30  [label="Atom robot-at(robot1, tile_2-1), Atom robot-at(robot1, tile_4-1), Atom robot-at(robot2, tile_2-1), Atom robot-at(robot2, tile_4-1)"]
+v29  [label="Atom robot-at(robot1, tile_0-3), Atom robot-at(robot1, tile_2-3), Atom robot-at(robot2, tile_0-3), Atom robot-at(robot2, tile_2-3)"]
+v27  [label="Atom robot-at(robot1, tile_3-3), Atom robot-at(robot2, tile_3-3)"]
+v28  [label="Atom robot-at(robot1, tile_3-2), Atom robot-at(robot2, tile_3-2)"]
+v26  [label="Atom robot-at(robot1, tile_3-1), Atom robot-at(robot2, tile_3-1)"]
+v25  [label="<none of those>"]
+v16  [label="Atom painted(tile_2-2, white)"]
+v24  [label="Atom clear(tile_2-2)"]
+v6  [label="Atom painted(tile_3-2, black)"]
+v23  [label="Atom clear(tile_3-2)"]
+v5  [label="Atom painted(tile_1-2, black)"]
+v22  [label="Atom clear(tile_1-2)"]
+v13  [label="Atom painted(tile_2-3, black)"]
+v21  [label="Atom clear(tile_2-3)"]
+v3  [label="Atom painted(tile_3-3, white)"]
+v20  [label="Atom clear(tile_3-3)"]
+v1  [label="Atom painted(tile_2-1, black)"]
+v19  [label="Atom clear(tile_2-1)"]
+v2  [label="Atom painted(tile_3-1, white)"]
+v18  [label="Atom clear(tile_3-1)"]
+v4  [label="Atom painted(tile_1-3, white)"]
+v17  [label="Atom clear(tile_1-3)"]
+v11  [label="Atom painted(tile_1-1, white)"]
+v9  [label="Atom clear(tile_1-1)"]
+v14  [label="Atom painted(tile_4-2, white)"]
+v8  [label="Atom clear(tile_4-2)"]
+v12  [label="Atom painted(tile_4-3, black)"]
+v7  [label="Atom clear(tile_4-3)"]
+v15  [label="Atom painted(tile_4-1, black)"]
+v0  [label="Atom clear(tile_4-1)"]
+v10  [label="Atom robot-at(robot2, tile_2-2)"]
+v30 -> v2
+v29 -> v4
+v27 -> v12
+v28 -> v14
+v26 -> v15
+v25 -> v24
+v25 -> v16
+v24 -> v16
+v23 -> v14
+v23 -> v28
+v23 -> v6
+v22 -> v5
+v21 -> v13
+v20 -> v12
+v20 -> v3
+v20 -> v27
+v19 -> v1
+v18 -> v15
+v18 -> v26
+v18 -> v2
+v17 -> v4
+v9 -> v11
+v8 -> v14
+v7 -> v12
+v0 -> v15
+v10 -> v24
+v10 -> v16
+}

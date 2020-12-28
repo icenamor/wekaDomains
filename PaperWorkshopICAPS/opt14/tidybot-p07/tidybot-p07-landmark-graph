@@ -1,0 +1,146 @@
+digraph G {
+v2  [label="Atom object-pos(object3, x1, y5), Atom object-pos(object3, x5, y4)"]
+v1  [label="Atom object-pos(object2, x1, y5), Atom object-pos(object2, x5, y3)"]
+v0  [label="Atom object-pos(object1, x1, y5), Atom object-pos(object1, x4, y4)"]
+v18  [label="Atom object-pos(object0, x1, y5), Atom object-pos(object0, x4, y3)"]
+v12  [label="NegatedAtom object-done(object3)"]
+v10  [label="Atom object-done(object3)"]
+v25  [label="NegatedAtom object-done(object2)"]
+v13  [label="Atom object-done(object2)"]
+v14  [label="NegatedAtom object-done(object1)"]
+v26  [label="Atom object-done(object1)"]
+v24  [label="NegatedAtom object-done(object0)"]
+v4  [label="Atom object-done(object0)"]
+v21  [label="Atom holding(pr2, object3)"]
+v8  [label="Atom holding(pr2, object2)"]
+v28  [label="Atom holding(pr2, object1)"]
+v17  [label="Atom holding(pr2, object0)"]
+v9  [label="Atom gripper-empty(pr2)"]
+v7  [label="NegatedAtom base-obstacle(x2, y0)"]
+v16  [label="NegatedAtom base-obstacle(x1, y0)"]
+v20  [label="Atom base-pos(pr2, x2, y0)"]
+v11  [label="Atom base-pos(pr2, x1, y0)"]
+v5  [label="Atom base-pos(pr2, x0, y0)"]
+v3  [label="Atom not-pushing(pr2)"]
+v29  [label="Atom gripper-rel(pr2, xrel0, yrel0)"]
+v27  [label="Atom object-pos(object3, x4, y4)"]
+v15  [label="Atom object-pos(object1, x5, y4)"]
+v6  [label="Atom object-pos(object0, x5, y3)"]
+v19  [label="Atom object-pos(object2, x1, y6)"]
+v23  [label="NegatedAtom parked(pr2)"]
+v22  [label="Atom parked(pr2)"]
+v2 -> v10
+v1 -> v13
+v0 -> v26
+v18 -> v4
+v12 -> v21
+v12 -> v10
+v25 -> v8
+v25 -> v13
+v14 -> v28
+v14 -> v26
+v24 -> v4
+v24 -> v17
+v21 -> v2
+v21 -> v10
+v8 -> v1
+v8 -> v13
+v28 -> v0
+v28 -> v26
+v17 -> v4
+v17 -> v18
+v9 -> v8
+v9 -> v4
+v9 -> v28
+v9 -> v21
+v9 -> v17
+v9 -> v10
+v9 -> v13
+v9 -> v26
+v7 -> v8
+v7 -> v4
+v7 -> v28
+v7 -> v20
+v7 -> v21
+v7 -> v17
+v7 -> v10
+v7 -> v13
+v7 -> v26
+v16 -> v4
+v16 -> v20
+v16 -> v11
+v16 -> v10
+v16 -> v13
+v16 -> v26
+v20 -> v8
+v20 -> v4
+v20 -> v28
+v20 -> v21
+v20 -> v17
+v20 -> v10
+v20 -> v13
+v20 -> v26
+v11 -> v8
+v11 -> v4
+v11 -> v28
+v11 -> v20
+v11 -> v21
+v11 -> v17
+v11 -> v10
+v11 -> v13
+v11 -> v26
+v5 -> v4
+v5 -> v20
+v5 -> v11
+v5 -> v10
+v5 -> v13
+v5 -> v26
+v3 -> v8
+v3 -> v4
+v3 -> v28
+v3 -> v20
+v3 -> v21
+v3 -> v17
+v3 -> v11
+v3 -> v10
+v3 -> v13
+v3 -> v26
+v29 -> v4
+v29 -> v23
+v29 -> v11
+v29 -> v10
+v29 -> v13
+v29 -> v26
+v27 -> v21
+v27 -> v10
+v15 -> v28
+v15 -> v26
+v6 -> v4
+v6 -> v17
+v19 -> v8
+v19 -> v13
+v23 -> v8
+v23 -> v4
+v23 -> v28
+v23 -> v20
+v23 -> v21
+v23 -> v17
+v23 -> v11
+v23 -> v10
+v23 -> v13
+v23 -> v26
+v22 -> v2
+v22 -> v8
+v22 -> v1
+v22 -> v0
+v22 -> v4
+v22 -> v28
+v22 -> v18
+v22 -> v23
+v22 -> v21
+v22 -> v17
+v22 -> v11
+v22 -> v10
+v22 -> v13
+v22 -> v26
+}

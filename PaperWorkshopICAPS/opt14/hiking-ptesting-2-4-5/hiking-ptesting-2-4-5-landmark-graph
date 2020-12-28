@@ -1,0 +1,116 @@
+digraph G {
+v26  [label="Atom at_tent(tent0, place4), Atom at_tent(tent1, place4)"]
+v27  [label="Atom at_tent(tent0, place3), Atom at_tent(tent1, place3)"]
+v29  [label="Atom at_tent(tent0, place2), Atom at_tent(tent1, place2)"]
+v28  [label="Atom at_tent(tent0, place1), Atom at_tent(tent1, place1)"]
+v9  [label="Atom walked(couple1, place4)"]
+v25  [label="Atom walked(couple1, place3)"]
+v24  [label="Atom walked(couple1, place2)"]
+v23  [label="Atom walked(couple1, place1)"]
+v22  [label="Atom walked(couple1, place0)"]
+v20  [label="Atom walked(couple0, place4)"]
+v16  [label="Atom walked(couple0, place3)"]
+v12  [label="Atom walked(couple0, place2)"]
+v11  [label="Atom walked(couple0, place1)"]
+v10  [label="Atom walked(couple0, place0)"]
+v6  [label="Atom at_person(guy1, place3)"]
+v21  [label="Atom at_person(guy1, place2)"]
+v0  [label="Atom at_person(guy1, place1)"]
+v8  [label="Atom at_person(guy1, place0)"]
+v15  [label="Atom at_person(girl1, place3)"]
+v17  [label="Atom at_person(girl1, place2)"]
+v19  [label="Atom at_person(girl1, place1)"]
+v18  [label="Atom at_person(girl1, place0)"]
+v13  [label="Atom at_person(guy0, place3)"]
+v14  [label="Atom at_person(guy0, place2)"]
+v5  [label="Atom at_person(guy0, place1)"]
+v4  [label="Atom at_person(guy0, place0)"]
+v3  [label="Atom at_person(girl0, place3)"]
+v7  [label="Atom at_person(girl0, place2)"]
+v1  [label="Atom at_person(girl0, place1)"]
+v2  [label="Atom at_person(girl0, place0)"]
+v26 -> v9
+v26 -> v20
+v27 -> v9
+v27 -> v16
+v27 -> v25
+v27 -> v20
+v29 -> v9
+v29 -> v16
+v29 -> v24
+v29 -> v12
+v29 -> v25
+v29 -> v20
+v28 -> v23
+v28 -> v9
+v28 -> v16
+v28 -> v24
+v28 -> v11
+v28 -> v12
+v28 -> v25
+v28 -> v20
+v25 -> v9
+v24 -> v9
+v24 -> v25
+v23 -> v9
+v23 -> v24
+v23 -> v25
+v22 -> v23
+v22 -> v9
+v22 -> v24
+v22 -> v25
+v16 -> v20
+v12 -> v16
+v12 -> v20
+v11 -> v16
+v11 -> v12
+v11 -> v20
+v10 -> v16
+v10 -> v11
+v10 -> v12
+v10 -> v20
+v6 -> v9
+v21 -> v9
+v21 -> v25
+v0 -> v9
+v0 -> v24
+v0 -> v25
+v8 -> v23
+v8 -> v6
+v8 -> v9
+v8 -> v21
+v8 -> v0
+v15 -> v9
+v17 -> v9
+v17 -> v25
+v19 -> v9
+v19 -> v24
+v19 -> v25
+v18 -> v23
+v18 -> v9
+v18 -> v17
+v18 -> v19
+v18 -> v15
+v13 -> v20
+v14 -> v16
+v14 -> v20
+v5 -> v16
+v5 -> v12
+v5 -> v20
+v4 -> v5
+v4 -> v11
+v4 -> v14
+v4 -> v13
+v4 -> v20
+v3 -> v20
+v7 -> v16
+v7 -> v20
+v1 -> v16
+v1 -> v12
+v1 -> v20
+v2 -> v1
+v2 -> v3
+v2 -> v11
+v2 -> v7
+v2 -> v20
+}

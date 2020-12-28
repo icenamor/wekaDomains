@@ -1,0 +1,32 @@
+digraph G {
+v14  [label="Atom at(tray2, table3), Atom at(tray1, table3)"]
+v15  [label="Atom at(tray2, table1), Atom at(tray1, table1)"]
+v6  [label="NegatedAtom served(child4)"]
+v13  [label="Atom served(child4)"]
+v5  [label="NegatedAtom served(child7)"]
+v11  [label="Atom served(child7)"]
+v4  [label="NegatedAtom served(child1)"]
+v12  [label="Atom served(child1)"]
+v3  [label="NegatedAtom served(child2)"]
+v9  [label="Atom served(child2)"]
+v1  [label="NegatedAtom served(child3)"]
+v10  [label="Atom served(child3)"]
+v0  [label="NegatedAtom served(child5)"]
+v7  [label="Atom served(child5)"]
+v2  [label="NegatedAtom served(child6)"]
+v8  [label="Atom served(child6)"]
+v14 -> v13
+v14 -> v8
+v15 -> v9
+v15 -> v10
+v15 -> v11
+v15 -> v7
+v15 -> v12
+v6 -> v13
+v5 -> v11
+v4 -> v12
+v3 -> v9
+v1 -> v10
+v0 -> v7
+v2 -> v8
+}

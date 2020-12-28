@@ -1,0 +1,105 @@
+digraph G {
+v35  [label="NegatedAtom have-photo(l4)"]
+v6  [label="Atom have-photo(l4)"]
+v17  [label="Atom decompressing(d0)"]
+v28  [label="Atom available(d0)"]
+v27  [label="Atom at-surface(d0)"]
+v26  [label="Atom at-diver(d0, l0)"]
+v19  [label="Atom decompressing(d4)"]
+v25  [label="Atom available(d4)"]
+v14  [label="Atom at-surface(d4)"]
+v13  [label="Atom at-diver(d4, l0)"]
+v2  [label="Atom decompressing(d5)"]
+v12  [label="Atom available(d5)"]
+v32  [label="Atom at-surface(d5)"]
+v31  [label="Atom at-diver(d5, l0)"]
+v18  [label="Atom decompressing(d1)"]
+v30  [label="Atom available(d1)"]
+v29  [label="Atom at-surface(d1)"]
+v34  [label="Atom at-diver(d1, l0)"]
+v24  [label="Atom decompressing(d7)"]
+v33  [label="Atom available(d7)"]
+v23  [label="Atom at-surface(d7)"]
+v22  [label="Atom at-diver(d7, l0)"]
+v3  [label="Atom decompressing(d3)"]
+v11  [label="Atom available(d3)"]
+v10  [label="Atom at-surface(d3)"]
+v5  [label="Atom at-diver(d3, l0)"]
+v1  [label="Atom decompressing(d6)"]
+v4  [label="Atom available(d6)"]
+v8  [label="Atom at-surface(d6)"]
+v7  [label="Atom at-diver(d6, l0)"]
+v9  [label="Atom decompressing(d2)"]
+v16  [label="Atom available(d2)"]
+v15  [label="Atom at-surface(d2)"]
+v21  [label="Atom at-diver(d2, l0)"]
+v20  [label="Atom in-storage(t0)"]
+v0  [label="NegatedAtom in-water()"]
+v35 -> v6
+v28 -> v17
+v28 -> v27
+v28 -> v26
+v27 -> v17
+v27 -> v26
+v26 -> v17
+v25 -> v19
+v25 -> v14
+v25 -> v13
+v14 -> v19
+v14 -> v13
+v13 -> v19
+v12 -> v32
+v12 -> v2
+v12 -> v31
+v32 -> v2
+v32 -> v31
+v31 -> v2
+v30 -> v34
+v30 -> v18
+v30 -> v29
+v29 -> v34
+v29 -> v18
+v34 -> v18
+v33 -> v24
+v33 -> v23
+v33 -> v22
+v23 -> v24
+v23 -> v22
+v22 -> v24
+v11 -> v5
+v11 -> v3
+v11 -> v10
+v10 -> v5
+v10 -> v3
+v5 -> v3
+v4 -> v8
+v4 -> v7
+v4 -> v1
+v8 -> v7
+v8 -> v1
+v7 -> v1
+v16 -> v9
+v16 -> v21
+v16 -> v15
+v15 -> v9
+v15 -> v21
+v21 -> v9
+v20 -> v6
+v0 -> v24
+v0 -> v9
+v0 -> v23
+v0 -> v8
+v0 -> v6
+v0 -> v19
+v0 -> v18
+v0 -> v3
+v0 -> v32
+v0 -> v17
+v0 -> v2
+v0 -> v1
+v0 -> v15
+v0 -> v29
+v0 -> v14
+v0 -> v27
+v0 -> v10
+}

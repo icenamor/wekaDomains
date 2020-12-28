@@ -1,0 +1,53 @@
+digraph G {
+v25  [label="Atom at(tray3, table3), Atom at(tray2, table3), Atom at(tray1, table3)"]
+v24  [label="Atom at(tray3, table2), Atom at(tray2, table2), Atom at(tray1, table2)"]
+v26  [label="Atom at(tray3, table1), Atom at(tray2, table1), Atom at(tray1, table1)"]
+v23  [label="NegatedAtom served(child1)"]
+v11  [label="Atom served(child1)"]
+v22  [label="NegatedAtom served(child12)"]
+v10  [label="Atom served(child12)"]
+v21  [label="NegatedAtom served(child3)"]
+v9  [label="Atom served(child3)"]
+v20  [label="NegatedAtom served(child5)"]
+v8  [label="Atom served(child5)"]
+v19  [label="NegatedAtom served(child10)"]
+v7  [label="Atom served(child10)"]
+v18  [label="NegatedAtom served(child11)"]
+v6  [label="Atom served(child11)"]
+v13  [label="NegatedAtom served(child2)"]
+v2  [label="Atom served(child2)"]
+v17  [label="NegatedAtom served(child4)"]
+v4  [label="Atom served(child4)"]
+v12  [label="NegatedAtom served(child6)"]
+v1  [label="Atom served(child6)"]
+v15  [label="NegatedAtom served(child7)"]
+v3  [label="Atom served(child7)"]
+v16  [label="NegatedAtom served(child8)"]
+v0  [label="Atom served(child8)"]
+v14  [label="NegatedAtom served(child9)"]
+v5  [label="Atom served(child9)"]
+v25 -> v1
+v25 -> v7
+v25 -> v8
+v25 -> v3
+v24 -> v0
+v24 -> v11
+v24 -> v4
+v26 -> v2
+v26 -> v6
+v26 -> v9
+v26 -> v10
+v26 -> v5
+v23 -> v11
+v22 -> v10
+v21 -> v9
+v20 -> v8
+v19 -> v7
+v18 -> v6
+v13 -> v2
+v17 -> v4
+v12 -> v1
+v15 -> v3
+v16 -> v0
+v14 -> v5
+}

@@ -1,0 +1,127 @@
+digraph G {
+v9  [label="Atom prop_path(id_bmfile, somepath), Atom prop_path(id_bnfile, somepath)"]
+v8  [label="Atom prop_host(id_bmfile, id_zhost), Atom prop_host(id_bnfile, id_zhost)"]
+v30  [label="Atom prop_src_host(id_bkshare, id_shost), Atom prop_src_host(id_blshare, id_shost)"]
+v11  [label="Atom prop_share_path(id_bkshare, whatever), Atom prop_share_path(id_blshare, whatever)"]
+v10  [label="Atom prop_dest_host(id_bkshare, id_zhost), Atom prop_dest_host(id_blshare, id_zhost)"]
+v12  [label="Atom knows(id_bkshare), Atom knows(id_blshare)"]
+v21  [label="NegatedAtom prop_host(id_birat, id_zhost)"]
+v25  [label="Atom prop_host(id_birat, id_zhost)"]
+v0  [label="NegatedAtom knows_property(id_adomain, pwindows_domain)"]
+v20  [label="Atom knows_property(id_adomain, pwindows_domain)"]
+v19  [label="NegatedAtom created(id_birat)"]
+v24  [label="NegatedAtom knows(id_adomain)"]
+v18  [label="Atom knows(id_adomain)"]
+v7  [label="NegatedAtom knows_property(id_cdomainuser, pusername)"]
+v17  [label="Atom knows_property(id_cdomainuser, pusername)"]
+v6  [label="NegatedAtom knows_property(id_cdomainuser, pdomain)"]
+v16  [label="Atom knows_property(id_cdomainuser, pdomain)"]
+v5  [label="NegatedAtom knows(id_cdomainuser)"]
+v15  [label="Atom knows(id_cdomainuser)"]
+v23  [label="NegatedAtom knows_property(id_zhost, pdomain_user_admins)"]
+v14  [label="Atom knows_property(id_zhost, pdomain_user_admins)"]
+v4  [label="NegatedAtom knows_property(id_zhost, pfqdn)"]
+v13  [label="Atom knows_property(id_zhost, pfqdn)"]
+v22  [label="NegatedAtom knows(id_zhost)"]
+v28  [label="Atom knows(id_zhost)"]
+v3  [label="NegatedAtom knows_property(id_ddomaincredential, puser)"]
+v27  [label="Atom knows_property(id_ddomaincredential, puser)"]
+v2  [label="NegatedAtom knows_property(id_ddomaincredential, ppassword)"]
+v26  [label="Atom knows_property(id_ddomaincredential, ppassword)"]
+v1  [label="NegatedAtom knows(id_ddomaincredential)"]
+v29  [label="Atom knows(id_ddomaincredential)"]
+v9 -> v25
+v8 -> v25
+v30 -> v9
+v30 -> v25
+v30 -> v8
+v11 -> v9
+v11 -> v25
+v11 -> v8
+v10 -> v9
+v10 -> v25
+v10 -> v8
+v12 -> v9
+v12 -> v25
+v12 -> v8
+v21 -> v25
+v0 -> v20
+v20 -> v11
+v20 -> v13
+v20 -> v25
+v20 -> v30
+v20 -> v12
+v20 -> v28
+v20 -> v10
+v20 -> v14
+v19 -> v25
+v24 -> v18
+v18 -> v11
+v18 -> v15
+v18 -> v13
+v18 -> v27
+v18 -> v26
+v18 -> v25
+v18 -> v16
+v18 -> v30
+v18 -> v12
+v18 -> v28
+v18 -> v10
+v18 -> v14
+v18 -> v29
+v18 -> v17
+v7 -> v17
+v17 -> v11
+v17 -> v25
+v17 -> v30
+v17 -> v12
+v17 -> v10
+v6 -> v16
+v16 -> v11
+v16 -> v25
+v16 -> v30
+v16 -> v12
+v16 -> v10
+v5 -> v15
+v15 -> v11
+v15 -> v25
+v15 -> v30
+v15 -> v12
+v15 -> v10
+v23 -> v14
+v14 -> v25
+v4 -> v13
+v13 -> v11
+v13 -> v25
+v13 -> v30
+v13 -> v12
+v13 -> v10
+v13 -> v14
+v22 -> v28
+v28 -> v11
+v28 -> v9
+v28 -> v25
+v28 -> v30
+v28 -> v12
+v28 -> v10
+v28 -> v8
+v28 -> v14
+v3 -> v27
+v27 -> v11
+v27 -> v25
+v27 -> v30
+v27 -> v12
+v27 -> v10
+v2 -> v26
+v26 -> v11
+v26 -> v25
+v26 -> v30
+v26 -> v12
+v26 -> v10
+v1 -> v29
+v29 -> v11
+v29 -> v25
+v29 -> v30
+v29 -> v12
+v29 -> v10
+}

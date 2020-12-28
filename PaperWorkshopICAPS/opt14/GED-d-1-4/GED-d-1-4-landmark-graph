@@ -1,0 +1,12 @@
+digraph G {
+v3  [label="Atom cw(sub2, sub3)"]
+v2  [label="Atom cw(sub1, sub2)"]
+v1  [label="Atom cw(sub3, sub1)"]
+v7  [label="Atom normal(sub3)"]
+v5  [label="Atom inverted(sub3)"]
+v4  [label="Atom normal(sub2)"]
+v0  [label="Atom normal(sub1)"]
+v6  [label="Atom idle()"]
+v7 -> v5
+v6 -> v5
+}

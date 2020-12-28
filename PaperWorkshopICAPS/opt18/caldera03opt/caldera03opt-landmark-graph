@@ -1,0 +1,83 @@
+digraph G {
+v16  [label="Atom prop_host(id_befile, id_rhost), Atom prop_host(id_bffile, id_rhost), Atom prop_host(id_barat, id_khost), Atom prop_host(id_bbrat, id_khost)"]
+v21  [label="Atom knows(id_ddomaincredential), Atom knows(id_hdomaincredential), Atom knows(id_cdomainuser), Atom knows(id_gdomainuser)"]
+v15  [label="Atom prop_path(id_befile, somepath), Atom prop_path(id_bffile, somepath)"]
+v20  [label="Atom prop_share_path(id_bgshare, whatever), Atom prop_share_path(id_bhshare, whatever)"]
+v18  [label="Atom knows(id_bgshare), Atom knows(id_bhshare)"]
+v19  [label="Atom prop_src_host(id_bgshare, id_khost), Atom prop_src_host(id_bhshare, id_khost)"]
+v17  [label="Atom prop_dest_host(id_bgshare, id_rhost), Atom prop_dest_host(id_bhshare, id_rhost)"]
+v7  [label="NegatedAtom prop_host(id_bbrat, id_rhost)"]
+v1  [label="Atom prop_host(id_bbrat, id_rhost)"]
+v2  [label="NegatedAtom created(id_bbrat)"]
+v11  [label="NegatedAtom knows_property(id_adomain, pwindows_domain)"]
+v0  [label="Atom knows_property(id_adomain, pwindows_domain)"]
+v14  [label="NegatedAtom knows(id_gdomainuser)"]
+v13  [label="NegatedAtom knows(id_cdomainuser)"]
+v10  [label="NegatedAtom knows(id_adomain)"]
+v4  [label="Atom knows(id_adomain)"]
+v9  [label="NegatedAtom knows_property(id_rhost, pdomain_user_admins)"]
+v3  [label="Atom knows_property(id_rhost, pdomain_user_admins)"]
+v12  [label="NegatedAtom knows_property(id_rhost, pfqdn)"]
+v5  [label="Atom knows_property(id_rhost, pfqdn)"]
+v8  [label="NegatedAtom knows(id_rhost)"]
+v6  [label="Atom knows(id_rhost)"]
+v16 -> v1
+v21 -> v1
+v21 -> v20
+v21 -> v17
+v21 -> v19
+v15 -> v1
+v20 -> v16
+v20 -> v15
+v20 -> v1
+v18 -> v16
+v18 -> v15
+v18 -> v1
+v19 -> v16
+v19 -> v15
+v19 -> v1
+v17 -> v16
+v17 -> v15
+v17 -> v1
+v7 -> v1
+v2 -> v1
+v11 -> v0
+v0 -> v3
+v0 -> v1
+v0 -> v20
+v0 -> v18
+v0 -> v6
+v0 -> v17
+v0 -> v5
+v0 -> v19
+v14 -> v21
+v13 -> v21
+v10 -> v4
+v4 -> v3
+v4 -> v21
+v4 -> v1
+v4 -> v20
+v4 -> v18
+v4 -> v6
+v4 -> v17
+v4 -> v5
+v4 -> v19
+v9 -> v3
+v3 -> v1
+v12 -> v5
+v5 -> v3
+v5 -> v1
+v5 -> v20
+v5 -> v18
+v5 -> v17
+v5 -> v19
+v8 -> v6
+v6 -> v3
+v6 -> v16
+v6 -> v15
+v6 -> v1
+v6 -> v20
+v6 -> v18
+v6 -> v17
+v6 -> v19
+}

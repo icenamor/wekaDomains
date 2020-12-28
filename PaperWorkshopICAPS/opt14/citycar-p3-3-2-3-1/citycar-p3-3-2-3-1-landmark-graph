@@ -1,0 +1,27 @@
+digraph G {
+v5  [label="NegatedAtom arrived(car0, junction2-2)"]
+v0  [label="Atom arrived(car0, junction2-2)"]
+v4  [label="NegatedAtom arrived(car1, junction2-2)"]
+v2  [label="Atom arrived(car1, junction2-2)"]
+v8  [label="Atom clear(junction0-2)"]
+v12  [label="Atom at_car_jun(car1, junction0-2)"]
+v10  [label="Atom at_car_jun(car0, junction0-2)"]
+v6  [label="NegatedAtom at_car_jun(car1, junction2-2)"]
+v3  [label="Atom at_car_jun(car1, junction2-2)"]
+v7  [label="NegatedAtom at_car_jun(car0, junction2-2)"]
+v1  [label="Atom at_car_jun(car0, junction2-2)"]
+v9  [label="Atom starting(car1, garage2)"]
+v11  [label="Atom starting(car0, garage2)"]
+v5 -> v0
+v4 -> v2
+v8 -> v2
+v8 -> v0
+v12 -> v2
+v10 -> v0
+v6 -> v3
+v3 -> v2
+v7 -> v1
+v1 -> v0
+v9 -> v2
+v11 -> v0
+}

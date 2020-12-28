@@ -1,0 +1,33 @@
+digraph G {
+v14  [label="Atom in_place(road2), Atom in_place(road3), Atom in_place(road1), Atom in_place(road0)"]
+v5  [label="NegatedAtom arrived(car0, junction1-0)"]
+v2  [label="Atom arrived(car0, junction1-0)"]
+v4  [label="NegatedAtom arrived(car1, junction1-1)"]
+v1  [label="Atom arrived(car1, junction1-1)"]
+v6  [label="NegatedAtom at_car_jun(car1, junction1-1)"]
+v0  [label="Atom at_car_jun(car1, junction1-1)"]
+v11  [label="Atom clear(junction0-1)"]
+v10  [label="Atom at_car_jun(car1, junction0-0)"]
+v8  [label="Atom clear(junction0-0)"]
+v12  [label="Atom at_car_jun(car0, junction0-1)"]
+v7  [label="NegatedAtom at_car_jun(car0, junction1-0)"]
+v3  [label="Atom at_car_jun(car0, junction1-0)"]
+v9  [label="Atom starting(car1, garage0)"]
+v13  [label="Atom starting(car0, garage1)"]
+v14 -> v1
+v14 -> v2
+v14 -> v0
+v14 -> v3
+v5 -> v2
+v4 -> v1
+v6 -> v0
+v0 -> v1
+v11 -> v2
+v10 -> v1
+v8 -> v1
+v12 -> v2
+v7 -> v3
+v3 -> v2
+v9 -> v1
+v13 -> v2
+}

@@ -1,0 +1,17564 @@
+begin_version
+3
+end_version
+begin_metric
+1
+end_metric
+114
+begin_variable
+var68
+-1
+2
+Atom do-creds_1_---_id_yrat_---_id_khost_---_id_adomain-condeffs()
+<none of those>
+end_variable
+begin_variable
+var13
+-1
+2
+Atom do-smb_copy_5_---_id_bbrat_---_id_rhost_---_id_befile-condeffs()
+<none of those>
+end_variable
+begin_variable
+var25
+-1
+2
+Atom do-smb_copy_5_---_id_barat_---_id_khost_---_id_befile-condeffs()
+<none of those>
+end_variable
+begin_variable
+var45
+-1
+2
+Atom do-smb_copy_5_---_id_barat_---_id_khost_---_id_bffile-condeffs()
+<none of those>
+end_variable
+begin_variable
+var53
+-1
+2
+Atom do-smb_copy_5_---_id_bbrat_---_id_khost_---_id_bffile-condeffs()
+<none of those>
+end_variable
+begin_variable
+var69
+-1
+2
+Atom do-smb_copy_5_---_id_bbrat_---_id_khost_---_id_befile-condeffs()
+<none of those>
+end_variable
+begin_variable
+var83
+-1
+2
+Atom do-smb_copy_5_---_id_barat_---_id_rhost_---_id_bffile-condeffs()
+<none of those>
+end_variable
+begin_variable
+var94
+-1
+2
+Atom do-smb_copy_5_---_id_barat_---_id_rhost_---_id_befile-condeffs()
+<none of those>
+end_variable
+begin_variable
+var118
+-1
+2
+Atom do-smb_copy_5_---_id_bbrat_---_id_rhost_---_id_bffile-condeffs()
+<none of those>
+end_variable
+begin_variable
+var8
+-1
+2
+Atom do-creds_1_---_id_yrat_---_id_rhost_---_id_adomain-condeffs()
+<none of those>
+end_variable
+begin_variable
+var87
+-1
+2
+Atom prop_host-id_bffile-id_khost()
+<none of those>
+end_variable
+begin_variable
+var131
+-1
+2
+Atom prop_host-id_befile-id_khost()
+<none of those>
+end_variable
+begin_variable
+var71
+-1
+2
+Atom prop_host-id_befile-id_rhost()
+<none of those>
+end_variable
+begin_variable
+var127
+-1
+2
+Atom prop_host-id_bffile-id_rhost()
+<none of those>
+end_variable
+begin_variable
+var21
+-1
+2
+Atom do-creds_1_---_id_bbrat_---_id_khost_---_id_adomain-condeffs()
+<none of those>
+end_variable
+begin_variable
+var116
+-1
+2
+Atom do-creds_1_---_id_barat_---_id_khost_---_id_adomain-condeffs()
+<none of those>
+end_variable
+begin_variable
+var120
+-1
+2
+Atom do-creds_1_---_id_barat_---_id_rhost_---_id_adomain-condeffs()
+<none of those>
+end_variable
+begin_variable
+var130
+-1
+2
+Atom do-creds_1_---_id_bbrat_---_id_rhost_---_id_adomain-condeffs()
+<none of those>
+end_variable
+begin_variable
+var47
+-1
+2
+Atom knows_property-id_khost-pdomain_user_admins()
+<none of those>
+end_variable
+begin_variable
+var61
+-1
+2
+Atom knows_property-id_rhost-pfqdn()
+<none of those>
+end_variable
+begin_variable
+var113
+-1
+2
+Atom knows-id_rhost()
+<none of those>
+end_variable
+begin_variable
+var7
+-1
+2
+Atom knows_property-id_ddomaincredential-ppassword()
+<none of those>
+end_variable
+begin_variable
+var12
+-1
+2
+Atom knows_property-id_hdomaincredential-ppassword()
+<none of those>
+end_variable
+begin_variable
+var19
+-1
+2
+Atom knows_property-id_ddomaincredential-puser()
+<none of those>
+end_variable
+begin_variable
+var24
+-1
+2
+Atom knows-id_hdomaincredential()
+<none of those>
+end_variable
+begin_variable
+var43
+-1
+2
+Atom knows-id_ddomaincredential()
+<none of those>
+end_variable
+begin_variable
+var75
+-1
+2
+Atom knows_property-id_hdomaincredential-puser()
+<none of those>
+end_variable
+begin_variable
+var90
+-1
+2
+Atom knows_property-id_rhost-pdomain_user_admins()
+<none of those>
+end_variable
+begin_variable
+var29
+-1
+2
+Atom prop_host-id_barat-id_rhost()
+<none of those>
+end_variable
+begin_variable
+var49
+-1
+2
+Atom prop_host-id_bbrat-id_khost()
+<none of those>
+end_variable
+begin_variable
+var70
+-1
+2
+Atom prop_host-id_barat-id_khost()
+<none of those>
+end_variable
+begin_variable
+var111
+-1
+2
+Atom prop_host-id_yrat-id_rhost()
+<none of those>
+end_variable
+begin_variable
+var65
+-1
+2
+Atom done-2()
+<none of those>
+end_variable
+begin_variable
+var4
+-1
+2
+Atom knows-id_befile()
+<none of those>
+end_variable
+begin_variable
+var27
+-1
+2
+Atom not-created-id_befile()
+<none of those>
+end_variable
+begin_variable
+var42
+-1
+2
+Atom prop_path-id_befile-somepath()
+<none of those>
+end_variable
+begin_variable
+var107
+-1
+2
+Atom knows_property-id_befile-ppath()
+<none of those>
+end_variable
+begin_variable
+var124
+-1
+2
+Atom knows_property-id_befile-phost()
+<none of those>
+end_variable
+begin_variable
+var51
+-1
+2
+Atom prop_path-id_bffile-somepath()
+<none of those>
+end_variable
+begin_variable
+var88
+-1
+2
+Atom knows_property-id_bffile-phost()
+<none of those>
+end_variable
+begin_variable
+var102
+-1
+2
+Atom knows-id_bffile()
+<none of those>
+end_variable
+begin_variable
+var117
+-1
+2
+Atom not-created-id_bffile()
+<none of those>
+end_variable
+begin_variable
+var140
+-1
+2
+Atom knows_property-id_bffile-ppath()
+<none of those>
+end_variable
+begin_variable
+var89
+-1
+2
+Atom done-1()
+<none of those>
+end_variable
+begin_variable
+var41
+-1
+2
+Atom done-0()
+<none of those>
+end_variable
+begin_variable
+var5
+-1
+2
+Atom prop_dest_host-id_bgshare-id_khost()
+<none of those>
+end_variable
+begin_variable
+var17
+-1
+2
+Atom prop_dest_host-id_bhshare-id_khost()
+<none of those>
+end_variable
+begin_variable
+var22
+-1
+2
+Atom prop_dest_host-id_bhshare-id_rhost()
+<none of those>
+end_variable
+begin_variable
+var34
+-1
+2
+Atom prop_dest_host-id_bgshare-id_rhost()
+<none of those>
+end_variable
+begin_variable
+var26
+-1
+2
+Atom prop_src_host-id_bhshare-id_rhost()
+<none of those>
+end_variable
+begin_variable
+var67
+-1
+2
+Atom prop_src_host-id_bhshare-id_khost()
+<none of those>
+end_variable
+begin_variable
+var64
+-1
+2
+Atom prop_src_host-id_bgshare-id_khost()
+<none of those>
+end_variable
+begin_variable
+var92
+-1
+2
+Atom prop_src_host-id_bgshare-id_rhost()
+<none of those>
+end_variable
+begin_variable
+var6
+-1
+2
+Atom knows_property-id_bbrat-phost()
+<none of those>
+end_variable
+begin_variable
+var101
+-1
+2
+Atom knows-id_adomain()
+<none of those>
+end_variable
+begin_variable
+var72
+-1
+2
+Atom not-created-id_yrat()
+<none of those>
+end_variable
+begin_variable
+var28
+-1
+2
+Atom knows_property-id_bbrat-pexecutable()
+<none of those>
+end_variable
+begin_variable
+var54
+-1
+2
+Atom prop_executable-id_bbrat-somepath()
+<none of those>
+end_variable
+begin_variable
+var66
+-1
+2
+Atom prop_executable-id_barat-somepath()
+<none of those>
+end_variable
+begin_variable
+var81
+-1
+2
+Atom knows-id_bbrat()
+<none of those>
+end_variable
+begin_variable
+var50
+-1
+2
+Atom knows_property-id_cdomainuser-pusername()
+<none of those>
+end_variable
+begin_variable
+var82
+-1
+2
+Atom knows-id_gdomainuser()
+<none of those>
+end_variable
+begin_variable
+var84
+-1
+2
+Atom knows_property-id_cdomainuser-pdomain()
+<none of those>
+end_variable
+begin_variable
+var115
+-1
+2
+Atom knows_property-id_gdomainuser-pusername()
+<none of those>
+end_variable
+begin_variable
+var133
+-1
+2
+Atom knows_property-id_gdomainuser-pdomain()
+<none of those>
+end_variable
+begin_variable
+var20
+-1
+2
+Atom arg_4-id_befile()
+<none of those>
+end_variable
+begin_variable
+var37
+-1
+2
+Atom do_8_3-()
+<none of those>
+end_variable
+begin_variable
+var63
+-1
+2
+Atom arg_8-id_adomain()
+<none of those>
+end_variable
+begin_variable
+var31
+-1
+2
+Atom arg_4-id_bffile()
+<none of those>
+end_variable
+begin_variable
+var148
+-1
+2
+Atom knows-id_cdomainuser()
+<none of those>
+end_variable
+begin_variable
+var100
+-1
+2
+Atom not-created-id_bbrat()
+<none of those>
+end_variable
+begin_variable
+var109
+-1
+2
+Atom not-created-id_barat()
+<none of those>
+end_variable
+begin_variable
+var91
+-1
+2
+Atom arg_6-id_hdomaincredential()
+<none of those>
+end_variable
+begin_variable
+var145
+-1
+2
+Atom arg_6-id_ddomaincredential()
+<none of those>
+end_variable
+begin_variable
+var110
+-1
+2
+Atom knows-id_barat()
+<none of those>
+end_variable
+begin_variable
+var78
+-1
+2
+Atom knows_property-id_adomain-pwindows_domain()
+<none of those>
+end_variable
+begin_variable
+var112
+-1
+2
+Atom knows_property-id_barat-pexecutable()
+<none of those>
+end_variable
+begin_variable
+var114
+-1
+2
+Atom prop_elevated-id_barat-yes()
+<none of those>
+end_variable
+begin_variable
+var121
+-1
+2
+Atom not-prop_elevated-id_barat-yes()
+<none of those>
+end_variable
+begin_variable
+var129
+-1
+2
+Atom not-prop_elevated-id_bbrat-yes()
+<none of those>
+end_variable
+begin_variable
+var139
+-1
+2
+Atom prop_executable-id_yrat-somepath()
+<none of those>
+end_variable
+begin_variable
+var142
+-1
+2
+Atom prop_elevated-id_bbrat-yes()
+<none of those>
+end_variable
+begin_variable
+var143
+-1
+2
+Atom knows_property-id_barat-phost()
+<none of those>
+end_variable
+begin_variable
+var14
+-1
+2
+Atom do_8_4-()
+<none of those>
+end_variable
+begin_variable
+var123
+-1
+2
+Atom do_6_4-()
+<none of those>
+end_variable
+begin_variable
+var77
+-1
+2
+Atom arg_11-id_barat()
+<none of those>
+end_variable
+begin_variable
+var108
+-1
+2
+Atom arg_11-id_bbrat()
+<none of those>
+end_variable
+begin_variable
+var122
+-1
+2
+Atom arg_11-id_yrat()
+<none of those>
+end_variable
+begin_variable
+var134
+-1
+2
+Atom do_5_3-()
+<none of those>
+end_variable
+begin_variable
+var30
+-1
+2
+Atom do_8_5-()
+<none of those>
+end_variable
+begin_variable
+var59
+-1
+2
+Atom arg_11-id_bhshare()
+<none of those>
+end_variable
+begin_variable
+var39
+-1
+2
+Atom prop_share_path-id_bhshare-whatever()
+<none of those>
+end_variable
+begin_variable
+var48
+-1
+2
+Atom knows_property-id_bhshare-pdest_host()
+<none of those>
+end_variable
+begin_variable
+var57
+-1
+2
+Atom knows_property-id_bhshare-psrc_host()
+<none of those>
+end_variable
+begin_variable
+var73
+-1
+2
+Atom knows-id_bhshare()
+<none of those>
+end_variable
+begin_variable
+var96
+-1
+2
+Atom not-created-id_bhshare()
+<none of those>
+end_variable
+begin_variable
+var97
+-1
+2
+Atom knows_property-id_bhshare-pshare_path()
+<none of those>
+end_variable
+begin_variable
+var74
+-1
+2
+Atom arg_11-id_bgshare()
+<none of those>
+end_variable
+begin_variable
+var62
+-1
+2
+Atom prop_share_path-id_bgshare-whatever()
+<none of those>
+end_variable
+begin_variable
+var80
+-1
+2
+Atom knows-id_bgshare()
+<none of those>
+end_variable
+begin_variable
+var95
+-1
+2
+Atom not-created-id_bgshare()
+<none of those>
+end_variable
+begin_variable
+var105
+-1
+2
+Atom knows_property-id_bgshare-psrc_host()
+<none of those>
+end_variable
+begin_variable
+var136
+-1
+2
+Atom knows_property-id_bgshare-pshare_path()
+<none of those>
+end_variable
+begin_variable
+var137
+-1
+2
+Atom knows_property-id_bgshare-pdest_host()
+<none of those>
+end_variable
+begin_variable
+var104
+-1
+2
+Atom do_5_4-()
+<none of those>
+end_variable
+begin_variable
+var3
+-1
+3
+Atom arg_6-id_khost()
+Atom arg_6-id_rhost()
+<none of those>
+end_variable
+begin_variable
+var103
+-1
+2
+Atom arg_2-id_khost()
+<none of those>
+end_variable
+begin_variable
+var135
+-1
+2
+Atom arg_2-id_rhost()
+<none of those>
+end_variable
+begin_variable
+var98
+-1
+2
+Atom arg_5-somepath()
+<none of those>
+end_variable
+begin_variable
+var2
+-1
+7
+Atom arg_4-id_bhshare()
+Atom arg_9-id_adomain()
+Atom arg_4-id_bgshare()
+Atom do_6_5-()
+Atom arg_3-id_rhost()
+Atom arg_3-id_khost()
+<none of those>
+end_variable
+begin_variable
+var1
+-1
+7
+Atom arg_1-id_barat()
+Atom do_5_5-()
+Atom arg_1-id_bbrat()
+Atom arg_1-id_yrat()
+Atom do_8_6-()
+Atom do_5_2-()
+<none of those>
+end_variable
+begin_variable
+var55
+-1
+2
+Atom prop_host-id_bbrat-id_rhost()
+<none of those>
+end_variable
+begin_variable
+var119
+-1
+2
+Atom do-normal()
+<none of those>
+end_variable
+begin_variable
+var0
+-1
+8
+Atom do_6_3-()
+Atom arg_7-id_gdomainuser()
+Atom arg_8-id_bffile()
+Atom do_6_2-()
+Atom do_8_2-()
+Atom procnone-()
+Atom arg_7-id_cdomainuser()
+Atom arg_8-id_befile()
+end_variable
+8
+begin_mutex_group
+8
+109 4
+105 1
+113 0
+113 5
+109 5
+109 1
+113 3
+105 0
+end_mutex_group
+begin_mutex_group
+8
+109 4
+113 7
+113 0
+113 5
+109 5
+109 1
+113 3
+113 2
+end_mutex_group
+begin_mutex_group
+8
+109 4
+109 2
+113 5
+109 0
+109 3
+109 5
+109 1
+113 3
+end_mutex_group
+begin_mutex_group
+8
+109 0
+109 2
+113 1
+113 5
+109 3
+113 6
+113 4
+113 3
+end_mutex_group
+begin_mutex_group
+8
+113 1
+105 1
+113 5
+113 6
+113 4
+113 0
+113 3
+105 0
+end_mutex_group
+begin_mutex_group
+8
+109 4
+113 0
+84 0
+109 3
+109 5
+113 5
+109 1
+113 3
+end_mutex_group
+begin_mutex_group
+8
+113 5
+113 1
+113 0
+84 0
+109 3
+113 6
+113 4
+113 3
+end_mutex_group
+begin_mutex_group
+7
+110 5
+110 0
+110 3
+113 5
+110 2
+110 1
+110 4
+end_mutex_group
+begin_state
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+1
+1
+1
+1
+1
+1
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+0
+1
+1
+1
+1
+2
+1
+1
+1
+6
+6
+1
+0
+5
+end_state
+begin_goal
+3
+111 0
+112 0
+113 5
+end_goal
+199
+begin_operator
+smb_copy_1_---_id_yrat_---_id_khost_---_str__z 
+1
+112 0
+3
+0
+113 5 3
+0
+110 -1 3
+0
+106 -1 0
+2
+end_operator
+begin_operator
+get_domain_1_---_id_yrat_---_id_khost_---_str__o 
+2
+113 5
+112 0
+2
+0
+75 -1 0
+0
+54 -1 0
+6
+end_operator
+begin_operator
+creds_1_---_id_yrat_---_id_khost_---_id_adomain 
+2
+113 5
+54 0
+15
+0
+21 -1 0
+0
+22 -1 0
+0
+23 -1 0
+0
+24 -1 0
+0
+25 -1 0
+0
+60 -1 0
+0
+0 -1 0
+0
+26 -1 0
+0
+75 -1 0
+0
+61 -1 0
+0
+62 -1 0
+0
+63 -1 0
+0
+112 0 1
+0
+64 -1 0
+0
+69 -1 0
+6
+end_operator
+begin_operator
+get_admin_1_---_id_yrat_---_id_khost_---_id_adomain 
+3
+113 5
+54 0
+112 0
+7
+0
+18 -1 0
+0
+60 -1 0
+0
+61 -1 0
+0
+62 -1 0
+0
+63 -1 0
+0
+64 -1 0
+0
+69 -1 0
+6
+end_operator
+begin_operator
+get_computers_1_---_id_yrat_---_id_adomain 
+3
+113 5
+54 0
+112 0
+2
+0
+19 -1 0
+0
+20 -1 0
+6
+end_operator
+begin_operator
+creds_1_---_id_yrat_---_id_khost_---_id_adomain-condeff0-no-0 
+1
+0 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_yrat_---_id_khost_---_id_adomain-condeff1-no-0 
+1
+0 0
+1
+0
+43 -1 0
+0
+end_operator
+begin_operator
+net_use_1_---_id_gdomainuser_---_str__mary_---_id_adomain_---_str__alpha 
+4
+61 0
+63 0
+112 0
+64 0
+3
+0
+113 5 1
+0
+110 -1 5
+0
+109 -1 1
+2
+end_operator
+begin_operator
+net_use_1_---_id_cdomainuser_---_str__james_---_id_adomain_---_str__alpha 
+4
+60 0
+62 0
+112 0
+69 0
+3
+0
+113 5 6
+0
+110 -1 5
+0
+109 -1 1
+2
+end_operator
+begin_operator
+get_admin_1_---_id_yrat_---_id_rhost_---_id_adomain 
+4
+113 5
+54 0
+20 0
+112 0
+7
+0
+60 -1 0
+0
+61 -1 0
+0
+62 -1 0
+0
+27 -1 0
+0
+63 -1 0
+0
+64 -1 0
+0
+69 -1 0
+6
+end_operator
+begin_operator
+creds_1_---_id_yrat_---_id_khost_---_id_adomain-endof-condeffs 
+0
+4
+0
+44 0 1
+0
+0 0 1
+0
+43 0 1
+0
+112 -1 0
+0
+end_operator
+begin_operator
+net_use_2_---_id_yrat_---_id_hdomaincredential_---_str__i_---_id_gdomainuser 
+5
+113 1
+22 0
+24 0
+26 0
+112 0
+2
+0
+110 5 3
+0
+88 -1 0
+1
+end_operator
+begin_operator
+net_use_2_---_id_yrat_---_id_ddomaincredential_---_str__e_---_id_cdomainuser 
+5
+113 6
+21 0
+23 0
+25 0
+112 0
+2
+0
+110 5 3
+0
+88 -1 0
+1
+end_operator
+begin_operator
+net_use_3_---_id_rhost_---_id_khost_---_id_adomain_---_id_bgshare 
+5
+75 0
+100 0
+54 0
+20 0
+112 0
+5
+0
+109 1 5
+0
+97 -1 0
+0
+104 -1 0
+0
+88 0 1
+0
+107 -1 0
+1
+end_operator
+begin_operator
+net_use_3_---_id_rhost_---_id_khost_---_id_adomain_---_id_bhshare 
+5
+75 0
+95 0
+54 0
+20 0
+112 0
+5
+0
+109 1 5
+0
+90 -1 0
+0
+104 -1 0
+0
+88 0 1
+0
+107 -1 0
+1
+end_operator
+begin_operator
+net_use_3_---_id_khost_---_id_rhost_---_id_adomain_---_id_bgshare 
+6
+19 0
+75 0
+100 0
+54 0
+20 0
+112 0
+5
+0
+109 1 4
+0
+97 -1 0
+0
+106 -1 0
+0
+104 -1 0
+0
+88 0 1
+1
+end_operator
+begin_operator
+net_use_3_---_id_khost_---_id_rhost_---_id_adomain_---_id_bhshare 
+6
+19 0
+75 0
+95 0
+54 0
+20 0
+112 0
+5
+0
+109 1 4
+0
+90 -1 0
+0
+106 -1 0
+0
+104 -1 0
+0
+88 0 1
+1
+end_operator
+begin_operator
+net_use_4_---_id_yrat_---_id_khost_---_id_khost_---_str__o 
+3
+109 5
+106 0
+112 0
+2
+0
+110 3 1
+0
+104 0 1
+1
+end_operator
+begin_operator
+net_use_4_---_id_yrat_---_id_khost_---_id_rhost_---_str__v 
+3
+109 4
+106 0
+112 0
+2
+0
+110 3 1
+0
+104 0 1
+1
+end_operator
+begin_operator
+net_use_5_---_id_rhost_---_id_rhost_---_id_gdomainuser_---_id_bgshare 
+1
+112 0
+13
+0
+113 1 5
+0
+110 1 6
+0
+109 4 6
+0
+48 -1 0
+0
+98 -1 0
+0
+97 0 1
+0
+99 -1 0
+0
+52 -1 0
+0
+100 -1 1
+0
+101 -1 0
+0
+107 0 1
+0
+102 -1 0
+0
+103 -1 0
+1
+end_operator
+begin_operator
+net_use_5_---_id_rhost_---_id_rhost_---_id_gdomainuser_---_id_bhshare 
+1
+112 0
+13
+0
+113 1 5
+0
+110 1 6
+0
+109 4 6
+0
+47 -1 0
+0
+49 -1 0
+0
+91 -1 0
+0
+92 -1 0
+0
+93 -1 0
+0
+90 0 1
+0
+94 -1 0
+0
+95 -1 1
+0
+96 -1 0
+0
+107 0 1
+1
+end_operator
+begin_operator
+net_use_5_---_id_rhost_---_id_rhost_---_id_cdomainuser_---_id_bgshare 
+1
+112 0
+13
+0
+113 6 5
+0
+110 1 6
+0
+109 4 6
+0
+48 -1 0
+0
+98 -1 0
+0
+97 0 1
+0
+99 -1 0
+0
+52 -1 0
+0
+100 -1 1
+0
+101 -1 0
+0
+107 0 1
+0
+102 -1 0
+0
+103 -1 0
+1
+end_operator
+begin_operator
+net_use_5_---_id_rhost_---_id_rhost_---_id_cdomainuser_---_id_bhshare 
+1
+112 0
+13
+0
+113 6 5
+0
+110 1 6
+0
+109 4 6
+0
+47 -1 0
+0
+49 -1 0
+0
+91 -1 0
+0
+92 -1 0
+0
+93 -1 0
+0
+90 0 1
+0
+94 -1 0
+0
+95 -1 1
+0
+96 -1 0
+0
+107 0 1
+1
+end_operator
+begin_operator
+net_use_5_---_id_rhost_---_id_khost_---_id_gdomainuser_---_id_bgshare 
+1
+112 0
+13
+0
+113 1 5
+0
+110 1 6
+0
+109 5 6
+0
+45 -1 0
+0
+98 -1 0
+0
+97 0 1
+0
+99 -1 0
+0
+52 -1 0
+0
+100 -1 1
+0
+101 -1 0
+0
+107 0 1
+0
+102 -1 0
+0
+103 -1 0
+1
+end_operator
+begin_operator
+net_use_5_---_id_rhost_---_id_khost_---_id_gdomainuser_---_id_bhshare 
+1
+112 0
+13
+0
+113 1 5
+0
+110 1 6
+0
+109 5 6
+0
+46 -1 0
+0
+49 -1 0
+0
+91 -1 0
+0
+92 -1 0
+0
+93 -1 0
+0
+90 0 1
+0
+94 -1 0
+0
+95 -1 1
+0
+96 -1 0
+0
+107 0 1
+1
+end_operator
+begin_operator
+net_use_5_---_id_rhost_---_id_khost_---_id_cdomainuser_---_id_bgshare 
+1
+112 0
+13
+0
+113 6 5
+0
+110 1 6
+0
+109 5 6
+0
+45 -1 0
+0
+98 -1 0
+0
+97 0 1
+0
+99 -1 0
+0
+52 -1 0
+0
+100 -1 1
+0
+101 -1 0
+0
+107 0 1
+0
+102 -1 0
+0
+103 -1 0
+1
+end_operator
+begin_operator
+net_use_5_---_id_rhost_---_id_khost_---_id_cdomainuser_---_id_bhshare 
+1
+112 0
+13
+0
+113 6 5
+0
+110 1 6
+0
+109 5 6
+0
+46 -1 0
+0
+49 -1 0
+0
+91 -1 0
+0
+92 -1 0
+0
+93 -1 0
+0
+90 0 1
+0
+94 -1 0
+0
+95 -1 1
+0
+96 -1 0
+0
+107 0 1
+1
+end_operator
+begin_operator
+net_use_5_---_id_khost_---_id_rhost_---_id_gdomainuser_---_id_bgshare 
+1
+112 0
+13
+0
+113 1 5
+0
+110 1 6
+0
+109 4 6
+0
+48 -1 0
+0
+98 -1 0
+0
+51 -1 0
+0
+97 0 1
+0
+99 -1 0
+0
+100 -1 1
+0
+106 0 1
+0
+101 -1 0
+0
+102 -1 0
+0
+103 -1 0
+1
+end_operator
+begin_operator
+net_use_5_---_id_khost_---_id_rhost_---_id_gdomainuser_---_id_bhshare 
+1
+112 0
+13
+0
+113 1 5
+0
+110 1 6
+0
+109 4 6
+0
+47 -1 0
+0
+91 -1 0
+0
+92 -1 0
+0
+93 -1 0
+0
+90 0 1
+0
+50 -1 0
+0
+94 -1 0
+0
+95 -1 1
+0
+96 -1 0
+0
+106 0 1
+1
+end_operator
+begin_operator
+net_use_5_---_id_khost_---_id_rhost_---_id_cdomainuser_---_id_bgshare 
+1
+112 0
+13
+0
+113 6 5
+0
+110 1 6
+0
+109 4 6
+0
+48 -1 0
+0
+98 -1 0
+0
+51 -1 0
+0
+97 0 1
+0
+99 -1 0
+0
+100 -1 1
+0
+106 0 1
+0
+101 -1 0
+0
+102 -1 0
+0
+103 -1 0
+1
+end_operator
+begin_operator
+net_use_5_---_id_khost_---_id_rhost_---_id_cdomainuser_---_id_bhshare 
+1
+112 0
+13
+0
+113 6 5
+0
+110 1 6
+0
+109 4 6
+0
+47 -1 0
+0
+91 -1 0
+0
+92 -1 0
+0
+93 -1 0
+0
+90 0 1
+0
+50 -1 0
+0
+94 -1 0
+0
+95 -1 1
+0
+96 -1 0
+0
+106 0 1
+1
+end_operator
+begin_operator
+net_use_5_---_id_khost_---_id_khost_---_id_gdomainuser_---_id_bgshare 
+1
+112 0
+13
+0
+113 1 5
+0
+110 1 6
+0
+109 5 6
+0
+45 -1 0
+0
+98 -1 0
+0
+51 -1 0
+0
+97 0 1
+0
+99 -1 0
+0
+100 -1 1
+0
+106 0 1
+0
+101 -1 0
+0
+102 -1 0
+0
+103 -1 0
+1
+end_operator
+begin_operator
+net_use_5_---_id_khost_---_id_khost_---_id_gdomainuser_---_id_bhshare 
+1
+112 0
+13
+0
+113 1 5
+0
+110 1 6
+0
+109 5 6
+0
+46 -1 0
+0
+91 -1 0
+0
+92 -1 0
+0
+93 -1 0
+0
+90 0 1
+0
+50 -1 0
+0
+94 -1 0
+0
+95 -1 1
+0
+96 -1 0
+0
+106 0 1
+1
+end_operator
+begin_operator
+net_use_5_---_id_khost_---_id_khost_---_id_cdomainuser_---_id_bgshare 
+1
+112 0
+13
+0
+113 6 5
+0
+110 1 6
+0
+109 5 6
+0
+45 -1 0
+0
+98 -1 0
+0
+51 -1 0
+0
+97 0 1
+0
+99 -1 0
+0
+100 -1 1
+0
+106 0 1
+0
+101 -1 0
+0
+102 -1 0
+0
+103 -1 0
+1
+end_operator
+begin_operator
+net_use_5_---_id_khost_---_id_khost_---_id_cdomainuser_---_id_bhshare 
+1
+112 0
+13
+0
+113 6 5
+0
+110 1 6
+0
+109 5 6
+0
+46 -1 0
+0
+91 -1 0
+0
+92 -1 0
+0
+93 -1 0
+0
+90 0 1
+0
+50 -1 0
+0
+94 -1 0
+0
+95 -1 1
+0
+96 -1 0
+0
+106 0 1
+1
+end_operator
+begin_operator
+smb_copy_2_---_id_rhost_---_id_bgshare_---_id_rhost 
+8
+99 0
+52 0
+101 0
+20 0
+112 0
+107 0
+102 0
+103 0
+2
+0
+113 3 0
+0
+109 -1 2
+1
+end_operator
+begin_operator
+smb_copy_2_---_id_rhost_---_id_bhshare_---_id_rhost 
+8
+49 0
+92 0
+93 0
+94 0
+96 0
+20 0
+112 0
+107 0
+2
+0
+113 3 0
+0
+109 -1 0
+1
+end_operator
+begin_operator
+smb_copy_2_---_id_khost_---_id_bgshare_---_id_khost 
+7
+51 0
+99 0
+106 0
+101 0
+112 0
+102 0
+103 0
+2
+0
+113 3 0
+0
+109 -1 2
+1
+end_operator
+begin_operator
+smb_copy_2_---_id_khost_---_id_bhshare_---_id_khost 
+7
+92 0
+93 0
+50 0
+94 0
+96 0
+106 0
+112 0
+2
+0
+113 3 0
+0
+109 -1 0
+1
+end_operator
+begin_operator
+smb_copy_3_---_id_rhost_---_id_khost_---_id_befile 
+3
+34 0
+20 0
+112 0
+4
+0
+113 0 7
+0
+105 -1 0
+0
+84 -1 0
+0
+107 0 1
+1
+end_operator
+begin_operator
+smb_copy_3_---_id_rhost_---_id_khost_---_id_bffile 
+3
+20 0
+41 0
+112 0
+4
+0
+113 0 2
+0
+105 -1 0
+0
+84 -1 0
+0
+107 0 1
+1
+end_operator
+begin_operator
+smb_copy_3_---_id_khost_---_id_rhost_---_id_befile 
+3
+34 0
+20 0
+112 0
+4
+0
+113 0 7
+0
+105 -1 1
+0
+106 0 1
+0
+84 -1 0
+1
+end_operator
+begin_operator
+smb_copy_3_---_id_khost_---_id_rhost_---_id_bffile 
+3
+20 0
+41 0
+112 0
+4
+0
+113 0 2
+0
+105 -1 1
+0
+106 0 1
+0
+84 -1 0
+1
+end_operator
+begin_operator
+smb_copy_4_---_id_bgshare_---_id_khost_---_whatever 
+4
+105 0
+45 0
+98 0
+112 0
+2
+0
+109 2 3
+0
+84 0 1
+1
+end_operator
+begin_operator
+smb_copy_4_---_id_bhshare_---_id_khost_---_whatever 
+4
+105 0
+46 0
+91 0
+112 0
+2
+0
+109 0 3
+0
+84 0 1
+1
+end_operator
+begin_operator
+smb_copy_4_---_id_bgshare_---_id_rhost_---_whatever 
+4
+105 1
+48 0
+98 0
+112 0
+2
+0
+109 2 3
+0
+84 0 1
+1
+end_operator
+begin_operator
+smb_copy_4_---_id_bhshare_---_id_rhost_---_whatever 
+4
+105 1
+47 0
+91 0
+112 0
+2
+0
+109 0 3
+0
+84 0 1
+1
+end_operator
+begin_operator
+smb_copy_5_---_id_yrat_---_id_rhost_---_id_befile 
+1
+112 0
+10
+0
+113 7 5
+0
+110 3 6
+0
+109 3 6
+0
+105 1 2
+0
+33 -1 0
+0
+34 -1 1
+0
+35 -1 0
+0
+12 -1 0
+0
+36 -1 0
+0
+37 -1 0
+1
+end_operator
+begin_operator
+smb_copy_5_---_id_yrat_---_id_rhost_---_id_bffile 
+1
+112 0
+10
+0
+113 2 5
+0
+110 3 6
+0
+109 3 6
+0
+105 1 2
+0
+38 -1 0
+0
+39 -1 0
+0
+40 -1 0
+0
+41 -1 1
+0
+13 -1 0
+0
+42 -1 0
+1
+end_operator
+begin_operator
+smb_copy_5_---_id_yrat_---_id_khost_---_id_befile 
+1
+112 0
+10
+0
+113 7 5
+0
+110 3 6
+0
+109 3 6
+0
+105 0 2
+0
+33 -1 0
+0
+34 -1 1
+0
+35 -1 0
+0
+36 -1 0
+0
+37 -1 0
+0
+11 -1 0
+1
+end_operator
+begin_operator
+smb_copy_5_---_id_yrat_---_id_khost_---_id_bffile 
+1
+112 0
+10
+0
+113 2 5
+0
+110 3 6
+0
+109 3 6
+0
+105 0 2
+0
+38 -1 0
+0
+10 -1 0
+0
+39 -1 0
+0
+40 -1 0
+0
+41 -1 1
+0
+42 -1 0
+1
+end_operator
+begin_operator
+wmic_1_---_id_yrat_---_id_rhost_---_id_befile_---_somepath 
+3
+35 0
+12 0
+112 0
+5
+0
+113 5 4
+0
+110 -1 3
+0
+109 -1 4
+0
+65 -1 0
+0
+108 -1 0
+1
+end_operator
+begin_operator
+wmic_1_---_id_yrat_---_id_rhost_---_id_bffile_---_somepath 
+3
+38 0
+112 0
+13 0
+5
+0
+113 5 4
+0
+110 -1 3
+0
+109 -1 4
+0
+68 -1 0
+0
+108 -1 0
+1
+end_operator
+begin_operator
+wmic_1_---_id_yrat_---_id_khost_---_id_befile_---_somepath 
+3
+35 0
+112 0
+11 0
+5
+0
+113 5 4
+0
+110 -1 3
+0
+109 -1 5
+0
+65 -1 0
+0
+108 -1 0
+1
+end_operator
+begin_operator
+wmic_1_---_id_yrat_---_id_khost_---_id_bffile_---_somepath 
+3
+38 0
+10 0
+112 0
+5
+0
+113 5 4
+0
+110 -1 3
+0
+109 -1 5
+0
+68 -1 0
+0
+108 -1 0
+1
+end_operator
+begin_operator
+wmic_2_---_id_befile_---_id_ddomaincredential_---_id_cdomainuser_---_id_adomain 
+6
+33 0
+62 0
+36 0
+112 0
+37 0
+69 0
+5
+0
+113 4 6
+0
+65 0 1
+0
+66 -1 0
+0
+67 -1 0
+0
+73 -1 0
+1
+end_operator
+begin_operator
+wmic_2_---_id_befile_---_id_hdomaincredential_---_id_gdomainuser_---_id_adomain 
+6
+33 0
+61 0
+36 0
+112 0
+37 0
+64 0
+5
+0
+113 4 1
+0
+65 0 1
+0
+66 -1 0
+0
+67 -1 0
+0
+72 -1 0
+1
+end_operator
+begin_operator
+wmic_2_---_id_bffile_---_id_ddomaincredential_---_id_cdomainuser_---_id_adomain 
+6
+62 0
+39 0
+40 0
+112 0
+42 0
+69 0
+5
+0
+113 4 6
+0
+68 0 1
+0
+66 -1 0
+0
+67 -1 0
+0
+73 -1 0
+1
+end_operator
+begin_operator
+wmic_2_---_id_bffile_---_id_hdomaincredential_---_id_gdomainuser_---_id_adomain 
+6
+61 0
+39 0
+40 0
+112 0
+64 0
+42 0
+5
+0
+113 4 1
+0
+68 0 1
+0
+66 -1 0
+0
+67 -1 0
+0
+72 -1 0
+1
+end_operator
+begin_operator
+wmic_3_---_id_ddomaincredential_---_id_adomain_---_str__alpha_---_str__e 
+4
+75 0
+54 0
+112 0
+73 0
+3
+0
+83 -1 0
+0
+66 0 1
+0
+67 0 1
+1
+end_operator
+begin_operator
+wmic_3_---_id_hdomaincredential_---_id_adomain_---_str__alpha_---_str__i 
+4
+75 0
+72 0
+54 0
+112 0
+3
+0
+83 -1 0
+0
+66 0 1
+0
+67 0 1
+1
+end_operator
+begin_operator
+wmic_4_---_id_rhost_---_id_khost_---_id_ddomaincredential_---_id_yrat 
+8
+109 5
+21 0
+23 0
+25 0
+18 0
+55 0
+20 0
+112 0
+5
+0
+83 0 1
+0
+89 -1 0
+0
+87 -1 0
+0
+107 -1 0
+0
+73 0 1
+1
+end_operator
+begin_operator
+wmic_4_---_id_rhost_---_id_khost_---_id_ddomaincredential_---_id_barat 
+8
+109 5
+21 0
+23 0
+25 0
+18 0
+71 0
+20 0
+112 0
+5
+0
+83 0 1
+0
+89 -1 0
+0
+85 -1 0
+0
+107 -1 0
+0
+73 0 1
+1
+end_operator
+begin_operator
+wmic_4_---_id_rhost_---_id_khost_---_id_ddomaincredential_---_id_bbrat 
+8
+109 5
+21 0
+23 0
+25 0
+18 0
+70 0
+20 0
+112 0
+5
+0
+83 0 1
+0
+89 -1 0
+0
+86 -1 0
+0
+107 -1 0
+0
+73 0 1
+1
+end_operator
+begin_operator
+wmic_4_---_id_rhost_---_id_khost_---_id_hdomaincredential_---_id_yrat 
+8
+109 5
+22 0
+24 0
+18 0
+55 0
+26 0
+20 0
+112 0
+5
+0
+83 0 1
+0
+89 -1 0
+0
+72 0 1
+0
+87 -1 0
+0
+107 -1 0
+1
+end_operator
+begin_operator
+wmic_4_---_id_rhost_---_id_khost_---_id_hdomaincredential_---_id_barat 
+8
+109 5
+22 0
+24 0
+18 0
+26 0
+71 0
+20 0
+112 0
+5
+0
+83 0 1
+0
+89 -1 0
+0
+85 -1 0
+0
+72 0 1
+0
+107 -1 0
+1
+end_operator
+begin_operator
+wmic_4_---_id_rhost_---_id_khost_---_id_hdomaincredential_---_id_bbrat 
+8
+109 5
+22 0
+24 0
+18 0
+26 0
+70 0
+20 0
+112 0
+5
+0
+83 0 1
+0
+89 -1 0
+0
+72 0 1
+0
+86 -1 0
+0
+107 -1 0
+1
+end_operator
+begin_operator
+wmic_4_---_id_khost_---_id_rhost_---_id_ddomaincredential_---_id_yrat 
+8
+109 4
+21 0
+23 0
+25 0
+55 0
+27 0
+20 0
+112 0
+5
+0
+83 0 1
+0
+89 -1 0
+0
+106 -1 0
+0
+87 -1 0
+0
+73 0 1
+1
+end_operator
+begin_operator
+wmic_4_---_id_khost_---_id_rhost_---_id_ddomaincredential_---_id_barat 
+8
+109 4
+21 0
+23 0
+25 0
+27 0
+71 0
+20 0
+112 0
+5
+0
+83 0 1
+0
+89 -1 0
+0
+85 -1 0
+0
+106 -1 0
+0
+73 0 1
+1
+end_operator
+begin_operator
+wmic_4_---_id_khost_---_id_rhost_---_id_ddomaincredential_---_id_bbrat 
+8
+109 4
+21 0
+23 0
+25 0
+27 0
+70 0
+20 0
+112 0
+5
+0
+83 0 1
+0
+89 -1 0
+0
+106 -1 0
+0
+86 -1 0
+0
+73 0 1
+1
+end_operator
+begin_operator
+wmic_4_---_id_khost_---_id_rhost_---_id_hdomaincredential_---_id_yrat 
+8
+109 4
+22 0
+24 0
+55 0
+26 0
+27 0
+20 0
+112 0
+5
+0
+83 0 1
+0
+89 -1 0
+0
+72 0 1
+0
+106 -1 0
+0
+87 -1 0
+1
+end_operator
+begin_operator
+wmic_4_---_id_khost_---_id_rhost_---_id_hdomaincredential_---_id_barat 
+8
+109 4
+22 0
+24 0
+26 0
+27 0
+71 0
+20 0
+112 0
+5
+0
+83 0 1
+0
+89 -1 0
+0
+85 -1 0
+0
+72 0 1
+0
+106 -1 0
+1
+end_operator
+begin_operator
+wmic_4_---_id_khost_---_id_rhost_---_id_hdomaincredential_---_id_bbrat 
+8
+109 4
+22 0
+24 0
+26 0
+27 0
+70 0
+20 0
+112 0
+5
+0
+83 0 1
+0
+89 -1 0
+0
+72 0 1
+0
+106 -1 0
+0
+86 -1 0
+1
+end_operator
+begin_operator
+wmic_5_---_id_yrat_---_id_khost 
+1
+112 0
+3
+0
+110 3 4
+0
+89 0 1
+0
+106 0 1
+1
+end_operator
+begin_operator
+wmic_6_---_id_rhost_---_somepath_---_id_gdomainuser_---_id_yrat 
+1
+112 0
+8
+0
+113 1 5
+0
+110 4 6
+0
+109 4 6
+0
+55 -1 1
+0
+108 0 1
+0
+31 -1 0
+0
+87 0 1
+0
+80 -1 0
+1
+end_operator
+begin_operator
+wmic_6_---_id_rhost_---_somepath_---_id_gdomainuser_---_id_barat 
+1
+112 0
+13
+0
+113 1 5
+0
+110 4 6
+0
+109 4 6
+0
+28 -1 0
+0
+58 -1 0
+0
+85 0 1
+0
+108 0 1
+0
+71 -1 1
+0
+74 -1 0
+0
+76 -1 0
+0
+77 -1 0
+0
+78 -1 1
+0
+82 -1 0
+1
+end_operator
+begin_operator
+wmic_6_---_id_rhost_---_somepath_---_id_gdomainuser_---_id_bbrat 
+1
+112 0
+13
+0
+113 1 5
+0
+110 4 6
+0
+109 4 6
+0
+53 -1 0
+0
+56 -1 0
+0
+57 -1 0
+0
+111 -1 0
+0
+59 -1 0
+0
+108 0 1
+0
+70 -1 1
+0
+86 0 1
+0
+79 -1 1
+0
+81 -1 0
+1
+end_operator
+begin_operator
+wmic_6_---_id_rhost_---_somepath_---_id_cdomainuser_---_id_yrat 
+1
+112 0
+8
+0
+113 6 5
+0
+110 4 6
+0
+109 4 6
+0
+55 -1 1
+0
+108 0 1
+0
+31 -1 0
+0
+87 0 1
+0
+80 -1 0
+1
+end_operator
+begin_operator
+wmic_6_---_id_rhost_---_somepath_---_id_cdomainuser_---_id_barat 
+1
+112 0
+13
+0
+113 6 5
+0
+110 4 6
+0
+109 4 6
+0
+28 -1 0
+0
+58 -1 0
+0
+85 0 1
+0
+108 0 1
+0
+71 -1 1
+0
+74 -1 0
+0
+76 -1 0
+0
+77 -1 0
+0
+78 -1 1
+0
+82 -1 0
+1
+end_operator
+begin_operator
+wmic_6_---_id_rhost_---_somepath_---_id_cdomainuser_---_id_bbrat 
+1
+112 0
+13
+0
+113 6 5
+0
+110 4 6
+0
+109 4 6
+0
+53 -1 0
+0
+56 -1 0
+0
+57 -1 0
+0
+111 -1 0
+0
+59 -1 0
+0
+108 0 1
+0
+70 -1 1
+0
+86 0 1
+0
+79 -1 1
+0
+81 -1 0
+1
+end_operator
+begin_operator
+wmic_6_---_id_khost_---_somepath_---_id_gdomainuser_---_id_yrat 
+1
+112 0
+7
+0
+113 1 5
+0
+110 4 6
+0
+109 5 6
+0
+55 -1 1
+0
+108 0 1
+0
+87 0 1
+0
+80 -1 0
+1
+end_operator
+begin_operator
+wmic_6_---_id_khost_---_somepath_---_id_gdomainuser_---_id_barat 
+1
+112 0
+13
+0
+113 1 5
+0
+110 4 6
+0
+109 5 6
+0
+58 -1 0
+0
+30 -1 0
+0
+85 0 1
+0
+108 0 1
+0
+71 -1 1
+0
+74 -1 0
+0
+76 -1 0
+0
+77 -1 0
+0
+78 -1 1
+0
+82 -1 0
+1
+end_operator
+begin_operator
+wmic_6_---_id_khost_---_somepath_---_id_gdomainuser_---_id_bbrat 
+1
+112 0
+13
+0
+113 1 5
+0
+110 4 6
+0
+109 5 6
+0
+53 -1 0
+0
+56 -1 0
+0
+29 -1 0
+0
+57 -1 0
+0
+59 -1 0
+0
+108 0 1
+0
+70 -1 1
+0
+86 0 1
+0
+79 -1 1
+0
+81 -1 0
+1
+end_operator
+begin_operator
+wmic_6_---_id_khost_---_somepath_---_id_cdomainuser_---_id_yrat 
+1
+112 0
+7
+0
+113 6 5
+0
+110 4 6
+0
+109 5 6
+0
+55 -1 1
+0
+108 0 1
+0
+87 0 1
+0
+80 -1 0
+1
+end_operator
+begin_operator
+wmic_6_---_id_khost_---_somepath_---_id_cdomainuser_---_id_barat 
+1
+112 0
+13
+0
+113 6 5
+0
+110 4 6
+0
+109 5 6
+0
+58 -1 0
+0
+30 -1 0
+0
+85 0 1
+0
+108 0 1
+0
+71 -1 1
+0
+74 -1 0
+0
+76 -1 0
+0
+77 -1 0
+0
+78 -1 1
+0
+82 -1 0
+1
+end_operator
+begin_operator
+wmic_6_---_id_khost_---_somepath_---_id_cdomainuser_---_id_bbrat 
+1
+112 0
+13
+0
+113 6 5
+0
+110 4 6
+0
+109 5 6
+0
+53 -1 0
+0
+56 -1 0
+0
+29 -1 0
+0
+57 -1 0
+0
+59 -1 0
+0
+108 0 1
+0
+70 -1 1
+0
+86 0 1
+0
+79 -1 1
+0
+81 -1 0
+1
+end_operator
+begin_operator
+wmic_5_---_id_yrat_---_id_rhost 
+2
+31 0
+112 0
+3
+0
+110 3 4
+0
+89 0 1
+0
+107 0 1
+1
+end_operator
+begin_operator
+smb_copy_1_---_id_yrat_---_id_rhost_---_str__z 
+2
+31 0
+112 0
+3
+0
+113 5 3
+0
+110 -1 3
+0
+107 -1 0
+2
+end_operator
+begin_operator
+net_use_4_---_id_yrat_---_id_rhost_---_id_khost_---_str__o 
+4
+109 5
+31 0
+112 0
+107 0
+2
+0
+110 3 1
+0
+104 0 1
+1
+end_operator
+begin_operator
+net_use_4_---_id_yrat_---_id_rhost_---_id_rhost_---_str__v 
+4
+109 4
+31 0
+112 0
+107 0
+2
+0
+110 3 1
+0
+104 0 1
+1
+end_operator
+begin_operator
+creds_1_---_id_yrat_---_id_rhost_---_id_adomain 
+4
+113 5
+54 0
+31 0
+20 0
+15
+0
+21 -1 0
+0
+9 -1 0
+0
+22 -1 0
+0
+23 -1 0
+0
+24 -1 0
+0
+25 -1 0
+0
+60 -1 0
+0
+26 -1 0
+0
+75 -1 0
+0
+61 -1 0
+0
+62 -1 0
+0
+63 -1 0
+0
+112 0 1
+0
+64 -1 0
+0
+69 -1 0
+6
+end_operator
+begin_operator
+get_domain_1_---_id_yrat_---_id_rhost_---_str__v 
+5
+113 5
+19 0
+31 0
+20 0
+112 0
+2
+0
+75 -1 0
+0
+54 -1 0
+6
+end_operator
+begin_operator
+smb_copy_1_---_id_yrat_---_id_rhost_---_somepath 
+3
+31 0
+112 0
+80 0
+3
+0
+113 5 3
+0
+110 -1 3
+0
+107 -1 0
+2
+end_operator
+begin_operator
+smb_copy_1_---_id_yrat_---_id_khost_---_somepath 
+2
+112 0
+80 0
+3
+0
+113 5 3
+0
+110 -1 3
+0
+106 -1 0
+2
+end_operator
+begin_operator
+get_admin_1_---_id_barat_---_id_rhost_---_id_adomain 
+5
+113 5
+54 0
+74 0
+20 0
+112 0
+7
+0
+60 -1 0
+0
+61 -1 0
+0
+62 -1 0
+0
+27 -1 0
+0
+63 -1 0
+0
+64 -1 0
+0
+69 -1 0
+6
+end_operator
+begin_operator
+get_admin_1_---_id_barat_---_id_khost_---_id_adomain 
+4
+113 5
+54 0
+74 0
+112 0
+7
+0
+18 -1 0
+0
+60 -1 0
+0
+61 -1 0
+0
+62 -1 0
+0
+63 -1 0
+0
+64 -1 0
+0
+69 -1 0
+6
+end_operator
+begin_operator
+get_computers_1_---_id_barat_---_id_adomain 
+4
+113 5
+54 0
+74 0
+112 0
+2
+0
+19 -1 0
+0
+20 -1 0
+6
+end_operator
+begin_operator
+wmic_1_---_id_barat_---_id_rhost_---_id_befile_---_somepath 
+5
+35 0
+12 0
+74 0
+112 0
+82 0
+5
+0
+113 5 4
+0
+110 -1 0
+0
+109 -1 4
+0
+65 -1 0
+0
+108 -1 0
+1
+end_operator
+begin_operator
+wmic_1_---_id_barat_---_id_rhost_---_id_bffile_---_somepath 
+5
+38 0
+74 0
+112 0
+13 0
+82 0
+5
+0
+113 5 4
+0
+110 -1 0
+0
+109 -1 4
+0
+68 -1 0
+0
+108 -1 0
+1
+end_operator
+begin_operator
+wmic_1_---_id_barat_---_id_khost_---_id_befile_---_somepath 
+5
+35 0
+74 0
+112 0
+11 0
+82 0
+5
+0
+113 5 4
+0
+110 -1 0
+0
+109 -1 5
+0
+65 -1 0
+0
+108 -1 0
+1
+end_operator
+begin_operator
+wmic_1_---_id_barat_---_id_khost_---_id_bffile_---_somepath 
+5
+38 0
+10 0
+74 0
+112 0
+82 0
+5
+0
+113 5 4
+0
+110 -1 0
+0
+109 -1 5
+0
+68 -1 0
+0
+108 -1 0
+1
+end_operator
+begin_operator
+net_use_2_---_id_barat_---_id_ddomaincredential_---_str__e_---_id_cdomainuser 
+7
+113 6
+21 0
+23 0
+25 0
+74 0
+112 0
+82 0
+2
+0
+110 5 0
+0
+88 -1 0
+1
+end_operator
+begin_operator
+net_use_2_---_id_barat_---_id_hdomaincredential_---_str__i_---_id_gdomainuser 
+7
+113 1
+22 0
+24 0
+26 0
+74 0
+112 0
+82 0
+2
+0
+110 5 0
+0
+88 -1 0
+1
+end_operator
+begin_operator
+creds_1_---_id_barat_---_id_rhost_---_id_adomain 
+6
+113 5
+28 0
+54 0
+74 0
+20 0
+82 0
+2
+0
+112 0 1
+0
+16 -1 0
+6
+end_operator
+begin_operator
+get_domain_1_---_id_barat_---_id_rhost_---_str__v 
+7
+113 5
+28 0
+19 0
+74 0
+20 0
+112 0
+82 0
+2
+0
+75 -1 0
+0
+54 -1 0
+6
+end_operator
+begin_operator
+smb_copy_1_---_id_barat_---_id_rhost_---_somepath 
+6
+28 0
+58 0
+74 0
+76 0
+112 0
+82 0
+3
+0
+113 5 3
+0
+110 -1 0
+0
+107 -1 0
+2
+end_operator
+begin_operator
+get_admin_1_---_id_bbrat_---_id_rhost_---_id_adomain 
+5
+113 5
+59 0
+54 0
+20 0
+112 0
+7
+0
+60 -1 0
+0
+61 -1 0
+0
+62 -1 0
+0
+27 -1 0
+0
+63 -1 0
+0
+64 -1 0
+0
+69 -1 0
+6
+end_operator
+begin_operator
+get_admin_1_---_id_bbrat_---_id_khost_---_id_adomain 
+4
+113 5
+59 0
+54 0
+112 0
+7
+0
+18 -1 0
+0
+60 -1 0
+0
+61 -1 0
+0
+62 -1 0
+0
+63 -1 0
+0
+64 -1 0
+0
+69 -1 0
+6
+end_operator
+begin_operator
+get_computers_1_---_id_bbrat_---_id_adomain 
+4
+113 5
+59 0
+54 0
+112 0
+2
+0
+19 -1 0
+0
+20 -1 0
+6
+end_operator
+begin_operator
+wmic_1_---_id_bbrat_---_id_rhost_---_id_befile_---_somepath 
+5
+53 0
+35 0
+12 0
+59 0
+112 0
+5
+0
+113 5 4
+0
+110 -1 2
+0
+109 -1 4
+0
+65 -1 0
+0
+108 -1 0
+1
+end_operator
+begin_operator
+wmic_1_---_id_bbrat_---_id_rhost_---_id_bffile_---_somepath 
+5
+53 0
+38 0
+59 0
+112 0
+13 0
+5
+0
+113 5 4
+0
+110 -1 2
+0
+109 -1 4
+0
+68 -1 0
+0
+108 -1 0
+1
+end_operator
+begin_operator
+wmic_1_---_id_bbrat_---_id_khost_---_id_befile_---_somepath 
+5
+53 0
+35 0
+59 0
+112 0
+11 0
+5
+0
+113 5 4
+0
+110 -1 2
+0
+109 -1 5
+0
+65 -1 0
+0
+108 -1 0
+1
+end_operator
+begin_operator
+wmic_1_---_id_bbrat_---_id_khost_---_id_bffile_---_somepath 
+5
+53 0
+38 0
+59 0
+10 0
+112 0
+5
+0
+113 5 4
+0
+110 -1 2
+0
+109 -1 5
+0
+68 -1 0
+0
+108 -1 0
+1
+end_operator
+begin_operator
+net_use_2_---_id_bbrat_---_id_ddomaincredential_---_str__e_---_id_cdomainuser 
+7
+113 6
+53 0
+21 0
+23 0
+25 0
+59 0
+112 0
+2
+0
+110 5 2
+0
+88 -1 0
+1
+end_operator
+begin_operator
+net_use_2_---_id_bbrat_---_id_hdomaincredential_---_str__i_---_id_gdomainuser 
+7
+113 1
+53 0
+22 0
+24 0
+26 0
+59 0
+112 0
+2
+0
+110 5 2
+0
+88 -1 0
+1
+end_operator
+begin_operator
+creds_1_---_id_bbrat_---_id_rhost_---_id_adomain 
+6
+113 5
+53 0
+111 0
+59 0
+54 0
+20 0
+2
+0
+112 0 1
+0
+17 -1 0
+6
+end_operator
+begin_operator
+get_domain_1_---_id_bbrat_---_id_rhost_---_str__v 
+7
+113 5
+53 0
+111 0
+19 0
+59 0
+20 0
+112 0
+2
+0
+75 -1 0
+0
+54 -1 0
+6
+end_operator
+begin_operator
+smb_copy_1_---_id_bbrat_---_id_rhost_---_somepath 
+6
+53 0
+56 0
+57 0
+111 0
+59 0
+112 0
+3
+0
+113 5 3
+0
+110 -1 2
+0
+107 -1 0
+2
+end_operator
+begin_operator
+smb_copy_1_---_id_barat_---_id_khost_---_somepath 
+6
+58 0
+30 0
+74 0
+76 0
+112 0
+82 0
+3
+0
+113 5 3
+0
+110 -1 0
+0
+106 -1 0
+2
+end_operator
+begin_operator
+creds_1_---_id_barat_---_id_khost_---_id_adomain 
+5
+113 5
+30 0
+54 0
+74 0
+82 0
+2
+0
+15 -1 0
+0
+112 0 1
+6
+end_operator
+begin_operator
+get_domain_1_---_id_barat_---_id_khost_---_str__o 
+5
+113 5
+30 0
+74 0
+112 0
+82 0
+2
+0
+75 -1 0
+0
+54 -1 0
+6
+end_operator
+begin_operator
+smb_copy_1_---_id_bbrat_---_id_khost_---_somepath 
+6
+53 0
+56 0
+29 0
+57 0
+59 0
+112 0
+3
+0
+113 5 3
+0
+110 -1 2
+0
+106 -1 0
+2
+end_operator
+begin_operator
+creds_1_---_id_bbrat_---_id_khost_---_id_adomain 
+5
+113 5
+53 0
+29 0
+59 0
+54 0
+2
+0
+14 -1 0
+0
+112 0 1
+6
+end_operator
+begin_operator
+get_domain_1_---_id_bbrat_---_id_khost_---_str__o 
+5
+113 5
+53 0
+29 0
+59 0
+112 0
+2
+0
+75 -1 0
+0
+54 -1 0
+6
+end_operator
+begin_operator
+creds_1_---_id_yrat_---_id_rhost_---_id_adomain-condeff0-no-0 
+1
+9 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_yrat_---_id_rhost_---_id_adomain-condeff1-no-0 
+1
+9 0
+1
+0
+43 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_yrat_---_id_rhost_---_id_adomain-endof-condeffs 
+0
+4
+0
+9 0 1
+0
+44 0 1
+0
+43 0 1
+0
+112 -1 0
+0
+end_operator
+begin_operator
+wmic_5_---_id_barat_---_id_rhost 
+2
+28 0
+112 0
+3
+0
+110 0 4
+0
+89 0 1
+0
+107 0 1
+1
+end_operator
+begin_operator
+wmic_5_---_id_barat_---_id_khost 
+2
+30 0
+112 0
+3
+0
+110 0 4
+0
+89 0 1
+0
+106 0 1
+1
+end_operator
+begin_operator
+smb_copy_5_---_id_barat_---_id_rhost_---_id_befile 
+0
+6
+0
+113 7 5
+0
+110 0 6
+0
+109 3 6
+0
+105 1 2
+0
+7 -1 0
+0
+112 0 1
+1
+end_operator
+begin_operator
+smb_copy_5_---_id_barat_---_id_rhost_---_id_bffile 
+0
+6
+0
+113 2 5
+0
+110 0 6
+0
+109 3 6
+0
+105 1 2
+0
+6 -1 0
+0
+112 0 1
+1
+end_operator
+begin_operator
+smb_copy_5_---_id_barat_---_id_khost_---_id_befile 
+0
+6
+0
+113 7 5
+0
+110 0 6
+0
+109 3 6
+0
+105 0 2
+0
+2 -1 0
+0
+112 0 1
+1
+end_operator
+begin_operator
+smb_copy_5_---_id_barat_---_id_khost_---_id_bffile 
+0
+6
+0
+113 2 5
+0
+110 0 6
+0
+109 3 6
+0
+105 0 2
+0
+3 -1 0
+0
+112 0 1
+1
+end_operator
+begin_operator
+net_use_4_---_id_barat_---_id_rhost_---_id_khost_---_str__o 
+4
+109 5
+28 0
+112 0
+107 0
+2
+0
+110 0 1
+0
+104 0 1
+1
+end_operator
+begin_operator
+net_use_4_---_id_barat_---_id_khost_---_id_khost_---_str__o 
+4
+109 5
+30 0
+106 0
+112 0
+2
+0
+110 0 1
+0
+104 0 1
+1
+end_operator
+begin_operator
+net_use_4_---_id_barat_---_id_rhost_---_id_rhost_---_str__v 
+4
+109 4
+28 0
+112 0
+107 0
+2
+0
+110 0 1
+0
+104 0 1
+1
+end_operator
+begin_operator
+net_use_4_---_id_barat_---_id_khost_---_id_rhost_---_str__v 
+4
+109 4
+30 0
+106 0
+112 0
+2
+0
+110 0 1
+0
+104 0 1
+1
+end_operator
+begin_operator
+creds_1_---_id_barat_---_id_rhost_---_id_adomain-condeff0-no-0 
+1
+16 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_barat_---_id_rhost_---_id_adomain-condeff0-no-1 
+2
+16 0
+78 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_barat_---_id_rhost_---_id_adomain-condeff1-yes 
+2
+77 0
+16 0
+15
+0
+21 -1 0
+0
+22 -1 0
+0
+23 -1 0
+0
+24 -1 0
+0
+25 -1 0
+0
+60 -1 0
+0
+26 -1 0
+0
+75 -1 0
+0
+61 -1 0
+0
+62 -1 0
+0
+43 -1 0
+0
+54 -1 0
+0
+63 -1 0
+0
+64 -1 0
+0
+69 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_barat_---_id_rhost_---_id_adomain-condeff1-no-0 
+2
+16 0
+78 0
+1
+0
+43 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_barat_---_id_rhost_---_id_adomain-condeff2-no-0 
+1
+16 0
+1
+0
+32 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_barat_---_id_rhost_---_id_adomain-condeff2-no-1 
+2
+16 0
+78 0
+1
+0
+32 -1 0
+0
+end_operator
+begin_operator
+wmic_5_---_id_bbrat_---_id_rhost 
+2
+111 0
+112 0
+3
+0
+110 2 4
+0
+89 0 1
+0
+107 0 1
+1
+end_operator
+begin_operator
+wmic_5_---_id_bbrat_---_id_khost 
+2
+29 0
+112 0
+3
+0
+110 2 4
+0
+89 0 1
+0
+106 0 1
+1
+end_operator
+begin_operator
+smb_copy_5_---_id_bbrat_---_id_rhost_---_id_befile 
+0
+6
+0
+113 7 5
+0
+110 2 6
+0
+109 3 6
+0
+105 1 2
+0
+1 -1 0
+0
+112 0 1
+1
+end_operator
+begin_operator
+smb_copy_5_---_id_bbrat_---_id_rhost_---_id_bffile 
+0
+6
+0
+113 2 5
+0
+110 2 6
+0
+109 3 6
+0
+105 1 2
+0
+8 -1 0
+0
+112 0 1
+1
+end_operator
+begin_operator
+smb_copy_5_---_id_bbrat_---_id_khost_---_id_befile 
+0
+6
+0
+113 7 5
+0
+110 2 6
+0
+109 3 6
+0
+105 0 2
+0
+5 -1 0
+0
+112 0 1
+1
+end_operator
+begin_operator
+smb_copy_5_---_id_bbrat_---_id_khost_---_id_bffile 
+0
+6
+0
+113 2 5
+0
+110 2 6
+0
+109 3 6
+0
+105 0 2
+0
+4 -1 0
+0
+112 0 1
+1
+end_operator
+begin_operator
+net_use_4_---_id_bbrat_---_id_rhost_---_id_khost_---_str__o 
+4
+109 5
+111 0
+112 0
+107 0
+2
+0
+110 2 1
+0
+104 0 1
+1
+end_operator
+begin_operator
+net_use_4_---_id_bbrat_---_id_khost_---_id_khost_---_str__o 
+4
+109 5
+29 0
+106 0
+112 0
+2
+0
+110 2 1
+0
+104 0 1
+1
+end_operator
+begin_operator
+net_use_4_---_id_bbrat_---_id_rhost_---_id_rhost_---_str__v 
+4
+109 4
+111 0
+112 0
+107 0
+2
+0
+110 2 1
+0
+104 0 1
+1
+end_operator
+begin_operator
+net_use_4_---_id_bbrat_---_id_khost_---_id_rhost_---_str__v 
+4
+109 4
+29 0
+106 0
+112 0
+2
+0
+110 2 1
+0
+104 0 1
+1
+end_operator
+begin_operator
+creds_1_---_id_bbrat_---_id_rhost_---_id_adomain-condeff0-no-0 
+1
+17 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_bbrat_---_id_rhost_---_id_adomain-condeff0-no-1 
+2
+79 0
+17 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_bbrat_---_id_rhost_---_id_adomain-condeff1-yes 
+2
+17 0
+81 0
+15
+0
+21 -1 0
+0
+22 -1 0
+0
+23 -1 0
+0
+24 -1 0
+0
+25 -1 0
+0
+60 -1 0
+0
+26 -1 0
+0
+75 -1 0
+0
+61 -1 0
+0
+62 -1 0
+0
+43 -1 0
+0
+54 -1 0
+0
+63 -1 0
+0
+64 -1 0
+0
+69 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_bbrat_---_id_rhost_---_id_adomain-condeff1-no-0 
+2
+79 0
+17 0
+1
+0
+43 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_bbrat_---_id_rhost_---_id_adomain-condeff2-no-0 
+1
+17 0
+1
+0
+32 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_bbrat_---_id_rhost_---_id_adomain-condeff2-no-1 
+2
+79 0
+17 0
+1
+0
+32 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_barat_---_id_khost_---_id_adomain-condeff0-no-0 
+1
+15 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_barat_---_id_khost_---_id_adomain-condeff0-no-1 
+2
+15 0
+78 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_barat_---_id_khost_---_id_adomain-condeff1-yes 
+2
+77 0
+15 0
+15
+0
+21 -1 0
+0
+22 -1 0
+0
+23 -1 0
+0
+24 -1 0
+0
+25 -1 0
+0
+60 -1 0
+0
+26 -1 0
+0
+75 -1 0
+0
+61 -1 0
+0
+62 -1 0
+0
+43 -1 0
+0
+54 -1 0
+0
+63 -1 0
+0
+64 -1 0
+0
+69 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_barat_---_id_khost_---_id_adomain-condeff1-no-0 
+2
+15 0
+78 0
+1
+0
+43 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_barat_---_id_khost_---_id_adomain-condeff2-no-0 
+1
+15 0
+1
+0
+32 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_barat_---_id_khost_---_id_adomain-condeff2-no-1 
+2
+15 0
+78 0
+1
+0
+32 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_bbrat_---_id_khost_---_id_adomain-condeff0-no-0 
+1
+14 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_bbrat_---_id_khost_---_id_adomain-condeff0-no-1 
+2
+14 0
+79 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_bbrat_---_id_khost_---_id_adomain-condeff1-yes 
+2
+14 0
+81 0
+15
+0
+21 -1 0
+0
+22 -1 0
+0
+23 -1 0
+0
+24 -1 0
+0
+25 -1 0
+0
+60 -1 0
+0
+26 -1 0
+0
+75 -1 0
+0
+61 -1 0
+0
+62 -1 0
+0
+43 -1 0
+0
+54 -1 0
+0
+63 -1 0
+0
+64 -1 0
+0
+69 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_bbrat_---_id_khost_---_id_adomain-condeff1-no-0 
+2
+14 0
+79 0
+1
+0
+43 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_bbrat_---_id_khost_---_id_adomain-condeff2-no-0 
+1
+14 0
+1
+0
+32 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_bbrat_---_id_khost_---_id_adomain-condeff2-no-1 
+2
+14 0
+79 0
+1
+0
+32 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_barat_---_id_rhost_---_id_befile-condeff0-yes 
+2
+7 0
+77 0
+7
+0
+33 -1 0
+0
+34 -1 1
+0
+44 -1 0
+0
+35 -1 0
+0
+12 -1 0
+0
+36 -1 0
+0
+37 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_barat_---_id_rhost_---_id_befile-condeff0-no-0 
+2
+7 0
+78 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_barat_---_id_rhost_---_id_befile-endof-condeffs 
+0
+3
+0
+44 0 1
+0
+7 0 1
+0
+112 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_barat_---_id_rhost_---_id_bffile-condeff0-yes 
+2
+6 0
+77 0
+7
+0
+44 -1 0
+0
+38 -1 0
+0
+39 -1 0
+0
+40 -1 0
+0
+41 -1 1
+0
+13 -1 0
+0
+42 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_barat_---_id_rhost_---_id_bffile-condeff0-no-0 
+2
+6 0
+78 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_barat_---_id_rhost_---_id_bffile-endof-condeffs 
+0
+3
+0
+44 0 1
+0
+6 0 1
+0
+112 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_barat_---_id_khost_---_id_befile-condeff0-yes 
+2
+2 0
+77 0
+7
+0
+33 -1 0
+0
+34 -1 1
+0
+44 -1 0
+0
+35 -1 0
+0
+36 -1 0
+0
+37 -1 0
+0
+11 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_barat_---_id_khost_---_id_befile-condeff0-no-0 
+2
+2 0
+78 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_barat_---_id_khost_---_id_befile-endof-condeffs 
+0
+3
+0
+2 0 1
+0
+44 0 1
+0
+112 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_barat_---_id_khost_---_id_bffile-condeff0-yes 
+2
+3 0
+77 0
+7
+0
+44 -1 0
+0
+38 -1 0
+0
+10 -1 0
+0
+39 -1 0
+0
+40 -1 0
+0
+41 -1 1
+0
+42 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_barat_---_id_khost_---_id_bffile-condeff0-no-0 
+2
+3 0
+78 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_barat_---_id_khost_---_id_bffile-endof-condeffs 
+0
+3
+0
+44 0 1
+0
+3 0 1
+0
+112 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_barat_---_id_rhost_---_id_adomain-endof-condeffs 
+0
+5
+0
+44 0 1
+0
+32 0 1
+0
+43 0 1
+0
+112 -1 0
+0
+16 0 1
+0
+end_operator
+begin_operator
+creds_1_---_id_barat_---_id_khost_---_id_adomain-endof-condeffs 
+0
+5
+0
+44 0 1
+0
+32 0 1
+0
+43 0 1
+0
+15 0 1
+0
+112 -1 0
+0
+end_operator
+begin_operator
+creds_1_---_id_bbrat_---_id_rhost_---_id_adomain-endof-condeffs 
+0
+5
+0
+44 0 1
+0
+32 0 1
+0
+43 0 1
+0
+112 -1 0
+0
+17 0 1
+0
+end_operator
+begin_operator
+creds_1_---_id_bbrat_---_id_khost_---_id_adomain-endof-condeffs 
+0
+5
+0
+14 0 1
+0
+44 0 1
+0
+32 0 1
+0
+43 0 1
+0
+112 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_bbrat_---_id_rhost_---_id_befile-condeff0-yes 
+2
+1 0
+81 0
+7
+0
+33 -1 0
+0
+34 -1 1
+0
+44 -1 0
+0
+35 -1 0
+0
+12 -1 0
+0
+36 -1 0
+0
+37 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_bbrat_---_id_rhost_---_id_befile-condeff0-no-0 
+2
+1 0
+79 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_bbrat_---_id_rhost_---_id_befile-endof-condeffs 
+0
+3
+0
+1 0 1
+0
+44 0 1
+0
+112 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_bbrat_---_id_rhost_---_id_bffile-condeff0-yes 
+2
+8 0
+81 0
+7
+0
+44 -1 0
+0
+38 -1 0
+0
+39 -1 0
+0
+40 -1 0
+0
+41 -1 1
+0
+13 -1 0
+0
+42 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_bbrat_---_id_rhost_---_id_bffile-condeff0-no-0 
+2
+8 0
+79 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_bbrat_---_id_rhost_---_id_bffile-endof-condeffs 
+0
+3
+0
+44 0 1
+0
+8 0 1
+0
+112 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_bbrat_---_id_khost_---_id_befile-condeff0-yes 
+2
+5 0
+81 0
+7
+0
+33 -1 0
+0
+34 -1 1
+0
+44 -1 0
+0
+35 -1 0
+0
+36 -1 0
+0
+37 -1 0
+0
+11 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_bbrat_---_id_khost_---_id_befile-condeff0-no-0 
+2
+5 0
+79 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_bbrat_---_id_khost_---_id_befile-endof-condeffs 
+0
+3
+0
+44 0 1
+0
+5 0 1
+0
+112 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_bbrat_---_id_khost_---_id_bffile-condeff0-yes 
+2
+4 0
+81 0
+7
+0
+44 -1 0
+0
+38 -1 0
+0
+10 -1 0
+0
+39 -1 0
+0
+40 -1 0
+0
+41 -1 1
+0
+42 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_bbrat_---_id_khost_---_id_bffile-condeff0-no-0 
+2
+4 0
+79 0
+1
+0
+44 -1 0
+0
+end_operator
+begin_operator
+smb_copy_5_---_id_bbrat_---_id_khost_---_id_bffile-endof-condeffs 
+0
+3
+0
+44 0 1
+0
+4 0 1
+0
+112 -1 0
+0
+end_operator
+0
+begin_SG
+switch 113
+check 0
+switch 34
+check 0
+switch 106
+check 0
+switch 20
+check 0
+switch 112
+check 0
+check 1
+41
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 20
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+39
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 106
+check 0
+switch 20
+check 0
+switch 41
+check 0
+switch 112
+check 0
+check 1
+42
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 20
+check 0
+switch 41
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+40
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 110
+check 0
+check 0
+switch 109
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 90
+check 0
+switch 106
+check 0
+switch 112
+check 0
+check 1
+28
+check 0
+check 0
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+20
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 97
+check 0
+switch 106
+check 0
+switch 112
+check 0
+check 1
+27
+check 0
+check 0
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+19
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 90
+check 0
+switch 106
+check 0
+switch 112
+check 0
+check 1
+32
+check 0
+check 0
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+24
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 97
+check 0
+switch 106
+check 0
+switch 112
+check 0
+check 1
+31
+check 0
+check 0
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+23
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 109
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 85
+check 0
+switch 108
+check 0
+switch 112
+check 0
+check 1
+75
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 108
+check 0
+switch 86
+check 0
+switch 112
+check 0
+check 1
+76
+check 0
+check 0
+check 0
+switch 112
+check 0
+switch 87
+check 0
+check 1
+74
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 85
+check 0
+switch 108
+check 0
+switch 112
+check 0
+check 1
+81
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 108
+check 0
+switch 86
+check 0
+switch 112
+check 0
+check 1
+82
+check 0
+check 0
+check 0
+switch 112
+check 0
+switch 87
+check 0
+check 1
+80
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 53
+check 0
+switch 22
+check 0
+switch 24
+check 0
+switch 26
+check 0
+switch 59
+check 0
+switch 112
+check 0
+check 1
+114
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+switch 24
+check 0
+switch 26
+check 0
+switch 74
+check 0
+switch 112
+check 0
+switch 82
+check 0
+check 1
+102
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 112
+check 0
+check 1
+11
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 110
+check 0
+switch 109
+check 0
+check 0
+check 0
+check 0
+switch 105
+check 0
+switch 112
+check 0
+check 1
+132
+check 0
+check 0
+switch 112
+check 0
+check 1
+130
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 109
+check 0
+check 0
+check 0
+check 0
+switch 105
+check 0
+switch 112
+check 0
+check 1
+148
+check 0
+check 0
+switch 112
+check 0
+check 1
+146
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 109
+check 0
+check 0
+check 0
+check 0
+switch 105
+check 0
+switch 112
+check 0
+check 1
+50
+check 0
+check 0
+switch 112
+check 0
+check 1
+48
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 49
+check 0
+switch 92
+check 0
+switch 93
+check 0
+switch 94
+check 0
+switch 96
+check 0
+switch 20
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+36
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 92
+check 0
+switch 93
+check 0
+switch 50
+check 0
+switch 94
+check 0
+switch 96
+check 0
+switch 106
+check 0
+switch 112
+check 0
+check 1
+38
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 51
+check 0
+switch 99
+check 0
+switch 106
+check 0
+switch 101
+check 0
+switch 112
+check 0
+switch 102
+check 0
+switch 103
+check 0
+check 1
+37
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 99
+check 0
+switch 52
+check 0
+switch 101
+check 0
+switch 20
+check 0
+switch 112
+check 0
+switch 107
+check 0
+switch 102
+check 0
+switch 103
+check 0
+check 1
+35
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 33
+check 0
+switch 65
+check 0
+switch 61
+check 0
+switch 36
+check 0
+switch 112
+check 0
+switch 37
+check 0
+switch 64
+check 0
+check 1
+56
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 62
+check 0
+switch 36
+check 0
+switch 112
+check 0
+switch 37
+check 0
+switch 69
+check 0
+check 1
+55
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 68
+check 0
+switch 61
+check 0
+switch 39
+check 0
+switch 40
+check 0
+switch 112
+check 0
+switch 64
+check 0
+switch 42
+check 0
+check 1
+58
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 62
+check 0
+switch 39
+check 0
+switch 40
+check 0
+switch 112
+check 0
+switch 42
+check 0
+switch 69
+check 0
+check 1
+57
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 53
+check 0
+switch 56
+check 0
+switch 29
+check 0
+switch 57
+check 0
+switch 59
+check 0
+switch 112
+check 0
+check 1
+121
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 57
+check 0
+switch 111
+check 0
+switch 59
+check 0
+switch 112
+check 0
+check 1
+117
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 35
+check 0
+switch 12
+check 0
+switch 59
+check 0
+switch 112
+check 0
+check 1
+109
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 59
+check 0
+switch 112
+check 0
+switch 11
+check 0
+check 1
+111
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 29
+check 0
+switch 59
+check 0
+switch 54
+check 0
+switch 112
+check 0
+check 1
+122
+check 0
+check 0
+check 0
+switch 112
+check 0
+check 1
+123
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 38
+check 0
+switch 59
+check 0
+switch 10
+check 0
+switch 112
+check 0
+check 1
+112
+check 0
+check 0
+check 0
+switch 112
+check 0
+switch 13
+check 0
+check 1
+110
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 111
+check 0
+switch 19
+check 0
+switch 59
+check 0
+switch 20
+check 0
+switch 112
+check 0
+check 1
+116
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 59
+check 0
+switch 54
+check 0
+switch 20
+check 0
+switch 112
+check 0
+check 1
+115
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 28
+check 0
+switch 19
+check 0
+switch 74
+check 0
+switch 20
+check 0
+switch 112
+check 0
+switch 82
+check 0
+check 1
+104
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 58
+check 0
+switch 74
+check 0
+switch 76
+check 0
+switch 112
+check 0
+switch 82
+check 0
+check 1
+105
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 54
+check 0
+switch 74
+check 0
+switch 20
+check 0
+switch 112
+check 0
+switch 82
+check 0
+check 1
+103
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 35
+check 0
+switch 12
+check 0
+switch 74
+check 0
+switch 112
+check 0
+switch 82
+check 0
+check 1
+97
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 112
+check 0
+check 1
+51
+check 0
+check 0
+check 0
+switch 74
+check 0
+switch 112
+check 0
+switch 11
+check 0
+switch 82
+check 0
+check 1
+99
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 112
+check 0
+switch 11
+check 0
+check 1
+53
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 60
+check 0
+switch 62
+check 0
+switch 112
+check 0
+switch 69
+check 0
+check 1
+8
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 38
+check 0
+switch 10
+check 0
+switch 74
+check 0
+switch 112
+check 0
+switch 82
+check 0
+check 1
+100
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 112
+check 0
+check 1
+54
+check 0
+check 0
+check 0
+switch 74
+check 0
+switch 112
+check 0
+switch 13
+check 0
+switch 82
+check 0
+check 1
+98
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 112
+check 0
+switch 13
+check 0
+check 1
+52
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 19
+check 0
+switch 31
+check 0
+switch 20
+check 0
+switch 112
+check 0
+check 1
+91
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 58
+check 0
+switch 30
+check 0
+switch 74
+check 0
+switch 76
+check 0
+switch 112
+check 0
+switch 82
+check 0
+check 1
+118
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 30
+check 0
+switch 54
+check 0
+switch 74
+check 0
+switch 112
+check 0
+switch 82
+check 0
+check 1
+119
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 74
+check 0
+switch 112
+check 0
+switch 82
+check 0
+check 1
+120
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 59
+check 0
+switch 54
+check 0
+switch 20
+check 0
+switch 112
+check 0
+check 1
+106
+check 0
+check 0
+check 0
+switch 112
+check 0
+check 2
+107
+108
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 61
+check 0
+switch 63
+check 0
+switch 112
+check 0
+switch 64
+check 0
+check 1
+7
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 54
+check 0
+switch 74
+check 0
+switch 20
+check 0
+switch 112
+check 0
+check 1
+94
+check 0
+check 0
+check 0
+switch 112
+check 0
+check 2
+95
+96
+check 0
+check 0
+check 0
+switch 31
+check 0
+switch 20
+check 0
+switch 112
+check 0
+check 1
+90
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 20
+check 0
+switch 112
+check 0
+check 1
+9
+check 0
+check 0
+check 0
+switch 112
+check 0
+check 3
+2
+3
+4
+check 0
+check 0
+check 0
+switch 31
+check 0
+switch 112
+check 0
+switch 16
+check 1
+87
+check 0
+check 0
+switch 80
+check 0
+check 1
+92
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 112
+check 0
+switch 16
+check 2
+0
+1
+check 0
+check 0
+switch 80
+check 0
+check 1
+93
+check 0
+check 0
+check 0
+check 0
+switch 110
+check 0
+check 0
+switch 109
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 90
+check 0
+switch 106
+check 0
+switch 112
+check 0
+check 1
+30
+check 0
+check 0
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+22
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 97
+check 0
+switch 106
+check 0
+switch 112
+check 0
+check 1
+29
+check 0
+check 0
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+21
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 90
+check 0
+switch 106
+check 0
+switch 112
+check 0
+check 1
+34
+check 0
+check 0
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+26
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 97
+check 0
+switch 106
+check 0
+switch 112
+check 0
+check 1
+33
+check 0
+check 0
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+25
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 109
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 85
+check 0
+switch 108
+check 0
+switch 112
+check 0
+check 1
+78
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 108
+check 0
+switch 86
+check 0
+switch 112
+check 0
+check 1
+79
+check 0
+check 0
+check 0
+switch 112
+check 0
+switch 87
+check 0
+check 1
+77
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 85
+check 0
+switch 108
+check 0
+switch 112
+check 0
+check 1
+84
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 108
+check 0
+switch 86
+check 0
+switch 112
+check 0
+check 1
+85
+check 0
+check 0
+check 0
+switch 112
+check 0
+switch 87
+check 0
+check 1
+83
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 53
+check 0
+switch 21
+check 0
+switch 23
+check 0
+switch 25
+check 0
+switch 59
+check 0
+switch 112
+check 0
+check 1
+113
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 21
+check 0
+switch 23
+check 0
+switch 25
+check 0
+switch 74
+check 0
+switch 112
+check 0
+switch 82
+check 0
+check 1
+101
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 112
+check 0
+check 1
+12
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 110
+check 0
+switch 109
+check 0
+check 0
+check 0
+check 0
+switch 105
+check 0
+switch 112
+check 0
+check 1
+131
+check 0
+check 0
+switch 112
+check 0
+check 1
+129
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 109
+check 0
+check 0
+check 0
+check 0
+switch 105
+check 0
+switch 112
+check 0
+check 1
+147
+check 0
+check 0
+switch 112
+check 0
+check 1
+145
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 109
+check 0
+check 0
+check 0
+check 0
+switch 105
+check 0
+switch 112
+check 0
+check 1
+49
+check 0
+check 0
+switch 112
+check 0
+check 1
+47
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 110
+check 0
+switch 109
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 28
+check 0
+switch 104
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+135
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 30
+check 0
+switch 106
+check 0
+switch 104
+check 0
+switch 112
+check 0
+check 1
+136
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 28
+check 0
+switch 104
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+133
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 30
+check 0
+switch 106
+check 0
+switch 104
+check 0
+switch 112
+check 0
+check 1
+134
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 28
+check 0
+switch 89
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+127
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 89
+check 0
+switch 30
+check 0
+switch 106
+check 0
+switch 112
+check 0
+check 1
+128
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 109
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 29
+check 0
+switch 106
+check 0
+switch 104
+check 0
+switch 112
+check 0
+check 1
+152
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 111
+check 0
+switch 104
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+151
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 29
+check 0
+switch 106
+check 0
+switch 104
+check 0
+switch 112
+check 0
+check 1
+150
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 111
+check 0
+switch 104
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+149
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 89
+check 0
+switch 29
+check 0
+switch 106
+check 0
+switch 112
+check 0
+check 1
+144
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 111
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+143
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 109
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 106
+check 0
+switch 104
+check 0
+switch 112
+check 0
+check 1
+18
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 104
+check 0
+switch 31
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+89
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 106
+check 0
+switch 104
+check 0
+switch 112
+check 0
+check 1
+17
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 104
+check 0
+switch 31
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+88
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 89
+check 0
+switch 106
+check 0
+switch 112
+check 0
+check 1
+73
+check 0
+check 0
+check 0
+switch 31
+check 0
+switch 112
+check 0
+switch 107
+check 0
+check 1
+86
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 109
+check 0
+switch 105
+check 0
+switch 46
+check 0
+switch 91
+check 0
+switch 112
+check 0
+switch 84
+check 0
+check 1
+44
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 47
+check 0
+switch 91
+check 0
+switch 112
+check 0
+switch 84
+check 0
+check 1
+46
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 19
+check 0
+switch 75
+check 0
+switch 100
+check 0
+switch 54
+check 0
+switch 20
+check 0
+switch 112
+check 0
+switch 88
+check 0
+check 1
+15
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 95
+check 0
+switch 54
+check 0
+switch 20
+check 0
+switch 112
+check 0
+switch 88
+check 0
+check 1
+16
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 75
+check 0
+switch 100
+check 0
+switch 54
+check 0
+switch 20
+check 0
+switch 112
+check 0
+switch 88
+check 0
+check 1
+13
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 95
+check 0
+switch 54
+check 0
+switch 20
+check 0
+switch 112
+check 0
+switch 88
+check 0
+check 1
+14
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 105
+check 0
+switch 45
+check 0
+switch 98
+check 0
+switch 112
+check 0
+switch 84
+check 0
+check 1
+43
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 48
+check 0
+switch 98
+check 0
+switch 112
+check 0
+switch 84
+check 0
+check 1
+45
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 21
+check 0
+switch 83
+check 0
+switch 23
+check 0
+switch 25
+check 0
+switch 55
+check 0
+switch 27
+check 0
+switch 20
+check 0
+switch 112
+check 0
+switch 73
+check 0
+check 1
+67
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 27
+check 0
+switch 70
+check 0
+switch 20
+check 0
+switch 112
+check 0
+switch 73
+check 0
+check 1
+69
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 71
+check 0
+switch 20
+check 0
+switch 112
+check 0
+switch 73
+check 0
+check 1
+68
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+switch 83
+check 0
+switch 24
+check 0
+switch 55
+check 0
+switch 26
+check 0
+switch 27
+check 0
+switch 72
+check 0
+switch 20
+check 0
+switch 112
+check 0
+check 1
+70
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 26
+check 0
+switch 27
+check 0
+switch 72
+check 0
+switch 70
+check 0
+switch 20
+check 0
+switch 112
+check 0
+check 1
+72
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 71
+check 0
+switch 20
+check 0
+switch 112
+check 0
+check 1
+71
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 21
+check 0
+switch 83
+check 0
+switch 23
+check 0
+switch 25
+check 0
+switch 18
+check 0
+switch 55
+check 0
+switch 20
+check 0
+switch 112
+check 0
+switch 73
+check 0
+check 1
+61
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 70
+check 0
+switch 20
+check 0
+switch 112
+check 0
+switch 73
+check 0
+check 1
+63
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 71
+check 0
+switch 20
+check 0
+switch 112
+check 0
+switch 73
+check 0
+check 1
+62
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+switch 83
+check 0
+switch 24
+check 0
+switch 18
+check 0
+switch 55
+check 0
+switch 26
+check 0
+switch 72
+check 0
+switch 20
+check 0
+switch 112
+check 0
+check 1
+64
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 26
+check 0
+switch 72
+check 0
+switch 70
+check 0
+switch 20
+check 0
+switch 112
+check 0
+check 1
+66
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 71
+check 0
+switch 20
+check 0
+switch 112
+check 0
+check 1
+65
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 9
+check 0
+switch 22
+check 2
+124
+125
+check 0
+check 0
+switch 44
+check 0
+switch 43
+check 0
+check 1
+126
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 0
+switch 44
+check 0
+check 1
+189
+check 0
+switch 79
+check 0
+check 1
+188
+check 0
+switch 81
+check 0
+check 1
+187
+check 0
+check 0
+check 0
+switch 14
+check 0
+switch 47
+check 2
+165
+169
+check 0
+check 0
+switch 44
+check 0
+switch 32
+check 0
+switch 43
+check 0
+check 1
+186
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 79
+check 0
+check 3
+166
+168
+170
+check 0
+switch 81
+check 0
+check 1
+167
+check 0
+check 0
+check 0
+switch 2
+check 0
+switch 44
+check 0
+check 1
+179
+check 0
+switch 77
+check 0
+check 1
+177
+check 0
+switch 78
+check 0
+check 1
+178
+check 0
+check 0
+check 0
+switch 66
+check 0
+switch 67
+check 0
+switch 75
+check 0
+switch 72
+check 0
+switch 54
+check 0
+switch 112
+check 0
+check 1
+60
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 54
+check 0
+switch 112
+check 0
+switch 73
+check 0
+check 1
+59
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 44
+check 0
+switch 3
+check 0
+check 1
+182
+check 0
+switch 4
+check 0
+check 1
+198
+check 0
+switch 32
+check 0
+switch 43
+check 0
+switch 15
+check 0
+check 1
+184
+check 0
+switch 16
+check 0
+check 1
+183
+check 0
+switch 17
+check 0
+check 1
+185
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+switch 43
+check 0
+check 1
+10
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 1
+195
+check 0
+switch 6
+check 0
+check 1
+176
+check 0
+switch 7
+check 0
+check 1
+173
+check 0
+switch 8
+check 0
+check 1
+192
+check 0
+check 0
+check 0
+switch 3
+check 0
+switch 77
+check 0
+check 1
+180
+check 0
+switch 78
+check 0
+check 1
+181
+check 0
+check 0
+check 0
+switch 4
+check 0
+switch 79
+check 0
+check 1
+197
+check 0
+switch 81
+check 0
+check 1
+196
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 2
+5
+6
+check 0
+switch 5
+check 0
+switch 79
+check 0
+check 1
+194
+check 0
+switch 81
+check 0
+check 1
+193
+check 0
+check 0
+check 0
+switch 6
+check 0
+switch 77
+check 0
+check 1
+174
+check 0
+switch 78
+check 0
+check 1
+175
+check 0
+check 0
+check 0
+switch 7
+check 0
+switch 77
+check 0
+check 1
+171
+check 0
+switch 78
+check 0
+check 1
+172
+check 0
+check 0
+check 0
+switch 77
+check 0
+switch 15
+check 0
+check 1
+161
+check 0
+switch 16
+check 0
+check 1
+139
+check 0
+check 0
+check 0
+switch 15
+check 0
+switch 41
+check 2
+159
+163
+check 0
+check 0
+switch 78
+check 0
+check 3
+160
+162
+164
+check 0
+check 0
+check 0
+switch 8
+check 0
+switch 79
+check 0
+check 1
+191
+check 0
+switch 81
+check 0
+check 1
+190
+check 0
+check 0
+check 0
+switch 16
+check 0
+switch 78
+check 2
+137
+141
+check 3
+138
+140
+142
+check 0
+check 0
+check 0
+switch 79
+check 0
+switch 17
+check 0
+check 3
+154
+156
+158
+check 0
+check 0
+check 0
+switch 17
+check 0
+switch 11
+check 2
+153
+157
+check 0
+check 0
+switch 81
+check 0
+check 1
+155
+check 0
+check 0
+check 0
+check 0
+end_SG
+begin_DTG
+1
+1
+10
+2
+44 0
+43 0
+1
+0
+2
+3
+113 5
+54 0
+112 0
+end_DTG
+begin_DTG
+1
+1
+189
+1
+44 0
+1
+0
+145
+5
+113 7
+110 2
+109 3
+105 1
+112 0
+end_DTG
+begin_DTG
+1
+1
+179
+1
+44 0
+1
+0
+131
+5
+113 7
+110 0
+109 3
+105 0
+112 0
+end_DTG
+begin_DTG
+1
+1
+182
+1
+44 0
+1
+0
+132
+5
+113 2
+110 0
+109 3
+105 0
+112 0
+end_DTG
+begin_DTG
+1
+1
+198
+1
+44 0
+1
+0
+148
+5
+113 2
+110 2
+109 3
+105 0
+112 0
+end_DTG
+begin_DTG
+1
+1
+195
+1
+44 0
+1
+0
+147
+5
+113 7
+110 2
+109 3
+105 0
+112 0
+end_DTG
+begin_DTG
+1
+1
+176
+1
+44 0
+1
+0
+130
+5
+113 2
+110 0
+109 3
+105 1
+112 0
+end_DTG
+begin_DTG
+1
+1
+173
+1
+44 0
+1
+0
+129
+5
+113 7
+110 0
+109 3
+105 1
+112 0
+end_DTG
+begin_DTG
+1
+1
+192
+1
+44 0
+1
+0
+146
+5
+113 2
+110 2
+109 3
+105 1
+112 0
+end_DTG
+begin_DTG
+1
+1
+126
+2
+44 0
+43 0
+1
+0
+90
+5
+113 5
+54 0
+31 0
+20 0
+112 0
+end_DTG
+begin_DTG
+0
+3
+0
+180
+2
+3 0
+77 0
+0
+196
+2
+4 0
+81 0
+0
+50
+5
+113 2
+110 3
+109 3
+105 0
+112 0
+end_DTG
+begin_DTG
+0
+3
+0
+177
+2
+2 0
+77 0
+0
+193
+2
+5 0
+81 0
+0
+49
+5
+113 7
+110 3
+109 3
+105 0
+112 0
+end_DTG
+begin_DTG
+0
+3
+0
+171
+2
+7 0
+77 0
+0
+187
+2
+1 0
+81 0
+0
+47
+5
+113 7
+110 3
+109 3
+105 1
+112 0
+end_DTG
+begin_DTG
+0
+3
+0
+174
+2
+6 0
+77 0
+0
+190
+2
+8 0
+81 0
+0
+48
+5
+113 2
+110 3
+109 3
+105 1
+112 0
+end_DTG
+begin_DTG
+1
+1
+186
+3
+44 0
+32 0
+43 0
+1
+0
+122
+6
+113 5
+53 0
+29 0
+59 0
+54 0
+112 0
+end_DTG
+begin_DTG
+1
+1
+184
+3
+44 0
+32 0
+43 0
+1
+0
+119
+6
+113 5
+30 0
+54 0
+74 0
+112 0
+82 0
+end_DTG
+begin_DTG
+1
+1
+183
+3
+44 0
+32 0
+43 0
+1
+0
+103
+7
+113 5
+28 0
+54 0
+74 0
+20 0
+112 0
+82 0
+end_DTG
+begin_DTG
+1
+1
+185
+3
+44 0
+32 0
+43 0
+1
+0
+115
+7
+113 5
+53 0
+111 0
+59 0
+54 0
+20 0
+112 0
+end_DTG
+begin_DTG
+0
+1
+0
+3
+3
+113 5
+54 0
+112 0
+end_DTG
+begin_DTG
+0
+1
+0
+4
+3
+113 5
+54 0
+112 0
+end_DTG
+begin_DTG
+0
+1
+0
+4
+3
+113 5
+54 0
+112 0
+end_DTG
+begin_DTG
+0
+5
+0
+139
+2
+77 0
+16 0
+0
+155
+2
+17 0
+81 0
+0
+161
+2
+77 0
+15 0
+0
+167
+2
+14 0
+81 0
+0
+2
+3
+113 5
+54 0
+112 0
+end_DTG
+begin_DTG
+0
+5
+0
+139
+2
+77 0
+16 0
+0
+155
+2
+17 0
+81 0
+0
+161
+2
+77 0
+15 0
+0
+167
+2
+14 0
+81 0
+0
+2
+3
+113 5
+54 0
+112 0
+end_DTG
+begin_DTG
+0
+5
+0
+139
+2
+77 0
+16 0
+0
+155
+2
+17 0
+81 0
+0
+161
+2
+77 0
+15 0
+0
+167
+2
+14 0
+81 0
+0
+2
+3
+113 5
+54 0
+112 0
+end_DTG
+begin_DTG
+0
+5
+0
+139
+2
+77 0
+16 0
+0
+155
+2
+17 0
+81 0
+0
+161
+2
+77 0
+15 0
+0
+167
+2
+14 0
+81 0
+0
+2
+3
+113 5
+54 0
+112 0
+end_DTG
+begin_DTG
+0
+5
+0
+139
+2
+77 0
+16 0
+0
+155
+2
+17 0
+81 0
+0
+161
+2
+77 0
+15 0
+0
+167
+2
+14 0
+81 0
+0
+2
+3
+113 5
+54 0
+112 0
+end_DTG
+begin_DTG
+0
+5
+0
+139
+2
+77 0
+16 0
+0
+155
+2
+17 0
+81 0
+0
+161
+2
+77 0
+15 0
+0
+167
+2
+14 0
+81 0
+0
+2
+3
+113 5
+54 0
+112 0
+end_DTG
+begin_DTG
+0
+1
+0
+9
+4
+113 5
+54 0
+20 0
+112 0
+end_DTG
+begin_DTG
+0
+2
+0
+75
+6
+113 1
+110 4
+109 4
+85 0
+108 0
+112 0
+0
+78
+6
+113 6
+110 4
+109 4
+85 0
+108 0
+112 0
+end_DTG
+begin_DTG
+0
+2
+0
+82
+6
+113 1
+110 4
+109 5
+108 0
+86 0
+112 0
+0
+85
+6
+113 6
+110 4
+109 5
+108 0
+86 0
+112 0
+end_DTG
+begin_DTG
+0
+2
+0
+81
+6
+113 1
+110 4
+109 5
+85 0
+108 0
+112 0
+0
+84
+6
+113 6
+110 4
+109 5
+85 0
+108 0
+112 0
+end_DTG
+begin_DTG
+0
+2
+0
+74
+6
+113 1
+110 4
+109 4
+108 0
+112 0
+87 0
+0
+77
+6
+113 6
+110 4
+109 4
+108 0
+112 0
+87 0
+end_DTG
+begin_DTG
+4
+1
+183
+3
+44 0
+43 0
+16 0
+1
+184
+3
+44 0
+43 0
+15 0
+1
+185
+3
+44 0
+43 0
+17 0
+1
+186
+3
+14 0
+44 0
+43 0
+4
+0
+141
+1
+16 0
+0
+157
+1
+17 0
+0
+163
+1
+15 0
+0
+169
+1
+14 0
+end_DTG
+begin_DTG
+0
+6
+0
+171
+2
+7 0
+77 0
+0
+177
+2
+2 0
+77 0
+0
+187
+2
+1 0
+81 0
+0
+193
+2
+5 0
+81 0
+0
+47
+5
+113 7
+110 3
+109 3
+105 1
+112 0
+0
+49
+5
+113 7
+110 3
+109 3
+105 0
+112 0
+end_DTG
+begin_DTG
+6
+1
+171
+2
+7 0
+77 0
+1
+177
+2
+2 0
+77 0
+1
+187
+2
+1 0
+81 0
+1
+193
+2
+5 0
+81 0
+1
+47
+5
+113 7
+110 3
+109 3
+105 1
+112 0
+1
+49
+5
+113 7
+110 3
+109 3
+105 0
+112 0
+0
+end_DTG
+begin_DTG
+0
+6
+0
+171
+2
+7 0
+77 0
+0
+177
+2
+2 0
+77 0
+0
+187
+2
+1 0
+81 0
+0
+193
+2
+5 0
+81 0
+0
+47
+5
+113 7
+110 3
+109 3
+105 1
+112 0
+0
+49
+5
+113 7
+110 3
+109 3
+105 0
+112 0
+end_DTG
+begin_DTG
+0
+6
+0
+171
+2
+7 0
+77 0
+0
+177
+2
+2 0
+77 0
+0
+187
+2
+1 0
+81 0
+0
+193
+2
+5 0
+81 0
+0
+47
+5
+113 7
+110 3
+109 3
+105 1
+112 0
+0
+49
+5
+113 7
+110 3
+109 3
+105 0
+112 0
+end_DTG
+begin_DTG
+0
+6
+0
+171
+2
+7 0
+77 0
+0
+177
+2
+2 0
+77 0
+0
+187
+2
+1 0
+81 0
+0
+193
+2
+5 0
+81 0
+0
+47
+5
+113 7
+110 3
+109 3
+105 1
+112 0
+0
+49
+5
+113 7
+110 3
+109 3
+105 0
+112 0
+end_DTG
+begin_DTG
+0
+6
+0
+174
+2
+6 0
+77 0
+0
+180
+2
+3 0
+77 0
+0
+190
+2
+8 0
+81 0
+0
+196
+2
+4 0
+81 0
+0
+48
+5
+113 2
+110 3
+109 3
+105 1
+112 0
+0
+50
+5
+113 2
+110 3
+109 3
+105 0
+112 0
+end_DTG
+begin_DTG
+0
+6
+0
+174
+2
+6 0
+77 0
+0
+180
+2
+3 0
+77 0
+0
+190
+2
+8 0
+81 0
+0
+196
+2
+4 0
+81 0
+0
+48
+5
+113 2
+110 3
+109 3
+105 1
+112 0
+0
+50
+5
+113 2
+110 3
+109 3
+105 0
+112 0
+end_DTG
+begin_DTG
+0
+6
+0
+174
+2
+6 0
+77 0
+0
+180
+2
+3 0
+77 0
+0
+190
+2
+8 0
+81 0
+0
+196
+2
+4 0
+81 0
+0
+48
+5
+113 2
+110 3
+109 3
+105 1
+112 0
+0
+50
+5
+113 2
+110 3
+109 3
+105 0
+112 0
+end_DTG
+begin_DTG
+6
+1
+174
+2
+6 0
+77 0
+1
+180
+2
+3 0
+77 0
+1
+190
+2
+8 0
+81 0
+1
+196
+2
+4 0
+81 0
+1
+48
+5
+113 2
+110 3
+109 3
+105 1
+112 0
+1
+50
+5
+113 2
+110 3
+109 3
+105 0
+112 0
+0
+end_DTG
+begin_DTG
+0
+6
+0
+174
+2
+6 0
+77 0
+0
+180
+2
+3 0
+77 0
+0
+190
+2
+8 0
+81 0
+0
+196
+2
+4 0
+81 0
+0
+48
+5
+113 2
+110 3
+109 3
+105 1
+112 0
+0
+50
+5
+113 2
+110 3
+109 3
+105 0
+112 0
+end_DTG
+begin_DTG
+6
+1
+10
+2
+44 0
+0 0
+1
+126
+2
+9 0
+44 0
+1
+183
+3
+44 0
+32 0
+16 0
+1
+184
+3
+44 0
+32 0
+15 0
+1
+185
+3
+44 0
+32 0
+17 0
+1
+186
+3
+14 0
+44 0
+32 0
+10
+0
+6
+1
+0 0
+0
+125
+1
+9 0
+0
+139
+2
+77 0
+16 0
+0
+140
+2
+16 0
+78 0
+0
+155
+2
+17 0
+81 0
+0
+156
+2
+79 0
+17 0
+0
+161
+2
+77 0
+15 0
+0
+162
+2
+15 0
+78 0
+0
+167
+2
+14 0
+81 0
+0
+168
+2
+14 0
+79 0
+end_DTG
+begin_DTG
+14
+1
+173
+1
+7 0
+1
+176
+1
+6 0
+1
+179
+1
+2 0
+1
+182
+1
+3 0
+1
+189
+1
+1 0
+1
+192
+1
+8 0
+1
+195
+1
+5 0
+1
+198
+1
+4 0
+1
+10
+2
+0 0
+43 0
+1
+126
+2
+9 0
+43 0
+1
+183
+3
+32 0
+43 0
+16 0
+1
+184
+3
+32 0
+43 0
+15 0
+1
+185
+3
+32 0
+43 0
+17 0
+1
+186
+3
+14 0
+32 0
+43 0
+22
+0
+124
+1
+9 0
+0
+137
+1
+16 0
+0
+5
+1
+0 0
+0
+153
+1
+17 0
+0
+159
+1
+15 0
+0
+165
+1
+14 0
+0
+197
+2
+4 0
+79 0
+0
+196
+2
+4 0
+81 0
+0
+194
+2
+5 0
+79 0
+0
+193
+2
+5 0
+81 0
+0
+191
+2
+8 0
+79 0
+0
+190
+2
+8 0
+81 0
+0
+188
+2
+1 0
+79 0
+0
+187
+2
+1 0
+81 0
+0
+181
+2
+3 0
+78 0
+0
+180
+2
+3 0
+77 0
+0
+178
+2
+2 0
+78 0
+0
+177
+2
+2 0
+77 0
+0
+175
+2
+6 0
+78 0
+0
+174
+2
+6 0
+77 0
+0
+172
+2
+7 0
+78 0
+0
+171
+2
+7 0
+77 0
+end_DTG
+begin_DTG
+0
+4
+0
+23
+6
+113 1
+110 1
+109 5
+97 0
+112 0
+107 0
+0
+25
+6
+113 6
+110 1
+109 5
+97 0
+112 0
+107 0
+0
+31
+6
+113 1
+110 1
+109 5
+97 0
+106 0
+112 0
+0
+33
+6
+113 6
+110 1
+109 5
+97 0
+106 0
+112 0
+end_DTG
+begin_DTG
+0
+4
+0
+24
+6
+113 1
+110 1
+109 5
+90 0
+112 0
+107 0
+0
+26
+6
+113 6
+110 1
+109 5
+90 0
+112 0
+107 0
+0
+32
+6
+113 1
+110 1
+109 5
+90 0
+106 0
+112 0
+0
+34
+6
+113 6
+110 1
+109 5
+90 0
+106 0
+112 0
+end_DTG
+begin_DTG
+0
+4
+0
+20
+6
+113 1
+110 1
+109 4
+90 0
+112 0
+107 0
+0
+22
+6
+113 6
+110 1
+109 4
+90 0
+112 0
+107 0
+0
+28
+6
+113 1
+110 1
+109 4
+90 0
+106 0
+112 0
+0
+30
+6
+113 6
+110 1
+109 4
+90 0
+106 0
+112 0
+end_DTG
+begin_DTG
+0
+4
+0
+19
+6
+113 1
+110 1
+109 4
+97 0
+112 0
+107 0
+0
+21
+6
+113 6
+110 1
+109 4
+97 0
+112 0
+107 0
+0
+27
+6
+113 1
+110 1
+109 4
+97 0
+106 0
+112 0
+0
+29
+6
+113 6
+110 1
+109 4
+97 0
+106 0
+112 0
+end_DTG
+begin_DTG
+0
+4
+0
+20
+6
+113 1
+110 1
+109 4
+90 0
+112 0
+107 0
+0
+22
+6
+113 6
+110 1
+109 4
+90 0
+112 0
+107 0
+0
+24
+6
+113 1
+110 1
+109 5
+90 0
+112 0
+107 0
+0
+26
+6
+113 6
+110 1
+109 5
+90 0
+112 0
+107 0
+end_DTG
+begin_DTG
+0
+4
+0
+28
+6
+113 1
+110 1
+109 4
+90 0
+106 0
+112 0
+0
+30
+6
+113 6
+110 1
+109 4
+90 0
+106 0
+112 0
+0
+32
+6
+113 1
+110 1
+109 5
+90 0
+106 0
+112 0
+0
+34
+6
+113 6
+110 1
+109 5
+90 0
+106 0
+112 0
+end_DTG
+begin_DTG
+0
+4
+0
+27
+6
+113 1
+110 1
+109 4
+97 0
+106 0
+112 0
+0
+29
+6
+113 6
+110 1
+109 4
+97 0
+106 0
+112 0
+0
+31
+6
+113 1
+110 1
+109 5
+97 0
+106 0
+112 0
+0
+33
+6
+113 6
+110 1
+109 5
+97 0
+106 0
+112 0
+end_DTG
+begin_DTG
+0
+4
+0
+19
+6
+113 1
+110 1
+109 4
+97 0
+112 0
+107 0
+0
+21
+6
+113 6
+110 1
+109 4
+97 0
+112 0
+107 0
+0
+23
+6
+113 1
+110 1
+109 5
+97 0
+112 0
+107 0
+0
+25
+6
+113 6
+110 1
+109 5
+97 0
+112 0
+107 0
+end_DTG
+begin_DTG
+0
+4
+0
+76
+6
+113 1
+110 4
+109 4
+108 0
+86 0
+112 0
+0
+79
+6
+113 6
+110 4
+109 4
+108 0
+86 0
+112 0
+0
+82
+6
+113 1
+110 4
+109 5
+108 0
+86 0
+112 0
+0
+85
+6
+113 6
+110 4
+109 5
+108 0
+86 0
+112 0
+end_DTG
+begin_DTG
+0
+5
+0
+139
+2
+77 0
+16 0
+0
+155
+2
+17 0
+81 0
+0
+161
+2
+77 0
+15 0
+0
+167
+2
+14 0
+81 0
+0
+1
+2
+113 5
+112 0
+end_DTG
+begin_DTG
+4
+1
+74
+6
+113 1
+110 4
+109 4
+108 0
+112 0
+87 0
+1
+77
+6
+113 6
+110 4
+109 4
+108 0
+112 0
+87 0
+1
+80
+6
+113 1
+110 4
+109 5
+108 0
+112 0
+87 0
+1
+83
+6
+113 6
+110 4
+109 5
+108 0
+112 0
+87 0
+0
+end_DTG
+begin_DTG
+0
+4
+0
+76
+6
+113 1
+110 4
+109 4
+108 0
+86 0
+112 0
+0
+79
+6
+113 6
+110 4
+109 4
+108 0
+86 0
+112 0
+0
+82
+6
+113 1
+110 4
+109 5
+108 0
+86 0
+112 0
+0
+85
+6
+113 6
+110 4
+109 5
+108 0
+86 0
+112 0
+end_DTG
+begin_DTG
+0
+4
+0
+76
+6
+113 1
+110 4
+109 4
+108 0
+86 0
+112 0
+0
+79
+6
+113 6
+110 4
+109 4
+108 0
+86 0
+112 0
+0
+82
+6
+113 1
+110 4
+109 5
+108 0
+86 0
+112 0
+0
+85
+6
+113 6
+110 4
+109 5
+108 0
+86 0
+112 0
+end_DTG
+begin_DTG
+0
+4
+0
+75
+6
+113 1
+110 4
+109 4
+85 0
+108 0
+112 0
+0
+78
+6
+113 6
+110 4
+109 4
+85 0
+108 0
+112 0
+0
+81
+6
+113 1
+110 4
+109 5
+85 0
+108 0
+112 0
+0
+84
+6
+113 6
+110 4
+109 5
+85 0
+108 0
+112 0
+end_DTG
+begin_DTG
+0
+4
+0
+76
+6
+113 1
+110 4
+109 4
+108 0
+86 0
+112 0
+0
+79
+6
+113 6
+110 4
+109 4
+108 0
+86 0
+112 0
+0
+82
+6
+113 1
+110 4
+109 5
+108 0
+86 0
+112 0
+0
+85
+6
+113 6
+110 4
+109 5
+108 0
+86 0
+112 0
+end_DTG
+begin_DTG
+0
+5
+0
+139
+2
+77 0
+16 0
+0
+155
+2
+17 0
+81 0
+0
+161
+2
+77 0
+15 0
+0
+167
+2
+14 0
+81 0
+0
+2
+3
+113 5
+54 0
+112 0
+end_DTG
+begin_DTG
+0
+5
+0
+139
+2
+77 0
+16 0
+0
+155
+2
+17 0
+81 0
+0
+161
+2
+77 0
+15 0
+0
+167
+2
+14 0
+81 0
+0
+2
+3
+113 5
+54 0
+112 0
+end_DTG
+begin_DTG
+0
+5
+0
+139
+2
+77 0
+16 0
+0
+155
+2
+17 0
+81 0
+0
+161
+2
+77 0
+15 0
+0
+167
+2
+14 0
+81 0
+0
+2
+3
+113 5
+54 0
+112 0
+end_DTG
+begin_DTG
+0
+5
+0
+139
+2
+77 0
+16 0
+0
+155
+2
+17 0
+81 0
+0
+161
+2
+77 0
+15 0
+0
+167
+2
+14 0
+81 0
+0
+2
+3
+113 5
+54 0
+112 0
+end_DTG
+begin_DTG
+0
+5
+0
+139
+2
+77 0
+16 0
+0
+155
+2
+17 0
+81 0
+0
+161
+2
+77 0
+15 0
+0
+167
+2
+14 0
+81 0
+0
+2
+3
+113 5
+54 0
+112 0
+end_DTG
+begin_DTG
+2
+1
+55
+7
+113 4
+33 0
+62 0
+36 0
+112 0
+37 0
+69 0
+1
+56
+7
+113 4
+33 0
+61 0
+36 0
+112 0
+37 0
+64 0
+2
+0
+51
+4
+113 5
+35 0
+12 0
+112 0
+0
+53
+4
+113 5
+35 0
+112 0
+11 0
+end_DTG
+begin_DTG
+2
+1
+59
+5
+67 0
+75 0
+54 0
+112 0
+73 0
+1
+60
+5
+67 0
+75 0
+72 0
+54 0
+112 0
+4
+0
+55
+8
+113 4
+33 0
+65 0
+62 0
+36 0
+112 0
+37 0
+69 0
+0
+56
+8
+113 4
+33 0
+65 0
+61 0
+36 0
+112 0
+37 0
+64 0
+0
+57
+8
+113 4
+68 0
+62 0
+39 0
+40 0
+112 0
+42 0
+69 0
+0
+58
+8
+113 4
+68 0
+61 0
+39 0
+40 0
+112 0
+64 0
+42 0
+end_DTG
+begin_DTG
+2
+1
+59
+5
+66 0
+75 0
+54 0
+112 0
+73 0
+1
+60
+5
+66 0
+75 0
+72 0
+54 0
+112 0
+4
+0
+55
+8
+113 4
+33 0
+65 0
+62 0
+36 0
+112 0
+37 0
+69 0
+0
+56
+8
+113 4
+33 0
+65 0
+61 0
+36 0
+112 0
+37 0
+64 0
+0
+57
+8
+113 4
+68 0
+62 0
+39 0
+40 0
+112 0
+42 0
+69 0
+0
+58
+8
+113 4
+68 0
+61 0
+39 0
+40 0
+112 0
+64 0
+42 0
+end_DTG
+begin_DTG
+2
+1
+57
+7
+113 4
+62 0
+39 0
+40 0
+112 0
+42 0
+69 0
+1
+58
+7
+113 4
+61 0
+39 0
+40 0
+112 0
+64 0
+42 0
+2
+0
+52
+4
+113 5
+38 0
+112 0
+13 0
+0
+54
+4
+113 5
+38 0
+10 0
+112 0
+end_DTG
+begin_DTG
+0
+5
+0
+139
+2
+77 0
+16 0
+0
+155
+2
+17 0
+81 0
+0
+161
+2
+77 0
+15 0
+0
+167
+2
+14 0
+81 0
+0
+2
+3
+113 5
+54 0
+112 0
+end_DTG
+begin_DTG
+4
+1
+76
+6
+113 1
+110 4
+109 4
+108 0
+86 0
+112 0
+1
+79
+6
+113 6
+110 4
+109 4
+108 0
+86 0
+112 0
+1
+82
+6
+113 1
+110 4
+109 5
+108 0
+86 0
+112 0
+1
+85
+6
+113 6
+110 4
+109 5
+108 0
+86 0
+112 0
+0
+end_DTG
+begin_DTG
+4
+1
+75
+6
+113 1
+110 4
+109 4
+85 0
+108 0
+112 0
+1
+78
+6
+113 6
+110 4
+109 4
+85 0
+108 0
+112 0
+1
+81
+6
+113 1
+110 4
+109 5
+85 0
+108 0
+112 0
+1
+84
+6
+113 6
+110 4
+109 5
+85 0
+108 0
+112 0
+0
+end_DTG
+begin_DTG
+6
+1
+64
+9
+109 5
+22 0
+83 0
+24 0
+18 0
+55 0
+26 0
+20 0
+112 0
+1
+65
+9
+109 5
+22 0
+83 0
+24 0
+18 0
+26 0
+71 0
+20 0
+112 0
+1
+66
+9
+109 5
+22 0
+83 0
+24 0
+18 0
+26 0
+70 0
+20 0
+112 0
+1
+70
+9
+109 4
+22 0
+83 0
+24 0
+55 0
+26 0
+27 0
+20 0
+112 0
+1
+71
+9
+109 4
+22 0
+83 0
+24 0
+26 0
+27 0
+71 0
+20 0
+112 0
+1
+72
+9
+109 4
+22 0
+83 0
+24 0
+26 0
+27 0
+70 0
+20 0
+112 0
+2
+0
+56
+8
+113 4
+33 0
+65 0
+61 0
+36 0
+112 0
+37 0
+64 0
+0
+58
+8
+113 4
+68 0
+61 0
+39 0
+40 0
+112 0
+64 0
+42 0
+end_DTG
+begin_DTG
+6
+1
+61
+9
+109 5
+21 0
+83 0
+23 0
+25 0
+18 0
+55 0
+20 0
+112 0
+1
+62
+9
+109 5
+21 0
+83 0
+23 0
+25 0
+18 0
+71 0
+20 0
+112 0
+1
+63
+9
+109 5
+21 0
+83 0
+23 0
+25 0
+18 0
+70 0
+20 0
+112 0
+1
+67
+9
+109 4
+21 0
+83 0
+23 0
+25 0
+55 0
+27 0
+20 0
+112 0
+1
+68
+9
+109 4
+21 0
+83 0
+23 0
+25 0
+27 0
+71 0
+20 0
+112 0
+1
+69
+9
+109 4
+21 0
+83 0
+23 0
+25 0
+27 0
+70 0
+20 0
+112 0
+2
+0
+55
+8
+113 4
+33 0
+65 0
+62 0
+36 0
+112 0
+37 0
+69 0
+0
+57
+8
+113 4
+68 0
+62 0
+39 0
+40 0
+112 0
+42 0
+69 0
+end_DTG
+begin_DTG
+0
+4
+0
+75
+6
+113 1
+110 4
+109 4
+85 0
+108 0
+112 0
+0
+78
+6
+113 6
+110 4
+109 4
+85 0
+108 0
+112 0
+0
+81
+6
+113 1
+110 4
+109 5
+85 0
+108 0
+112 0
+0
+84
+6
+113 6
+110 4
+109 5
+85 0
+108 0
+112 0
+end_DTG
+begin_DTG
+0
+5
+0
+139
+2
+77 0
+16 0
+0
+155
+2
+17 0
+81 0
+0
+161
+2
+77 0
+15 0
+0
+167
+2
+14 0
+81 0
+0
+1
+2
+113 5
+112 0
+end_DTG
+begin_DTG
+0
+4
+0
+75
+6
+113 1
+110 4
+109 4
+85 0
+108 0
+112 0
+0
+78
+6
+113 6
+110 4
+109 4
+85 0
+108 0
+112 0
+0
+81
+6
+113 1
+110 4
+109 5
+85 0
+108 0
+112 0
+0
+84
+6
+113 6
+110 4
+109 5
+85 0
+108 0
+112 0
+end_DTG
+begin_DTG
+0
+4
+0
+75
+6
+113 1
+110 4
+109 4
+85 0
+108 0
+112 0
+0
+78
+6
+113 6
+110 4
+109 4
+85 0
+108 0
+112 0
+0
+81
+6
+113 1
+110 4
+109 5
+85 0
+108 0
+112 0
+0
+84
+6
+113 6
+110 4
+109 5
+85 0
+108 0
+112 0
+end_DTG
+begin_DTG
+4
+1
+75
+6
+113 1
+110 4
+109 4
+85 0
+108 0
+112 0
+1
+78
+6
+113 6
+110 4
+109 4
+85 0
+108 0
+112 0
+1
+81
+6
+113 1
+110 4
+109 5
+85 0
+108 0
+112 0
+1
+84
+6
+113 6
+110 4
+109 5
+85 0
+108 0
+112 0
+0
+end_DTG
+begin_DTG
+4
+1
+76
+6
+113 1
+110 4
+109 4
+108 0
+86 0
+112 0
+1
+79
+6
+113 6
+110 4
+109 4
+108 0
+86 0
+112 0
+1
+82
+6
+113 1
+110 4
+109 5
+108 0
+86 0
+112 0
+1
+85
+6
+113 6
+110 4
+109 5
+108 0
+86 0
+112 0
+0
+end_DTG
+begin_DTG
+0
+4
+0
+74
+6
+113 1
+110 4
+109 4
+108 0
+112 0
+87 0
+0
+77
+6
+113 6
+110 4
+109 4
+108 0
+112 0
+87 0
+0
+80
+6
+113 1
+110 4
+109 5
+108 0
+112 0
+87 0
+0
+83
+6
+113 6
+110 4
+109 5
+108 0
+112 0
+87 0
+end_DTG
+begin_DTG
+0
+4
+0
+76
+6
+113 1
+110 4
+109 4
+108 0
+86 0
+112 0
+0
+79
+6
+113 6
+110 4
+109 4
+108 0
+86 0
+112 0
+0
+82
+6
+113 1
+110 4
+109 5
+108 0
+86 0
+112 0
+0
+85
+6
+113 6
+110 4
+109 5
+108 0
+86 0
+112 0
+end_DTG
+begin_DTG
+0
+4
+0
+75
+6
+113 1
+110 4
+109 4
+85 0
+108 0
+112 0
+0
+78
+6
+113 6
+110 4
+109 4
+85 0
+108 0
+112 0
+0
+81
+6
+113 1
+110 4
+109 5
+85 0
+108 0
+112 0
+0
+84
+6
+113 6
+110 4
+109 5
+85 0
+108 0
+112 0
+end_DTG
+begin_DTG
+12
+1
+61
+9
+109 5
+21 0
+23 0
+25 0
+18 0
+55 0
+20 0
+112 0
+73 0
+1
+62
+9
+109 5
+21 0
+23 0
+25 0
+18 0
+71 0
+20 0
+112 0
+73 0
+1
+63
+9
+109 5
+21 0
+23 0
+25 0
+18 0
+70 0
+20 0
+112 0
+73 0
+1
+64
+9
+109 5
+22 0
+24 0
+18 0
+55 0
+26 0
+72 0
+20 0
+112 0
+1
+65
+9
+109 5
+22 0
+24 0
+18 0
+26 0
+72 0
+71 0
+20 0
+112 0
+1
+66
+9
+109 5
+22 0
+24 0
+18 0
+26 0
+72 0
+70 0
+20 0
+112 0
+1
+67
+9
+109 4
+21 0
+23 0
+25 0
+55 0
+27 0
+20 0
+112 0
+73 0
+1
+68
+9
+109 4
+21 0
+23 0
+25 0
+27 0
+71 0
+20 0
+112 0
+73 0
+1
+69
+9
+109 4
+21 0
+23 0
+25 0
+27 0
+70 0
+20 0
+112 0
+73 0
+1
+70
+9
+109 4
+22 0
+24 0
+55 0
+26 0
+27 0
+72 0
+20 0
+112 0
+1
+71
+9
+109 4
+22 0
+24 0
+26 0
+27 0
+72 0
+71 0
+20 0
+112 0
+1
+72
+9
+109 4
+22 0
+24 0
+26 0
+27 0
+72 0
+70 0
+20 0
+112 0
+2
+0
+59
+6
+66 0
+67 0
+75 0
+54 0
+112 0
+73 0
+0
+60
+6
+66 0
+67 0
+75 0
+72 0
+54 0
+112 0
+end_DTG
+begin_DTG
+4
+1
+43
+5
+109 2
+105 0
+45 0
+98 0
+112 0
+1
+44
+5
+109 0
+105 0
+46 0
+91 0
+112 0
+1
+45
+5
+109 2
+105 1
+48 0
+98 0
+112 0
+1
+46
+5
+109 0
+105 1
+47 0
+91 0
+112 0
+4
+0
+39
+5
+113 0
+34 0
+20 0
+112 0
+107 0
+0
+40
+5
+113 0
+20 0
+41 0
+112 0
+107 0
+0
+41
+5
+113 0
+34 0
+106 0
+20 0
+112 0
+0
+42
+5
+113 0
+106 0
+20 0
+41 0
+112 0
+end_DTG
+begin_DTG
+4
+1
+75
+5
+113 1
+110 4
+109 4
+108 0
+112 0
+1
+78
+5
+113 6
+110 4
+109 4
+108 0
+112 0
+1
+81
+5
+113 1
+110 4
+109 5
+108 0
+112 0
+1
+84
+5
+113 6
+110 4
+109 5
+108 0
+112 0
+4
+0
+62
+10
+109 5
+21 0
+83 0
+23 0
+25 0
+18 0
+71 0
+20 0
+112 0
+73 0
+0
+65
+10
+109 5
+22 0
+83 0
+24 0
+18 0
+26 0
+72 0
+71 0
+20 0
+112 0
+0
+68
+10
+109 4
+21 0
+83 0
+23 0
+25 0
+27 0
+71 0
+20 0
+112 0
+73 0
+0
+71
+10
+109 4
+22 0
+83 0
+24 0
+26 0
+27 0
+72 0
+71 0
+20 0
+112 0
+end_DTG
+begin_DTG
+4
+1
+76
+5
+113 1
+110 4
+109 4
+108 0
+112 0
+1
+79
+5
+113 6
+110 4
+109 4
+108 0
+112 0
+1
+82
+5
+113 1
+110 4
+109 5
+108 0
+112 0
+1
+85
+5
+113 6
+110 4
+109 5
+108 0
+112 0
+4
+0
+63
+10
+109 5
+21 0
+83 0
+23 0
+25 0
+18 0
+70 0
+20 0
+112 0
+73 0
+0
+66
+10
+109 5
+22 0
+83 0
+24 0
+18 0
+26 0
+72 0
+70 0
+20 0
+112 0
+0
+69
+10
+109 4
+21 0
+83 0
+23 0
+25 0
+27 0
+70 0
+20 0
+112 0
+73 0
+0
+72
+10
+109 4
+22 0
+83 0
+24 0
+26 0
+27 0
+72 0
+70 0
+20 0
+112 0
+end_DTG
+begin_DTG
+4
+1
+74
+5
+113 1
+110 4
+109 4
+108 0
+112 0
+1
+77
+5
+113 6
+110 4
+109 4
+108 0
+112 0
+1
+80
+5
+113 1
+110 4
+109 5
+108 0
+112 0
+1
+83
+5
+113 6
+110 4
+109 5
+108 0
+112 0
+4
+0
+61
+10
+109 5
+21 0
+83 0
+23 0
+25 0
+18 0
+55 0
+20 0
+112 0
+73 0
+0
+64
+10
+109 5
+22 0
+83 0
+24 0
+18 0
+55 0
+26 0
+72 0
+20 0
+112 0
+0
+67
+10
+109 4
+21 0
+83 0
+23 0
+25 0
+55 0
+27 0
+20 0
+112 0
+73 0
+0
+70
+10
+109 4
+22 0
+83 0
+24 0
+55 0
+26 0
+27 0
+72 0
+20 0
+112 0
+end_DTG
+begin_DTG
+2
+1
+13
+6
+109 1
+75 0
+100 0
+54 0
+20 0
+112 0
+1
+14
+6
+109 1
+75 0
+95 0
+54 0
+20 0
+112 0
+2
+0
+11
+6
+113 1
+110 5
+22 0
+24 0
+26 0
+112 0
+0
+12
+6
+113 6
+110 5
+21 0
+23 0
+25 0
+112 0
+end_DTG
+begin_DTG
+6
+1
+73
+3
+110 3
+106 0
+112 0
+1
+86
+4
+110 3
+31 0
+112 0
+107 0
+1
+127
+4
+110 0
+28 0
+112 0
+107 0
+1
+128
+4
+110 0
+30 0
+106 0
+112 0
+1
+143
+4
+110 2
+111 0
+112 0
+107 0
+1
+144
+4
+110 2
+29 0
+106 0
+112 0
+12
+0
+61
+10
+109 5
+21 0
+83 0
+23 0
+25 0
+18 0
+55 0
+20 0
+112 0
+73 0
+0
+62
+10
+109 5
+21 0
+83 0
+23 0
+25 0
+18 0
+71 0
+20 0
+112 0
+73 0
+0
+63
+10
+109 5
+21 0
+83 0
+23 0
+25 0
+18 0
+70 0
+20 0
+112 0
+73 0
+0
+64
+10
+109 5
+22 0
+83 0
+24 0
+18 0
+55 0
+26 0
+72 0
+20 0
+112 0
+0
+65
+10
+109 5
+22 0
+83 0
+24 0
+18 0
+26 0
+72 0
+71 0
+20 0
+112 0
+0
+66
+10
+109 5
+22 0
+83 0
+24 0
+18 0
+26 0
+72 0
+70 0
+20 0
+112 0
+0
+67
+10
+109 4
+21 0
+83 0
+23 0
+25 0
+55 0
+27 0
+20 0
+112 0
+73 0
+0
+68
+10
+109 4
+21 0
+83 0
+23 0
+25 0
+27 0
+71 0
+20 0
+112 0
+73 0
+0
+69
+10
+109 4
+21 0
+83 0
+23 0
+25 0
+27 0
+70 0
+20 0
+112 0
+73 0
+0
+70
+10
+109 4
+22 0
+83 0
+24 0
+55 0
+26 0
+27 0
+72 0
+20 0
+112 0
+0
+71
+10
+109 4
+22 0
+83 0
+24 0
+26 0
+27 0
+72 0
+71 0
+20 0
+112 0
+0
+72
+10
+109 4
+22 0
+83 0
+24 0
+26 0
+27 0
+72 0
+70 0
+20 0
+112 0
+end_DTG
+begin_DTG
+8
+1
+20
+5
+113 1
+110 1
+109 4
+112 0
+107 0
+1
+22
+5
+113 6
+110 1
+109 4
+112 0
+107 0
+1
+24
+5
+113 1
+110 1
+109 5
+112 0
+107 0
+1
+26
+5
+113 6
+110 1
+109 5
+112 0
+107 0
+1
+28
+5
+113 1
+110 1
+109 4
+106 0
+112 0
+1
+30
+5
+113 6
+110 1
+109 4
+106 0
+112 0
+1
+32
+5
+113 1
+110 1
+109 5
+106 0
+112 0
+1
+34
+5
+113 6
+110 1
+109 5
+106 0
+112 0
+1
+0
+14
+7
+109 1
+75 0
+95 0
+54 0
+20 0
+112 0
+88 0
+end_DTG
+begin_DTG
+0
+8
+0
+20
+6
+113 1
+110 1
+109 4
+90 0
+112 0
+107 0
+0
+22
+6
+113 6
+110 1
+109 4
+90 0
+112 0
+107 0
+0
+24
+6
+113 1
+110 1
+109 5
+90 0
+112 0
+107 0
+0
+26
+6
+113 6
+110 1
+109 5
+90 0
+112 0
+107 0
+0
+28
+6
+113 1
+110 1
+109 4
+90 0
+106 0
+112 0
+0
+30
+6
+113 6
+110 1
+109 4
+90 0
+106 0
+112 0
+0
+32
+6
+113 1
+110 1
+109 5
+90 0
+106 0
+112 0
+0
+34
+6
+113 6
+110 1
+109 5
+90 0
+106 0
+112 0
+end_DTG
+begin_DTG
+0
+8
+0
+20
+6
+113 1
+110 1
+109 4
+90 0
+112 0
+107 0
+0
+22
+6
+113 6
+110 1
+109 4
+90 0
+112 0
+107 0
+0
+24
+6
+113 1
+110 1
+109 5
+90 0
+112 0
+107 0
+0
+26
+6
+113 6
+110 1
+109 5
+90 0
+112 0
+107 0
+0
+28
+6
+113 1
+110 1
+109 4
+90 0
+106 0
+112 0
+0
+30
+6
+113 6
+110 1
+109 4
+90 0
+106 0
+112 0
+0
+32
+6
+113 1
+110 1
+109 5
+90 0
+106 0
+112 0
+0
+34
+6
+113 6
+110 1
+109 5
+90 0
+106 0
+112 0
+end_DTG
+begin_DTG
+0
+8
+0
+20
+6
+113 1
+110 1
+109 4
+90 0
+112 0
+107 0
+0
+22
+6
+113 6
+110 1
+109 4
+90 0
+112 0
+107 0
+0
+24
+6
+113 1
+110 1
+109 5
+90 0
+112 0
+107 0
+0
+26
+6
+113 6
+110 1
+109 5
+90 0
+112 0
+107 0
+0
+28
+6
+113 1
+110 1
+109 4
+90 0
+106 0
+112 0
+0
+30
+6
+113 6
+110 1
+109 4
+90 0
+106 0
+112 0
+0
+32
+6
+113 1
+110 1
+109 5
+90 0
+106 0
+112 0
+0
+34
+6
+113 6
+110 1
+109 5
+90 0
+106 0
+112 0
+end_DTG
+begin_DTG
+0
+8
+0
+20
+6
+113 1
+110 1
+109 4
+90 0
+112 0
+107 0
+0
+22
+6
+113 6
+110 1
+109 4
+90 0
+112 0
+107 0
+0
+24
+6
+113 1
+110 1
+109 5
+90 0
+112 0
+107 0
+0
+26
+6
+113 6
+110 1
+109 5
+90 0
+112 0
+107 0
+0
+28
+6
+113 1
+110 1
+109 4
+90 0
+106 0
+112 0
+0
+30
+6
+113 6
+110 1
+109 4
+90 0
+106 0
+112 0
+0
+32
+6
+113 1
+110 1
+109 5
+90 0
+106 0
+112 0
+0
+34
+6
+113 6
+110 1
+109 5
+90 0
+106 0
+112 0
+end_DTG
+begin_DTG
+8
+1
+20
+6
+113 1
+110 1
+109 4
+90 0
+112 0
+107 0
+1
+22
+6
+113 6
+110 1
+109 4
+90 0
+112 0
+107 0
+1
+24
+6
+113 1
+110 1
+109 5
+90 0
+112 0
+107 0
+1
+26
+6
+113 6
+110 1
+109 5
+90 0
+112 0
+107 0
+1
+28
+6
+113 1
+110 1
+109 4
+90 0
+106 0
+112 0
+1
+30
+6
+113 6
+110 1
+109 4
+90 0
+106 0
+112 0
+1
+32
+6
+113 1
+110 1
+109 5
+90 0
+106 0
+112 0
+1
+34
+6
+113 6
+110 1
+109 5
+90 0
+106 0
+112 0
+0
+end_DTG
+begin_DTG
+0
+8
+0
+20
+6
+113 1
+110 1
+109 4
+90 0
+112 0
+107 0
+0
+22
+6
+113 6
+110 1
+109 4
+90 0
+112 0
+107 0
+0
+24
+6
+113 1
+110 1
+109 5
+90 0
+112 0
+107 0
+0
+26
+6
+113 6
+110 1
+109 5
+90 0
+112 0
+107 0
+0
+28
+6
+113 1
+110 1
+109 4
+90 0
+106 0
+112 0
+0
+30
+6
+113 6
+110 1
+109 4
+90 0
+106 0
+112 0
+0
+32
+6
+113 1
+110 1
+109 5
+90 0
+106 0
+112 0
+0
+34
+6
+113 6
+110 1
+109 5
+90 0
+106 0
+112 0
+end_DTG
+begin_DTG
+8
+1
+19
+5
+113 1
+110 1
+109 4
+112 0
+107 0
+1
+21
+5
+113 6
+110 1
+109 4
+112 0
+107 0
+1
+23
+5
+113 1
+110 1
+109 5
+112 0
+107 0
+1
+25
+5
+113 6
+110 1
+109 5
+112 0
+107 0
+1
+27
+5
+113 1
+110 1
+109 4
+106 0
+112 0
+1
+29
+5
+113 6
+110 1
+109 4
+106 0
+112 0
+1
+31
+5
+113 1
+110 1
+109 5
+106 0
+112 0
+1
+33
+5
+113 6
+110 1
+109 5
+106 0
+112 0
+1
+0
+13
+7
+109 1
+75 0
+100 0
+54 0
+20 0
+112 0
+88 0
+end_DTG
+begin_DTG
+0
+8
+0
+19
+6
+113 1
+110 1
+109 4
+97 0
+112 0
+107 0
+0
+21
+6
+113 6
+110 1
+109 4
+97 0
+112 0
+107 0
+0
+23
+6
+113 1
+110 1
+109 5
+97 0
+112 0
+107 0
+0
+25
+6
+113 6
+110 1
+109 5
+97 0
+112 0
+107 0
+0
+27
+6
+113 1
+110 1
+109 4
+97 0
+106 0
+112 0
+0
+29
+6
+113 6
+110 1
+109 4
+97 0
+106 0
+112 0
+0
+31
+6
+113 1
+110 1
+109 5
+97 0
+106 0
+112 0
+0
+33
+6
+113 6
+110 1
+109 5
+97 0
+106 0
+112 0
+end_DTG
+begin_DTG
+0
+8
+0
+19
+6
+113 1
+110 1
+109 4
+97 0
+112 0
+107 0
+0
+21
+6
+113 6
+110 1
+109 4
+97 0
+112 0
+107 0
+0
+23
+6
+113 1
+110 1
+109 5
+97 0
+112 0
+107 0
+0
+25
+6
+113 6
+110 1
+109 5
+97 0
+112 0
+107 0
+0
+27
+6
+113 1
+110 1
+109 4
+97 0
+106 0
+112 0
+0
+29
+6
+113 6
+110 1
+109 4
+97 0
+106 0
+112 0
+0
+31
+6
+113 1
+110 1
+109 5
+97 0
+106 0
+112 0
+0
+33
+6
+113 6
+110 1
+109 5
+97 0
+106 0
+112 0
+end_DTG
+begin_DTG
+8
+1
+19
+6
+113 1
+110 1
+109 4
+97 0
+112 0
+107 0
+1
+21
+6
+113 6
+110 1
+109 4
+97 0
+112 0
+107 0
+1
+23
+6
+113 1
+110 1
+109 5
+97 0
+112 0
+107 0
+1
+25
+6
+113 6
+110 1
+109 5
+97 0
+112 0
+107 0
+1
+27
+6
+113 1
+110 1
+109 4
+97 0
+106 0
+112 0
+1
+29
+6
+113 6
+110 1
+109 4
+97 0
+106 0
+112 0
+1
+31
+6
+113 1
+110 1
+109 5
+97 0
+106 0
+112 0
+1
+33
+6
+113 6
+110 1
+109 5
+97 0
+106 0
+112 0
+0
+end_DTG
+begin_DTG
+0
+8
+0
+19
+6
+113 1
+110 1
+109 4
+97 0
+112 0
+107 0
+0
+21
+6
+113 6
+110 1
+109 4
+97 0
+112 0
+107 0
+0
+23
+6
+113 1
+110 1
+109 5
+97 0
+112 0
+107 0
+0
+25
+6
+113 6
+110 1
+109 5
+97 0
+112 0
+107 0
+0
+27
+6
+113 1
+110 1
+109 4
+97 0
+106 0
+112 0
+0
+29
+6
+113 6
+110 1
+109 4
+97 0
+106 0
+112 0
+0
+31
+6
+113 1
+110 1
+109 5
+97 0
+106 0
+112 0
+0
+33
+6
+113 6
+110 1
+109 5
+97 0
+106 0
+112 0
+end_DTG
+begin_DTG
+0
+8
+0
+19
+6
+113 1
+110 1
+109 4
+97 0
+112 0
+107 0
+0
+21
+6
+113 6
+110 1
+109 4
+97 0
+112 0
+107 0
+0
+23
+6
+113 1
+110 1
+109 5
+97 0
+112 0
+107 0
+0
+25
+6
+113 6
+110 1
+109 5
+97 0
+112 0
+107 0
+0
+27
+6
+113 1
+110 1
+109 4
+97 0
+106 0
+112 0
+0
+29
+6
+113 6
+110 1
+109 4
+97 0
+106 0
+112 0
+0
+31
+6
+113 1
+110 1
+109 5
+97 0
+106 0
+112 0
+0
+33
+6
+113 6
+110 1
+109 5
+97 0
+106 0
+112 0
+end_DTG
+begin_DTG
+0
+8
+0
+19
+6
+113 1
+110 1
+109 4
+97 0
+112 0
+107 0
+0
+21
+6
+113 6
+110 1
+109 4
+97 0
+112 0
+107 0
+0
+23
+6
+113 1
+110 1
+109 5
+97 0
+112 0
+107 0
+0
+25
+6
+113 6
+110 1
+109 5
+97 0
+112 0
+107 0
+0
+27
+6
+113 1
+110 1
+109 4
+97 0
+106 0
+112 0
+0
+29
+6
+113 6
+110 1
+109 4
+97 0
+106 0
+112 0
+0
+31
+6
+113 1
+110 1
+109 5
+97 0
+106 0
+112 0
+0
+33
+6
+113 6
+110 1
+109 5
+97 0
+106 0
+112 0
+end_DTG
+begin_DTG
+12
+1
+17
+4
+110 3
+109 5
+106 0
+112 0
+1
+18
+4
+110 3
+109 4
+106 0
+112 0
+1
+88
+5
+110 3
+109 5
+31 0
+112 0
+107 0
+1
+89
+5
+110 3
+109 4
+31 0
+112 0
+107 0
+1
+133
+5
+110 0
+109 5
+28 0
+112 0
+107 0
+1
+134
+5
+110 0
+109 5
+30 0
+106 0
+112 0
+1
+135
+5
+110 0
+109 4
+28 0
+112 0
+107 0
+1
+136
+5
+110 0
+109 4
+30 0
+106 0
+112 0
+1
+149
+5
+110 2
+109 5
+111 0
+112 0
+107 0
+1
+150
+5
+110 2
+109 5
+29 0
+106 0
+112 0
+1
+151
+5
+110 2
+109 4
+111 0
+112 0
+107 0
+1
+152
+5
+110 2
+109 4
+29 0
+106 0
+112 0
+2
+0
+13
+7
+109 1
+75 0
+100 0
+54 0
+20 0
+112 0
+88 0
+0
+14
+7
+109 1
+75 0
+95 0
+54 0
+20 0
+112 0
+88 0
+end_DTG
+begin_DTG
+8
+1
+41
+5
+113 0
+34 0
+106 0
+20 0
+112 0
+1
+42
+5
+113 0
+106 0
+20 0
+41 0
+112 0
+2
+49
+4
+113 7
+110 3
+109 3
+112 0
+2
+50
+4
+113 2
+110 3
+109 3
+112 0
+2
+131
+4
+113 7
+110 0
+109 3
+112 0
+2
+132
+4
+113 2
+110 0
+109 3
+112 0
+2
+147
+4
+113 7
+110 2
+109 3
+112 0
+2
+148
+4
+113 2
+110 2
+109 3
+112 0
+8
+0
+39
+5
+113 0
+34 0
+20 0
+112 0
+107 0
+0
+40
+5
+113 0
+20 0
+41 0
+112 0
+107 0
+2
+47
+4
+113 7
+110 3
+109 3
+112 0
+2
+48
+4
+113 2
+110 3
+109 3
+112 0
+2
+129
+4
+113 7
+110 0
+109 3
+112 0
+2
+130
+4
+113 2
+110 0
+109 3
+112 0
+2
+145
+4
+113 7
+110 2
+109 3
+112 0
+2
+146
+4
+113 2
+110 2
+109 3
+112 0
+4
+0
+39
+5
+113 0
+34 0
+20 0
+112 0
+107 0
+0
+40
+5
+113 0
+20 0
+41 0
+112 0
+107 0
+1
+41
+5
+113 0
+34 0
+106 0
+20 0
+112 0
+1
+42
+5
+113 0
+106 0
+20 0
+41 0
+112 0
+end_DTG
+begin_DTG
+13
+1
+73
+3
+110 3
+89 0
+112 0
+1
+41
+4
+113 0
+34 0
+20 0
+112 0
+1
+42
+4
+113 0
+20 0
+41 0
+112 0
+1
+128
+4
+110 0
+89 0
+30 0
+112 0
+1
+144
+4
+110 2
+89 0
+29 0
+112 0
+1
+27
+5
+113 1
+110 1
+109 4
+97 0
+112 0
+1
+28
+5
+113 1
+110 1
+109 4
+90 0
+112 0
+1
+29
+5
+113 6
+110 1
+109 4
+97 0
+112 0
+1
+30
+5
+113 6
+110 1
+109 4
+90 0
+112 0
+1
+31
+5
+113 1
+110 1
+109 5
+97 0
+112 0
+1
+32
+5
+113 1
+110 1
+109 5
+90 0
+112 0
+1
+33
+5
+113 6
+110 1
+109 5
+97 0
+112 0
+1
+34
+5
+113 6
+110 1
+109 5
+90 0
+112 0
+9
+0
+0
+2
+113 5
+112 0
+0
+15
+8
+109 1
+19 0
+75 0
+100 0
+54 0
+20 0
+112 0
+88 0
+0
+16
+8
+109 1
+19 0
+75 0
+95 0
+54 0
+20 0
+112 0
+88 0
+0
+67
+10
+109 4
+21 0
+83 0
+23 0
+25 0
+55 0
+27 0
+20 0
+112 0
+73 0
+0
+68
+10
+109 4
+21 0
+83 0
+23 0
+25 0
+27 0
+71 0
+20 0
+112 0
+73 0
+0
+69
+10
+109 4
+21 0
+83 0
+23 0
+25 0
+27 0
+70 0
+20 0
+112 0
+73 0
+0
+70
+10
+109 4
+22 0
+83 0
+24 0
+55 0
+26 0
+27 0
+72 0
+20 0
+112 0
+0
+71
+10
+109 4
+22 0
+83 0
+24 0
+26 0
+27 0
+72 0
+71 0
+20 0
+112 0
+0
+72
+10
+109 4
+22 0
+83 0
+24 0
+26 0
+27 0
+72 0
+70 0
+20 0
+112 0
+end_DTG
+begin_DTG
+13
+1
+39
+4
+113 0
+34 0
+20 0
+112 0
+1
+40
+4
+113 0
+20 0
+41 0
+112 0
+1
+86
+4
+110 3
+89 0
+31 0
+112 0
+1
+127
+4
+110 0
+28 0
+89 0
+112 0
+1
+143
+4
+110 2
+89 0
+111 0
+112 0
+1
+19
+5
+113 1
+110 1
+109 4
+97 0
+112 0
+1
+20
+5
+113 1
+110 1
+109 4
+90 0
+112 0
+1
+21
+5
+113 6
+110 1
+109 4
+97 0
+112 0
+1
+22
+5
+113 6
+110 1
+109 4
+90 0
+112 0
+1
+23
+5
+113 1
+110 1
+109 5
+97 0
+112 0
+1
+24
+5
+113 1
+110 1
+109 5
+90 0
+112 0
+1
+25
+5
+113 6
+110 1
+109 5
+97 0
+112 0
+1
+26
+5
+113 6
+110 1
+109 5
+90 0
+112 0
+11
+0
+87
+3
+113 5
+31 0
+112 0
+0
+13
+7
+109 1
+75 0
+100 0
+54 0
+20 0
+112 0
+88 0
+0
+14
+7
+109 1
+75 0
+95 0
+54 0
+20 0
+112 0
+88 0
+0
+105
+7
+113 5
+28 0
+58 0
+74 0
+76 0
+112 0
+82 0
+0
+117
+7
+113 5
+53 0
+56 0
+57 0
+111 0
+59 0
+112 0
+0
+61
+10
+109 5
+21 0
+83 0
+23 0
+25 0
+18 0
+55 0
+20 0
+112 0
+73 0
+0
+62
+10
+109 5
+21 0
+83 0
+23 0
+25 0
+18 0
+71 0
+20 0
+112 0
+73 0
+0
+63
+10
+109 5
+21 0
+83 0
+23 0
+25 0
+18 0
+70 0
+20 0
+112 0
+73 0
+0
+64
+10
+109 5
+22 0
+83 0
+24 0
+18 0
+55 0
+26 0
+72 0
+20 0
+112 0
+0
+65
+10
+109 5
+22 0
+83 0
+24 0
+18 0
+26 0
+72 0
+71 0
+20 0
+112 0
+0
+66
+10
+109 5
+22 0
+83 0
+24 0
+18 0
+26 0
+72 0
+70 0
+20 0
+112 0
+end_DTG
+begin_DTG
+12
+1
+74
+5
+113 1
+110 4
+109 4
+112 0
+87 0
+1
+75
+5
+113 1
+110 4
+109 4
+85 0
+112 0
+1
+76
+5
+113 1
+110 4
+109 4
+86 0
+112 0
+1
+77
+5
+113 6
+110 4
+109 4
+112 0
+87 0
+1
+78
+5
+113 6
+110 4
+109 4
+85 0
+112 0
+1
+79
+5
+113 6
+110 4
+109 4
+86 0
+112 0
+1
+80
+5
+113 1
+110 4
+109 5
+112 0
+87 0
+1
+81
+5
+113 1
+110 4
+109 5
+85 0
+112 0
+1
+82
+5
+113 1
+110 4
+109 5
+86 0
+112 0
+1
+83
+5
+113 6
+110 4
+109 5
+112 0
+87 0
+1
+84
+5
+113 6
+110 4
+109 5
+85 0
+112 0
+1
+85
+5
+113 6
+110 4
+109 5
+86 0
+112 0
+4
+0
+51
+4
+113 5
+35 0
+12 0
+112 0
+0
+52
+4
+113 5
+38 0
+112 0
+13 0
+0
+53
+4
+113 5
+35 0
+112 0
+11 0
+0
+54
+4
+113 5
+38 0
+10 0
+112 0
+end_DTG
+begin_DTG
+10
+1
+8
+5
+113 5
+60 0
+62 0
+112 0
+69 0
+1
+7
+5
+113 5
+61 0
+63 0
+112 0
+64 0
+2
+37
+8
+113 3
+51 0
+99 0
+106 0
+101 0
+112 0
+102 0
+103 0
+2
+35
+9
+113 3
+99 0
+52 0
+101 0
+20 0
+112 0
+107 0
+102 0
+103 0
+3
+44
+5
+105 0
+46 0
+91 0
+112 0
+84 0
+3
+46
+5
+105 1
+47 0
+91 0
+112 0
+84 0
+4
+51
+4
+113 5
+35 0
+12 0
+112 0
+4
+52
+4
+113 5
+38 0
+112 0
+13 0
+5
+54
+4
+113 5
+38 0
+10 0
+112 0
+5
+53
+4
+113 5
+35 0
+112 0
+11 0
+12
+0
+38
+8
+113 3
+92 0
+93 0
+50 0
+94 0
+96 0
+106 0
+112 0
+0
+36
+9
+113 3
+49 0
+92 0
+93 0
+94 0
+96 0
+20 0
+112 0
+107 0
+2
+37
+8
+113 3
+51 0
+99 0
+106 0
+101 0
+112 0
+102 0
+103 0
+2
+35
+9
+113 3
+99 0
+52 0
+101 0
+20 0
+112 0
+107 0
+102 0
+103 0
+4
+51
+4
+113 5
+35 0
+12 0
+112 0
+4
+52
+4
+113 5
+38 0
+112 0
+13 0
+4
+16
+7
+19 0
+75 0
+95 0
+54 0
+20 0
+112 0
+88 0
+4
+15
+7
+19 0
+75 0
+100 0
+54 0
+20 0
+112 0
+88 0
+5
+53
+4
+113 5
+35 0
+112 0
+11 0
+5
+54
+4
+113 5
+38 0
+10 0
+112 0
+5
+13
+6
+75 0
+100 0
+54 0
+20 0
+112 0
+88 0
+5
+14
+6
+75 0
+95 0
+54 0
+20 0
+112 0
+88 0
+10
+0
+38
+8
+113 3
+92 0
+93 0
+50 0
+94 0
+96 0
+106 0
+112 0
+0
+36
+9
+113 3
+49 0
+92 0
+93 0
+94 0
+96 0
+20 0
+112 0
+107 0
+1
+8
+5
+113 5
+60 0
+62 0
+112 0
+69 0
+1
+7
+5
+113 5
+61 0
+63 0
+112 0
+64 0
+3
+43
+5
+105 0
+45 0
+98 0
+112 0
+84 0
+3
+45
+5
+105 1
+48 0
+98 0
+112 0
+84 0
+4
+51
+4
+113 5
+35 0
+12 0
+112 0
+4
+52
+4
+113 5
+38 0
+112 0
+13 0
+5
+54
+4
+113 5
+38 0
+10 0
+112 0
+5
+53
+4
+113 5
+35 0
+112 0
+11 0
+22
+0
+38
+8
+113 3
+92 0
+93 0
+50 0
+94 0
+96 0
+106 0
+112 0
+0
+36
+9
+113 3
+49 0
+92 0
+93 0
+94 0
+96 0
+20 0
+112 0
+107 0
+1
+8
+5
+113 5
+60 0
+62 0
+112 0
+69 0
+1
+7
+5
+113 5
+61 0
+63 0
+112 0
+64 0
+2
+37
+8
+113 3
+51 0
+99 0
+106 0
+101 0
+112 0
+102 0
+103 0
+2
+35
+9
+113 3
+99 0
+52 0
+101 0
+20 0
+112 0
+107 0
+102 0
+103 0
+4
+51
+4
+113 5
+35 0
+12 0
+112 0
+4
+52
+4
+113 5
+38 0
+112 0
+13 0
+5
+54
+4
+113 5
+38 0
+10 0
+112 0
+5
+53
+4
+113 5
+35 0
+112 0
+11 0
+6
+48
+4
+113 2
+110 3
+105 1
+112 0
+6
+47
+4
+113 7
+110 3
+105 1
+112 0
+6
+49
+4
+113 7
+110 3
+105 0
+112 0
+6
+50
+4
+113 2
+110 3
+105 0
+112 0
+6
+129
+4
+113 7
+110 0
+105 1
+112 0
+6
+130
+4
+113 2
+110 0
+105 1
+112 0
+6
+131
+4
+113 7
+110 0
+105 0
+112 0
+6
+132
+4
+113 2
+110 0
+105 0
+112 0
+6
+145
+4
+113 7
+110 2
+105 1
+112 0
+6
+146
+4
+113 2
+110 2
+105 1
+112 0
+6
+147
+4
+113 7
+110 2
+105 0
+112 0
+6
+148
+4
+113 2
+110 2
+105 0
+112 0
+22
+0
+38
+8
+113 3
+92 0
+93 0
+50 0
+94 0
+96 0
+106 0
+112 0
+0
+36
+9
+113 3
+49 0
+92 0
+93 0
+94 0
+96 0
+20 0
+112 0
+107 0
+1
+8
+5
+113 5
+60 0
+62 0
+112 0
+69 0
+1
+7
+5
+113 5
+61 0
+63 0
+112 0
+64 0
+2
+37
+8
+113 3
+51 0
+99 0
+106 0
+101 0
+112 0
+102 0
+103 0
+2
+35
+9
+113 3
+99 0
+52 0
+101 0
+20 0
+112 0
+107 0
+102 0
+103 0
+5
+54
+4
+113 5
+38 0
+10 0
+112 0
+5
+53
+4
+113 5
+35 0
+112 0
+11 0
+6
+19
+5
+113 1
+110 1
+97 0
+112 0
+107 0
+6
+30
+5
+113 6
+110 1
+90 0
+106 0
+112 0
+6
+29
+5
+113 6
+110 1
+97 0
+106 0
+112 0
+6
+28
+5
+113 1
+110 1
+90 0
+106 0
+112 0
+6
+74
+5
+113 1
+110 4
+108 0
+112 0
+87 0
+6
+75
+5
+113 1
+110 4
+85 0
+108 0
+112 0
+6
+76
+5
+113 1
+110 4
+108 0
+86 0
+112 0
+6
+77
+5
+113 6
+110 4
+108 0
+112 0
+87 0
+6
+78
+5
+113 6
+110 4
+85 0
+108 0
+112 0
+6
+79
+5
+113 6
+110 4
+108 0
+86 0
+112 0
+6
+27
+5
+113 1
+110 1
+97 0
+106 0
+112 0
+6
+22
+5
+113 6
+110 1
+90 0
+112 0
+107 0
+6
+21
+5
+113 6
+110 1
+97 0
+112 0
+107 0
+6
+20
+5
+113 1
+110 1
+90 0
+112 0
+107 0
+22
+0
+38
+8
+113 3
+92 0
+93 0
+50 0
+94 0
+96 0
+106 0
+112 0
+0
+36
+9
+113 3
+49 0
+92 0
+93 0
+94 0
+96 0
+20 0
+112 0
+107 0
+1
+8
+5
+113 5
+60 0
+62 0
+112 0
+69 0
+1
+7
+5
+113 5
+61 0
+63 0
+112 0
+64 0
+2
+37
+8
+113 3
+51 0
+99 0
+106 0
+101 0
+112 0
+102 0
+103 0
+2
+35
+9
+113 3
+99 0
+52 0
+101 0
+20 0
+112 0
+107 0
+102 0
+103 0
+4
+52
+4
+113 5
+38 0
+112 0
+13 0
+4
+51
+4
+113 5
+35 0
+12 0
+112 0
+6
+23
+5
+113 1
+110 1
+97 0
+112 0
+107 0
+6
+34
+5
+113 6
+110 1
+90 0
+106 0
+112 0
+6
+33
+5
+113 6
+110 1
+97 0
+106 0
+112 0
+6
+32
+5
+113 1
+110 1
+90 0
+106 0
+112 0
+6
+80
+5
+113 1
+110 4
+108 0
+112 0
+87 0
+6
+81
+5
+113 1
+110 4
+85 0
+108 0
+112 0
+6
+82
+5
+113 1
+110 4
+108 0
+86 0
+112 0
+6
+83
+5
+113 6
+110 4
+108 0
+112 0
+87 0
+6
+84
+5
+113 6
+110 4
+85 0
+108 0
+112 0
+6
+85
+5
+113 6
+110 4
+108 0
+86 0
+112 0
+6
+31
+5
+113 1
+110 1
+97 0
+106 0
+112 0
+6
+26
+5
+113 6
+110 1
+90 0
+112 0
+107 0
+6
+25
+5
+113 6
+110 1
+97 0
+112 0
+107 0
+6
+24
+5
+113 1
+110 1
+90 0
+112 0
+107 0
+10
+0
+38
+8
+113 3
+92 0
+93 0
+50 0
+94 0
+96 0
+106 0
+112 0
+0
+36
+9
+113 3
+49 0
+92 0
+93 0
+94 0
+96 0
+20 0
+112 0
+107 0
+1
+8
+5
+113 5
+60 0
+62 0
+112 0
+69 0
+1
+7
+5
+113 5
+61 0
+63 0
+112 0
+64 0
+2
+37
+8
+113 3
+51 0
+99 0
+106 0
+101 0
+112 0
+102 0
+103 0
+2
+35
+9
+113 3
+99 0
+52 0
+101 0
+20 0
+112 0
+107 0
+102 0
+103 0
+4
+51
+4
+113 5
+35 0
+12 0
+112 0
+4
+52
+4
+113 5
+38 0
+112 0
+13 0
+5
+54
+4
+113 5
+38 0
+10 0
+112 0
+5
+53
+4
+113 5
+35 0
+112 0
+11 0
+end_DTG
+begin_DTG
+23
+1
+136
+5
+109 4
+30 0
+106 0
+104 0
+112 0
+1
+135
+5
+109 4
+28 0
+104 0
+112 0
+107 0
+1
+134
+5
+109 5
+30 0
+106 0
+104 0
+112 0
+1
+133
+5
+109 5
+28 0
+104 0
+112 0
+107 0
+2
+112
+6
+113 5
+53 0
+38 0
+59 0
+10 0
+112 0
+2
+111
+6
+113 5
+53 0
+35 0
+59 0
+112 0
+11 0
+2
+110
+6
+113 5
+53 0
+38 0
+59 0
+112 0
+13 0
+2
+109
+6
+113 5
+53 0
+35 0
+12 0
+59 0
+112 0
+2
+117
+7
+113 5
+53 0
+56 0
+57 0
+111 0
+59 0
+112 0
+2
+121
+7
+113 5
+53 0
+56 0
+29 0
+57 0
+59 0
+112 0
+3
+0
+2
+113 5
+112 0
+3
+54
+4
+113 5
+38 0
+10 0
+112 0
+3
+53
+4
+113 5
+35 0
+112 0
+11 0
+3
+51
+4
+113 5
+35 0
+12 0
+112 0
+3
+52
+4
+113 5
+38 0
+112 0
+13 0
+4
+128
+4
+89 0
+30 0
+106 0
+112 0
+4
+127
+4
+28 0
+89 0
+112 0
+107 0
+5
+8
+5
+113 5
+60 0
+62 0
+112 0
+69 0
+5
+7
+5
+113 5
+61 0
+63 0
+112 0
+64 0
+6
+130
+4
+113 2
+109 3
+105 1
+112 0
+6
+131
+4
+113 7
+109 3
+105 0
+112 0
+6
+132
+4
+113 2
+109 3
+105 0
+112 0
+6
+129
+4
+113 7
+109 3
+105 1
+112 0
+35
+0
+97
+6
+113 5
+35 0
+12 0
+74 0
+112 0
+82 0
+0
+98
+6
+113 5
+38 0
+74 0
+112 0
+13 0
+82 0
+0
+100
+6
+113 5
+38 0
+10 0
+74 0
+112 0
+82 0
+0
+99
+6
+113 5
+35 0
+74 0
+112 0
+11 0
+82 0
+0
+118
+7
+113 5
+58 0
+30 0
+74 0
+76 0
+112 0
+82 0
+0
+105
+7
+113 5
+28 0
+58 0
+74 0
+76 0
+112 0
+82 0
+2
+112
+6
+113 5
+53 0
+38 0
+59 0
+10 0
+112 0
+2
+111
+6
+113 5
+53 0
+35 0
+59 0
+112 0
+11 0
+2
+110
+6
+113 5
+53 0
+38 0
+59 0
+112 0
+13 0
+2
+109
+6
+113 5
+53 0
+35 0
+12 0
+59 0
+112 0
+2
+121
+7
+113 5
+53 0
+56 0
+29 0
+57 0
+59 0
+112 0
+2
+117
+7
+113 5
+53 0
+56 0
+57 0
+111 0
+59 0
+112 0
+3
+0
+2
+113 5
+112 0
+3
+51
+4
+113 5
+35 0
+12 0
+112 0
+3
+54
+4
+113 5
+38 0
+10 0
+112 0
+3
+53
+4
+113 5
+35 0
+112 0
+11 0
+3
+52
+4
+113 5
+38 0
+112 0
+13 0
+5
+7
+5
+113 5
+61 0
+63 0
+112 0
+64 0
+5
+8
+5
+113 5
+60 0
+62 0
+112 0
+69 0
+6
+26
+5
+113 6
+109 5
+90 0
+112 0
+107 0
+6
+19
+5
+113 1
+109 4
+97 0
+112 0
+107 0
+6
+20
+5
+113 1
+109 4
+90 0
+112 0
+107 0
+6
+21
+5
+113 6
+109 4
+97 0
+112 0
+107 0
+6
+22
+5
+113 6
+109 4
+90 0
+112 0
+107 0
+6
+23
+5
+113 1
+109 5
+97 0
+112 0
+107 0
+6
+24
+5
+113 1
+109 5
+90 0
+112 0
+107 0
+6
+25
+5
+113 6
+109 5
+97 0
+112 0
+107 0
+6
+34
+5
+113 6
+109 5
+90 0
+106 0
+112 0
+6
+27
+5
+113 1
+109 4
+97 0
+106 0
+112 0
+6
+28
+5
+113 1
+109 4
+90 0
+106 0
+112 0
+6
+29
+5
+113 6
+109 4
+97 0
+106 0
+112 0
+6
+30
+5
+113 6
+109 4
+90 0
+106 0
+112 0
+6
+31
+5
+113 1
+109 5
+97 0
+106 0
+112 0
+6
+32
+5
+113 1
+109 5
+90 0
+106 0
+112 0
+6
+33
+5
+113 6
+109 5
+97 0
+106 0
+112 0
+23
+0
+100
+6
+113 5
+38 0
+10 0
+74 0
+112 0
+82 0
+0
+99
+6
+113 5
+35 0
+74 0
+112 0
+11 0
+82 0
+0
+98
+6
+113 5
+38 0
+74 0
+112 0
+13 0
+82 0
+0
+97
+6
+113 5
+35 0
+12 0
+74 0
+112 0
+82 0
+0
+118
+7
+113 5
+58 0
+30 0
+74 0
+76 0
+112 0
+82 0
+0
+105
+7
+113 5
+28 0
+58 0
+74 0
+76 0
+112 0
+82 0
+1
+152
+5
+109 4
+29 0
+106 0
+104 0
+112 0
+1
+151
+5
+109 4
+111 0
+104 0
+112 0
+107 0
+1
+150
+5
+109 5
+29 0
+106 0
+104 0
+112 0
+1
+149
+5
+109 5
+111 0
+104 0
+112 0
+107 0
+3
+0
+2
+113 5
+112 0
+3
+54
+4
+113 5
+38 0
+10 0
+112 0
+3
+53
+4
+113 5
+35 0
+112 0
+11 0
+3
+52
+4
+113 5
+38 0
+112 0
+13 0
+3
+51
+4
+113 5
+35 0
+12 0
+112 0
+4
+143
+4
+89 0
+111 0
+112 0
+107 0
+4
+144
+4
+89 0
+29 0
+106 0
+112 0
+5
+8
+5
+113 5
+60 0
+62 0
+112 0
+69 0
+5
+7
+5
+113 5
+61 0
+63 0
+112 0
+64 0
+6
+145
+4
+113 7
+109 3
+105 1
+112 0
+6
+146
+4
+113 2
+109 3
+105 1
+112 0
+6
+147
+4
+113 7
+109 3
+105 0
+112 0
+6
+148
+4
+113 2
+109 3
+105 0
+112 0
+24
+0
+97
+6
+113 5
+35 0
+12 0
+74 0
+112 0
+82 0
+0
+98
+6
+113 5
+38 0
+74 0
+112 0
+13 0
+82 0
+0
+99
+6
+113 5
+35 0
+74 0
+112 0
+11 0
+82 0
+0
+100
+6
+113 5
+38 0
+10 0
+74 0
+112 0
+82 0
+0
+118
+7
+113 5
+58 0
+30 0
+74 0
+76 0
+112 0
+82 0
+0
+105
+7
+113 5
+28 0
+58 0
+74 0
+76 0
+112 0
+82 0
+1
+17
+4
+109 5
+106 0
+104 0
+112 0
+1
+18
+4
+109 4
+106 0
+104 0
+112 0
+1
+88
+5
+109 5
+104 0
+31 0
+112 0
+107 0
+1
+89
+5
+109 4
+104 0
+31 0
+112 0
+107 0
+2
+112
+6
+113 5
+53 0
+38 0
+59 0
+10 0
+112 0
+2
+111
+6
+113 5
+53 0
+35 0
+59 0
+112 0
+11 0
+2
+110
+6
+113 5
+53 0
+38 0
+59 0
+112 0
+13 0
+2
+109
+6
+113 5
+53 0
+35 0
+12 0
+59 0
+112 0
+2
+121
+7
+113 5
+53 0
+56 0
+29 0
+57 0
+59 0
+112 0
+2
+117
+7
+113 5
+53 0
+56 0
+57 0
+111 0
+59 0
+112 0
+4
+73
+3
+89 0
+106 0
+112 0
+4
+86
+4
+89 0
+31 0
+112 0
+107 0
+5
+8
+5
+113 5
+60 0
+62 0
+112 0
+69 0
+5
+7
+5
+113 5
+61 0
+63 0
+112 0
+64 0
+6
+50
+4
+113 2
+109 3
+105 0
+112 0
+6
+49
+4
+113 7
+109 3
+105 0
+112 0
+6
+48
+4
+113 2
+109 3
+105 1
+112 0
+6
+47
+4
+113 7
+109 3
+105 1
+112 0
+31
+0
+97
+6
+113 5
+35 0
+12 0
+74 0
+112 0
+82 0
+0
+98
+6
+113 5
+38 0
+74 0
+112 0
+13 0
+82 0
+0
+99
+6
+113 5
+35 0
+74 0
+112 0
+11 0
+82 0
+0
+100
+6
+113 5
+38 0
+10 0
+74 0
+112 0
+82 0
+0
+105
+7
+113 5
+28 0
+58 0
+74 0
+76 0
+112 0
+82 0
+0
+118
+7
+113 5
+58 0
+30 0
+74 0
+76 0
+112 0
+82 0
+2
+112
+6
+113 5
+53 0
+38 0
+59 0
+10 0
+112 0
+2
+111
+6
+113 5
+53 0
+35 0
+59 0
+112 0
+11 0
+2
+110
+6
+113 5
+53 0
+38 0
+59 0
+112 0
+13 0
+2
+109
+6
+113 5
+53 0
+35 0
+12 0
+59 0
+112 0
+2
+121
+7
+113 5
+53 0
+56 0
+29 0
+57 0
+59 0
+112 0
+2
+117
+7
+113 5
+53 0
+56 0
+57 0
+111 0
+59 0
+112 0
+3
+0
+2
+113 5
+112 0
+3
+54
+4
+113 5
+38 0
+10 0
+112 0
+3
+53
+4
+113 5
+35 0
+112 0
+11 0
+3
+52
+4
+113 5
+38 0
+112 0
+13 0
+3
+51
+4
+113 5
+35 0
+12 0
+112 0
+5
+7
+5
+113 5
+61 0
+63 0
+112 0
+64 0
+5
+8
+5
+113 5
+60 0
+62 0
+112 0
+69 0
+6
+85
+5
+113 6
+109 5
+108 0
+86 0
+112 0
+6
+84
+5
+113 6
+109 5
+85 0
+108 0
+112 0
+6
+83
+5
+113 6
+109 5
+108 0
+112 0
+87 0
+6
+82
+5
+113 1
+109 5
+108 0
+86 0
+112 0
+6
+81
+5
+113 1
+109 5
+85 0
+108 0
+112 0
+6
+80
+5
+113 1
+109 5
+108 0
+112 0
+87 0
+6
+79
+5
+113 6
+109 4
+108 0
+86 0
+112 0
+6
+78
+5
+113 6
+109 4
+85 0
+108 0
+112 0
+6
+77
+5
+113 6
+109 4
+108 0
+112 0
+87 0
+6
+76
+5
+113 1
+109 4
+108 0
+86 0
+112 0
+6
+75
+5
+113 1
+109 4
+85 0
+108 0
+112 0
+6
+74
+5
+113 1
+109 4
+108 0
+112 0
+87 0
+23
+0
+97
+6
+113 5
+35 0
+12 0
+74 0
+112 0
+82 0
+0
+98
+6
+113 5
+38 0
+74 0
+112 0
+13 0
+82 0
+0
+99
+6
+113 5
+35 0
+74 0
+112 0
+11 0
+82 0
+0
+100
+6
+113 5
+38 0
+10 0
+74 0
+112 0
+82 0
+0
+101
+7
+113 6
+21 0
+23 0
+25 0
+74 0
+112 0
+82 0
+0
+102
+7
+113 1
+22 0
+24 0
+26 0
+74 0
+112 0
+82 0
+0
+118
+7
+113 5
+58 0
+30 0
+74 0
+76 0
+112 0
+82 0
+0
+105
+7
+113 5
+28 0
+58 0
+74 0
+76 0
+112 0
+82 0
+2
+112
+6
+113 5
+53 0
+38 0
+59 0
+10 0
+112 0
+2
+111
+6
+113 5
+53 0
+35 0
+59 0
+112 0
+11 0
+2
+110
+6
+113 5
+53 0
+38 0
+59 0
+112 0
+13 0
+2
+109
+6
+113 5
+53 0
+35 0
+12 0
+59 0
+112 0
+2
+114
+7
+113 1
+53 0
+22 0
+24 0
+26 0
+59 0
+112 0
+2
+113
+7
+113 6
+53 0
+21 0
+23 0
+25 0
+59 0
+112 0
+2
+121
+7
+113 5
+53 0
+56 0
+29 0
+57 0
+59 0
+112 0
+2
+117
+7
+113 5
+53 0
+56 0
+57 0
+111 0
+59 0
+112 0
+3
+0
+2
+113 5
+112 0
+3
+54
+4
+113 5
+38 0
+10 0
+112 0
+3
+53
+4
+113 5
+35 0
+112 0
+11 0
+3
+52
+4
+113 5
+38 0
+112 0
+13 0
+3
+51
+4
+113 5
+35 0
+12 0
+112 0
+3
+12
+5
+113 6
+21 0
+23 0
+25 0
+112 0
+3
+11
+5
+113 1
+22 0
+24 0
+26 0
+112 0
+19
+0
+100
+6
+113 5
+38 0
+10 0
+74 0
+112 0
+82 0
+0
+99
+6
+113 5
+35 0
+74 0
+112 0
+11 0
+82 0
+0
+97
+6
+113 5
+35 0
+12 0
+74 0
+112 0
+82 0
+0
+98
+6
+113 5
+38 0
+74 0
+112 0
+13 0
+82 0
+0
+118
+7
+113 5
+58 0
+30 0
+74 0
+76 0
+112 0
+82 0
+0
+105
+7
+113 5
+28 0
+58 0
+74 0
+76 0
+112 0
+82 0
+2
+112
+6
+113 5
+53 0
+38 0
+59 0
+10 0
+112 0
+2
+111
+6
+113 5
+53 0
+35 0
+59 0
+112 0
+11 0
+2
+110
+6
+113 5
+53 0
+38 0
+59 0
+112 0
+13 0
+2
+109
+6
+113 5
+53 0
+35 0
+12 0
+59 0
+112 0
+2
+121
+7
+113 5
+53 0
+56 0
+29 0
+57 0
+59 0
+112 0
+2
+117
+7
+113 5
+53 0
+56 0
+57 0
+111 0
+59 0
+112 0
+3
+0
+2
+113 5
+112 0
+3
+54
+4
+113 5
+38 0
+10 0
+112 0
+3
+53
+4
+113 5
+35 0
+112 0
+11 0
+3
+52
+4
+113 5
+38 0
+112 0
+13 0
+3
+51
+4
+113 5
+35 0
+12 0
+112 0
+5
+8
+5
+113 5
+60 0
+62 0
+112 0
+69 0
+5
+7
+5
+113 5
+61 0
+63 0
+112 0
+64 0
+end_DTG
+begin_DTG
+0
+2
+0
+76
+6
+113 1
+110 4
+109 4
+108 0
+86 0
+112 0
+0
+79
+6
+113 6
+110 4
+109 4
+108 0
+86 0
+112 0
+end_DTG
+begin_DTG
+9
+1
+2
+2
+113 5
+54 0
+1
+129
+4
+113 7
+110 0
+109 3
+105 1
+1
+130
+4
+113 2
+110 0
+109 3
+105 1
+1
+131
+4
+113 7
+110 0
+109 3
+105 0
+1
+132
+4
+113 2
+110 0
+109 3
+105 0
+1
+145
+4
+113 7
+110 2
+109 3
+105 1
+1
+146
+4
+113 2
+110 2
+109 3
+105 1
+1
+147
+4
+113 7
+110 2
+109 3
+105 0
+1
+148
+4
+113 2
+110 2
+109 3
+105 0
+14
+0
+173
+2
+44 0
+7 0
+0
+176
+2
+44 0
+6 0
+0
+179
+2
+2 0
+44 0
+0
+182
+2
+44 0
+3 0
+0
+189
+2
+1 0
+44 0
+0
+192
+2
+44 0
+8 0
+0
+195
+2
+44 0
+5 0
+0
+198
+2
+44 0
+4 0
+0
+10
+3
+44 0
+0 0
+43 0
+0
+126
+3
+9 0
+44 0
+43 0
+0
+183
+4
+44 0
+32 0
+43 0
+16 0
+0
+184
+4
+44 0
+32 0
+43 0
+15 0
+0
+185
+4
+44 0
+32 0
+43 0
+17 0
+0
+186
+4
+14 0
+44 0
+32 0
+43 0
+end_DTG
+begin_DTG
+4
+2
+40
+4
+20 0
+41 0
+112 0
+107 0
+2
+42
+4
+106 0
+20 0
+41 0
+112 0
+7
+39
+4
+34 0
+20 0
+112 0
+107 0
+7
+41
+4
+34 0
+106 0
+20 0
+112 0
+14
+5
+19
+5
+110 1
+109 4
+97 0
+112 0
+107 0
+5
+20
+5
+110 1
+109 4
+90 0
+112 0
+107 0
+5
+23
+5
+110 1
+109 5
+97 0
+112 0
+107 0
+5
+24
+5
+110 1
+109 5
+90 0
+112 0
+107 0
+5
+27
+5
+110 1
+109 4
+97 0
+106 0
+112 0
+5
+28
+5
+110 1
+109 4
+90 0
+106 0
+112 0
+5
+31
+5
+110 1
+109 5
+97 0
+106 0
+112 0
+5
+32
+5
+110 1
+109 5
+90 0
+106 0
+112 0
+5
+74
+5
+110 4
+109 4
+108 0
+112 0
+87 0
+5
+75
+5
+110 4
+109 4
+85 0
+108 0
+112 0
+5
+76
+5
+110 4
+109 4
+108 0
+86 0
+112 0
+5
+80
+5
+110 4
+109 5
+108 0
+112 0
+87 0
+5
+81
+5
+110 4
+109 5
+85 0
+108 0
+112 0
+5
+82
+5
+110 4
+109 5
+108 0
+86 0
+112 0
+6
+5
+48
+4
+110 3
+109 3
+105 1
+112 0
+5
+50
+4
+110 3
+109 3
+105 0
+112 0
+5
+130
+4
+110 0
+109 3
+105 1
+112 0
+5
+132
+4
+110 0
+109 3
+105 0
+112 0
+5
+146
+4
+110 2
+109 3
+105 1
+112 0
+5
+148
+4
+110 2
+109 3
+105 0
+112 0
+4
+0
+37
+7
+51 0
+99 0
+106 0
+101 0
+112 0
+102 0
+103 0
+0
+38
+7
+92 0
+93 0
+50 0
+94 0
+96 0
+106 0
+112 0
+0
+35
+8
+99 0
+52 0
+101 0
+20 0
+112 0
+107 0
+102 0
+103 0
+0
+36
+8
+49 0
+92 0
+93 0
+94 0
+96 0
+20 0
+112 0
+107 0
+4
+1
+56
+7
+33 0
+65 0
+61 0
+36 0
+112 0
+37 0
+64 0
+1
+58
+7
+68 0
+61 0
+39 0
+40 0
+112 0
+64 0
+42 0
+6
+55
+7
+33 0
+65 0
+62 0
+36 0
+112 0
+37 0
+69 0
+6
+57
+7
+68 0
+62 0
+39 0
+40 0
+112 0
+42 0
+69 0
+7
+1
+7
+4
+61 0
+63 0
+112 0
+64 0
+3
+0
+1
+112 0
+4
+54
+3
+38 0
+10 0
+112 0
+4
+53
+3
+35 0
+112 0
+11 0
+4
+52
+3
+38 0
+112 0
+13 0
+4
+51
+3
+35 0
+12 0
+112 0
+6
+8
+4
+60 0
+62 0
+112 0
+69 0
+14
+5
+21
+5
+110 1
+109 4
+97 0
+112 0
+107 0
+5
+22
+5
+110 1
+109 4
+90 0
+112 0
+107 0
+5
+25
+5
+110 1
+109 5
+97 0
+112 0
+107 0
+5
+26
+5
+110 1
+109 5
+90 0
+112 0
+107 0
+5
+29
+5
+110 1
+109 4
+97 0
+106 0
+112 0
+5
+30
+5
+110 1
+109 4
+90 0
+106 0
+112 0
+5
+33
+5
+110 1
+109 5
+97 0
+106 0
+112 0
+5
+34
+5
+110 1
+109 5
+90 0
+106 0
+112 0
+5
+77
+5
+110 4
+109 4
+108 0
+112 0
+87 0
+5
+78
+5
+110 4
+109 4
+85 0
+108 0
+112 0
+5
+79
+5
+110 4
+109 4
+108 0
+86 0
+112 0
+5
+83
+5
+110 4
+109 5
+108 0
+112 0
+87 0
+5
+84
+5
+110 4
+109 5
+85 0
+108 0
+112 0
+5
+85
+5
+110 4
+109 5
+108 0
+86 0
+112 0
+6
+5
+47
+4
+110 3
+109 3
+105 1
+112 0
+5
+49
+4
+110 3
+109 3
+105 0
+112 0
+5
+129
+4
+110 0
+109 3
+105 1
+112 0
+5
+131
+4
+110 0
+109 3
+105 0
+112 0
+5
+145
+4
+110 2
+109 3
+105 1
+112 0
+5
+147
+4
+110 2
+109 3
+105 0
+112 0
+end_DTG
+begin_CG
+3
+44 2
+43 2
+112 1
+8
+33 1
+34 1
+44 3
+35 1
+12 1
+36 1
+112 1
+37 1
+8
+33 1
+34 1
+44 3
+35 1
+36 1
+112 1
+37 1
+11 1
+8
+44 3
+38 1
+10 1
+39 1
+40 1
+41 1
+112 1
+42 1
+8
+44 3
+38 1
+10 1
+39 1
+40 1
+41 1
+112 1
+42 1
+8
+33 1
+34 1
+44 3
+35 1
+36 1
+112 1
+37 1
+11 1
+8
+44 3
+38 1
+39 1
+40 1
+41 1
+112 1
+13 1
+42 1
+8
+33 1
+34 1
+44 3
+35 1
+12 1
+36 1
+112 1
+37 1
+8
+44 3
+38 1
+39 1
+40 1
+41 1
+112 1
+13 1
+42 1
+3
+44 2
+43 2
+112 1
+5
+113 3
+110 3
+109 3
+68 3
+108 3
+5
+113 3
+110 3
+109 3
+65 3
+108 3
+5
+113 3
+110 3
+109 3
+65 3
+108 3
+5
+113 3
+110 3
+109 3
+68 3
+108 3
+18
+21 1
+22 1
+23 1
+24 1
+44 3
+25 1
+60 1
+32 3
+26 1
+75 1
+61 1
+62 1
+43 3
+54 1
+63 1
+112 1
+64 1
+69 1
+18
+21 1
+22 1
+23 1
+24 1
+44 3
+25 1
+60 1
+32 3
+26 1
+75 1
+61 1
+62 1
+43 3
+54 1
+63 1
+112 1
+64 1
+69 1
+18
+21 1
+22 1
+23 1
+24 1
+44 3
+25 1
+60 1
+32 3
+26 1
+75 1
+61 1
+62 1
+43 3
+54 1
+63 1
+112 1
+64 1
+69 1
+18
+21 1
+22 1
+23 1
+24 1
+44 3
+25 1
+60 1
+32 3
+26 1
+75 1
+61 1
+62 1
+43 3
+54 1
+63 1
+112 1
+64 1
+69 1
+8
+83 6
+89 6
+85 2
+72 3
+86 2
+87 2
+107 6
+73 3
+8
+109 2
+90 1
+97 1
+75 3
+54 3
+106 2
+104 2
+88 2
+36
+113 6
+109 6
+105 4
+21 1
+9 1
+22 1
+83 12
+23 1
+24 1
+89 12
+25 1
+60 4
+90 2
+97 2
+26 1
+85 4
+75 4
+61 4
+62 4
+27 3
+72 6
+54 3
+106 10
+104 4
+86 4
+63 4
+112 3
+16 1
+87 4
+84 4
+17 1
+64 4
+88 4
+107 10
+73 6
+69 4
+10
+110 3
+83 6
+89 6
+85 2
+106 3
+86 2
+87 2
+88 3
+107 3
+73 6
+10
+110 3
+83 6
+89 6
+85 2
+72 6
+106 3
+86 2
+87 2
+88 3
+107 3
+10
+110 3
+83 6
+89 6
+85 2
+106 3
+86 2
+87 2
+88 3
+107 3
+73 6
+10
+110 3
+83 6
+89 6
+85 2
+72 6
+106 3
+86 2
+87 2
+88 3
+107 3
+10
+110 3
+83 6
+89 6
+85 2
+106 3
+86 2
+87 2
+88 3
+107 3
+73 6
+10
+110 3
+83 6
+89 6
+85 2
+72 6
+106 3
+86 2
+87 2
+88 3
+107 3
+8
+83 6
+89 6
+85 2
+72 3
+106 6
+86 2
+87 2
+73 3
+9
+113 1
+110 4
+89 1
+75 1
+54 1
+104 2
+112 1
+16 1
+107 2
+9
+113 1
+110 4
+14 1
+89 1
+75 1
+54 1
+106 2
+104 2
+112 1
+9
+113 1
+110 4
+89 1
+75 1
+54 1
+106 2
+104 2
+15 1
+112 1
+21
+113 2
+110 5
+21 1
+9 1
+22 1
+23 1
+24 1
+89 1
+25 1
+60 1
+26 1
+75 2
+61 1
+62 1
+54 1
+104 2
+63 1
+112 1
+64 1
+107 3
+69 1
+7
+14 1
+44 4
+43 4
+15 1
+112 4
+16 1
+17 1
+6
+113 2
+65 2
+66 2
+67 2
+72 1
+73 1
+5
+113 2
+105 2
+106 1
+84 2
+107 1
+5
+113 6
+110 6
+109 6
+65 6
+108 6
+6
+113 2
+65 2
+66 2
+67 2
+72 1
+73 1
+6
+113 2
+65 2
+66 2
+67 2
+72 1
+73 1
+5
+113 6
+110 6
+109 6
+68 6
+108 6
+6
+113 2
+68 2
+66 2
+67 2
+72 1
+73 1
+6
+113 2
+68 2
+66 2
+67 2
+72 1
+73 1
+5
+113 2
+105 2
+106 1
+84 2
+107 1
+6
+113 2
+68 2
+66 2
+67 2
+72 1
+73 1
+9
+9 1
+14 1
+44 6
+32 4
+0 1
+15 1
+112 6
+16 1
+17 1
+17
+9 1
+1 1
+14 1
+2 1
+3 1
+4 1
+32 4
+0 1
+5 1
+6 1
+43 6
+7 1
+15 1
+8 1
+112 14
+16 1
+17 1
+2
+109 1
+84 1
+2
+109 1
+84 1
+2
+109 1
+84 1
+2
+109 1
+84 1
+2
+113 1
+109 1
+2
+113 1
+109 1
+2
+113 1
+109 1
+2
+113 1
+109 1
+14
+113 6
+110 8
+109 4
+65 2
+14 1
+68 2
+75 2
+108 4
+54 2
+106 1
+112 2
+17 1
+88 2
+107 1
+34
+109 4
+21 2
+9 1
+22 2
+83 2
+23 2
+14 1
+24 2
+66 2
+25 2
+18 3
+60 8
+90 2
+19 3
+67 2
+0 1
+97 2
+26 2
+75 2
+61 8
+62 8
+27 3
+106 2
+104 4
+20 3
+63 8
+15 1
+112 6
+16 1
+17 1
+64 8
+88 4
+107 2
+69 8
+7
+83 4
+89 4
+72 2
+106 2
+87 4
+107 2
+73 2
+4
+113 2
+110 2
+106 1
+107 1
+4
+113 2
+110 2
+106 1
+107 1
+4
+113 2
+110 2
+106 1
+107 1
+24
+113 6
+110 8
+109 4
+65 2
+14 1
+68 2
+18 1
+60 2
+19 1
+75 2
+61 2
+62 2
+27 1
+108 4
+54 2
+106 1
+20 1
+63 2
+112 2
+17 1
+64 2
+88 2
+107 1
+69 2
+3
+113 1
+110 1
+109 1
+8
+113 3
+110 1
+109 1
+65 1
+68 1
+66 2
+67 2
+72 2
+8
+113 3
+110 1
+109 1
+65 1
+68 1
+66 2
+67 2
+73 2
+3
+113 1
+110 1
+109 1
+8
+113 3
+110 1
+109 1
+65 1
+68 1
+66 2
+67 2
+72 2
+5
+113 2
+66 2
+67 2
+72 1
+73 1
+2
+83 2
+67 2
+2
+83 2
+66 2
+5
+113 2
+66 2
+67 2
+72 1
+73 1
+8
+113 3
+110 1
+109 1
+65 1
+68 1
+66 2
+67 2
+73 2
+7
+83 4
+89 4
+72 2
+106 2
+86 4
+107 2
+73 2
+7
+83 4
+89 4
+85 4
+72 2
+106 2
+107 2
+73 2
+9
+83 7
+89 6
+66 1
+67 1
+85 2
+106 3
+86 2
+87 2
+107 3
+9
+83 7
+89 6
+66 1
+67 1
+85 2
+106 3
+86 2
+87 2
+107 3
+24
+113 6
+110 8
+109 4
+65 2
+68 2
+18 1
+60 2
+19 1
+75 2
+61 2
+62 2
+27 1
+108 4
+54 2
+106 1
+20 1
+63 2
+15 1
+112 2
+16 1
+64 2
+88 2
+107 1
+69 2
+10
+109 4
+83 2
+66 2
+90 2
+67 2
+97 2
+106 2
+104 4
+88 4
+107 2
+4
+113 2
+110 2
+106 1
+107 1
+30
+33 2
+21 2
+22 2
+23 2
+24 2
+34 2
+44 4
+35 2
+25 2
+60 2
+38 2
+12 1
+26 2
+75 2
+61 2
+62 2
+10 1
+39 2
+43 2
+54 2
+40 2
+36 2
+63 2
+41 2
+37 2
+13 1
+11 1
+64 2
+42 2
+69 2
+3
+44 6
+32 2
+43 2
+3
+44 6
+32 2
+43 2
+4
+113 2
+110 2
+106 1
+107 1
+30
+33 2
+21 2
+22 2
+23 2
+24 2
+34 2
+44 4
+35 2
+25 2
+60 2
+38 2
+12 1
+26 2
+75 2
+61 2
+62 2
+10 1
+39 2
+43 2
+54 2
+40 2
+36 2
+63 2
+41 2
+37 2
+13 1
+11 1
+64 2
+42 2
+69 2
+14
+113 6
+110 8
+109 4
+65 2
+68 2
+75 2
+108 4
+54 2
+106 1
+15 1
+112 2
+16 1
+88 2
+107 1
+8
+89 12
+85 4
+72 6
+106 6
+86 4
+87 4
+107 6
+73 6
+1
+109 4
+13
+113 4
+110 4
+109 4
+28 2
+58 4
+30 2
+108 4
+71 4
+74 4
+76 4
+77 4
+78 4
+82 4
+13
+113 4
+110 4
+109 4
+53 4
+56 4
+29 2
+57 4
+111 2
+59 4
+108 4
+70 4
+79 4
+81 4
+7
+113 4
+110 4
+109 4
+55 4
+108 4
+31 2
+80 4
+6
+109 4
+90 2
+97 2
+106 2
+104 4
+107 2
+3
+110 6
+106 3
+107 3
+15
+113 8
+110 8
+109 8
+46 4
+47 4
+49 4
+91 8
+92 8
+93 8
+50 4
+94 8
+95 8
+96 8
+106 4
+107 4
+2
+109 2
+84 2
+2
+113 2
+109 2
+2
+113 2
+109 2
+2
+113 2
+109 2
+6
+109 2
+90 2
+106 1
+104 2
+88 2
+107 1
+2
+113 2
+109 2
+15
+113 8
+110 8
+109 8
+45 4
+48 4
+98 8
+51 4
+99 8
+52 4
+100 8
+106 4
+101 8
+107 4
+102 8
+103 8
+2
+109 2
+84 2
+2
+113 2
+109 2
+6
+109 2
+97 2
+106 1
+104 2
+88 2
+107 1
+2
+113 2
+109 2
+2
+113 2
+109 2
+2
+113 2
+109 2
+1
+110 12
+27
+113 12
+110 12
+109 16
+33 2
+1 1
+2 1
+34 2
+35 2
+3 1
+38 2
+4 1
+5 1
+12 1
+6 1
+10 1
+39 2
+7 1
+40 2
+36 2
+41 2
+8 1
+112 8
+84 4
+37 2
+13 1
+11 1
+42 2
+27
+113 12
+110 17
+109 10
+105 2
+45 2
+46 2
+47 2
+89 3
+48 2
+91 4
+92 4
+93 4
+90 4
+98 4
+51 4
+50 4
+94 4
+97 4
+99 4
+100 4
+95 4
+96 4
+104 6
+101 4
+84 2
+102 4
+103 4
+27
+113 12
+110 17
+109 10
+105 2
+45 2
+46 2
+47 2
+49 4
+89 3
+48 2
+91 4
+92 4
+93 4
+90 4
+98 4
+94 4
+97 4
+99 4
+52 4
+100 4
+95 4
+96 4
+104 6
+101 4
+84 2
+102 4
+103 4
+27
+113 12
+110 12
+109 12
+53 4
+56 4
+28 2
+29 2
+57 4
+111 2
+58 4
+30 2
+55 4
+85 4
+59 4
+70 4
+86 4
+71 4
+74 4
+31 2
+76 4
+77 4
+78 4
+87 4
+79 4
+80 4
+81 4
+82 4
+82
+113 40
+110 52
+105 12
+33 2
+45 4
+53 4
+1 1
+83 12
+46 4
+47 4
+2 1
+49 4
+34 2
+56 4
+28 2
+89 12
+48 4
+91 8
+35 2
+3 1
+92 8
+29 2
+38 2
+4 1
+57 4
+111 2
+93 8
+90 10
+98 8
+51 4
+58 4
+50 4
+5 1
+30 2
+12 1
+55 4
+94 8
+97 10
+85 8
+99 8
+59 4
+6 1
+10 1
+39 2
+72 6
+52 4
+7 1
+100 8
+95 8
+96 8
+108 12
+70 4
+40 2
+106 16
+104 16
+101 8
+36 2
+86 8
+71 4
+74 4
+31 2
+76 4
+77 4
+41 2
+8 1
+112 8
+78 4
+87 8
+84 4
+37 2
+13 1
+79 4
+11 1
+88 4
+107 16
+102 8
+103 8
+80 4
+42 2
+81 4
+82 4
+73 6
+78
+113 40
+109 40
+105 12
+33 2
+45 4
+53 4
+1 1
+46 4
+47 4
+2 1
+49 4
+34 2
+56 4
+28 2
+89 6
+48 4
+91 8
+35 2
+3 1
+92 8
+29 2
+38 2
+4 1
+57 4
+111 2
+93 8
+90 8
+98 8
+51 4
+58 4
+50 4
+5 1
+30 2
+12 1
+55 4
+94 8
+97 8
+85 4
+99 8
+59 4
+6 1
+10 1
+39 2
+52 4
+7 1
+100 8
+95 8
+96 8
+108 12
+70 4
+40 2
+106 11
+104 12
+101 8
+36 2
+86 4
+71 4
+74 4
+31 2
+76 4
+77 4
+41 2
+8 1
+112 8
+78 4
+87 4
+37 2
+13 1
+79 4
+11 1
+88 6
+107 11
+102 8
+103 8
+80 4
+42 2
+81 4
+82 4
+9
+113 1
+110 4
+89 1
+75 1
+54 1
+104 2
+112 1
+17 1
+107 2
+110
+113 74
+110 86
+109 66
+105 16
+33 2
+45 4
+53 4
+21 2
+9 1
+22 2
+1 1
+83 14
+46 4
+23 2
+65 8
+14 1
+47 4
+24 2
+2 1
+49 4
+34 2
+56 4
+28 2
+89 18
+68 8
+48 4
+66 6
+91 8
+35 2
+25 2
+3 1
+18 3
+92 8
+29 2
+60 8
+38 2
+4 1
+57 4
+111 2
+93 8
+90 10
+19 3
+98 8
+67 6
+51 4
+58 4
+50 4
+0 1
+5 1
+30 2
+12 1
+55 4
+94 8
+97 10
+26 2
+85 8
+75 8
+99 8
+59 4
+61 8
+6 1
+62 8
+10 1
+39 2
+27 3
+72 8
+52 4
+7 1
+100 8
+95 8
+96 8
+108 24
+70 4
+54 6
+40 2
+106 25
+104 16
+101 8
+36 2
+86 8
+71 4
+74 4
+31 2
+76 4
+20 3
+77 4
+63 8
+15 1
+41 2
+8 1
+16 1
+78 4
+87 8
+84 8
+37 2
+13 1
+79 4
+17 1
+11 1
+64 8
+88 10
+107 25
+102 8
+103 8
+80 4
+42 2
+81 4
+82 4
+73 8
+69 8
+107
+110 68
+109 58
+105 16
+33 2
+45 4
+53 4
+21 2
+9 1
+22 2
+1 1
+46 4
+23 2
+65 8
+14 1
+47 4
+24 2
+2 1
+49 4
+34 2
+56 4
+28 2
+68 8
+48 4
+66 4
+91 8
+35 2
+25 2
+3 1
+18 3
+92 8
+29 2
+60 8
+38 2
+4 1
+57 4
+111 2
+93 8
+90 8
+19 3
+98 8
+67 4
+51 4
+58 4
+50 4
+0 1
+5 1
+30 2
+12 1
+55 4
+94 8
+97 8
+26 2
+85 4
+75 8
+99 8
+59 4
+61 8
+6 1
+62 8
+10 1
+39 2
+27 3
+72 2
+52 4
+7 1
+100 8
+95 8
+96 8
+108 24
+70 4
+54 6
+40 2
+106 14
+101 8
+36 2
+86 4
+71 4
+74 4
+31 2
+76 4
+20 3
+77 4
+63 8
+15 1
+41 2
+8 1
+112 14
+16 1
+78 4
+87 4
+84 4
+37 2
+13 1
+79 4
+17 1
+11 1
+64 8
+88 6
+107 14
+102 8
+103 8
+80 4
+42 2
+81 4
+82 4
+73 2
+69 8
+end_CG

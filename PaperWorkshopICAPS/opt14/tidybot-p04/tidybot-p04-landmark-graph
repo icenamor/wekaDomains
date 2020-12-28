@@ -1,0 +1,58 @@
+digraph G {
+v21  [label="NegatedAtom object-done(object3)"]
+v14  [label="Atom object-done(object3)"]
+v15  [label="NegatedAtom object-done(object0)"]
+v4  [label="Atom object-done(object0)"]
+v9  [label="NegatedAtom object-done(object2)"]
+v18  [label="Atom object-done(object2)"]
+v16  [label="NegatedAtom object-done(object1)"]
+v11  [label="Atom object-done(object1)"]
+v19  [label="Atom holding(pr2, object1)"]
+v22  [label="Atom gripper-empty(pr2)"]
+v0  [label="NegatedAtom base-obstacle(x1, y0)"]
+v7  [label="Atom base-pos(pr2, x0, y0)"]
+v10  [label="Atom not-pushing(pr2)"]
+v3  [label="NegatedAtom gripper-obstacle(x2, y5)"]
+v5  [label="Atom gripper-rel(pr2, xrel0, yrel0)"]
+v20  [label="Atom object-pos(object3, x3, y5)"]
+v8  [label="Atom object-pos(object2, x3, y4)"]
+v6  [label="Atom object-pos(object1, x6, y6)"]
+v2  [label="NegatedAtom object-pos(object1, x2, y5)"]
+v17  [label="Atom object-pos(object1, x2, y5)"]
+v1  [label="Atom object-pos(object0, x2, y4)"]
+v13  [label="NegatedAtom parked(pr2)"]
+v12  [label="Atom parked(pr2)"]
+v21 -> v14
+v15 -> v4
+v9 -> v18
+v16 -> v11
+v16 -> v19
+v19 -> v17
+v19 -> v11
+v22 -> v11
+v22 -> v19
+v0 -> v11
+v0 -> v19
+v7 -> v11
+v7 -> v19
+v10 -> v11
+v10 -> v19
+v3 -> v17
+v3 -> v11
+v5 -> v13
+v5 -> v11
+v5 -> v19
+v20 -> v14
+v8 -> v18
+v6 -> v11
+v6 -> v19
+v2 -> v17
+v17 -> v11
+v1 -> v4
+v13 -> v11
+v13 -> v19
+v12 -> v13
+v12 -> v17
+v12 -> v11
+v12 -> v19
+}

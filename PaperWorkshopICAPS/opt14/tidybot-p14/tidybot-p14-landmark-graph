@@ -1,0 +1,102 @@
+digraph G {
+v1  [label="Atom object-pos(object2, x1, y6), Atom object-pos(object2, x5, y3)"]
+v0  [label="Atom object-pos(object0, x1, y6), Atom object-pos(object0, x4, y3)"]
+v12  [label="NegatedAtom object-done(object2)"]
+v25  [label="Atom object-done(object2)"]
+v10  [label="NegatedAtom object-done(object0)"]
+v16  [label="Atom object-done(object0)"]
+v13  [label="NegatedAtom object-done(object3)"]
+v3  [label="Atom object-done(object3)"]
+v24  [label="NegatedAtom object-done(object1)"]
+v14  [label="Atom object-done(object1)"]
+v26  [label="Atom holding(pr2, object2)"]
+v17  [label="Atom holding(pr2, object1)"]
+v21  [label="Atom holding(pr2, object0)"]
+v5  [label="Atom gripper-empty(pr2)"]
+v9  [label="NegatedAtom base-obstacle(x1, y0)"]
+v4  [label="Atom base-pos(pr2, x0, y0)"]
+v6  [label="Atom not-pushing(pr2)"]
+v23  [label="NegatedAtom gripper-obstacle(x4, y4)"]
+v7  [label="Atom gripper-rel(pr2, xrel0, yrel0)"]
+v19  [label="Atom object-pos(object3, x5, y4)"]
+v8  [label="Atom object-pos(object2, x4, y3)"]
+v11  [label="NegatedAtom object-pos(object1, x4, y4)"]
+v15  [label="Atom object-pos(object1, x4, y4)"]
+v18  [label="Atom object-pos(object0, x5, y3)"]
+v2  [label="Atom object-pos(object1, x1, y3)"]
+v20  [label="NegatedAtom parked(pr2)"]
+v22  [label="Atom parked(pr2)"]
+v1 -> v25
+v0 -> v16
+v12 -> v25
+v12 -> v26
+v10 -> v16
+v10 -> v21
+v13 -> v3
+v24 -> v14
+v24 -> v17
+v26 -> v25
+v26 -> v1
+v17 -> v15
+v17 -> v14
+v21 -> v0
+v21 -> v16
+v5 -> v16
+v5 -> v25
+v5 -> v26
+v5 -> v21
+v5 -> v14
+v5 -> v17
+v9 -> v16
+v9 -> v25
+v9 -> v26
+v9 -> v21
+v9 -> v14
+v9 -> v17
+v4 -> v16
+v4 -> v25
+v4 -> v26
+v4 -> v21
+v4 -> v14
+v4 -> v17
+v6 -> v16
+v6 -> v25
+v6 -> v26
+v6 -> v21
+v6 -> v14
+v6 -> v17
+v23 -> v15
+v23 -> v14
+v7 -> v16
+v7 -> v25
+v7 -> v26
+v7 -> v20
+v7 -> v21
+v7 -> v14
+v7 -> v17
+v19 -> v3
+v8 -> v25
+v8 -> v26
+v11 -> v15
+v15 -> v14
+v18 -> v16
+v18 -> v21
+v2 -> v14
+v2 -> v17
+v20 -> v16
+v20 -> v25
+v20 -> v26
+v20 -> v21
+v20 -> v14
+v20 -> v17
+v22 -> v0
+v22 -> v16
+v22 -> v25
+v22 -> v26
+v22 -> v20
+v22 -> v15
+v22 -> v21
+v22 -> v1
+v22 -> v14
+v22 -> v17
+}

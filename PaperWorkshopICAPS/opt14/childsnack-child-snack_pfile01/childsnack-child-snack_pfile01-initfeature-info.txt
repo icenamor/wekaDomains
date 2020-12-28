@@ -1,0 +1,1 @@
+  1, /home/isabel/domains/seq-opt/ChildSnack/child-snack_pfile01.pddl, 66, 464, 3, 10, 3.333333, -5, -0.015152, 0.788024, 1, 1.000000, 0.000000, 0.926724, 0.073276, 8

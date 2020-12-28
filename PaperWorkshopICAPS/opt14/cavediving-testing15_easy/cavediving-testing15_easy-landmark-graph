@@ -1,0 +1,65 @@
+digraph G {
+v20  [label="Atom at-diver(d1, l3), Atom at-diver(d2, l3), Atom at-diver(d3, l3), Atom at-diver(d0, l3)"]
+v22  [label="Atom at-diver(d1, l2), Atom at-diver(d2, l2), Atom at-diver(d3, l2), Atom at-diver(d0, l2)"]
+v21  [label="Atom at-diver(d1, l1), Atom at-diver(d2, l1), Atom at-diver(d3, l1), Atom at-diver(d0, l1)"]
+v19  [label="NegatedAtom have-photo(l3)"]
+v10  [label="Atom have-photo(l3)"]
+v3  [label="Atom decompressing(d0)"]
+v4  [label="Atom available(d0)"]
+v5  [label="Atom at-surface(d0)"]
+v6  [label="Atom at-diver(d0, l0)"]
+v14  [label="Atom decompressing(d3)"]
+v7  [label="Atom available(d3)"]
+v8  [label="Atom at-surface(d3)"]
+v11  [label="Atom at-diver(d3, l0)"]
+v18  [label="Atom decompressing(d2)"]
+v2  [label="Atom available(d2)"]
+v12  [label="Atom at-surface(d2)"]
+v17  [label="Atom at-diver(d2, l0)"]
+v16  [label="Atom decompressing(d1)"]
+v13  [label="Atom available(d1)"]
+v15  [label="Atom at-surface(d1)"]
+v9  [label="Atom at-diver(d1, l0)"]
+v0  [label="Atom in-storage(t0)"]
+v1  [label="NegatedAtom in-water()"]
+v20 -> v10
+v22 -> v10
+v22 -> v20
+v21 -> v10
+v21 -> v22
+v19 -> v10
+v4 -> v3
+v4 -> v5
+v4 -> v6
+v5 -> v3
+v5 -> v6
+v6 -> v3
+v7 -> v14
+v7 -> v11
+v7 -> v8
+v8 -> v14
+v8 -> v11
+v11 -> v14
+v2 -> v17
+v2 -> v18
+v2 -> v12
+v12 -> v17
+v12 -> v18
+v17 -> v18
+v13 -> v9
+v13 -> v15
+v13 -> v16
+v15 -> v9
+v15 -> v16
+v9 -> v16
+v0 -> v10
+v1 -> v15
+v1 -> v16
+v1 -> v10
+v1 -> v18
+v1 -> v14
+v1 -> v12
+v1 -> v3
+v1 -> v5
+v1 -> v8
+}

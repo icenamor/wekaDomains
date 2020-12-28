@@ -1,0 +1,23 @@
+digraph G {
+v6  [label="NegatedAtom saved(data-2-1, server2)"]
+v7  [label="Atom saved(data-2-1, server2)"]
+v4  [label="Atom usage(server2, number0)"]
+v2  [label="NegatedAtom cached(data-2-1, server2)"]
+v0  [label="Atom cached(data-2-1, server2)"]
+v3  [label="Atom usage(server7, number0)"]
+v5  [label="NegatedAtom cached(data-0-2, server7)"]
+v1  [label="Atom cached(data-0-2, server7)"]
+v6 -> v7
+v4 -> v7
+v4 -> v0
+v2 -> v7
+v2 -> v0
+v0 -> v7
+v3 -> v7
+v3 -> v1
+v5 -> v7
+v5 -> v0
+v5 -> v1
+v1 -> v7
+v1 -> v0
+}

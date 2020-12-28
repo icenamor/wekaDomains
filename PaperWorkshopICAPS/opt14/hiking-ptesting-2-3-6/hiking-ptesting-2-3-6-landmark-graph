@@ -1,0 +1,174 @@
+digraph G {
+v33  [label="Atom at_tent(tent0, place5), Atom at_tent(tent1, place5)"]
+v34  [label="Atom at_tent(tent0, place4), Atom at_tent(tent1, place4)"]
+v37  [label="Atom at_tent(tent0, place3), Atom at_tent(tent1, place3)"]
+v36  [label="Atom at_tent(tent0, place2), Atom at_tent(tent1, place2)"]
+v35  [label="Atom at_tent(tent0, place1), Atom at_tent(tent1, place1)"]
+v32  [label="Atom up(tent0), Atom up(tent1)"]
+v3  [label="Atom walked(couple1, place5)"]
+v31  [label="Atom walked(couple1, place4)"]
+v30  [label="Atom walked(couple1, place3)"]
+v29  [label="Atom walked(couple1, place2)"]
+v28  [label="Atom walked(couple1, place1)"]
+v27  [label="Atom walked(couple1, place0)"]
+v0  [label="Atom walked(couple0, place5)"]
+v26  [label="Atom walked(couple0, place4)"]
+v25  [label="Atom walked(couple0, place3)"]
+v24  [label="Atom walked(couple0, place2)"]
+v23  [label="Atom walked(couple0, place1)"]
+v22  [label="Atom walked(couple0, place0)"]
+v21  [label="Atom at_person(guy1, place4)"]
+v20  [label="Atom at_person(guy1, place3)"]
+v19  [label="Atom at_person(guy1, place2)"]
+v18  [label="Atom at_person(guy1, place1)"]
+v17  [label="Atom at_person(guy1, place0)"]
+v9  [label="Atom at_person(girl1, place4)"]
+v8  [label="Atom at_person(girl1, place3)"]
+v15  [label="Atom at_person(girl1, place2)"]
+v2  [label="Atom at_person(girl1, place1)"]
+v1  [label="Atom at_person(girl1, place0)"]
+v11  [label="Atom at_person(guy0, place4)"]
+v14  [label="Atom at_person(guy0, place3)"]
+v16  [label="Atom at_person(guy0, place2)"]
+v6  [label="Atom at_person(guy0, place1)"]
+v5  [label="Atom at_person(guy0, place0)"]
+v13  [label="Atom at_person(girl0, place4)"]
+v7  [label="Atom at_person(girl0, place3)"]
+v12  [label="Atom at_person(girl0, place2)"]
+v10  [label="Atom at_person(girl0, place1)"]
+v4  [label="Atom at_person(girl0, place0)"]
+v33 -> v0
+v33 -> v3
+v34 -> v0
+v34 -> v31
+v34 -> v26
+v34 -> v3
+v37 -> v0
+v37 -> v30
+v37 -> v25
+v37 -> v31
+v37 -> v26
+v37 -> v3
+v36 -> v24
+v36 -> v0
+v36 -> v30
+v36 -> v25
+v36 -> v31
+v36 -> v26
+v36 -> v29
+v36 -> v3
+v35 -> v24
+v35 -> v0
+v35 -> v30
+v35 -> v25
+v35 -> v28
+v35 -> v23
+v35 -> v31
+v35 -> v26
+v35 -> v29
+v35 -> v3
+v32 -> v24
+v32 -> v0
+v32 -> v30
+v32 -> v25
+v32 -> v28
+v32 -> v23
+v32 -> v31
+v32 -> v26
+v32 -> v29
+v32 -> v3
+v31 -> v3
+v30 -> v31
+v30 -> v3
+v29 -> v30
+v29 -> v31
+v29 -> v3
+v28 -> v30
+v28 -> v31
+v28 -> v29
+v28 -> v3
+v27 -> v30
+v27 -> v28
+v27 -> v31
+v27 -> v29
+v27 -> v3
+v26 -> v0
+v25 -> v0
+v25 -> v26
+v24 -> v0
+v24 -> v25
+v24 -> v26
+v23 -> v24
+v23 -> v0
+v23 -> v25
+v23 -> v26
+v22 -> v24
+v22 -> v0
+v22 -> v25
+v22 -> v23
+v22 -> v26
+v21 -> v3
+v20 -> v31
+v20 -> v3
+v19 -> v30
+v19 -> v31
+v19 -> v3
+v18 -> v30
+v18 -> v31
+v18 -> v29
+v18 -> v3
+v17 -> v19
+v17 -> v20
+v17 -> v28
+v17 -> v18
+v17 -> v21
+v17 -> v3
+v9 -> v3
+v8 -> v31
+v8 -> v3
+v15 -> v30
+v15 -> v31
+v15 -> v3
+v2 -> v30
+v2 -> v31
+v2 -> v29
+v2 -> v3
+v1 -> v2
+v1 -> v9
+v1 -> v8
+v1 -> v15
+v1 -> v28
+v1 -> v3
+v11 -> v0
+v14 -> v0
+v14 -> v26
+v16 -> v0
+v16 -> v25
+v16 -> v26
+v6 -> v24
+v6 -> v0
+v6 -> v25
+v6 -> v26
+v5 -> v11
+v5 -> v14
+v5 -> v0
+v5 -> v6
+v5 -> v23
+v5 -> v16
+v13 -> v0
+v7 -> v0
+v7 -> v26
+v12 -> v0
+v12 -> v25
+v12 -> v26
+v10 -> v24
+v10 -> v0
+v10 -> v25
+v10 -> v26
+v4 -> v10
+v4 -> v0
+v4 -> v12
+v4 -> v7
+v4 -> v23
+v4 -> v13
+}
