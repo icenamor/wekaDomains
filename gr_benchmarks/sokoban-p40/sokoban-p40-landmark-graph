@@ -1,0 +1,79 @@
+digraph G {
+v21  [label="Atom at(box1, f2-6f), Atom at(box1, f3-5f), Atom at(box1, f4-4f), Atom at(box1, f5-3f)"]
+v22  [label="Atom at(box1, f1-6f), Atom at(box1, f2-5f), Atom at(box1, f4-3f), Atom at(box1, f5-2f)"]
+v23  [label="Atom at(box1, f1-5f), Atom at(box1, f3-3f), Atom at(box1, f4-2f), Atom at(box1, f5-1f)"]
+v24  [label="Atom at(box1, f1-4f), Atom at(box1, f2-3f), Atom at(box1, f3-2f), Atom at(box1, f4-1f)"]
+v17  [label="Atom at(box0, f0-4f), Atom at(box0, f1-3f), Atom at(box0, f2-2f), Atom at(box0, f3-1f)"]
+v18  [label="Atom at-robot(f2-6f), Atom at-robot(f3-5f), Atom at-robot(f4-4f), Atom at-robot(f5-5f)"]
+v20  [label="Atom at-robot(f1-6f), Atom at-robot(f2-5f), Atom at-robot(f4-3f), Atom at-robot(f5-4f)"]
+v10  [label="Atom at-robot(f0-4f), Atom at-robot(f1-3f), Atom at-robot(f2-2f), Atom at-robot(f3-1f)"]
+v19  [label="Atom at(box1, f3-6f), Atom at(box1, f4-5f), Atom at(box1, f5-4f)"]
+v9  [label="Atom at(box0, f0-3f), Atom at(box0, f1-2f), Atom at(box0, f2-1f)"]
+v11  [label="Atom at-robot(f3-6f), Atom at-robot(f4-5f), Atom at-robot(f5-6f)"]
+v8  [label="Atom at(box1, f4-6f), Atom at(box1, f5-5f)"]
+v16  [label="Atom at(box0, f0-2f), Atom at(box0, f1-1f)"]
+v7  [label="Atom at-robot(f0-3f), Atom at-robot(f2-1f)"]
+v5  [label="Atom at(box1, f6-6f)"]
+v2  [label="Atom at(box1, f5-6f)"]
+v14  [label="Atom at(box1, f3-1f)"]
+v13  [label="Atom at(box0, f5-4f)"]
+v3  [label="Atom at(box0, f0-1f)"]
+v0  [label="Atom at-robot(f4-6f)"]
+v15  [label="Atom at-robot(f2-0f)"]
+v6  [label="Atom clear(f4-6f)"]
+v1  [label="Atom clear(f0-1f)"]
+v4  [label="Atom clear(f5-6f)"]
+v12  [label="Atom clear(f6-6f)"]
+v21 -> v19
+v21 -> v2
+v21 -> v5
+v22 -> v2
+v22 -> v21
+v22 -> v5
+v23 -> v2
+v23 -> v22
+v23 -> v5
+v24 -> v23
+v24 -> v2
+v24 -> v5
+v17 -> v3
+v17 -> v9
+v18 -> v3
+v18 -> v11
+v18 -> v0
+v18 -> v5
+v20 -> v3
+v20 -> v18
+v20 -> v2
+v20 -> v0
+v20 -> v5
+v10 -> v3
+v10 -> v16
+v10 -> v2
+v10 -> v5
+v19 -> v8
+v19 -> v2
+v19 -> v5
+v9 -> v3
+v9 -> v16
+v11 -> v0
+v8 -> v2
+v8 -> v5
+v16 -> v3
+v7 -> v3
+v2 -> v5
+v14 -> v2
+v14 -> v5
+v13 -> v3
+v0 -> v5
+v15 -> v3
+v15 -> v2
+v15 -> v0
+v15 -> v5
+v6 -> v0
+v6 -> v5
+v1 -> v3
+v4 -> v2
+v4 -> v5
+v12 -> v5
+}

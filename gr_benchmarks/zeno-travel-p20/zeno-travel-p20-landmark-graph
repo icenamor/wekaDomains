@@ -1,0 +1,55 @@
+digraph G {
+v13  [label="Atom in(person2, plane1), Atom in(person2, plane2), Atom in(person2, plane3)"]
+v14  [label="Atom in(person4, plane1), Atom in(person4, plane2), Atom in(person4, plane3)"]
+v12  [label="Atom in(person5, plane1), Atom in(person5, plane2), Atom in(person5, plane3)"]
+v8  [label="Atom in(person6, plane1), Atom in(person6, plane2), Atom in(person6, plane3)"]
+v9  [label="Atom in(person7, plane1), Atom in(person7, plane2), Atom in(person7, plane3)"]
+v11  [label="Atom at(plane3, city5), Atom at(plane2, city5), Atom at(plane1, city5)"]
+v10  [label="Atom at(plane3, city2), Atom at(plane2, city2), Atom at(plane1, city2)"]
+v7  [label="Atom at(plane3, city0), Atom at(plane2, city0), Atom at(plane1, city0)"]
+v19  [label="Atom at(person1, city4)"]
+v15  [label="Atom at(person2, city2)"]
+v21  [label="Atom at(person2, city1)"]
+v22  [label="Atom at(person3, city2)"]
+v1  [label="Atom at(person4, city2)"]
+v20  [label="Atom at(person4, city0)"]
+v0  [label="Atom at(person5, city5)"]
+v16  [label="Atom at(person5, city2)"]
+v3  [label="Atom at(person6, city4)"]
+v5  [label="Atom at(person6, city2)"]
+v17  [label="Atom at(person7, city5)"]
+v4  [label="Atom at(person7, city0)"]
+v2  [label="Atom at(plane1, city4)"]
+v6  [label="Atom at(plane1, city1)"]
+v18  [label="Atom fuellevel(plane1, fl4)"]
+v13 -> v21
+v14 -> v1
+v12 -> v0
+v8 -> v3
+v9 -> v4
+v11 -> v4
+v11 -> v9
+v11 -> v0
+v10 -> v12
+v10 -> v21
+v10 -> v0
+v10 -> v1
+v10 -> v3
+v10 -> v13
+v10 -> v8
+v7 -> v4
+v7 -> v14
+v7 -> v1
+v15 -> v21
+v15 -> v13
+v20 -> v14
+v20 -> v1
+v16 -> v12
+v16 -> v0
+v5 -> v3
+v5 -> v8
+v17 -> v4
+v17 -> v9
+v2 -> v6
+v18 -> v6
+}

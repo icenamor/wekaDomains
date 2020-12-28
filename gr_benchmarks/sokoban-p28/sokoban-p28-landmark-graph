@@ -1,0 +1,41 @@
+digraph G {
+v8  [label="Atom at(box1, f4-8f), Atom at(box1, f6-6f), Atom at(box1, f7-5f), Atom at(box1, f8-6f)"]
+v12  [label="Atom at(box0, f2-1f), Atom at(box0, f3-2f), Atom at(box0, f3-4f), Atom at(box0, f4-3f)"]
+v11  [label="Atom at-robot(f4-8f), Atom at-robot(f5-7f), Atom at-robot(f6-6f), Atom at-robot(f7-5f)"]
+v10  [label="Atom at-robot(f1-0f), Atom at-robot(f2-1f), Atom at-robot(f3-2f), Atom at-robot(f4-3f)"]
+v1  [label="Atom at(box1, f5-8f), Atom at(box1, f6-7f), Atom at(box1, f7-6f)"]
+v9  [label="Atom at(box0, f1-1f), Atom at(box0, f2-2f), Atom at(box0, f3-3f)"]
+v3  [label="Atom at(box1, f6-8f), Atom at(box1, f7-7f)"]
+v0  [label="Atom at(box0, f1-2f), Atom at(box0, f2-3f)"]
+v4  [label="Atom at-robot(f5-8f), Atom at-robot(f7-6f)"]
+v2  [label="Atom at-robot(f1-1f), Atom at-robot(f3-3f)"]
+v7  [label="Atom at(box1, f7-8f)"]
+v5  [label="Atom at(box1, f3-4f)"]
+v6  [label="Atom at(box0, f7-3f)"]
+v13  [label="Atom at(box0, f1-3f)"]
+v15  [label="Atom at-robot(f8-0f)"]
+v14  [label="Atom clear(f1-3f)"]
+v16  [label="Atom clear(f7-8f)"]
+v8 -> v1
+v8 -> v7
+v12 -> v9
+v12 -> v13
+v11 -> v3
+v11 -> v7
+v10 -> v0
+v10 -> v13
+v1 -> v3
+v1 -> v7
+v9 -> v0
+v9 -> v13
+v3 -> v7
+v0 -> v13
+v4 -> v7
+v2 -> v13
+v5 -> v7
+v6 -> v13
+v15 -> v13
+v15 -> v7
+v14 -> v13
+v16 -> v7
+}

@@ -1,0 +1,107 @@
+digraph G {
+v39  [label="Atom calibrated(camera0, rover3), Atom calibrated(camera3, rover1), Atom calibrated(camera2, rover1), Atom calibrated(camera1, rover0)"]
+v8  [label="Atom have_image(rover3, objective4, low_res), Atom have_image(rover1, objective4, low_res), Atom have_image(rover0, objective4, low_res)"]
+v35  [label="Atom have_soil_analysis(rover0, waypoint7), Atom have_soil_analysis(rover2, waypoint7)"]
+v36  [label="Atom have_soil_analysis(rover0, waypoint4), Atom have_soil_analysis(rover2, waypoint4)"]
+v37  [label="Atom have_soil_analysis(rover0, waypoint2), Atom have_soil_analysis(rover2, waypoint2)"]
+v9  [label="Atom have_image(rover1, objective1, high_res), Atom have_image(rover0, objective1, high_res)"]
+v10  [label="Atom have_image(rover1, objective2, high_res), Atom have_image(rover0, objective2, high_res)"]
+v38  [label="Atom at(rover2, waypoint7), Atom at(rover0, waypoint7)"]
+v40  [label="Atom at(rover2, waypoint2), Atom at(rover0, waypoint2)"]
+v41  [label="Atom at(rover2, waypoint1), Atom at(rover0, waypoint0)"]
+v7  [label="NegatedAtom communicated_soil_data(waypoint2)"]
+v26  [label="Atom communicated_soil_data(waypoint2)"]
+v6  [label="NegatedAtom communicated_soil_data(waypoint4)"]
+v27  [label="Atom communicated_soil_data(waypoint4)"]
+v5  [label="NegatedAtom communicated_soil_data(waypoint7)"]
+v28  [label="Atom communicated_soil_data(waypoint7)"]
+v21  [label="Atom at_soil_sample(waypoint7)"]
+v23  [label="Atom at_soil_sample(waypoint4)"]
+v22  [label="Atom at_soil_sample(waypoint2)"]
+v4  [label="NegatedAtom communicated_image_data(objective1, high_res)"]
+v29  [label="Atom communicated_image_data(objective1, high_res)"]
+v3  [label="NegatedAtom communicated_image_data(objective2, high_res)"]
+v30  [label="Atom communicated_image_data(objective2, high_res)"]
+v2  [label="NegatedAtom communicated_image_data(objective4, low_res)"]
+v25  [label="Atom communicated_image_data(objective4, low_res)"]
+v1  [label="NegatedAtom communicated_rock_data(waypoint2)"]
+v17  [label="Atom communicated_rock_data(waypoint2)"]
+v0  [label="NegatedAtom communicated_rock_data(waypoint8)"]
+v19  [label="Atom communicated_rock_data(waypoint8)"]
+v34  [label="NegatedAtom communicated_rock_data(waypoint9)"]
+v13  [label="Atom communicated_rock_data(waypoint9)"]
+v20  [label="Atom empty(rover3store)"]
+v12  [label="Atom have_rock_analysis(rover3, waypoint9)"]
+v11  [label="Atom at_rock_sample(waypoint9)"]
+v15  [label="Atom have_rock_analysis(rover3, waypoint8)"]
+v14  [label="Atom at_rock_sample(waypoint8)"]
+v18  [label="Atom have_rock_analysis(rover3, waypoint2)"]
+v24  [label="Atom at_rock_sample(waypoint2)"]
+v16  [label="Atom at(rover3, waypoint9)"]
+v31  [label="Atom at(rover3, waypoint8)"]
+v32  [label="Atom at(rover3, waypoint4)"]
+v33  [label="Atom at(rover3, waypoint2)"]
+v39 -> v29
+v39 -> v30
+v39 -> v9
+v39 -> v10
+v39 -> v25
+v39 -> v8
+v8 -> v25
+v35 -> v28
+v36 -> v27
+v37 -> v26
+v9 -> v29
+v10 -> v30
+v38 -> v35
+v38 -> v28
+v40 -> v26
+v40 -> v37
+v41 -> v38
+v41 -> v28
+v7 -> v26
+v6 -> v27
+v5 -> v28
+v21 -> v35
+v21 -> v28
+v23 -> v36
+v23 -> v27
+v22 -> v26
+v22 -> v37
+v4 -> v29
+v3 -> v30
+v2 -> v25
+v1 -> v17
+v0 -> v19
+v34 -> v13
+v20 -> v18
+v20 -> v19
+v20 -> v12
+v20 -> v13
+v20 -> v15
+v20 -> v17
+v12 -> v13
+v11 -> v12
+v11 -> v13
+v15 -> v19
+v14 -> v19
+v14 -> v15
+v18 -> v17
+v24 -> v18
+v24 -> v17
+v16 -> v12
+v16 -> v13
+v31 -> v19
+v31 -> v15
+v32 -> v18
+v32 -> v33
+v32 -> v19
+v32 -> v12
+v32 -> v31
+v32 -> v13
+v32 -> v15
+v32 -> v16
+v32 -> v17
+v33 -> v18
+v33 -> v17
+}

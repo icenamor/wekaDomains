@@ -1,0 +1,68 @@
+digraph G {
+v11  [label="Atom in(person1, plane1), Atom in(person1, plane2), Atom in(person1, plane3)"]
+v13  [label="Atom in(person2, plane1), Atom in(person2, plane2), Atom in(person2, plane3)"]
+v12  [label="Atom in(person3, plane1), Atom in(person3, plane2), Atom in(person3, plane3)"]
+v9  [label="Atom in(person4, plane1), Atom in(person4, plane2), Atom in(person4, plane3)"]
+v8  [label="Atom in(person5, plane1), Atom in(person5, plane2), Atom in(person5, plane3)"]
+v7  [label="Atom in(person6, plane1), Atom in(person6, plane2), Atom in(person6, plane3)"]
+v23  [label="Atom in(person7, plane1), Atom in(person7, plane2), Atom in(person7, plane3)"]
+v22  [label="Atom in(person8, plane1), Atom in(person8, plane2), Atom in(person8, plane3)"]
+v10  [label="Atom at(plane3, city4), Atom at(plane2, city4), Atom at(plane1, city4)"]
+v24  [label="Atom at(plane3, city1), Atom at(plane2, city1), Atom at(plane1, city1)"]
+v21  [label="Atom at(plane3, city0), Atom at(plane2, city0), Atom at(plane1, city0)"]
+v1  [label="Atom at(person1, city5)"]
+v17  [label="Atom at(person1, city2)"]
+v2  [label="Atom at(person2, city4)"]
+v18  [label="Atom at(person2, city1)"]
+v19  [label="Atom at(person3, city4)"]
+v3  [label="Atom at(person3, city0)"]
+v5  [label="Atom at(person4, city4)"]
+v20  [label="Atom at(person4, city0)"]
+v4  [label="Atom at(person5, city3)"]
+v6  [label="Atom at(person5, city1)"]
+v14  [label="Atom at(person6, city2)"]
+v26  [label="Atom at(person6, city1)"]
+v25  [label="Atom at(person7, city5)"]
+v15  [label="Atom at(person7, city4)"]
+v16  [label="Atom at(person8, city5)"]
+v0  [label="Atom at(person8, city0)"]
+v11 -> v17
+v13 -> v18
+v12 -> v19
+v9 -> v20
+v8 -> v4
+v7 -> v26
+v23 -> v25
+v22 -> v0
+v10 -> v13
+v10 -> v18
+v10 -> v19
+v10 -> v20
+v10 -> v9
+v10 -> v25
+v10 -> v23
+v24 -> v26
+v24 -> v18
+v24 -> v8
+v24 -> v4
+v21 -> v0
+v21 -> v19
+v21 -> v20
+v21 -> v12
+v1 -> v11
+v1 -> v17
+v2 -> v13
+v2 -> v18
+v3 -> v19
+v3 -> v12
+v5 -> v20
+v5 -> v9
+v6 -> v8
+v6 -> v4
+v14 -> v26
+v14 -> v7
+v15 -> v25
+v15 -> v23
+v16 -> v0
+v16 -> v22
+}

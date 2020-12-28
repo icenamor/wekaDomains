@@ -1,0 +1,13 @@
+digraph G {
+v3  [label="NegatedAtom lunch_packed()"]
+v0  [label="Atom lunch_packed()"]
+v5  [label="Atom taken(bread)"]
+v4  [label="NegatedAtom taken(lunch_bag)"]
+v2  [label="Atom taken(lunch_bag)"]
+v1  [label="Atom taken(plate)"]
+v3 -> v0
+v5 -> v0
+v4 -> v2
+v2 -> v0
+v1 -> v0
+}

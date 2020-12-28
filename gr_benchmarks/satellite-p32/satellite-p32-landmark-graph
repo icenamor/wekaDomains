@@ -1,0 +1,47 @@
+digraph G {
+v11  [label="Atom pointing(satellite4, star7), Atom pointing(satellite3, star7), Atom pointing(satellite2, star7), Atom pointing(satellite0, star7)"]
+v12  [label="Atom pointing(satellite4, phenomenon14), Atom pointing(satellite3, phenomenon14), Atom pointing(satellite2, phenomenon14), Atom pointing(satellite0, phenomenon14)"]
+v13  [label="Atom pointing(satellite4, phenomenon13), Atom pointing(satellite3, phenomenon13), Atom pointing(satellite2, phenomenon13), Atom pointing(satellite0, phenomenon13)"]
+v15  [label="Atom pointing(satellite4, star16), Atom pointing(satellite3, star16), Atom pointing(satellite2, star16), Atom pointing(satellite1, star16)"]
+v10  [label="Atom calibrated(instrument5), Atom calibrated(instrument2), Atom calibrated(instrument10)"]
+v16  [label="Atom pointing(satellite4, star6), Atom pointing(satellite2, star6), Atom pointing(satellite1, star6)"]
+v14  [label="Atom pointing(satellite4, star0), Atom pointing(satellite2, star0), Atom pointing(satellite1, groundstation3)"]
+v17  [label="Atom power_on(instrument10), Atom power_on(instrument5), Atom power_on(instrument2)"]
+v4  [label="NegatedAtom have_image(phenomenon13, image4)"]
+v22  [label="Atom have_image(phenomenon13, image4)"]
+v5  [label="NegatedAtom have_image(phenomenon14, image4)"]
+v21  [label="Atom have_image(phenomenon14, image4)"]
+v9  [label="NegatedAtom have_image(planet5, image4)"]
+v3  [label="Atom have_image(planet5, image4)"]
+v8  [label="NegatedAtom have_image(star7, image4)"]
+v23  [label="Atom have_image(star7, image4)"]
+v7  [label="NegatedAtom have_image(star6, image2)"]
+v24  [label="Atom have_image(star6, image2)"]
+v6  [label="NegatedAtom have_image(star16, infrared3)"]
+v20  [label="Atom have_image(star16, infrared3)"]
+v2  [label="Atom pointing(satellite2, star1)"]
+v25  [label="Atom pointing(satellite2, planet10)"]
+v18  [label="Atom pointing(satellite3, planet5)"]
+v1  [label="Atom pointing(satellite3, groundstation3)"]
+v19  [label="Atom pointing(satellite4, planet9)"]
+v0  [label="Atom pointing(satellite4, planet10)"]
+v11 -> v23
+v12 -> v21
+v13 -> v22
+v15 -> v20
+v10 -> v24
+v16 -> v24
+v14 -> v24
+v14 -> v10
+v17 -> v24
+v17 -> v10
+v4 -> v22
+v5 -> v21
+v9 -> v3
+v8 -> v23
+v7 -> v24
+v6 -> v20
+v2 -> v25
+v1 -> v18
+v0 -> v19
+}

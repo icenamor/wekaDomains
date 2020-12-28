@@ -1,0 +1,5852 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+45
+begin_variable
+var3
+-1
+2
+Atom carrying(key_13)
+Atom at(key_13, place_3_6)
+end_variable
+begin_variable
+var6
+-1
+2
+Atom carrying(key_4)
+Atom at(key_4, place_6_0)
+end_variable
+begin_variable
+var7
+-1
+2
+Atom at(key_11, place_1_3)
+Atom carrying(key_11)
+end_variable
+begin_variable
+var9
+-1
+2
+Atom at(key_17, place_7_7)
+Atom carrying(key_17)
+end_variable
+begin_variable
+var12
+-1
+2
+Atom carrying(key_8)
+Atom at(key_8, place_7_0)
+end_variable
+begin_variable
+var13
+-1
+2
+Atom carrying(key_15)
+Atom at(key_15, place_5_2)
+end_variable
+begin_variable
+var14
+-1
+2
+Atom at(key_12, place_2_4)
+Atom carrying(key_12)
+end_variable
+begin_variable
+var15
+-1
+2
+Atom carrying(key_3)
+Atom at(key_3, place_9_0)
+end_variable
+begin_variable
+var20
+-1
+2
+Atom at(key_1, place_9_0)
+Atom carrying(key_1)
+end_variable
+begin_variable
+var21
+-1
+2
+Atom at(key_19, place_9_1)
+Atom carrying(key_19)
+end_variable
+begin_variable
+var24
+-1
+2
+Atom at(key_7, place_5_0)
+Atom carrying(key_7)
+end_variable
+begin_variable
+var26
+-1
+2
+Atom carrying(key_10)
+Atom at(key_10, place_0_8)
+end_variable
+begin_variable
+var28
+-1
+2
+Atom at(key_5, place_9_0)
+Atom carrying(key_5)
+end_variable
+begin_variable
+var29
+-1
+2
+Atom carrying(key_21)
+Atom at(key_21, place_0_0)
+end_variable
+begin_variable
+var31
+-1
+2
+Atom at(key_20, place_0_0)
+Atom carrying(key_20)
+end_variable
+begin_variable
+var32
+-1
+2
+Atom carrying(key_14)
+Atom at(key_14, place_4_1)
+end_variable
+begin_variable
+var37
+-1
+2
+Atom at(key_9, place_7_0)
+Atom carrying(key_9)
+end_variable
+begin_variable
+var38
+-1
+2
+Atom carrying(key_2)
+Atom at(key_2, place_7_0)
+end_variable
+begin_variable
+var41
+-1
+2
+Atom at(key_16, place_6_3)
+Atom carrying(key_16)
+end_variable
+begin_variable
+var44
+-1
+2
+Atom carrying(key_0)
+Atom at(key_0, place_0_0)
+end_variable
+begin_variable
+var45
+-1
+2
+Atom carrying(key_18)
+Atom at(key_18, place_8_0)
+end_variable
+begin_variable
+var46
+-1
+2
+Atom carrying(key_6)
+Atom at(key_6, place_2_0)
+end_variable
+begin_variable
+var8
+-1
+2
+Atom locked(place_2_9)
+Atom open(place_2_9)
+end_variable
+begin_variable
+var39
+-1
+2
+Atom locked(place_3_4)
+Atom open(place_3_4)
+end_variable
+begin_variable
+var34
+-1
+2
+Atom locked(place_3_7)
+Atom open(place_3_7)
+end_variable
+begin_variable
+var35
+-1
+2
+Atom locked(place_7_1)
+Atom open(place_7_1)
+end_variable
+begin_variable
+var1
+-1
+2
+Atom locked(place_5_5)
+Atom open(place_5_5)
+end_variable
+begin_variable
+var19
+-1
+2
+Atom locked(place_9_3)
+Atom open(place_9_3)
+end_variable
+begin_variable
+var36
+-1
+2
+Atom locked(place_9_0)
+Atom open(place_9_0)
+end_variable
+begin_variable
+var10
+-1
+2
+Atom open(place_2_7)
+Atom locked(place_2_7)
+end_variable
+begin_variable
+var23
+-1
+2
+Atom locked(place_9_6)
+Atom open(place_9_6)
+end_variable
+begin_variable
+var18
+-1
+2
+Atom locked(place_4_3)
+Atom open(place_4_3)
+end_variable
+begin_variable
+var22
+-1
+2
+Atom open(place_2_2)
+Atom locked(place_2_2)
+end_variable
+begin_variable
+var16
+-1
+2
+Atom locked(place_8_1)
+Atom open(place_8_1)
+end_variable
+begin_variable
+var40
+-1
+2
+Atom open(place_6_4)
+Atom locked(place_6_4)
+end_variable
+begin_variable
+var17
+-1
+2
+Atom open(place_8_5)
+Atom locked(place_8_5)
+end_variable
+begin_variable
+var42
+-1
+2
+Atom locked(place_8_3)
+Atom open(place_8_3)
+end_variable
+begin_variable
+var11
+-1
+2
+Atom locked(place_1_1)
+Atom open(place_1_1)
+end_variable
+begin_variable
+var5
+-1
+2
+Atom locked(place_5_2)
+Atom open(place_5_2)
+end_variable
+begin_variable
+var33
+-1
+2
+Atom locked(place_2_6)
+Atom open(place_2_6)
+end_variable
+begin_variable
+var30
+-1
+2
+Atom open(place_0_5)
+Atom locked(place_0_5)
+end_variable
+begin_variable
+var25
+-1
+2
+Atom open(place_2_0)
+Atom locked(place_2_0)
+end_variable
+begin_variable
+var4
+-1
+2
+Atom open(place_9_8)
+Atom locked(place_9_8)
+end_variable
+begin_variable
+var43
+-1
+2
+Atom open(place_0_6)
+Atom locked(place_0_6)
+end_variable
+begin_variable
+var0
+-1
+100
+Atom at-robot(place_7_6)
+Atom at-robot(place_7_8)
+Atom at-robot(place_9_7)
+Atom at-robot(place_9_8)
+Atom at-robot(place_1_0)
+Atom at-robot(place_3_2)
+Atom at-robot(place_4_4)
+Atom at-robot(place_2_2)
+Atom at-robot(place_4_2)
+Atom at-robot(place_9_1)
+Atom at-robot(place_6_6)
+Atom at-robot(place_0_0)
+Atom at-robot(place_8_2)
+Atom at-robot(place_7_7)
+Atom at-robot(place_7_9)
+Atom at-robot(place_3_6)
+Atom at-robot(place_3_3)
+Atom at-robot(place_3_9)
+Atom at-robot(place_3_0)
+Atom at-robot(place_9_9)
+Atom at-robot(place_4_6)
+Atom at-robot(place_2_5)
+Atom at-robot(place_2_0)
+Atom at-robot(place_7_2)
+Atom at-robot(place_9_4)
+Atom at-robot(place_9_3)
+Atom at-robot(place_5_4)
+Atom at-robot(place_8_7)
+Atom at-robot(place_0_2)
+Atom at-robot(place_7_5)
+Atom at-robot(place_3_4)
+Atom at-robot(place_4_8)
+Atom at-robot(place_4_1)
+Atom at-robot(place_2_6)
+Atom at-robot(place_9_6)
+Atom at-robot(place_5_7)
+Atom at-robot(place_2_1)
+Atom at-robot(place_8_4)
+Atom at-robot(place_7_3)
+Atom at-robot(place_1_9)
+Atom at-robot(place_1_3)
+Atom at-robot(place_6_7)
+Atom at-robot(place_5_5)
+Atom at-robot(place_4_5)
+Atom at-robot(place_4_0)
+Atom at-robot(place_2_3)
+Atom at-robot(place_4_3)
+Atom at-robot(place_5_2)
+Atom at-robot(place_9_0)
+Atom at-robot(place_9_5)
+Atom at-robot(place_2_9)
+Atom at-robot(place_8_0)
+Atom at-robot(place_0_1)
+Atom at-robot(place_0_4)
+Atom at-robot(place_8_3)
+Atom at-robot(place_8_6)
+Atom at-robot(place_1_6)
+Atom at-robot(place_6_9)
+Atom at-robot(place_6_5)
+Atom at-robot(place_4_7)
+Atom at-robot(place_5_1)
+Atom at-robot(place_9_2)
+Atom at-robot(place_5_8)
+Atom at-robot(place_0_3)
+Atom at-robot(place_1_5)
+Atom at-robot(place_2_8)
+Atom at-robot(place_0_5)
+Atom at-robot(place_6_3)
+Atom at-robot(place_4_9)
+Atom at-robot(place_2_7)
+Atom at-robot(place_7_4)
+Atom at-robot(place_5_9)
+Atom at-robot(place_5_6)
+Atom at-robot(place_5_3)
+Atom at-robot(place_6_8)
+Atom at-robot(place_6_4)
+Atom at-robot(place_8_5)
+Atom at-robot(place_1_1)
+Atom at-robot(place_1_8)
+Atom at-robot(place_1_2)
+Atom at-robot(place_1_7)
+Atom at-robot(place_0_7)
+Atom at-robot(place_6_1)
+Atom at-robot(place_7_0)
+Atom at-robot(place_6_2)
+Atom at-robot(place_0_9)
+Atom at-robot(place_3_7)
+Atom at-robot(place_3_1)
+Atom at-robot(place_2_4)
+Atom at-robot(place_5_0)
+Atom at-robot(place_0_6)
+Atom at-robot(place_6_0)
+Atom at-robot(place_7_1)
+Atom at-robot(place_0_8)
+Atom at-robot(place_8_1)
+Atom at-robot(place_3_8)
+Atom at-robot(place_3_5)
+Atom at-robot(place_1_4)
+Atom at-robot(place_8_8)
+Atom at-robot(place_8_9)
+end_variable
+0
+begin_state
+1
+1
+0
+0
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+1
+1
+1
+1
+11
+end_state
+begin_goal
+1
+44 17
+end_goal
+314
+begin_operator
+pickup place_0_0 key_0
+1
+44 11
+1
+0
+19 1 0
+0
+end_operator
+begin_operator
+pickup place_0_0 key_20
+1
+44 11
+1
+0
+14 0 1
+0
+end_operator
+begin_operator
+pickup place_0_0 key_21
+1
+44 11
+1
+0
+13 1 0
+0
+end_operator
+begin_operator
+move place_0_0 place_0_1
+0
+1
+0
+44 11 52
+0
+end_operator
+begin_operator
+move place_0_0 place_1_0
+0
+1
+0
+44 11 4
+0
+end_operator
+begin_operator
+move place_0_1 place_0_0
+0
+1
+0
+44 52 11
+0
+end_operator
+begin_operator
+move place_0_1 place_0_2
+0
+1
+0
+44 52 28
+0
+end_operator
+begin_operator
+move place_1_0 place_0_0
+0
+1
+0
+44 4 11
+0
+end_operator
+begin_operator
+move place_0_2 place_0_1
+0
+1
+0
+44 28 52
+0
+end_operator
+begin_operator
+move place_0_2 place_0_3
+0
+1
+0
+44 28 63
+0
+end_operator
+begin_operator
+move place_0_2 place_1_2
+0
+1
+0
+44 28 79
+0
+end_operator
+begin_operator
+move place_0_3 place_0_2
+0
+1
+0
+44 63 28
+0
+end_operator
+begin_operator
+move place_0_3 place_0_4
+0
+1
+0
+44 63 53
+0
+end_operator
+begin_operator
+move place_0_3 place_1_3
+0
+1
+0
+44 63 40
+0
+end_operator
+begin_operator
+move place_1_2 place_1_3
+0
+1
+0
+44 79 40
+0
+end_operator
+begin_operator
+move place_1_2 place_0_2
+0
+1
+0
+44 79 28
+0
+end_operator
+begin_operator
+pickup place_1_3 key_11
+1
+44 40
+1
+0
+2 0 1
+0
+end_operator
+begin_operator
+move place_0_4 place_0_3
+0
+1
+0
+44 53 63
+0
+end_operator
+begin_operator
+move place_1_3 place_1_2
+0
+1
+0
+44 40 79
+0
+end_operator
+begin_operator
+move place_1_3 place_1_4
+0
+1
+0
+44 40 97
+0
+end_operator
+begin_operator
+move place_1_3 place_0_3
+0
+1
+0
+44 40 63
+0
+end_operator
+begin_operator
+unlock place_0_1 place_1_1 key_11 shape_11
+2
+44 52
+2 1
+1
+0
+37 0 1
+0
+end_operator
+begin_operator
+unlock place_1_0 place_1_1 key_11 shape_11
+2
+44 4
+2 1
+1
+0
+37 0 1
+0
+end_operator
+begin_operator
+unlock place_1_2 place_1_1 key_11 shape_11
+2
+44 79
+2 1
+1
+0
+37 0 1
+0
+end_operator
+begin_operator
+move place_1_4 place_1_3
+0
+1
+0
+44 97 40
+0
+end_operator
+begin_operator
+move place_1_4 place_1_5
+0
+1
+0
+44 97 64
+0
+end_operator
+begin_operator
+move place_0_1 place_1_1
+1
+37 1
+1
+0
+44 52 77
+0
+end_operator
+begin_operator
+move place_1_0 place_1_1
+1
+37 1
+1
+0
+44 4 77
+0
+end_operator
+begin_operator
+move place_1_2 place_1_1
+1
+37 1
+1
+0
+44 79 77
+0
+end_operator
+begin_operator
+move place_1_5 place_1_4
+0
+1
+0
+44 64 97
+0
+end_operator
+begin_operator
+move place_1_5 place_1_6
+0
+1
+0
+44 64 56
+0
+end_operator
+begin_operator
+move place_1_1 place_1_0
+0
+1
+0
+44 77 4
+0
+end_operator
+begin_operator
+move place_1_1 place_1_2
+0
+1
+0
+44 77 79
+0
+end_operator
+begin_operator
+move place_1_1 place_0_1
+0
+1
+0
+44 77 52
+0
+end_operator
+begin_operator
+move place_1_6 place_1_5
+0
+1
+0
+44 56 64
+0
+end_operator
+begin_operator
+move place_1_6 place_1_7
+0
+1
+0
+44 56 80
+0
+end_operator
+begin_operator
+unlock place_1_6 place_0_6 key_0 shape_0
+2
+44 56
+19 0
+1
+0
+43 1 0
+0
+end_operator
+begin_operator
+move place_1_6 place_0_6
+1
+43 0
+1
+0
+44 56 90
+0
+end_operator
+begin_operator
+move place_1_7 place_1_6
+0
+1
+0
+44 80 56
+0
+end_operator
+begin_operator
+move place_1_7 place_1_8
+0
+1
+0
+44 80 78
+0
+end_operator
+begin_operator
+move place_0_6 place_0_7
+0
+1
+0
+44 90 81
+0
+end_operator
+begin_operator
+move place_0_6 place_1_6
+0
+1
+0
+44 90 56
+0
+end_operator
+begin_operator
+move place_1_8 place_1_7
+0
+1
+0
+44 78 80
+0
+end_operator
+begin_operator
+move place_1_8 place_1_9
+0
+1
+0
+44 78 39
+0
+end_operator
+begin_operator
+move place_1_8 place_0_8
+0
+1
+0
+44 78 93
+0
+end_operator
+begin_operator
+pickup place_0_8 key_10
+1
+44 93
+1
+0
+11 1 0
+0
+end_operator
+begin_operator
+move place_0_7 place_0_6
+1
+43 0
+1
+0
+44 81 90
+0
+end_operator
+begin_operator
+move place_0_7 place_0_8
+0
+1
+0
+44 81 93
+0
+end_operator
+begin_operator
+move place_1_9 place_1_8
+0
+1
+0
+44 39 78
+0
+end_operator
+begin_operator
+move place_0_8 place_0_7
+0
+1
+0
+44 93 81
+0
+end_operator
+begin_operator
+move place_0_8 place_0_9
+0
+1
+0
+44 93 85
+0
+end_operator
+begin_operator
+move place_0_8 place_1_8
+0
+1
+0
+44 93 78
+0
+end_operator
+begin_operator
+unlock place_0_7 place_0_6 key_0 shape_0
+2
+44 81
+19 0
+1
+0
+43 1 0
+0
+end_operator
+begin_operator
+unlock place_1_0 place_2_0 key_10 shape_10
+2
+44 4
+11 0
+1
+0
+41 1 0
+0
+end_operator
+begin_operator
+move place_0_9 place_0_8
+0
+1
+0
+44 85 93
+0
+end_operator
+begin_operator
+move place_1_0 place_2_0
+1
+41 0
+1
+0
+44 4 22
+0
+end_operator
+begin_operator
+pickup place_2_0 key_6
+1
+44 22
+1
+0
+21 1 0
+0
+end_operator
+begin_operator
+move place_2_0 place_2_1
+0
+1
+0
+44 22 36
+0
+end_operator
+begin_operator
+move place_2_0 place_1_0
+0
+1
+0
+44 22 4
+0
+end_operator
+begin_operator
+move place_2_0 place_3_0
+0
+1
+0
+44 22 18
+0
+end_operator
+begin_operator
+move place_2_1 place_2_0
+1
+41 0
+1
+0
+44 36 22
+0
+end_operator
+begin_operator
+move place_2_1 place_3_1
+0
+1
+0
+44 36 87
+0
+end_operator
+begin_operator
+move place_3_0 place_3_1
+0
+1
+0
+44 18 87
+0
+end_operator
+begin_operator
+move place_3_0 place_2_0
+1
+41 0
+1
+0
+44 18 22
+0
+end_operator
+begin_operator
+move place_3_0 place_4_0
+0
+1
+0
+44 18 44
+0
+end_operator
+begin_operator
+unlock place_2_1 place_2_0 key_10 shape_10
+2
+44 36
+11 0
+1
+0
+41 1 0
+0
+end_operator
+begin_operator
+unlock place_3_0 place_2_0 key_10 shape_10
+2
+44 18
+11 0
+1
+0
+41 1 0
+0
+end_operator
+begin_operator
+move place_3_1 place_3_0
+0
+1
+0
+44 87 18
+0
+end_operator
+begin_operator
+move place_3_1 place_3_2
+0
+1
+0
+44 87 5
+0
+end_operator
+begin_operator
+move place_3_1 place_2_1
+0
+1
+0
+44 87 36
+0
+end_operator
+begin_operator
+move place_4_0 place_4_1
+0
+1
+0
+44 44 32
+0
+end_operator
+begin_operator
+move place_4_0 place_3_0
+0
+1
+0
+44 44 18
+0
+end_operator
+begin_operator
+move place_4_0 place_5_0
+0
+1
+0
+44 44 89
+0
+end_operator
+begin_operator
+pickup place_4_1 key_14
+1
+44 32
+1
+0
+15 1 0
+0
+end_operator
+begin_operator
+pickup place_5_0 key_7
+1
+44 89
+1
+0
+10 0 1
+0
+end_operator
+begin_operator
+move place_3_2 place_3_1
+0
+1
+0
+44 5 87
+0
+end_operator
+begin_operator
+move place_3_2 place_3_3
+0
+1
+0
+44 5 16
+0
+end_operator
+begin_operator
+move place_4_1 place_4_0
+0
+1
+0
+44 32 44
+0
+end_operator
+begin_operator
+move place_4_1 place_4_2
+0
+1
+0
+44 32 8
+0
+end_operator
+begin_operator
+move place_5_0 place_5_1
+0
+1
+0
+44 89 60
+0
+end_operator
+begin_operator
+move place_5_0 place_4_0
+0
+1
+0
+44 89 44
+0
+end_operator
+begin_operator
+move place_5_0 place_6_0
+0
+1
+0
+44 89 91
+0
+end_operator
+begin_operator
+pickup place_6_0 key_4
+1
+44 91
+1
+0
+1 1 0
+0
+end_operator
+begin_operator
+unlock place_0_4 place_0_5 key_7 shape_7
+2
+44 53
+10 1
+1
+0
+40 1 0
+0
+end_operator
+begin_operator
+unlock place_1_5 place_0_5 key_7 shape_7
+2
+44 64
+10 1
+1
+0
+40 1 0
+0
+end_operator
+begin_operator
+unlock place_0_6 place_0_5 key_7 shape_7
+2
+44 90
+10 1
+1
+0
+40 1 0
+0
+end_operator
+begin_operator
+move place_3_3 place_3_2
+0
+1
+0
+44 16 5
+0
+end_operator
+begin_operator
+move place_3_3 place_2_3
+0
+1
+0
+44 16 45
+0
+end_operator
+begin_operator
+move place_4_2 place_4_1
+0
+1
+0
+44 8 32
+0
+end_operator
+begin_operator
+move place_5_1 place_5_0
+0
+1
+0
+44 60 89
+0
+end_operator
+begin_operator
+move place_6_0 place_6_1
+0
+1
+0
+44 91 82
+0
+end_operator
+begin_operator
+move place_6_0 place_5_0
+0
+1
+0
+44 91 89
+0
+end_operator
+begin_operator
+move place_6_0 place_7_0
+0
+1
+0
+44 91 83
+0
+end_operator
+begin_operator
+unlock place_4_2 place_4_3 key_14 shape_14
+2
+44 8
+15 0
+1
+0
+31 0 1
+0
+end_operator
+begin_operator
+move place_0_4 place_0_5
+1
+40 0
+1
+0
+44 53 66
+0
+end_operator
+begin_operator
+move place_1_5 place_0_5
+1
+40 0
+1
+0
+44 64 66
+0
+end_operator
+begin_operator
+move place_0_6 place_0_5
+1
+40 0
+1
+0
+44 90 66
+0
+end_operator
+begin_operator
+pickup place_7_0 key_2
+1
+44 83
+1
+0
+17 1 0
+0
+end_operator
+begin_operator
+pickup place_7_0 key_8
+1
+44 83
+1
+0
+4 1 0
+0
+end_operator
+begin_operator
+pickup place_7_0 key_9
+1
+44 83
+1
+0
+16 0 1
+0
+end_operator
+begin_operator
+move place_2_3 place_2_4
+0
+1
+0
+44 45 88
+0
+end_operator
+begin_operator
+move place_2_3 place_3_3
+0
+1
+0
+44 45 16
+0
+end_operator
+begin_operator
+move place_4_2 place_4_3
+1
+31 1
+1
+0
+44 8 46
+0
+end_operator
+begin_operator
+move place_6_1 place_6_0
+0
+1
+0
+44 82 91
+0
+end_operator
+begin_operator
+move place_6_1 place_6_2
+0
+1
+0
+44 82 84
+0
+end_operator
+begin_operator
+move place_7_0 place_6_0
+0
+1
+0
+44 83 91
+0
+end_operator
+begin_operator
+move place_7_0 place_8_0
+0
+1
+0
+44 83 51
+0
+end_operator
+begin_operator
+move place_0_5 place_0_4
+0
+1
+0
+44 66 53
+0
+end_operator
+begin_operator
+move place_0_5 place_0_6
+1
+43 0
+1
+0
+44 66 90
+0
+end_operator
+begin_operator
+move place_0_5 place_1_5
+0
+1
+0
+44 66 64
+0
+end_operator
+begin_operator
+pickup place_2_4 key_12
+1
+44 88
+1
+0
+6 0 1
+0
+end_operator
+begin_operator
+pickup place_8_0 key_18
+1
+44 51
+1
+0
+20 1 0
+0
+end_operator
+begin_operator
+unlock place_4_2 place_5_2 key_8 shape_8
+2
+44 8
+4 0
+1
+0
+38 0 1
+0
+end_operator
+begin_operator
+unlock place_5_1 place_5_2 key_8 shape_8
+2
+44 60
+4 0
+1
+0
+38 0 1
+0
+end_operator
+begin_operator
+unlock place_2_1 place_2_2 key_9 shape_9
+2
+44 36
+16 1
+1
+0
+32 1 0
+0
+end_operator
+begin_operator
+unlock place_2_3 place_2_2 key_9 shape_9
+2
+44 45
+16 1
+1
+0
+32 1 0
+0
+end_operator
+begin_operator
+unlock place_0_5 place_0_6 key_0 shape_0
+2
+44 66
+19 0
+1
+0
+43 1 0
+0
+end_operator
+begin_operator
+move place_2_4 place_2_3
+0
+1
+0
+44 88 45
+0
+end_operator
+begin_operator
+move place_2_4 place_2_5
+0
+1
+0
+44 88 21
+0
+end_operator
+begin_operator
+move place_4_3 place_4_2
+0
+1
+0
+44 46 8
+0
+end_operator
+begin_operator
+move place_4_3 place_4_4
+0
+1
+0
+44 46 6
+0
+end_operator
+begin_operator
+move place_6_2 place_6_1
+0
+1
+0
+44 84 82
+0
+end_operator
+begin_operator
+move place_6_2 place_6_3
+0
+1
+0
+44 84 67
+0
+end_operator
+begin_operator
+move place_6_2 place_7_2
+0
+1
+0
+44 84 23
+0
+end_operator
+begin_operator
+move place_8_0 place_7_0
+0
+1
+0
+44 51 83
+0
+end_operator
+begin_operator
+unlock place_8_0 place_8_1 key_2 shape_2
+2
+44 51
+17 0
+1
+0
+33 0 1
+0
+end_operator
+begin_operator
+move place_4_2 place_5_2
+1
+38 1
+1
+0
+44 8 47
+0
+end_operator
+begin_operator
+move place_5_1 place_5_2
+1
+38 1
+1
+0
+44 60 47
+0
+end_operator
+begin_operator
+move place_2_1 place_2_2
+1
+32 0
+1
+0
+44 36 7
+0
+end_operator
+begin_operator
+move place_2_3 place_2_2
+1
+32 0
+1
+0
+44 45 7
+0
+end_operator
+begin_operator
+pickup place_6_3 key_16
+1
+44 67
+1
+0
+18 0 1
+0
+end_operator
+begin_operator
+move place_2_5 place_2_4
+0
+1
+0
+44 21 88
+0
+end_operator
+begin_operator
+move place_4_4 place_4_3
+1
+31 1
+1
+0
+44 6 46
+0
+end_operator
+begin_operator
+move place_4_4 place_4_5
+0
+1
+0
+44 6 43
+0
+end_operator
+begin_operator
+move place_4_4 place_5_4
+0
+1
+0
+44 6 26
+0
+end_operator
+begin_operator
+move place_6_3 place_6_2
+0
+1
+0
+44 67 84
+0
+end_operator
+begin_operator
+move place_6_3 place_7_3
+0
+1
+0
+44 67 38
+0
+end_operator
+begin_operator
+move place_7_2 place_7_3
+0
+1
+0
+44 23 38
+0
+end_operator
+begin_operator
+move place_7_2 place_6_2
+0
+1
+0
+44 23 84
+0
+end_operator
+begin_operator
+move place_8_0 place_8_1
+1
+33 1
+1
+0
+44 51 94
+0
+end_operator
+begin_operator
+unlock place_4_4 place_4_3 key_14 shape_14
+2
+44 6
+15 0
+1
+0
+31 0 1
+0
+end_operator
+begin_operator
+pickup place_5_2 key_15
+1
+44 47
+1
+0
+5 1 0
+0
+end_operator
+begin_operator
+move place_5_2 place_5_1
+0
+1
+0
+44 47 60
+0
+end_operator
+begin_operator
+move place_5_2 place_5_3
+0
+1
+0
+44 47 73
+0
+end_operator
+begin_operator
+move place_5_2 place_4_2
+0
+1
+0
+44 47 8
+0
+end_operator
+begin_operator
+move place_2_2 place_2_1
+0
+1
+0
+44 7 36
+0
+end_operator
+begin_operator
+move place_2_2 place_2_3
+0
+1
+0
+44 7 45
+0
+end_operator
+begin_operator
+unlock place_6_3 place_6_4 key_16 shape_16
+2
+44 67
+18 1
+1
+0
+34 1 0
+0
+end_operator
+begin_operator
+move place_4_5 place_4_4
+0
+1
+0
+44 43 6
+0
+end_operator
+begin_operator
+move place_4_5 place_4_6
+0
+1
+0
+44 43 20
+0
+end_operator
+begin_operator
+move place_5_4 place_5_3
+0
+1
+0
+44 26 73
+0
+end_operator
+begin_operator
+move place_5_4 place_4_4
+0
+1
+0
+44 26 6
+0
+end_operator
+begin_operator
+move place_7_3 place_7_2
+0
+1
+0
+44 38 23
+0
+end_operator
+begin_operator
+move place_7_3 place_7_4
+0
+1
+0
+44 38 70
+0
+end_operator
+begin_operator
+move place_7_3 place_6_3
+0
+1
+0
+44 38 67
+0
+end_operator
+begin_operator
+move place_8_1 place_8_0
+0
+1
+0
+44 94 51
+0
+end_operator
+begin_operator
+move place_8_1 place_8_2
+0
+1
+0
+44 94 12
+0
+end_operator
+begin_operator
+unlock place_5_4 place_5_5 key_15 shape_15
+2
+44 26
+5 0
+1
+0
+26 0 1
+0
+end_operator
+begin_operator
+move place_6_3 place_6_4
+1
+34 0
+1
+0
+44 67 75
+0
+end_operator
+begin_operator
+move place_5_3 place_5_2
+1
+38 1
+1
+0
+44 73 47
+0
+end_operator
+begin_operator
+move place_5_3 place_5_4
+0
+1
+0
+44 73 26
+0
+end_operator
+begin_operator
+unlock place_5_3 place_5_2 key_8 shape_8
+2
+44 73
+4 0
+1
+0
+38 0 1
+0
+end_operator
+begin_operator
+move place_4_6 place_4_5
+0
+1
+0
+44 20 43
+0
+end_operator
+begin_operator
+move place_4_6 place_4_7
+0
+1
+0
+44 20 59
+0
+end_operator
+begin_operator
+move place_4_6 place_5_6
+0
+1
+0
+44 20 72
+0
+end_operator
+begin_operator
+move place_7_4 place_7_3
+0
+1
+0
+44 70 38
+0
+end_operator
+begin_operator
+move place_7_4 place_7_5
+0
+1
+0
+44 70 29
+0
+end_operator
+begin_operator
+move place_8_2 place_8_1
+1
+33 1
+1
+0
+44 12 94
+0
+end_operator
+begin_operator
+move place_8_2 place_9_2
+0
+1
+0
+44 12 61
+0
+end_operator
+begin_operator
+move place_5_4 place_5_5
+1
+26 1
+1
+0
+44 26 42
+0
+end_operator
+begin_operator
+unlock place_8_2 place_8_1 key_2 shape_2
+2
+44 12
+17 0
+1
+0
+33 0 1
+0
+end_operator
+begin_operator
+unlock place_8_2 place_8_3 key_6 shape_6
+2
+44 12
+21 0
+1
+0
+36 0 1
+0
+end_operator
+begin_operator
+move place_6_4 place_6_3
+0
+1
+0
+44 75 67
+0
+end_operator
+begin_operator
+move place_6_4 place_6_5
+0
+1
+0
+44 75 58
+0
+end_operator
+begin_operator
+move place_4_7 place_4_6
+0
+1
+0
+44 59 20
+0
+end_operator
+begin_operator
+move place_4_7 place_4_8
+0
+1
+0
+44 59 31
+0
+end_operator
+begin_operator
+move place_5_6 place_5_5
+1
+26 1
+1
+0
+44 72 42
+0
+end_operator
+begin_operator
+move place_5_6 place_5_7
+0
+1
+0
+44 72 35
+0
+end_operator
+begin_operator
+move place_5_6 place_4_6
+0
+1
+0
+44 72 20
+0
+end_operator
+begin_operator
+move place_7_5 place_7_4
+0
+1
+0
+44 29 70
+0
+end_operator
+begin_operator
+move place_7_5 place_7_6
+0
+1
+0
+44 29 0
+0
+end_operator
+begin_operator
+move place_7_5 place_6_5
+0
+1
+0
+44 29 58
+0
+end_operator
+begin_operator
+move place_8_2 place_8_3
+1
+36 1
+1
+0
+44 12 54
+0
+end_operator
+begin_operator
+move place_9_2 place_9_1
+0
+1
+0
+44 61 9
+0
+end_operator
+begin_operator
+move place_9_2 place_8_2
+0
+1
+0
+44 61 12
+0
+end_operator
+begin_operator
+move place_5_5 place_5_4
+0
+1
+0
+44 42 26
+0
+end_operator
+begin_operator
+move place_5_5 place_5_6
+0
+1
+0
+44 42 72
+0
+end_operator
+begin_operator
+unlock place_5_6 place_5_5 key_15 shape_15
+2
+44 72
+5 0
+1
+0
+26 0 1
+0
+end_operator
+begin_operator
+move place_6_5 place_6_4
+1
+34 0
+1
+0
+44 58 75
+0
+end_operator
+begin_operator
+move place_6_5 place_6_6
+0
+1
+0
+44 58 10
+0
+end_operator
+begin_operator
+move place_6_5 place_7_5
+0
+1
+0
+44 58 29
+0
+end_operator
+begin_operator
+unlock place_6_5 place_6_4 key_16 shape_16
+2
+44 58
+18 1
+1
+0
+34 1 0
+0
+end_operator
+begin_operator
+pickup place_9_1 key_19
+1
+44 9
+1
+0
+9 0 1
+0
+end_operator
+begin_operator
+move place_4_8 place_4_7
+0
+1
+0
+44 31 59
+0
+end_operator
+begin_operator
+move place_4_8 place_4_9
+0
+1
+0
+44 31 68
+0
+end_operator
+begin_operator
+move place_5_7 place_5_6
+0
+1
+0
+44 35 72
+0
+end_operator
+begin_operator
+move place_5_7 place_5_8
+0
+1
+0
+44 35 62
+0
+end_operator
+begin_operator
+move place_7_6 place_7_5
+0
+1
+0
+44 0 29
+0
+end_operator
+begin_operator
+move place_7_6 place_7_7
+0
+1
+0
+44 0 13
+0
+end_operator
+begin_operator
+move place_7_6 place_6_6
+0
+1
+0
+44 0 10
+0
+end_operator
+begin_operator
+move place_8_3 place_8_2
+0
+1
+0
+44 54 12
+0
+end_operator
+begin_operator
+move place_8_3 place_8_4
+0
+1
+0
+44 54 37
+0
+end_operator
+begin_operator
+move place_9_1 place_9_2
+0
+1
+0
+44 9 61
+0
+end_operator
+begin_operator
+move place_6_6 place_6_5
+0
+1
+0
+44 10 58
+0
+end_operator
+begin_operator
+move place_6_6 place_6_7
+0
+1
+0
+44 10 41
+0
+end_operator
+begin_operator
+move place_6_6 place_7_6
+0
+1
+0
+44 10 0
+0
+end_operator
+begin_operator
+pickup place_7_7 key_17
+1
+44 13
+1
+0
+3 0 1
+0
+end_operator
+begin_operator
+unlock place_8_0 place_9_0 key_19 shape_19
+2
+44 51
+9 1
+1
+0
+28 0 1
+0
+end_operator
+begin_operator
+unlock place_9_1 place_9_0 key_19 shape_19
+2
+44 9
+9 1
+1
+0
+28 0 1
+0
+end_operator
+begin_operator
+move place_4_9 place_4_8
+0
+1
+0
+44 68 31
+0
+end_operator
+begin_operator
+move place_5_8 place_5_7
+0
+1
+0
+44 62 35
+0
+end_operator
+begin_operator
+move place_5_8 place_5_9
+0
+1
+0
+44 62 71
+0
+end_operator
+begin_operator
+move place_7_7 place_7_6
+0
+1
+0
+44 13 0
+0
+end_operator
+begin_operator
+move place_7_7 place_7_8
+0
+1
+0
+44 13 1
+0
+end_operator
+begin_operator
+move place_7_7 place_6_7
+0
+1
+0
+44 13 41
+0
+end_operator
+begin_operator
+move place_8_4 place_8_3
+1
+36 1
+1
+0
+44 37 54
+0
+end_operator
+begin_operator
+move place_8_4 place_9_4
+0
+1
+0
+44 37 24
+0
+end_operator
+begin_operator
+unlock place_8_4 place_8_3 key_6 shape_6
+2
+44 37
+21 0
+1
+0
+36 0 1
+0
+end_operator
+begin_operator
+unlock place_8_4 place_8_5 key_18 shape_18
+2
+44 37
+20 0
+1
+0
+35 1 0
+0
+end_operator
+begin_operator
+move place_6_7 place_6_6
+0
+1
+0
+44 41 10
+0
+end_operator
+begin_operator
+move place_6_7 place_6_8
+0
+1
+0
+44 41 74
+0
+end_operator
+begin_operator
+move place_6_7 place_7_7
+0
+1
+0
+44 41 13
+0
+end_operator
+begin_operator
+move place_8_0 place_9_0
+1
+28 1
+1
+0
+44 51 48
+0
+end_operator
+begin_operator
+move place_9_1 place_9_0
+1
+28 1
+1
+0
+44 9 48
+0
+end_operator
+begin_operator
+unlock place_7_0 place_7_1 key_17 shape_17
+2
+44 83
+3 1
+1
+0
+25 0 1
+0
+end_operator
+begin_operator
+unlock place_7_2 place_7_1 key_17 shape_17
+2
+44 23
+3 1
+1
+0
+25 0 1
+0
+end_operator
+begin_operator
+move place_5_9 place_5_8
+0
+1
+0
+44 71 62
+0
+end_operator
+begin_operator
+move place_7_8 place_7_7
+0
+1
+0
+44 1 13
+0
+end_operator
+begin_operator
+move place_7_8 place_7_9
+0
+1
+0
+44 1 14
+0
+end_operator
+begin_operator
+move place_8_4 place_8_5
+1
+35 0
+1
+0
+44 37 76
+0
+end_operator
+begin_operator
+move place_9_4 place_9_5
+0
+1
+0
+44 24 49
+0
+end_operator
+begin_operator
+move place_9_4 place_8_4
+0
+1
+0
+44 24 37
+0
+end_operator
+begin_operator
+pickup place_9_0 key_1
+1
+44 48
+1
+0
+8 0 1
+0
+end_operator
+begin_operator
+pickup place_9_0 key_3
+1
+44 48
+1
+0
+7 1 0
+0
+end_operator
+begin_operator
+pickup place_9_0 key_5
+1
+44 48
+1
+0
+12 0 1
+0
+end_operator
+begin_operator
+move place_7_0 place_7_1
+1
+25 1
+1
+0
+44 83 92
+0
+end_operator
+begin_operator
+move place_7_2 place_7_1
+1
+25 1
+1
+0
+44 23 92
+0
+end_operator
+begin_operator
+move place_6_8 place_6_7
+0
+1
+0
+44 74 41
+0
+end_operator
+begin_operator
+move place_6_8 place_6_9
+0
+1
+0
+44 74 57
+0
+end_operator
+begin_operator
+move place_9_0 place_9_1
+0
+1
+0
+44 48 9
+0
+end_operator
+begin_operator
+move place_9_0 place_8_0
+0
+1
+0
+44 48 51
+0
+end_operator
+begin_operator
+move place_7_9 place_7_8
+0
+1
+0
+44 14 1
+0
+end_operator
+begin_operator
+move place_8_5 place_8_4
+0
+1
+0
+44 76 37
+0
+end_operator
+begin_operator
+move place_8_5 place_8_6
+0
+1
+0
+44 76 55
+0
+end_operator
+begin_operator
+move place_9_5 place_9_4
+0
+1
+0
+44 49 24
+0
+end_operator
+begin_operator
+unlock place_9_5 place_9_6 key_21 shape_21
+2
+44 49
+13 0
+1
+0
+30 0 1
+0
+end_operator
+begin_operator
+unlock place_9_2 place_9_3 key_1 shape_1
+2
+44 61
+8 1
+1
+0
+27 0 1
+0
+end_operator
+begin_operator
+unlock place_9_4 place_9_3 key_1 shape_1
+2
+44 24
+8 1
+1
+0
+27 0 1
+0
+end_operator
+begin_operator
+unlock place_2_5 place_2_6 key_3 shape_3
+2
+44 21
+7 0
+1
+0
+39 0 1
+0
+end_operator
+begin_operator
+move place_7_1 place_7_0
+0
+1
+0
+44 92 83
+0
+end_operator
+begin_operator
+move place_7_1 place_7_2
+0
+1
+0
+44 92 23
+0
+end_operator
+begin_operator
+move place_6_9 place_6_8
+0
+1
+0
+44 57 74
+0
+end_operator
+begin_operator
+move place_8_6 place_8_5
+1
+35 0
+1
+0
+44 55 76
+0
+end_operator
+begin_operator
+move place_8_6 place_8_7
+0
+1
+0
+44 55 27
+0
+end_operator
+begin_operator
+move place_9_5 place_9_6
+1
+30 1
+1
+0
+44 49 34
+0
+end_operator
+begin_operator
+move place_9_2 place_9_3
+1
+27 1
+1
+0
+44 61 25
+0
+end_operator
+begin_operator
+move place_9_4 place_9_3
+1
+27 1
+1
+0
+44 24 25
+0
+end_operator
+begin_operator
+move place_2_5 place_2_6
+1
+39 1
+1
+0
+44 21 33
+0
+end_operator
+begin_operator
+unlock place_8_6 place_8_5 key_18 shape_18
+2
+44 55
+20 0
+1
+0
+35 1 0
+0
+end_operator
+begin_operator
+move place_8_7 place_8_6
+0
+1
+0
+44 27 55
+0
+end_operator
+begin_operator
+move place_8_7 place_8_8
+0
+1
+0
+44 27 98
+0
+end_operator
+begin_operator
+move place_8_7 place_9_7
+0
+1
+0
+44 27 2
+0
+end_operator
+begin_operator
+move place_9_6 place_9_5
+0
+1
+0
+44 34 49
+0
+end_operator
+begin_operator
+move place_9_6 place_9_7
+0
+1
+0
+44 34 2
+0
+end_operator
+begin_operator
+move place_9_3 place_9_2
+0
+1
+0
+44 25 61
+0
+end_operator
+begin_operator
+move place_9_3 place_9_4
+0
+1
+0
+44 25 24
+0
+end_operator
+begin_operator
+move place_2_6 place_2_5
+0
+1
+0
+44 33 21
+0
+end_operator
+begin_operator
+move place_2_6 place_3_6
+0
+1
+0
+44 33 15
+0
+end_operator
+begin_operator
+unlock place_2_6 place_2_7 key_5 shape_5
+2
+44 33
+12 1
+1
+0
+29 1 0
+0
+end_operator
+begin_operator
+pickup place_3_6 key_13
+1
+44 15
+1
+0
+0 1 0
+0
+end_operator
+begin_operator
+move place_8_8 place_8_7
+0
+1
+0
+44 98 27
+0
+end_operator
+begin_operator
+move place_8_8 place_8_9
+0
+1
+0
+44 98 99
+0
+end_operator
+begin_operator
+move place_9_7 place_9_6
+1
+30 1
+1
+0
+44 2 34
+0
+end_operator
+begin_operator
+move place_9_7 place_8_7
+0
+1
+0
+44 2 27
+0
+end_operator
+begin_operator
+move place_2_6 place_2_7
+1
+29 0
+1
+0
+44 33 69
+0
+end_operator
+begin_operator
+move place_3_6 place_3_5
+0
+1
+0
+44 15 96
+0
+end_operator
+begin_operator
+move place_3_6 place_2_6
+1
+39 1
+1
+0
+44 15 33
+0
+end_operator
+begin_operator
+unlock place_8_8 place_9_8 key_20 shape_20
+2
+44 98
+14 1
+1
+0
+42 1 0
+0
+end_operator
+begin_operator
+unlock place_9_7 place_9_6 key_21 shape_21
+2
+44 2
+13 0
+1
+0
+30 0 1
+0
+end_operator
+begin_operator
+unlock place_9_7 place_9_8 key_20 shape_20
+2
+44 2
+14 1
+1
+0
+42 1 0
+0
+end_operator
+begin_operator
+unlock place_3_6 place_3_7 key_4 shape_4
+2
+44 15
+1 0
+1
+0
+24 0 1
+0
+end_operator
+begin_operator
+unlock place_3_6 place_2_6 key_3 shape_3
+2
+44 15
+7 0
+1
+0
+39 0 1
+0
+end_operator
+begin_operator
+unlock place_3_3 place_3_4 key_13 shape_13
+2
+44 16
+0 0
+1
+0
+23 0 1
+0
+end_operator
+begin_operator
+move place_8_8 place_9_8
+1
+42 0
+1
+0
+44 98 3
+0
+end_operator
+begin_operator
+move place_9_7 place_9_8
+1
+42 0
+1
+0
+44 2 3
+0
+end_operator
+begin_operator
+move place_8_9 place_8_8
+0
+1
+0
+44 99 98
+0
+end_operator
+begin_operator
+move place_2_7 place_2_6
+1
+39 1
+1
+0
+44 69 33
+0
+end_operator
+begin_operator
+move place_2_7 place_2_8
+0
+1
+0
+44 69 65
+0
+end_operator
+begin_operator
+move place_3_6 place_3_7
+1
+24 1
+1
+0
+44 15 86
+0
+end_operator
+begin_operator
+move place_3_5 place_3_6
+0
+1
+0
+44 96 15
+0
+end_operator
+begin_operator
+unlock place_2_7 place_2_6 key_3 shape_3
+2
+44 69
+7 0
+1
+0
+39 0 1
+0
+end_operator
+begin_operator
+unlock place_3_5 place_3_4 key_13 shape_13
+2
+44 96
+0 0
+1
+0
+23 0 1
+0
+end_operator
+begin_operator
+move place_3_3 place_3_4
+1
+23 1
+1
+0
+44 16 30
+0
+end_operator
+begin_operator
+move place_3_5 place_3_4
+1
+23 1
+1
+0
+44 96 30
+0
+end_operator
+begin_operator
+move place_9_8 place_9_7
+0
+1
+0
+44 3 2
+0
+end_operator
+begin_operator
+move place_9_8 place_9_9
+0
+1
+0
+44 3 19
+0
+end_operator
+begin_operator
+move place_9_8 place_8_8
+0
+1
+0
+44 3 98
+0
+end_operator
+begin_operator
+move place_2_8 place_2_7
+1
+29 0
+1
+0
+44 65 69
+0
+end_operator
+begin_operator
+move place_2_8 place_3_8
+0
+1
+0
+44 65 95
+0
+end_operator
+begin_operator
+move place_3_7 place_3_6
+0
+1
+0
+44 86 15
+0
+end_operator
+begin_operator
+move place_3_7 place_3_8
+0
+1
+0
+44 86 95
+0
+end_operator
+begin_operator
+unlock place_2_8 place_2_7 key_5 shape_5
+2
+44 65
+12 1
+1
+0
+29 1 0
+0
+end_operator
+begin_operator
+unlock place_2_8 place_2_9 key_12 shape_12
+2
+44 65
+6 1
+1
+0
+22 0 1
+0
+end_operator
+begin_operator
+move place_3_4 place_3_3
+0
+1
+0
+44 30 16
+0
+end_operator
+begin_operator
+move place_3_4 place_3_5
+0
+1
+0
+44 30 96
+0
+end_operator
+begin_operator
+move place_9_9 place_9_8
+1
+42 0
+1
+0
+44 19 3
+0
+end_operator
+begin_operator
+move place_2_8 place_2_9
+1
+22 1
+1
+0
+44 65 50
+0
+end_operator
+begin_operator
+move place_3_8 place_3_7
+1
+24 1
+1
+0
+44 95 86
+0
+end_operator
+begin_operator
+move place_3_8 place_3_9
+0
+1
+0
+44 95 17
+0
+end_operator
+begin_operator
+move place_3_8 place_2_8
+0
+1
+0
+44 95 65
+0
+end_operator
+begin_operator
+unlock place_9_9 place_9_8 key_20 shape_20
+2
+44 19
+14 1
+1
+0
+42 1 0
+0
+end_operator
+begin_operator
+unlock place_3_8 place_3_7 key_4 shape_4
+2
+44 95
+1 0
+1
+0
+24 0 1
+0
+end_operator
+begin_operator
+move place_2_9 place_2_8
+0
+1
+0
+44 50 65
+0
+end_operator
+begin_operator
+move place_3_9 place_3_8
+0
+1
+0
+44 17 95
+0
+end_operator
+0
+begin_SG
+switch 44
+check 0
+check 3
+197
+198
+199
+check 2
+227
+228
+switch 26
+check 1
+273
+check 0
+check 0
+switch 42
+check 0
+check 1
+284
+switch 14
+check 0
+check 0
+check 1
+279
+check 0
+switch 30
+check 0
+switch 13
+check 0
+check 1
+278
+check 0
+check 0
+check 1
+272
+check 0
+check 3
+294
+295
+296
+switch 26
+check 1
+7
+check 0
+check 0
+switch 2
+check 0
+check 0
+switch 37
+check 0
+check 1
+22
+check 0
+check 0
+switch 37
+check 0
+check 0
+check 1
+27
+switch 41
+check 0
+check 1
+55
+switch 11
+check 0
+check 1
+53
+check 0
+check 0
+check 0
+check 2
+75
+76
+switch 26
+check 2
+133
+134
+check 0
+check 0
+switch 31
+check 0
+switch 15
+check 0
+check 1
+140
+check 0
+check 0
+check 1
+132
+check 0
+check 2
+145
+146
+switch 26
+check 1
+88
+check 0
+check 0
+switch 38
+check 0
+switch 4
+check 0
+check 1
+112
+check 0
+check 0
+check 1
+126
+switch 31
+check 0
+switch 15
+check 0
+check 1
+93
+check 0
+check 0
+check 1
+102
+check 0
+switch 26
+check 1
+202
+check 0
+check 0
+switch 9
+check 0
+check 1
+192
+switch 28
+check 0
+check 1
+208
+check 0
+check 0
+switch 28
+check 0
+check 0
+check 1
+223
+check 0
+check 3
+203
+204
+205
+switch 26
+check 2
+3
+4
+check 0
+check 0
+switch 13
+check 0
+check 0
+check 1
+2
+switch 14
+check 0
+check 1
+1
+check 0
+switch 19
+check 0
+check 0
+check 1
+0
+check 0
+switch 26
+check 1
+168
+check 0
+check 0
+switch 33
+check 0
+switch 17
+check 0
+check 1
+170
+check 0
+check 0
+check 1
+167
+switch 36
+check 0
+switch 21
+check 0
+check 1
+171
+check 0
+check 0
+check 1
+182
+check 0
+switch 26
+check 3
+212
+213
+214
+check 0
+check 0
+switch 3
+check 0
+check 1
+206
+check 0
+check 0
+check 1
+241
+switch 26
+check 1
+275
+check 0
+check 0
+switch 0
+check 0
+check 0
+check 1
+269
+switch 1
+check 0
+switch 24
+check 0
+check 1
+280
+check 0
+check 0
+check 0
+switch 7
+check 0
+switch 39
+check 0
+check 1
+281
+check 0
+check 0
+check 0
+switch 39
+check 0
+check 0
+check 1
+276
+switch 24
+check 0
+check 0
+check 1
+288
+check 0
+switch 26
+check 2
+86
+87
+check 0
+check 0
+switch 0
+check 0
+switch 23
+check 0
+check 1
+282
+check 0
+check 0
+check 0
+switch 23
+check 0
+check 0
+check 1
+292
+check 0
+check 1
+313
+switch 26
+check 2
+62
+64
+check 0
+check 0
+switch 41
+check 0
+check 1
+63
+switch 11
+check 0
+check 1
+66
+check 0
+check 0
+check 0
+switch 42
+check 0
+check 1
+305
+switch 14
+check 0
+check 0
+check 1
+310
+check 0
+check 0
+check 3
+162
+163
+164
+switch 26
+check 1
+131
+check 0
+check 0
+switch 7
+check 0
+switch 39
+check 0
+check 1
+248
+check 0
+check 0
+check 0
+switch 39
+check 0
+check 0
+check 1
+257
+check 0
+switch 26
+check 3
+57
+58
+59
+check 0
+check 0
+switch 21
+check 0
+check 0
+check 1
+56
+check 0
+switch 26
+check 2
+137
+138
+check 0
+check 0
+switch 3
+check 0
+check 0
+switch 25
+check 0
+check 1
+225
+check 0
+check 0
+switch 25
+check 0
+check 0
+check 1
+236
+check 0
+switch 26
+check 2
+230
+231
+check 0
+check 0
+switch 27
+check 0
+switch 8
+check 0
+check 0
+check 1
+247
+check 0
+check 1
+256
+check 0
+check 2
+264
+265
+switch 26
+check 2
+150
+151
+switch 5
+check 0
+check 1
+157
+check 0
+check 0
+check 1
+169
+check 0
+check 3
+259
+260
+261
+check 3
+8
+9
+10
+check 3
+179
+180
+181
+check 2
+303
+304
+check 2
+193
+194
+switch 26
+check 2
+77
+78
+check 0
+check 0
+switch 15
+check 0
+check 0
+check 1
+73
+check 0
+switch 26
+check 2
+266
+267
+check 0
+check 0
+switch 29
+check 0
+check 1
+274
+switch 12
+check 0
+check 0
+check 1
+268
+check 0
+check 0
+check 2
+262
+263
+check 2
+195
+196
+switch 26
+check 1
+61
+check 0
+check 0
+switch 32
+check 0
+check 1
+128
+switch 16
+check 0
+check 0
+check 1
+114
+check 0
+switch 41
+check 0
+check 1
+60
+switch 11
+check 0
+check 1
+65
+check 0
+check 0
+check 0
+switch 26
+check 1
+216
+check 0
+check 0
+switch 35
+check 0
+check 1
+229
+switch 20
+check 0
+check 1
+218
+check 0
+check 0
+switch 36
+check 0
+switch 21
+check 0
+check 1
+217
+check 0
+check 0
+check 1
+215
+check 0
+check 3
+152
+153
+154
+check 1
+48
+switch 26
+check 3
+18
+19
+20
+check 0
+check 0
+switch 2
+check 0
+check 1
+16
+check 0
+check 0
+check 3
+219
+220
+221
+check 2
+185
+186
+check 2
+148
+149
+check 3
+70
+71
+72
+switch 26
+check 2
+100
+101
+check 0
+check 0
+switch 32
+check 0
+check 1
+129
+switch 16
+check 0
+check 0
+check 1
+115
+check 0
+check 0
+check 2
+119
+120
+switch 26
+check 3
+142
+143
+144
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 1
+141
+check 0
+switch 26
+check 2
+239
+240
+check 0
+check 0
+switch 7
+check 0
+check 0
+check 1
+233
+switch 8
+check 0
+check 1
+232
+check 0
+switch 12
+check 0
+check 1
+234
+check 0
+check 0
+switch 26
+check 1
+244
+check 0
+check 0
+switch 30
+check 0
+switch 13
+check 0
+check 1
+245
+check 0
+check 0
+check 1
+254
+check 0
+check 1
+312
+switch 26
+check 1
+124
+check 0
+check 0
+switch 33
+check 0
+switch 17
+check 0
+check 1
+125
+check 0
+check 0
+check 1
+139
+switch 9
+check 0
+check 0
+switch 28
+check 0
+check 1
+207
+check 0
+check 0
+switch 28
+check 0
+check 0
+check 1
+222
+switch 20
+check 0
+check 0
+check 1
+111
+check 0
+switch 26
+check 2
+5
+6
+check 0
+check 0
+switch 2
+check 0
+check 0
+switch 37
+check 0
+check 1
+21
+check 0
+check 0
+switch 37
+check 0
+check 0
+check 1
+26
+check 0
+switch 26
+check 1
+17
+check 0
+check 0
+switch 10
+check 0
+check 0
+switch 40
+check 0
+check 0
+check 1
+83
+check 0
+switch 40
+check 0
+check 1
+94
+check 0
+check 0
+check 2
+200
+201
+switch 26
+check 1
+253
+check 0
+check 0
+switch 35
+check 0
+check 1
+252
+switch 20
+check 0
+check 1
+258
+check 0
+check 0
+check 0
+switch 26
+check 2
+34
+35
+check 0
+check 0
+switch 43
+check 0
+check 1
+37
+switch 19
+check 0
+check 1
+36
+check 0
+check 0
+check 0
+check 1
+251
+switch 26
+check 2
+189
+190
+check 0
+check 0
+switch 34
+check 0
+check 1
+188
+switch 18
+check 0
+check 0
+check 1
+191
+check 0
+check 0
+check 2
+174
+175
+switch 26
+check 1
+89
+check 0
+check 0
+switch 38
+check 0
+switch 4
+check 0
+check 1
+113
+check 0
+check 0
+check 1
+127
+check 0
+switch 26
+check 2
+183
+184
+check 0
+check 0
+switch 27
+check 0
+switch 8
+check 0
+check 0
+check 1
+246
+check 0
+check 1
+255
+check 0
+check 2
+210
+211
+check 3
+11
+12
+13
+switch 26
+check 2
+29
+30
+check 0
+check 0
+switch 10
+check 0
+check 0
+switch 40
+check 0
+check 0
+check 1
+84
+check 0
+switch 40
+check 0
+check 1
+95
+check 0
+check 0
+switch 26
+check 1
+298
+check 0
+check 0
+switch 22
+check 0
+switch 6
+check 0
+check 0
+check 1
+302
+check 0
+check 1
+306
+switch 29
+check 0
+check 1
+297
+switch 12
+check 0
+check 0
+check 1
+301
+check 0
+check 0
+switch 26
+check 2
+107
+109
+check 0
+check 0
+switch 43
+check 0
+check 1
+108
+switch 19
+check 0
+check 1
+116
+check 0
+check 0
+check 0
+switch 26
+check 2
+135
+136
+check 0
+check 0
+switch 34
+check 0
+check 1
+158
+switch 18
+check 0
+check 0
+check 1
+147
+check 0
+switch 18
+check 0
+check 1
+130
+check 0
+check 0
+check 1
+209
+switch 26
+check 1
+287
+check 0
+check 0
+switch 7
+check 0
+switch 39
+check 0
+check 1
+290
+check 0
+check 0
+check 0
+switch 39
+check 0
+check 0
+check 1
+286
+check 0
+check 2
+165
+166
+check 1
+226
+switch 26
+check 2
+177
+178
+switch 5
+check 0
+check 1
+187
+check 0
+check 0
+check 1
+176
+check 0
+switch 26
+check 1
+160
+check 0
+check 0
+switch 38
+check 0
+switch 4
+check 0
+check 1
+161
+check 0
+check 0
+check 1
+159
+check 0
+check 2
+237
+238
+check 2
+172
+173
+check 2
+242
+243
+check 3
+31
+32
+33
+check 3
+42
+43
+44
+switch 26
+check 2
+14
+15
+check 0
+check 0
+switch 2
+check 0
+check 0
+switch 37
+check 0
+check 1
+23
+check 0
+check 0
+switch 37
+check 0
+check 0
+check 1
+28
+check 0
+check 2
+38
+39
+switch 26
+check 1
+47
+check 0
+check 0
+switch 43
+check 0
+check 1
+46
+switch 19
+check 0
+check 1
+52
+check 0
+check 0
+check 0
+check 2
+103
+104
+switch 26
+check 2
+105
+106
+check 0
+check 0
+switch 3
+check 0
+check 0
+switch 25
+check 0
+check 1
+224
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 1
+98
+switch 25
+check 0
+check 0
+check 1
+235
+switch 16
+check 0
+check 1
+99
+check 0
+switch 17
+check 0
+check 0
+check 1
+97
+check 0
+check 3
+121
+122
+123
+check 1
+54
+check 2
+299
+300
+check 3
+67
+68
+69
+switch 26
+check 2
+117
+118
+check 0
+check 0
+switch 6
+check 0
+check 1
+110
+check 0
+check 0
+switch 26
+check 3
+79
+80
+81
+check 0
+check 0
+switch 10
+check 0
+check 1
+74
+check 0
+check 0
+switch 26
+check 2
+40
+41
+check 0
+check 0
+switch 10
+check 0
+check 0
+switch 40
+check 0
+check 0
+check 1
+85
+check 0
+switch 40
+check 0
+check 1
+96
+check 0
+check 0
+switch 26
+check 3
+90
+91
+92
+check 0
+check 0
+switch 1
+check 0
+check 0
+check 1
+82
+check 0
+check 2
+249
+250
+switch 26
+check 3
+49
+50
+51
+check 0
+check 0
+switch 11
+check 0
+check 0
+check 1
+45
+check 0
+check 2
+155
+156
+switch 26
+check 2
+308
+309
+check 0
+check 0
+switch 1
+check 0
+switch 24
+check 0
+check 1
+311
+check 0
+check 0
+check 0
+switch 24
+check 0
+check 0
+check 1
+307
+check 0
+switch 26
+check 1
+289
+check 0
+check 0
+switch 0
+check 0
+switch 23
+check 0
+check 1
+291
+check 0
+check 0
+check 0
+switch 23
+check 0
+check 0
+check 1
+293
+check 0
+check 2
+24
+25
+switch 26
+check 2
+270
+271
+check 0
+check 0
+switch 42
+check 0
+check 1
+283
+switch 14
+check 0
+check 0
+check 1
+277
+check 0
+check 0
+check 1
+285
+check 0
+end_SG
+begin_DTG
+0
+1
+0
+269
+1
+44 15
+end_DTG
+begin_DTG
+0
+1
+0
+82
+1
+44 91
+end_DTG
+begin_DTG
+1
+1
+16
+1
+44 40
+0
+end_DTG
+begin_DTG
+1
+1
+206
+1
+44 13
+0
+end_DTG
+begin_DTG
+0
+1
+0
+98
+1
+44 83
+end_DTG
+begin_DTG
+0
+1
+0
+141
+1
+44 47
+end_DTG
+begin_DTG
+1
+1
+110
+1
+44 88
+0
+end_DTG
+begin_DTG
+0
+1
+0
+233
+1
+44 48
+end_DTG
+begin_DTG
+1
+1
+232
+1
+44 48
+0
+end_DTG
+begin_DTG
+1
+1
+192
+1
+44 9
+0
+end_DTG
+begin_DTG
+1
+1
+74
+1
+44 89
+0
+end_DTG
+begin_DTG
+0
+1
+0
+45
+1
+44 93
+end_DTG
+begin_DTG
+1
+1
+234
+1
+44 48
+0
+end_DTG
+begin_DTG
+0
+1
+0
+2
+1
+44 11
+end_DTG
+begin_DTG
+1
+1
+1
+1
+44 11
+0
+end_DTG
+begin_DTG
+0
+1
+0
+73
+1
+44 32
+end_DTG
+begin_DTG
+1
+1
+99
+1
+44 83
+0
+end_DTG
+begin_DTG
+0
+1
+0
+97
+1
+44 83
+end_DTG
+begin_DTG
+1
+1
+130
+1
+44 67
+0
+end_DTG
+begin_DTG
+0
+1
+0
+0
+1
+44 11
+end_DTG
+begin_DTG
+0
+1
+0
+111
+1
+44 51
+end_DTG
+begin_DTG
+0
+1
+0
+56
+1
+44 22
+end_DTG
+begin_DTG
+1
+1
+302
+2
+44 65
+6 1
+0
+end_DTG
+begin_DTG
+2
+1
+282
+2
+44 16
+0 0
+1
+291
+2
+44 96
+0 0
+0
+end_DTG
+begin_DTG
+2
+1
+280
+2
+44 15
+1 0
+1
+311
+2
+44 95
+1 0
+0
+end_DTG
+begin_DTG
+2
+1
+224
+2
+44 83
+3 1
+1
+225
+2
+44 23
+3 1
+0
+end_DTG
+begin_DTG
+2
+1
+157
+2
+44 26
+5 0
+1
+187
+2
+44 72
+5 0
+0
+end_DTG
+begin_DTG
+2
+1
+246
+2
+44 61
+8 1
+1
+247
+2
+44 24
+8 1
+0
+end_DTG
+begin_DTG
+2
+1
+207
+2
+44 51
+9 1
+1
+208
+2
+44 9
+9 1
+0
+end_DTG
+begin_DTG
+0
+2
+0
+268
+2
+44 33
+12 1
+0
+301
+2
+44 65
+12 1
+end_DTG
+begin_DTG
+2
+1
+245
+2
+44 49
+13 0
+1
+278
+2
+44 2
+13 0
+0
+end_DTG
+begin_DTG
+2
+1
+93
+2
+44 8
+15 0
+1
+140
+2
+44 6
+15 0
+0
+end_DTG
+begin_DTG
+0
+2
+0
+114
+2
+44 36
+16 1
+0
+115
+2
+44 45
+16 1
+end_DTG
+begin_DTG
+2
+1
+125
+2
+44 51
+17 0
+1
+170
+2
+44 12
+17 0
+0
+end_DTG
+begin_DTG
+0
+2
+0
+147
+2
+44 67
+18 1
+0
+191
+2
+44 58
+18 1
+end_DTG
+begin_DTG
+0
+2
+0
+218
+2
+44 37
+20 0
+0
+258
+2
+44 55
+20 0
+end_DTG
+begin_DTG
+2
+1
+171
+2
+44 12
+21 0
+1
+217
+2
+44 37
+21 0
+0
+end_DTG
+begin_DTG
+3
+1
+21
+2
+44 52
+2 1
+1
+22
+2
+44 4
+2 1
+1
+23
+2
+44 79
+2 1
+0
+end_DTG
+begin_DTG
+3
+1
+112
+2
+44 8
+4 0
+1
+113
+2
+44 60
+4 0
+1
+161
+2
+44 73
+4 0
+0
+end_DTG
+begin_DTG
+3
+1
+248
+2
+44 21
+7 0
+1
+281
+2
+44 15
+7 0
+1
+290
+2
+44 69
+7 0
+0
+end_DTG
+begin_DTG
+0
+3
+0
+83
+2
+44 53
+10 1
+0
+84
+2
+44 64
+10 1
+0
+85
+2
+44 90
+10 1
+end_DTG
+begin_DTG
+0
+3
+0
+53
+2
+44 4
+11 0
+0
+65
+2
+44 36
+11 0
+0
+66
+2
+44 18
+11 0
+end_DTG
+begin_DTG
+0
+3
+0
+277
+2
+44 98
+14 1
+0
+279
+2
+44 2
+14 1
+0
+310
+2
+44 19
+14 1
+end_DTG
+begin_DTG
+0
+3
+0
+36
+2
+44 56
+19 0
+0
+52
+2
+44 81
+19 0
+0
+116
+2
+44 66
+19 0
+end_DTG
+begin_DTG
+3
+10
+199
+0
+13
+198
+0
+29
+197
+0
+2
+13
+227
+0
+14
+228
+0
+3
+3
+284
+1
+42 0
+27
+273
+0
+34
+272
+1
+30 1
+3
+2
+294
+0
+19
+295
+0
+98
+296
+0
+3
+11
+7
+0
+22
+55
+1
+41 0
+77
+27
+1
+37 1
+2
+16
+76
+0
+87
+75
+0
+3
+26
+134
+0
+43
+133
+0
+46
+132
+1
+31 1
+2
+36
+145
+0
+45
+146
+0
+3
+32
+88
+0
+46
+102
+1
+31 1
+47
+126
+1
+38 1
+2
+48
+223
+1
+28 1
+61
+202
+0
+3
+0
+205
+0
+41
+204
+0
+58
+203
+0
+2
+4
+4
+0
+52
+3
+0
+3
+54
+182
+1
+36 1
+61
+168
+0
+94
+167
+1
+33 1
+3
+0
+212
+0
+1
+213
+0
+41
+214
+0
+1
+1
+241
+0
+3
+33
+276
+1
+39 1
+86
+288
+1
+24 1
+96
+275
+0
+3
+5
+86
+0
+30
+292
+1
+23 1
+45
+87
+0
+1
+95
+313
+0
+3
+22
+63
+1
+41 0
+44
+64
+0
+87
+62
+0
+1
+3
+305
+1
+42 0
+3
+43
+162
+0
+59
+163
+0
+72
+164
+0
+2
+33
+257
+1
+39 1
+88
+131
+0
+3
+4
+58
+0
+18
+59
+0
+36
+57
+0
+3
+38
+137
+0
+84
+138
+0
+92
+236
+1
+25 1
+3
+25
+256
+1
+27 1
+37
+231
+0
+49
+230
+0
+2
+24
+265
+0
+61
+264
+0
+3
+6
+151
+0
+42
+169
+1
+26 1
+73
+150
+0
+3
+2
+261
+0
+55
+259
+0
+98
+260
+0
+3
+52
+8
+0
+63
+9
+0
+79
+10
+0
+3
+0
+180
+0
+58
+181
+0
+70
+179
+0
+2
+16
+303
+0
+96
+304
+0
+2
+59
+193
+0
+68
+194
+0
+2
+8
+78
+0
+44
+77
+0
+3
+15
+267
+0
+21
+266
+0
+69
+274
+1
+29 0
+2
+2
+263
+0
+49
+262
+0
+2
+62
+196
+0
+72
+195
+0
+3
+7
+128
+1
+32 0
+22
+60
+1
+41 0
+87
+61
+0
+3
+24
+216
+0
+54
+215
+1
+36 1
+76
+229
+1
+35 0
+3
+23
+152
+0
+67
+154
+0
+70
+153
+0
+1
+78
+48
+0
+3
+63
+20
+0
+79
+18
+0
+97
+19
+0
+3
+10
+219
+0
+13
+221
+0
+74
+220
+0
+2
+26
+185
+0
+72
+186
+0
+2
+6
+148
+0
+20
+149
+0
+3
+18
+71
+0
+32
+70
+0
+89
+72
+0
+3
+7
+129
+1
+32 0
+16
+101
+0
+88
+100
+0
+2
+6
+120
+0
+8
+119
+0
+3
+8
+144
+0
+60
+142
+0
+73
+143
+0
+2
+9
+239
+0
+51
+240
+0
+2
+24
+244
+0
+34
+254
+1
+30 1
+1
+65
+312
+0
+3
+48
+222
+1
+28 1
+83
+124
+0
+94
+139
+1
+33 1
+3
+11
+5
+0
+28
+6
+0
+77
+26
+1
+37 1
+2
+63
+17
+0
+66
+94
+1
+40 0
+2
+12
+200
+0
+37
+201
+0
+2
+27
+253
+0
+76
+252
+1
+35 0
+3
+64
+34
+0
+80
+35
+0
+90
+37
+1
+43 0
+1
+74
+251
+0
+3
+10
+189
+0
+29
+190
+0
+75
+188
+1
+34 0
+2
+20
+174
+0
+31
+175
+0
+2
+47
+127
+1
+38 1
+89
+89
+0
+3
+9
+183
+0
+12
+184
+0
+25
+255
+1
+27 1
+2
+35
+210
+0
+71
+211
+0
+3
+28
+11
+0
+40
+13
+0
+53
+12
+0
+3
+56
+30
+0
+66
+95
+1
+40 0
+97
+29
+0
+3
+50
+306
+1
+22 1
+69
+297
+1
+29 0
+95
+298
+0
+3
+53
+107
+0
+64
+109
+0
+90
+108
+1
+43 0
+3
+38
+136
+0
+75
+158
+1
+34 0
+84
+135
+0
+1
+31
+209
+0
+2
+33
+286
+1
+39 1
+65
+287
+0
+2
+29
+166
+0
+38
+165
+0
+1
+62
+226
+0
+3
+20
+178
+0
+35
+177
+0
+42
+176
+1
+26 1
+2
+26
+160
+0
+47
+159
+1
+38 1
+2
+41
+237
+0
+57
+238
+0
+2
+58
+173
+0
+67
+172
+0
+2
+37
+242
+0
+55
+243
+0
+3
+4
+31
+0
+52
+33
+0
+79
+32
+0
+3
+39
+43
+0
+80
+42
+0
+93
+44
+0
+3
+28
+15
+0
+40
+14
+0
+77
+28
+1
+37 1
+2
+56
+38
+0
+78
+39
+0
+2
+90
+46
+1
+43 0
+93
+47
+0
+2
+84
+104
+0
+91
+103
+0
+3
+51
+106
+0
+91
+105
+0
+92
+235
+1
+25 1
+3
+23
+123
+0
+67
+122
+0
+82
+121
+0
+1
+93
+54
+0
+2
+15
+299
+0
+95
+300
+0
+3
+5
+68
+0
+18
+67
+0
+36
+69
+0
+2
+21
+118
+0
+45
+117
+0
+3
+44
+80
+0
+60
+79
+0
+91
+81
+0
+3
+56
+41
+0
+66
+96
+1
+40 0
+81
+40
+0
+3
+82
+90
+0
+83
+92
+0
+89
+91
+0
+2
+23
+250
+0
+83
+249
+0
+3
+78
+51
+0
+81
+49
+0
+85
+50
+0
+2
+12
+156
+0
+51
+155
+0
+3
+17
+308
+0
+65
+309
+0
+86
+307
+1
+24 1
+2
+15
+289
+0
+30
+293
+1
+23 1
+2
+40
+24
+0
+64
+25
+0
+3
+3
+283
+1
+42 0
+27
+270
+0
+99
+271
+0
+1
+98
+285
+0
+end_DTG
+begin_CG
+1
+23 2
+1
+24 2
+1
+37 3
+1
+25 2
+1
+38 3
+1
+26 2
+1
+22 1
+1
+39 3
+1
+27 2
+1
+28 2
+1
+40 3
+1
+41 3
+1
+29 2
+1
+30 2
+1
+42 3
+1
+31 2
+1
+32 2
+1
+33 2
+1
+34 2
+1
+43 3
+1
+35 2
+1
+36 2
+1
+44 1
+1
+44 2
+1
+44 2
+1
+44 2
+1
+44 2
+1
+44 2
+1
+44 2
+1
+44 2
+1
+44 2
+1
+44 2
+1
+44 2
+1
+44 2
+1
+44 2
+1
+44 2
+1
+44 2
+1
+44 3
+1
+44 3
+1
+44 3
+1
+44 3
+1
+44 3
+1
+44 3
+1
+44 3
+44
+26 2
+0 1
+42 3
+38 3
+1 1
+2 1
+22 1
+3 1
+29 2
+37 3
+4 1
+5 1
+6 1
+7 1
+33 2
+35 2
+31 2
+27 2
+8 1
+9 1
+32 2
+30 2
+10 1
+41 3
+11 1
+12 1
+13 1
+40 3
+14 1
+15 1
+39 3
+24 2
+25 2
+28 2
+16 1
+17 1
+23 2
+34 2
+18 1
+36 2
+43 3
+19 1
+20 1
+21 1
+end_CG

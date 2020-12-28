@@ -1,0 +1,90 @@
+digraph G {
+v27  [label="Atom at(c8, l5)"]
+v17  [label="Atom at(c8, l2)"]
+v2  [label="Atom at(c7, l6)"]
+v26  [label="Atom at(c7, l4)"]
+v1  [label="Atom at(c6, l4)"]
+v7  [label="Atom at(c3, l8)"]
+v5  [label="Atom at(c3, l5)"]
+v14  [label="Atom at(c2, l6)"]
+v6  [label="Atom at(c2, l5)"]
+v16  [label="Atom at(c1, l1)"]
+v13  [label="Atom at(c1, l0)"]
+v15  [label="Atom at(c0, l7)"]
+v12  [label="Atom at(c0, l0)"]
+v4  [label="Atom on(c8)"]
+v3  [label="Atom on(c7)"]
+v20  [label="Atom on(c3)"]
+v22  [label="Atom on(c2)"]
+v21  [label="Atom on(c1)"]
+v23  [label="Atom on(c0)"]
+v24  [label="Atom empty-ferry()"]
+v25  [label="Atom at-ferry(l8)"]
+v8  [label="Atom at-ferry(l7)"]
+v9  [label="Atom at-ferry(l6)"]
+v10  [label="Atom at-ferry(l5)"]
+v11  [label="Atom at-ferry(l4)"]
+v19  [label="Atom at-ferry(l2)"]
+v0  [label="Atom at-ferry(l1)"]
+v18  [label="Atom at-ferry(l0)"]
+v27 -> v17
+v27 -> v4
+v26 -> v3
+v26 -> v2
+v7 -> v5
+v7 -> v20
+v6 -> v22
+v6 -> v14
+v13 -> v21
+v13 -> v16
+v12 -> v23
+v12 -> v15
+v4 -> v17
+v3 -> v2
+v20 -> v5
+v22 -> v14
+v21 -> v16
+v23 -> v15
+v24 -> v23
+v24 -> v3
+v24 -> v21
+v24 -> v17
+v24 -> v4
+v24 -> v22
+v24 -> v2
+v24 -> v15
+v24 -> v5
+v24 -> v20
+v24 -> v16
+v24 -> v14
+v25 -> v5
+v25 -> v20
+v8 -> v11
+v8 -> v17
+v8 -> v9
+v8 -> v19
+v8 -> v18
+v8 -> v2
+v8 -> v10
+v8 -> v25
+v8 -> v15
+v8 -> v5
+v8 -> v16
+v8 -> v0
+v8 -> v14
+v9 -> v2
+v9 -> v14
+v10 -> v17
+v10 -> v4
+v10 -> v22
+v10 -> v5
+v10 -> v14
+v11 -> v3
+v11 -> v2
+v19 -> v17
+v0 -> v16
+v18 -> v23
+v18 -> v21
+v18 -> v15
+v18 -> v16
+}

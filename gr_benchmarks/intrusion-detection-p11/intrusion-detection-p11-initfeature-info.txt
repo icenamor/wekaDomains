@@ -1,0 +1,1 @@
+  1, /home/isabel/clean_gr_benchmarks/intrusion-detection/p11.pddl, 90, 90, 4, 15, 3.750000, 0, 0.166667, 0.372678, 1, 1.000000, 0.000000, 3.000000, 0.000000, 0

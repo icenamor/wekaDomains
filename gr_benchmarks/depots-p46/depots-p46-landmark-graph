@@ -1,0 +1,148 @@
+digraph G {
+v11  [label="Atom in(crate4, truck0), Atom in(crate4, truck1)"]
+v12  [label="Atom at(truck1, distributor1), Atom at(truck0, distributor1)"]
+v10  [label="Atom at(truck1, depot0), Atom at(truck0, depot0)"]
+v42  [label="Atom on(crate4, pallet3)"]
+v2  [label="Atom on(crate4, pallet0)"]
+v41  [label="Atom lifting(hoist2, crate4)"]
+v4  [label="Atom lifting(hoist0, crate4)"]
+v3  [label="Atom on(crate2, pallet0)"]
+v5  [label="Atom on(crate2, crate7)"]
+v44  [label="Atom lifting(hoist0, crate2)"]
+v43  [label="Atom on(crate1, pallet1)"]
+v16  [label="Atom on(crate1, crate8)"]
+v1  [label="Atom lifting(hoist1, crate1)"]
+v0  [label="Atom on(crate0, pallet4)"]
+v13  [label="Atom on(crate0, crate9)"]
+v32  [label="Atom lifting(hoist1, crate0)"]
+v31  [label="Atom available(hoist1)"]
+v9  [label="NegatedAtom clear(crate4)"]
+v27  [label="Atom clear(crate4)"]
+v26  [label="Atom available(hoist2)"]
+v25  [label="Atom clear(crate2)"]
+v24  [label="Atom available(hoist0)"]
+v7  [label="NegatedAtom clear(crate1)"]
+v39  [label="Atom clear(crate1)"]
+v23  [label="Atom clear(crate0)"]
+v22  [label="Atom at(crate4, distributor1)"]
+v20  [label="Atom at(crate2, depot0)"]
+v19  [label="Atom at(crate1, distributor0)"]
+v30  [label="Atom at(crate0, distributor0)"]
+v15  [label="Atom clear(crate9)"]
+v14  [label="Atom clear(crate8)"]
+v40  [label="Atom clear(crate7)"]
+v38  [label="Atom clear(crate6)"]
+v8  [label="NegatedAtom clear(crate5)"]
+v17  [label="Atom clear(crate5)"]
+v33  [label="Atom at(crate9, distributor1)"]
+v34  [label="Atom at(crate8, distributor0)"]
+v29  [label="Atom at(crate7, distributor1)"]
+v28  [label="Atom on(crate7, crate4)"]
+v18  [label="Atom at(crate6, distributor0)"]
+v36  [label="Atom on(crate6, crate5)"]
+v37  [label="Atom at(crate5, distributor0)"]
+v21  [label="Atom on(crate5, crate1)"]
+v6  [label="NegatedAtom clear(pallet0)"]
+v35  [label="Atom clear(pallet0)"]
+v11 -> v4
+v11 -> v2
+v12 -> v11
+v12 -> v13
+v12 -> v4
+v12 -> v5
+v12 -> v2
+v10 -> v4
+v10 -> v5
+v10 -> v2
+v42 -> v4
+v42 -> v2
+v42 -> v41
+v41 -> v11
+v41 -> v4
+v41 -> v2
+v4 -> v2
+v3 -> v44
+v3 -> v5
+v3 -> v35
+v3 -> v2
+v44 -> v5
+v43 -> v16
+v43 -> v1
+v1 -> v16
+v0 -> v13
+v0 -> v32
+v32 -> v13
+v31 -> v16
+v31 -> v13
+v31 -> v39
+v31 -> v32
+v31 -> v1
+v31 -> v17
+v9 -> v27
+v27 -> v4
+v27 -> v2
+v27 -> v41
+v26 -> v13
+v26 -> v5
+v26 -> v2
+v26 -> v41
+v26 -> v27
+v25 -> v44
+v25 -> v5
+v25 -> v35
+v25 -> v2
+v24 -> v4
+v24 -> v44
+v24 -> v5
+v24 -> v35
+v24 -> v2
+v7 -> v39
+v39 -> v16
+v39 -> v1
+v23 -> v13
+v23 -> v32
+v22 -> v2
+v22 -> v41
+v20 -> v44
+v20 -> v5
+v20 -> v35
+v20 -> v2
+v19 -> v16
+v19 -> v1
+v30 -> v13
+v30 -> v32
+v15 -> v13
+v14 -> v16
+v40 -> v5
+v40 -> v2
+v40 -> v41
+v40 -> v27
+v38 -> v16
+v38 -> v39
+v38 -> v17
+v8 -> v17
+v17 -> v16
+v17 -> v39
+v17 -> v1
+v33 -> v13
+v34 -> v16
+v29 -> v5
+v29 -> v2
+v29 -> v27
+v28 -> v2
+v28 -> v41
+v28 -> v27
+v18 -> v16
+v18 -> v17
+v36 -> v16
+v36 -> v39
+v36 -> v17
+v37 -> v16
+v37 -> v39
+v21 -> v16
+v21 -> v39
+v21 -> v1
+v6 -> v35
+v35 -> v5
+v35 -> v2
+}

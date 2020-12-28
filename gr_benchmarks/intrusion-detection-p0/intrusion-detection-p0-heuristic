@@ -1,0 +1,604 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+20
+begin_variable
+var88
+-1
+2
+Atom recon-performed(taurus)
+<none of those>
+end_variable
+begin_variable
+var84
+-1
+2
+Atom recon-performed(libra)
+<none of those>
+end_variable
+begin_variable
+var83
+-1
+2
+Atom recon-performed(sagittarius)
+<none of those>
+end_variable
+begin_variable
+var77
+-1
+2
+Atom recon-performed(virgo)
+<none of those>
+end_variable
+begin_variable
+var79
+-1
+2
+Atom information-gathered(virgo)
+<none of those>
+end_variable
+begin_variable
+var70
+-1
+2
+Atom recon-performed(cassiopea)
+<none of those>
+end_variable
+begin_variable
+var65
+-1
+2
+Atom recon-performed(scorpio)
+<none of those>
+end_variable
+begin_variable
+var85
+-1
+2
+Atom information-gathered(scorpio)
+<none of those>
+end_variable
+begin_variable
+var59
+-1
+2
+Atom information-gathered(sagittarius)
+<none of those>
+end_variable
+begin_variable
+var50
+-1
+2
+Atom recon-performed(perseus)
+<none of those>
+end_variable
+begin_variable
+var47
+-1
+2
+Atom recon-performed(leo)
+<none of those>
+end_variable
+begin_variable
+var43
+-1
+2
+Atom recon-performed(aries)
+<none of those>
+end_variable
+begin_variable
+var62
+-1
+2
+Atom information-gathered(aries)
+<none of those>
+end_variable
+begin_variable
+var33
+-1
+2
+Atom information-gathered(cassiopea)
+<none of those>
+end_variable
+begin_variable
+var31
+-1
+2
+Atom information-gathered(taurus)
+<none of those>
+end_variable
+begin_variable
+var29
+-1
+2
+Atom information-gathered(libra)
+<none of those>
+end_variable
+begin_variable
+var18
+-1
+2
+Atom information-gathered(leo)
+<none of those>
+end_variable
+begin_variable
+var8
+-1
+2
+Atom recon-performed(andromeda)
+<none of those>
+end_variable
+begin_variable
+var6
+-1
+2
+Atom information-gathered(andromeda)
+<none of those>
+end_variable
+begin_variable
+var5
+-1
+2
+Atom information-gathered(perseus)
+<none of those>
+end_variable
+0
+begin_state
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+end_state
+begin_goal
+10
+4 0
+7 0
+8 0
+12 0
+13 0
+14 0
+15 0
+16 0
+18 0
+19 0
+end_goal
+20
+begin_operator
+recon perseus
+0
+1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+recon cassiopea
+0
+1
+0
+5 -1 0
+0
+end_operator
+begin_operator
+recon andromeda
+0
+1
+0
+17 -1 0
+0
+end_operator
+begin_operator
+recon sagittarius
+0
+1
+0
+2 -1 0
+0
+end_operator
+begin_operator
+recon scorpio
+0
+1
+0
+6 -1 0
+0
+end_operator
+begin_operator
+recon virgo
+0
+1
+0
+3 -1 0
+0
+end_operator
+begin_operator
+recon aries
+0
+1
+0
+11 -1 0
+0
+end_operator
+begin_operator
+recon leo
+0
+1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+recon libra
+0
+1
+0
+1 -1 0
+0
+end_operator
+begin_operator
+recon taurus
+0
+1
+0
+0 -1 0
+0
+end_operator
+begin_operator
+information-gathering perseus
+1
+9 0
+1
+0
+19 -1 0
+0
+end_operator
+begin_operator
+information-gathering cassiopea
+1
+5 0
+1
+0
+13 -1 0
+0
+end_operator
+begin_operator
+information-gathering andromeda
+1
+17 0
+1
+0
+18 -1 0
+0
+end_operator
+begin_operator
+information-gathering sagittarius
+1
+2 0
+1
+0
+8 -1 0
+0
+end_operator
+begin_operator
+information-gathering scorpio
+1
+6 0
+1
+0
+7 -1 0
+0
+end_operator
+begin_operator
+information-gathering virgo
+1
+3 0
+1
+0
+4 -1 0
+0
+end_operator
+begin_operator
+information-gathering aries
+1
+11 0
+1
+0
+12 -1 0
+0
+end_operator
+begin_operator
+information-gathering leo
+1
+10 0
+1
+0
+16 -1 0
+0
+end_operator
+begin_operator
+information-gathering libra
+1
+1 0
+1
+0
+15 -1 0
+0
+end_operator
+begin_operator
+information-gathering taurus
+1
+0 0
+1
+0
+14 -1 0
+0
+end_operator
+0
+begin_SG
+switch 19
+check 10
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+check 0
+check 0
+switch 17
+check 0
+check 1
+12
+check 0
+switch 11
+check 0
+check 1
+16
+check 0
+switch 10
+check 0
+check 1
+17
+check 0
+switch 9
+check 0
+check 1
+10
+check 0
+switch 6
+check 0
+check 1
+14
+check 0
+switch 5
+check 0
+check 1
+11
+check 0
+switch 3
+check 0
+check 1
+15
+check 0
+switch 2
+check 0
+check 1
+13
+check 0
+switch 1
+check 0
+check 1
+18
+check 0
+switch 0
+check 0
+check 1
+19
+check 0
+check 0
+end_SG
+begin_DTG
+0
+1
+0
+9
+0
+end_DTG
+begin_DTG
+0
+1
+0
+8
+0
+end_DTG
+begin_DTG
+0
+1
+0
+3
+0
+end_DTG
+begin_DTG
+0
+1
+0
+5
+0
+end_DTG
+begin_DTG
+0
+1
+0
+15
+1
+3 0
+end_DTG
+begin_DTG
+0
+1
+0
+1
+0
+end_DTG
+begin_DTG
+0
+1
+0
+4
+0
+end_DTG
+begin_DTG
+0
+1
+0
+14
+1
+6 0
+end_DTG
+begin_DTG
+0
+1
+0
+13
+1
+2 0
+end_DTG
+begin_DTG
+0
+1
+0
+0
+0
+end_DTG
+begin_DTG
+0
+1
+0
+7
+0
+end_DTG
+begin_DTG
+0
+1
+0
+6
+0
+end_DTG
+begin_DTG
+0
+1
+0
+16
+1
+11 0
+end_DTG
+begin_DTG
+0
+1
+0
+11
+1
+5 0
+end_DTG
+begin_DTG
+0
+1
+0
+19
+1
+0 0
+end_DTG
+begin_DTG
+0
+1
+0
+18
+1
+1 0
+end_DTG
+begin_DTG
+0
+1
+0
+17
+1
+10 0
+end_DTG
+begin_DTG
+0
+1
+0
+2
+0
+end_DTG
+begin_DTG
+0
+1
+0
+12
+1
+17 0
+end_DTG
+begin_DTG
+0
+1
+0
+10
+1
+9 0
+end_DTG
+begin_CG
+1
+14 1
+1
+15 1
+1
+8 1
+1
+4 1
+0
+1
+13 1
+1
+7 1
+0
+0
+1
+19 1
+1
+16 1
+1
+12 1
+0
+0
+0
+0
+0
+1
+18 1
+0
+0
+end_CG

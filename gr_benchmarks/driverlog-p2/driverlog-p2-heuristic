@@ -1,0 +1,3392 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+12
+begin_variable
+var0
+-1
+8
+Atom driving(driver3, truck2)
+Atom at(driver3, p1-2)
+Atom at(driver3, p0-1)
+Atom at(driver3, p0-2)
+Atom at(driver3, s1)
+Atom at(driver3, s2)
+Atom driving(driver3, truck1)
+Atom at(driver3, s0)
+end_variable
+begin_variable
+var2
+-1
+8
+Atom driving(driver1, truck2)
+Atom driving(driver1, truck1)
+Atom at(driver1, p1-2)
+Atom at(driver1, p0-2)
+Atom at(driver1, s0)
+Atom at(driver1, s2)
+Atom at(driver1, p0-1)
+Atom at(driver1, s1)
+end_variable
+begin_variable
+var10
+-1
+2
+Atom empty(truck1)
+<none of those>
+end_variable
+begin_variable
+var11
+-1
+2
+Atom empty(truck2)
+<none of those>
+end_variable
+begin_variable
+var8
+-1
+3
+Atom at(truck2, s2)
+Atom at(truck2, s1)
+Atom at(truck2, s0)
+end_variable
+begin_variable
+var9
+-1
+3
+Atom at(truck1, s2)
+Atom at(truck1, s0)
+Atom at(truck1, s1)
+end_variable
+begin_variable
+var1
+-1
+8
+Atom at(driver2, s0)
+Atom at(driver2, p1-2)
+Atom at(driver2, s2)
+Atom at(driver2, s1)
+Atom driving(driver2, truck2)
+Atom at(driver2, p0-2)
+Atom at(driver2, p0-1)
+Atom driving(driver2, truck1)
+end_variable
+begin_variable
+var7
+-1
+5
+Atom in(package4, truck2)
+Atom at(package4, s1)
+Atom at(package4, s2)
+Atom at(package4, s0)
+Atom in(package4, truck1)
+end_variable
+begin_variable
+var6
+-1
+5
+Atom at(package1, s1)
+Atom at(package1, s0)
+Atom at(package1, s2)
+Atom in(package1, truck2)
+Atom in(package1, truck1)
+end_variable
+begin_variable
+var5
+-1
+5
+Atom in(package2, truck2)
+Atom at(package2, s0)
+Atom in(package2, truck1)
+Atom at(package2, s2)
+Atom at(package2, s1)
+end_variable
+begin_variable
+var4
+-1
+5
+Atom in(package5, truck1)
+Atom at(package5, s2)
+Atom at(package5, s1)
+Atom at(package5, s0)
+Atom in(package5, truck2)
+end_variable
+begin_variable
+var3
+-1
+5
+Atom in(package3, truck2)
+Atom at(package3, s1)
+Atom at(package3, s0)
+Atom in(package3, truck1)
+Atom at(package3, s2)
+end_variable
+2
+begin_mutex_group
+4
+3 0
+1 0
+6 4
+0 0
+end_mutex_group
+begin_mutex_group
+4
+2 0
+1 1
+6 7
+0 6
+end_mutex_group
+begin_state
+7
+7
+0
+0
+1
+2
+0
+2
+1
+1
+2
+4
+end_state
+begin_goal
+8
+4 1
+5 1
+6 0
+7 3
+8 2
+9 4
+10 1
+11 1
+end_goal
+168
+begin_operator
+load-truck package5 truck1 s1
+1
+5 2
+1
+0
+10 2 0
+0
+end_operator
+begin_operator
+load-truck package5 truck2 s1
+1
+4 1
+1
+0
+10 2 4
+0
+end_operator
+begin_operator
+walk driver2 s0 p0-1
+0
+1
+0
+6 0 6
+0
+end_operator
+begin_operator
+walk driver3 s0 p0-1
+0
+1
+0
+0 7 2
+0
+end_operator
+begin_operator
+walk driver2 s0 p0-2
+0
+1
+0
+6 0 5
+0
+end_operator
+begin_operator
+walk driver3 s0 p0-2
+0
+1
+0
+0 7 3
+0
+end_operator
+begin_operator
+board-truck driver1 truck1 s1
+1
+5 2
+2
+0
+1 7 1
+0
+2 0 1
+0
+end_operator
+begin_operator
+board-truck driver1 truck2 s1
+1
+4 1
+2
+0
+1 7 0
+0
+3 0 1
+0
+end_operator
+begin_operator
+walk driver1 s1 p0-1
+0
+1
+0
+1 7 6
+0
+end_operator
+begin_operator
+walk driver1 s1 p1-2
+0
+1
+0
+1 7 2
+0
+end_operator
+begin_operator
+unload-truck package5 truck1 s1
+1
+5 2
+1
+0
+10 0 2
+0
+end_operator
+begin_operator
+unload-truck package5 truck2 s1
+1
+4 1
+1
+0
+10 4 2
+0
+end_operator
+begin_operator
+walk driver2 p0-1 s0
+0
+1
+0
+6 6 0
+0
+end_operator
+begin_operator
+walk driver2 p0-1 s1
+0
+1
+0
+6 6 3
+0
+end_operator
+begin_operator
+walk driver3 p0-1 s0
+0
+1
+0
+0 2 7
+0
+end_operator
+begin_operator
+walk driver3 p0-1 s1
+0
+1
+0
+0 2 4
+0
+end_operator
+begin_operator
+walk driver2 p0-2 s0
+0
+1
+0
+6 5 0
+0
+end_operator
+begin_operator
+walk driver2 p0-2 s2
+0
+1
+0
+6 5 2
+0
+end_operator
+begin_operator
+walk driver3 p0-2 s0
+0
+1
+0
+0 3 7
+0
+end_operator
+begin_operator
+walk driver3 p0-2 s2
+0
+1
+0
+0 3 5
+0
+end_operator
+begin_operator
+disembark-truck driver1 truck1 s1
+1
+5 2
+2
+0
+1 1 7
+0
+2 -1 0
+0
+end_operator
+begin_operator
+disembark-truck driver1 truck2 s1
+1
+4 1
+2
+0
+1 0 7
+0
+3 -1 0
+0
+end_operator
+begin_operator
+walk driver1 p0-1 s0
+0
+1
+0
+1 6 4
+0
+end_operator
+begin_operator
+walk driver1 p0-1 s1
+0
+1
+0
+1 6 7
+0
+end_operator
+begin_operator
+walk driver1 p1-2 s1
+0
+1
+0
+1 2 7
+0
+end_operator
+begin_operator
+walk driver1 p1-2 s2
+0
+1
+0
+1 2 5
+0
+end_operator
+begin_operator
+drive-truck truck1 s1 s0 driver1
+1
+1 1
+1
+0
+5 2 1
+0
+end_operator
+begin_operator
+drive-truck truck1 s1 s2 driver1
+1
+1 1
+1
+0
+5 2 0
+0
+end_operator
+begin_operator
+drive-truck truck2 s1 s0 driver1
+1
+1 0
+1
+0
+4 1 2
+0
+end_operator
+begin_operator
+drive-truck truck2 s1 s2 driver1
+1
+1 0
+1
+0
+4 1 0
+0
+end_operator
+begin_operator
+board-truck driver2 truck1 s1
+1
+5 2
+2
+0
+6 3 7
+0
+2 0 1
+0
+end_operator
+begin_operator
+board-truck driver2 truck2 s1
+1
+4 1
+2
+0
+6 3 4
+0
+3 0 1
+0
+end_operator
+begin_operator
+walk driver2 s1 p0-1
+0
+1
+0
+6 3 6
+0
+end_operator
+begin_operator
+walk driver2 s1 p1-2
+0
+1
+0
+6 3 1
+0
+end_operator
+begin_operator
+board-truck driver3 truck1 s1
+1
+5 2
+2
+0
+0 4 6
+0
+2 0 1
+0
+end_operator
+begin_operator
+board-truck driver3 truck2 s1
+1
+4 1
+2
+0
+0 4 0
+0
+3 0 1
+0
+end_operator
+begin_operator
+walk driver3 s1 p0-1
+0
+1
+0
+0 4 2
+0
+end_operator
+begin_operator
+walk driver3 s1 p1-2
+0
+1
+0
+0 4 1
+0
+end_operator
+begin_operator
+walk driver2 s2 p0-2
+0
+1
+0
+6 2 5
+0
+end_operator
+begin_operator
+walk driver2 s2 p1-2
+0
+1
+0
+6 2 1
+0
+end_operator
+begin_operator
+walk driver3 s2 p0-2
+0
+1
+0
+0 5 3
+0
+end_operator
+begin_operator
+walk driver3 s2 p1-2
+0
+1
+0
+0 5 1
+0
+end_operator
+begin_operator
+walk driver1 s0 p0-1
+0
+1
+0
+1 4 6
+0
+end_operator
+begin_operator
+walk driver1 s0 p0-2
+0
+1
+0
+1 4 3
+0
+end_operator
+begin_operator
+walk driver1 s2 p0-2
+0
+1
+0
+1 5 3
+0
+end_operator
+begin_operator
+walk driver1 s2 p1-2
+0
+1
+0
+1 5 2
+0
+end_operator
+begin_operator
+load-truck package1 truck1 s0
+1
+5 1
+1
+0
+8 1 4
+0
+end_operator
+begin_operator
+load-truck package2 truck1 s0
+1
+5 1
+1
+0
+9 1 2
+0
+end_operator
+begin_operator
+load-truck package3 truck1 s2
+1
+5 0
+1
+0
+11 4 3
+0
+end_operator
+begin_operator
+load-truck package4 truck1 s2
+1
+5 0
+1
+0
+7 2 4
+0
+end_operator
+begin_operator
+load-truck package1 truck2 s0
+1
+4 2
+1
+0
+8 1 3
+0
+end_operator
+begin_operator
+load-truck package2 truck2 s0
+1
+4 2
+1
+0
+9 1 0
+0
+end_operator
+begin_operator
+load-truck package3 truck2 s2
+1
+4 0
+1
+0
+11 4 0
+0
+end_operator
+begin_operator
+load-truck package4 truck2 s2
+1
+4 0
+1
+0
+7 2 0
+0
+end_operator
+begin_operator
+unload-truck package5 truck1 s0
+1
+5 1
+1
+0
+10 0 3
+0
+end_operator
+begin_operator
+board-truck driver2 truck1 s0
+1
+5 1
+2
+0
+6 0 7
+0
+2 0 1
+0
+end_operator
+begin_operator
+board-truck driver3 truck1 s0
+1
+5 1
+2
+0
+0 7 6
+0
+2 0 1
+0
+end_operator
+begin_operator
+board-truck driver1 truck1 s0
+1
+5 1
+2
+0
+1 4 1
+0
+2 0 1
+0
+end_operator
+begin_operator
+disembark-truck driver1 truck1 s0
+1
+5 1
+2
+0
+1 1 4
+0
+2 -1 0
+0
+end_operator
+begin_operator
+drive-truck truck1 s0 s1 driver1
+1
+1 1
+1
+0
+5 1 2
+0
+end_operator
+begin_operator
+drive-truck truck1 s0 s2 driver1
+1
+1 1
+1
+0
+5 1 0
+0
+end_operator
+begin_operator
+unload-truck package5 truck1 s2
+1
+5 0
+1
+0
+10 0 1
+0
+end_operator
+begin_operator
+board-truck driver2 truck1 s2
+1
+5 0
+2
+0
+6 2 7
+0
+2 0 1
+0
+end_operator
+begin_operator
+board-truck driver3 truck1 s2
+1
+5 0
+2
+0
+0 5 6
+0
+2 0 1
+0
+end_operator
+begin_operator
+board-truck driver1 truck1 s2
+1
+5 0
+2
+0
+1 5 1
+0
+2 0 1
+0
+end_operator
+begin_operator
+disembark-truck driver1 truck1 s2
+1
+5 0
+2
+0
+1 1 5
+0
+2 -1 0
+0
+end_operator
+begin_operator
+drive-truck truck1 s2 s0 driver1
+1
+1 1
+1
+0
+5 0 1
+0
+end_operator
+begin_operator
+drive-truck truck1 s2 s1 driver1
+1
+1 1
+1
+0
+5 0 2
+0
+end_operator
+begin_operator
+unload-truck package5 truck2 s0
+1
+4 2
+1
+0
+10 4 3
+0
+end_operator
+begin_operator
+board-truck driver2 truck2 s0
+1
+4 2
+2
+0
+6 0 4
+0
+3 0 1
+0
+end_operator
+begin_operator
+board-truck driver3 truck2 s0
+1
+4 2
+2
+0
+0 7 0
+0
+3 0 1
+0
+end_operator
+begin_operator
+board-truck driver1 truck2 s0
+1
+4 2
+2
+0
+1 4 0
+0
+3 0 1
+0
+end_operator
+begin_operator
+disembark-truck driver1 truck2 s0
+1
+4 2
+2
+0
+1 0 4
+0
+3 -1 0
+0
+end_operator
+begin_operator
+drive-truck truck2 s0 s1 driver1
+1
+1 0
+1
+0
+4 2 1
+0
+end_operator
+begin_operator
+drive-truck truck2 s0 s2 driver1
+1
+1 0
+1
+0
+4 2 0
+0
+end_operator
+begin_operator
+unload-truck package5 truck2 s2
+1
+4 0
+1
+0
+10 4 1
+0
+end_operator
+begin_operator
+board-truck driver2 truck2 s2
+1
+4 0
+2
+0
+6 2 4
+0
+3 0 1
+0
+end_operator
+begin_operator
+board-truck driver3 truck2 s2
+1
+4 0
+2
+0
+0 5 0
+0
+3 0 1
+0
+end_operator
+begin_operator
+board-truck driver1 truck2 s2
+1
+4 0
+2
+0
+1 5 0
+0
+3 0 1
+0
+end_operator
+begin_operator
+disembark-truck driver1 truck2 s2
+1
+4 0
+2
+0
+1 0 5
+0
+3 -1 0
+0
+end_operator
+begin_operator
+drive-truck truck2 s2 s0 driver1
+1
+1 0
+1
+0
+4 0 2
+0
+end_operator
+begin_operator
+drive-truck truck2 s2 s1 driver1
+1
+1 0
+1
+0
+4 0 1
+0
+end_operator
+begin_operator
+disembark-truck driver2 truck1 s1
+1
+5 2
+2
+0
+6 7 3
+0
+2 -1 0
+0
+end_operator
+begin_operator
+disembark-truck driver2 truck1 s0
+1
+5 1
+2
+0
+6 7 0
+0
+2 -1 0
+0
+end_operator
+begin_operator
+disembark-truck driver2 truck1 s2
+1
+5 0
+2
+0
+6 7 2
+0
+2 -1 0
+0
+end_operator
+begin_operator
+disembark-truck driver2 truck2 s1
+1
+4 1
+2
+0
+6 4 3
+0
+3 -1 0
+0
+end_operator
+begin_operator
+disembark-truck driver2 truck2 s0
+1
+4 2
+2
+0
+6 4 0
+0
+3 -1 0
+0
+end_operator
+begin_operator
+disembark-truck driver2 truck2 s2
+1
+4 0
+2
+0
+6 4 2
+0
+3 -1 0
+0
+end_operator
+begin_operator
+walk driver2 p1-2 s1
+0
+1
+0
+6 1 3
+0
+end_operator
+begin_operator
+walk driver2 p1-2 s2
+0
+1
+0
+6 1 2
+0
+end_operator
+begin_operator
+disembark-truck driver3 truck1 s1
+1
+5 2
+2
+0
+0 6 4
+0
+2 -1 0
+0
+end_operator
+begin_operator
+disembark-truck driver3 truck1 s0
+1
+5 1
+2
+0
+0 6 7
+0
+2 -1 0
+0
+end_operator
+begin_operator
+disembark-truck driver3 truck1 s2
+1
+5 0
+2
+0
+0 6 5
+0
+2 -1 0
+0
+end_operator
+begin_operator
+disembark-truck driver3 truck2 s1
+1
+4 1
+2
+0
+0 0 4
+0
+3 -1 0
+0
+end_operator
+begin_operator
+disembark-truck driver3 truck2 s0
+1
+4 2
+2
+0
+0 0 7
+0
+3 -1 0
+0
+end_operator
+begin_operator
+disembark-truck driver3 truck2 s2
+1
+4 0
+2
+0
+0 0 5
+0
+3 -1 0
+0
+end_operator
+begin_operator
+walk driver3 p1-2 s1
+0
+1
+0
+0 1 4
+0
+end_operator
+begin_operator
+walk driver3 p1-2 s2
+0
+1
+0
+0 1 5
+0
+end_operator
+begin_operator
+walk driver1 p0-2 s0
+0
+1
+0
+1 3 4
+0
+end_operator
+begin_operator
+walk driver1 p0-2 s2
+0
+1
+0
+1 3 5
+0
+end_operator
+begin_operator
+drive-truck truck1 s1 s0 driver2
+1
+6 7
+1
+0
+5 2 1
+0
+end_operator
+begin_operator
+drive-truck truck1 s1 s2 driver2
+1
+6 7
+1
+0
+5 2 0
+0
+end_operator
+begin_operator
+drive-truck truck1 s0 s1 driver2
+1
+6 7
+1
+0
+5 1 2
+0
+end_operator
+begin_operator
+drive-truck truck1 s0 s2 driver2
+1
+6 7
+1
+0
+5 1 0
+0
+end_operator
+begin_operator
+drive-truck truck1 s2 s0 driver2
+1
+6 7
+1
+0
+5 0 1
+0
+end_operator
+begin_operator
+drive-truck truck1 s2 s1 driver2
+1
+6 7
+1
+0
+5 0 2
+0
+end_operator
+begin_operator
+drive-truck truck2 s1 s0 driver2
+1
+6 4
+1
+0
+4 1 2
+0
+end_operator
+begin_operator
+drive-truck truck2 s1 s2 driver2
+1
+6 4
+1
+0
+4 1 0
+0
+end_operator
+begin_operator
+drive-truck truck2 s0 s1 driver2
+1
+6 4
+1
+0
+4 2 1
+0
+end_operator
+begin_operator
+drive-truck truck2 s0 s2 driver2
+1
+6 4
+1
+0
+4 2 0
+0
+end_operator
+begin_operator
+drive-truck truck2 s2 s0 driver2
+1
+6 4
+1
+0
+4 0 2
+0
+end_operator
+begin_operator
+drive-truck truck2 s2 s1 driver2
+1
+6 4
+1
+0
+4 0 1
+0
+end_operator
+begin_operator
+drive-truck truck1 s1 s0 driver3
+1
+0 6
+1
+0
+5 2 1
+0
+end_operator
+begin_operator
+drive-truck truck1 s1 s2 driver3
+1
+0 6
+1
+0
+5 2 0
+0
+end_operator
+begin_operator
+drive-truck truck1 s0 s1 driver3
+1
+0 6
+1
+0
+5 1 2
+0
+end_operator
+begin_operator
+drive-truck truck1 s0 s2 driver3
+1
+0 6
+1
+0
+5 1 0
+0
+end_operator
+begin_operator
+drive-truck truck1 s2 s0 driver3
+1
+0 6
+1
+0
+5 0 1
+0
+end_operator
+begin_operator
+drive-truck truck1 s2 s1 driver3
+1
+0 6
+1
+0
+5 0 2
+0
+end_operator
+begin_operator
+drive-truck truck2 s1 s0 driver3
+1
+0 0
+1
+0
+4 1 2
+0
+end_operator
+begin_operator
+drive-truck truck2 s1 s2 driver3
+1
+0 0
+1
+0
+4 1 0
+0
+end_operator
+begin_operator
+drive-truck truck2 s0 s1 driver3
+1
+0 0
+1
+0
+4 2 1
+0
+end_operator
+begin_operator
+drive-truck truck2 s0 s2 driver3
+1
+0 0
+1
+0
+4 2 0
+0
+end_operator
+begin_operator
+drive-truck truck2 s2 s0 driver3
+1
+0 0
+1
+0
+4 0 2
+0
+end_operator
+begin_operator
+drive-truck truck2 s2 s1 driver3
+1
+0 0
+1
+0
+4 0 1
+0
+end_operator
+begin_operator
+unload-truck package1 truck1 s1
+1
+5 2
+1
+0
+8 4 0
+0
+end_operator
+begin_operator
+unload-truck package1 truck1 s0
+1
+5 1
+1
+0
+8 4 1
+0
+end_operator
+begin_operator
+unload-truck package1 truck1 s2
+1
+5 0
+1
+0
+8 4 2
+0
+end_operator
+begin_operator
+unload-truck package2 truck1 s1
+1
+5 2
+1
+0
+9 2 4
+0
+end_operator
+begin_operator
+unload-truck package2 truck1 s0
+1
+5 1
+1
+0
+9 2 1
+0
+end_operator
+begin_operator
+unload-truck package2 truck1 s2
+1
+5 0
+1
+0
+9 2 3
+0
+end_operator
+begin_operator
+unload-truck package3 truck1 s1
+1
+5 2
+1
+0
+11 3 1
+0
+end_operator
+begin_operator
+unload-truck package3 truck1 s0
+1
+5 1
+1
+0
+11 3 2
+0
+end_operator
+begin_operator
+unload-truck package3 truck1 s2
+1
+5 0
+1
+0
+11 3 4
+0
+end_operator
+begin_operator
+unload-truck package4 truck1 s1
+1
+5 2
+1
+0
+7 4 1
+0
+end_operator
+begin_operator
+unload-truck package4 truck1 s0
+1
+5 1
+1
+0
+7 4 3
+0
+end_operator
+begin_operator
+unload-truck package4 truck1 s2
+1
+5 0
+1
+0
+7 4 2
+0
+end_operator
+begin_operator
+unload-truck package1 truck2 s1
+1
+4 1
+1
+0
+8 3 0
+0
+end_operator
+begin_operator
+unload-truck package1 truck2 s0
+1
+4 2
+1
+0
+8 3 1
+0
+end_operator
+begin_operator
+unload-truck package1 truck2 s2
+1
+4 0
+1
+0
+8 3 2
+0
+end_operator
+begin_operator
+unload-truck package2 truck2 s1
+1
+4 1
+1
+0
+9 0 4
+0
+end_operator
+begin_operator
+unload-truck package2 truck2 s0
+1
+4 2
+1
+0
+9 0 1
+0
+end_operator
+begin_operator
+unload-truck package2 truck2 s2
+1
+4 0
+1
+0
+9 0 3
+0
+end_operator
+begin_operator
+unload-truck package3 truck2 s1
+1
+4 1
+1
+0
+11 0 1
+0
+end_operator
+begin_operator
+unload-truck package3 truck2 s0
+1
+4 2
+1
+0
+11 0 2
+0
+end_operator
+begin_operator
+unload-truck package3 truck2 s2
+1
+4 0
+1
+0
+11 0 4
+0
+end_operator
+begin_operator
+unload-truck package4 truck2 s1
+1
+4 1
+1
+0
+7 0 1
+0
+end_operator
+begin_operator
+unload-truck package4 truck2 s0
+1
+4 2
+1
+0
+7 0 3
+0
+end_operator
+begin_operator
+unload-truck package4 truck2 s2
+1
+4 0
+1
+0
+7 0 2
+0
+end_operator
+begin_operator
+load-truck package5 truck1 s0
+1
+5 1
+1
+0
+10 3 0
+0
+end_operator
+begin_operator
+load-truck package5 truck2 s0
+1
+4 2
+1
+0
+10 3 4
+0
+end_operator
+begin_operator
+load-truck package5 truck1 s2
+1
+5 0
+1
+0
+10 1 0
+0
+end_operator
+begin_operator
+load-truck package5 truck2 s2
+1
+4 0
+1
+0
+10 1 4
+0
+end_operator
+begin_operator
+load-truck package1 truck1 s1
+1
+5 2
+1
+0
+8 0 4
+0
+end_operator
+begin_operator
+load-truck package1 truck2 s1
+1
+4 1
+1
+0
+8 0 3
+0
+end_operator
+begin_operator
+load-truck package1 truck1 s2
+1
+5 0
+1
+0
+8 2 4
+0
+end_operator
+begin_operator
+load-truck package1 truck2 s2
+1
+4 0
+1
+0
+8 2 3
+0
+end_operator
+begin_operator
+load-truck package2 truck1 s1
+1
+5 2
+1
+0
+9 4 2
+0
+end_operator
+begin_operator
+load-truck package2 truck2 s1
+1
+4 1
+1
+0
+9 4 0
+0
+end_operator
+begin_operator
+load-truck package2 truck1 s2
+1
+5 0
+1
+0
+9 3 2
+0
+end_operator
+begin_operator
+load-truck package2 truck2 s2
+1
+4 0
+1
+0
+9 3 0
+0
+end_operator
+begin_operator
+load-truck package3 truck1 s1
+1
+5 2
+1
+0
+11 1 3
+0
+end_operator
+begin_operator
+load-truck package3 truck2 s1
+1
+4 1
+1
+0
+11 1 0
+0
+end_operator
+begin_operator
+load-truck package3 truck1 s0
+1
+5 1
+1
+0
+11 2 3
+0
+end_operator
+begin_operator
+load-truck package3 truck2 s0
+1
+4 2
+1
+0
+11 2 0
+0
+end_operator
+begin_operator
+load-truck package4 truck1 s1
+1
+5 2
+1
+0
+7 1 4
+0
+end_operator
+begin_operator
+load-truck package4 truck2 s1
+1
+4 1
+1
+0
+7 1 0
+0
+end_operator
+begin_operator
+load-truck package4 truck1 s0
+1
+5 1
+1
+0
+7 3 4
+0
+end_operator
+begin_operator
+load-truck package4 truck2 s0
+1
+4 2
+1
+0
+7 3 0
+0
+end_operator
+0
+begin_SG
+switch 0
+check 0
+switch 4
+check 0
+check 3
+95
+122
+123
+check 3
+93
+118
+119
+check 3
+94
+120
+121
+check 0
+check 2
+96
+97
+check 2
+14
+15
+check 2
+18
+19
+switch 6
+check 2
+36
+37
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+switch 3
+check 0
+check 1
+35
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 1
+34
+check 0
+check 0
+check 0
+switch 6
+check 2
+40
+41
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+switch 3
+check 0
+check 1
+77
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+switch 2
+check 0
+check 1
+63
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 3
+92
+116
+117
+check 3
+91
+114
+115
+check 3
+90
+112
+113
+check 0
+switch 6
+check 2
+3
+5
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 1
+70
+check 0
+check 0
+switch 5
+check 0
+check 0
+switch 2
+check 0
+check 1
+56
+check 0
+check 0
+check 0
+check 0
+switch 6
+check 0
+switch 1
+check 2
+2
+4
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 1
+69
+check 0
+check 0
+switch 5
+check 0
+check 0
+switch 2
+check 0
+check 1
+55
+check 0
+check 0
+check 0
+check 0
+check 2
+88
+89
+switch 1
+check 2
+38
+39
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+switch 3
+check 0
+check 1
+76
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+switch 2
+check 0
+check 1
+62
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 2
+32
+33
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+switch 3
+check 0
+check 1
+31
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 1
+30
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 3
+87
+110
+111
+check 3
+85
+106
+107
+check 3
+86
+108
+109
+check 0
+check 2
+16
+17
+check 2
+12
+13
+switch 5
+check 0
+check 3
+84
+104
+105
+check 3
+83
+102
+103
+check 3
+82
+100
+101
+check 0
+switch 1
+check 0
+switch 4
+check 0
+check 3
+79
+80
+81
+check 3
+21
+28
+29
+check 3
+72
+73
+74
+check 0
+switch 5
+check 0
+check 3
+65
+66
+67
+check 3
+58
+59
+60
+check 3
+20
+26
+27
+check 0
+check 2
+24
+25
+check 2
+98
+99
+switch 11
+check 2
+42
+43
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 1
+71
+check 0
+check 0
+switch 5
+check 0
+check 0
+switch 2
+check 0
+check 1
+57
+check 0
+check 0
+check 0
+check 0
+switch 11
+check 2
+44
+45
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+switch 3
+check 0
+check 1
+78
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+switch 2
+check 0
+check 1
+64
+check 0
+check 0
+check 0
+check 0
+check 0
+check 2
+22
+23
+switch 11
+check 2
+8
+9
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+switch 3
+check 0
+check 1
+7
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 1
+6
+check 0
+check 0
+check 0
+switch 11
+check 0
+switch 4
+check 0
+check 1
+144
+check 1
+142
+check 1
+143
+check 0
+switch 4
+check 0
+check 0
+check 1
+161
+check 0
+switch 5
+check 0
+check 0
+check 0
+check 1
+160
+check 0
+switch 4
+check 0
+check 0
+check 0
+check 1
+163
+switch 5
+check 0
+check 0
+check 1
+162
+check 0
+check 0
+switch 5
+check 0
+check 1
+132
+check 1
+131
+check 1
+130
+check 0
+switch 4
+check 0
+check 1
+52
+check 0
+check 0
+switch 5
+check 0
+check 1
+48
+check 0
+check 0
+check 0
+switch 10
+check 0
+switch 5
+check 0
+check 1
+61
+check 1
+54
+check 1
+10
+check 0
+switch 4
+check 0
+check 1
+151
+check 0
+check 0
+switch 5
+check 0
+check 1
+150
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 1
+1
+check 0
+switch 5
+check 0
+check 0
+check 0
+check 1
+0
+check 0
+switch 4
+check 0
+check 0
+check 0
+check 1
+149
+switch 5
+check 0
+check 0
+check 1
+148
+check 0
+check 0
+switch 4
+check 0
+check 1
+75
+check 1
+11
+check 1
+68
+check 0
+switch 9
+check 0
+switch 4
+check 0
+check 1
+141
+check 1
+139
+check 1
+140
+check 0
+switch 4
+check 0
+check 0
+check 0
+check 1
+51
+switch 5
+check 0
+check 0
+check 1
+47
+check 0
+check 0
+switch 5
+check 0
+check 1
+129
+check 1
+128
+check 1
+127
+check 0
+switch 4
+check 0
+check 1
+159
+check 0
+check 0
+switch 5
+check 0
+check 1
+158
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 1
+157
+check 0
+switch 5
+check 0
+check 0
+check 0
+check 1
+156
+check 0
+switch 8
+check 0
+switch 4
+check 0
+check 0
+check 1
+153
+check 0
+switch 5
+check 0
+check 0
+check 0
+check 1
+152
+check 0
+switch 4
+check 0
+check 0
+check 0
+check 1
+50
+switch 5
+check 0
+check 0
+check 1
+46
+check 0
+check 0
+switch 4
+check 0
+check 1
+155
+check 0
+check 0
+switch 5
+check 0
+check 1
+154
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 1
+138
+check 1
+136
+check 1
+137
+check 0
+switch 5
+check 0
+check 1
+126
+check 1
+125
+check 1
+124
+check 0
+switch 7
+check 0
+switch 4
+check 0
+check 1
+147
+check 1
+145
+check 1
+146
+check 0
+switch 4
+check 0
+check 0
+check 1
+165
+check 0
+switch 5
+check 0
+check 0
+check 0
+check 1
+164
+check 0
+switch 4
+check 0
+check 1
+53
+check 0
+check 0
+switch 5
+check 0
+check 1
+49
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 0
+check 0
+check 1
+167
+switch 5
+check 0
+check 0
+check 1
+166
+check 0
+check 0
+switch 5
+check 0
+check 1
+135
+check 1
+134
+check 1
+133
+check 0
+check 0
+end_SG
+begin_DTG
+3
+4
+93
+1
+4 1
+5
+95
+1
+4 0
+7
+94
+1
+4 2
+2
+4
+96
+0
+5
+97
+0
+2
+4
+15
+0
+7
+14
+0
+2
+5
+19
+0
+7
+18
+0
+4
+0
+35
+2
+4 1
+3 0
+1
+37
+0
+2
+36
+0
+6
+34
+2
+5 2
+2 0
+4
+0
+77
+2
+4 0
+3 0
+1
+41
+0
+3
+40
+0
+6
+63
+2
+5 0
+2 0
+3
+4
+90
+1
+5 2
+5
+92
+1
+5 0
+7
+91
+1
+5 1
+4
+0
+70
+2
+4 2
+3 0
+2
+3
+0
+3
+5
+0
+6
+56
+2
+5 1
+2 0
+end_DTG
+begin_DTG
+3
+4
+72
+1
+4 2
+5
+79
+1
+4 0
+7
+21
+1
+4 1
+3
+4
+58
+1
+5 1
+5
+65
+1
+5 0
+7
+20
+1
+5 2
+2
+5
+25
+0
+7
+24
+0
+2
+4
+98
+0
+5
+99
+0
+4
+0
+71
+2
+4 2
+3 0
+1
+57
+2
+5 1
+2 0
+3
+43
+0
+6
+42
+0
+4
+0
+78
+2
+4 0
+3 0
+1
+64
+2
+5 0
+2 0
+2
+45
+0
+3
+44
+0
+2
+4
+22
+0
+7
+23
+0
+4
+0
+7
+2
+4 1
+3 0
+1
+6
+2
+5 2
+2 0
+2
+9
+0
+6
+8
+0
+end_DTG
+begin_DTG
+9
+1
+6
+2
+1 7
+5 2
+1
+30
+2
+6 3
+5 2
+1
+34
+2
+0 4
+5 2
+1
+55
+2
+6 0
+5 1
+1
+56
+2
+0 7
+5 1
+1
+57
+2
+1 4
+5 1
+1
+62
+2
+6 2
+5 0
+1
+63
+2
+0 5
+5 0
+1
+64
+2
+1 5
+5 0
+9
+0
+20
+2
+1 1
+5 2
+0
+58
+2
+1 1
+5 1
+0
+65
+2
+1 1
+5 0
+0
+82
+2
+6 7
+5 2
+0
+83
+2
+6 7
+5 1
+0
+84
+2
+6 7
+5 0
+0
+90
+2
+0 6
+5 2
+0
+91
+2
+0 6
+5 1
+0
+92
+2
+0 6
+5 0
+end_DTG
+begin_DTG
+9
+1
+7
+2
+1 7
+4 1
+1
+31
+2
+6 3
+4 1
+1
+35
+2
+0 4
+4 1
+1
+69
+2
+6 0
+4 2
+1
+70
+2
+0 7
+4 2
+1
+71
+2
+1 4
+4 2
+1
+76
+2
+6 2
+4 0
+1
+77
+2
+0 5
+4 0
+1
+78
+2
+1 5
+4 0
+9
+0
+21
+2
+1 0
+4 1
+0
+72
+2
+1 0
+4 2
+0
+79
+2
+1 0
+4 0
+0
+85
+2
+6 4
+4 1
+0
+86
+2
+6 4
+4 2
+0
+87
+2
+6 4
+4 0
+0
+93
+2
+0 0
+4 1
+0
+94
+2
+0 0
+4 2
+0
+95
+2
+0 0
+4 0
+end_DTG
+begin_DTG
+6
+1
+81
+1
+1 0
+1
+111
+1
+6 4
+1
+123
+1
+0 0
+2
+80
+1
+1 0
+2
+110
+1
+6 4
+2
+122
+1
+0 0
+6
+0
+29
+1
+1 0
+0
+107
+1
+6 4
+0
+119
+1
+0 0
+2
+28
+1
+1 0
+2
+106
+1
+6 4
+2
+118
+1
+0 0
+6
+0
+74
+1
+1 0
+0
+109
+1
+6 4
+0
+121
+1
+0 0
+1
+73
+1
+1 0
+1
+108
+1
+6 4
+1
+120
+1
+0 0
+end_DTG
+begin_DTG
+6
+1
+66
+1
+1 1
+1
+104
+1
+6 7
+1
+116
+1
+0 6
+2
+67
+1
+1 1
+2
+105
+1
+6 7
+2
+117
+1
+0 6
+6
+0
+60
+1
+1 1
+0
+103
+1
+6 7
+0
+115
+1
+0 6
+2
+59
+1
+1 1
+2
+102
+1
+6 7
+2
+114
+1
+0 6
+6
+0
+27
+1
+1 1
+0
+101
+1
+6 7
+0
+113
+1
+0 6
+1
+26
+1
+1 1
+1
+100
+1
+6 7
+1
+112
+1
+0 6
+end_DTG
+begin_DTG
+4
+4
+69
+2
+4 2
+3 0
+5
+4
+0
+6
+2
+0
+7
+55
+2
+5 1
+2 0
+2
+2
+89
+0
+3
+88
+0
+4
+1
+39
+0
+4
+76
+2
+4 0
+3 0
+5
+38
+0
+7
+62
+2
+5 0
+2 0
+4
+1
+33
+0
+4
+31
+2
+4 1
+3 0
+6
+32
+0
+7
+30
+2
+5 2
+2 0
+3
+0
+86
+1
+4 2
+2
+87
+1
+4 0
+3
+85
+1
+4 1
+2
+0
+16
+0
+2
+17
+0
+2
+0
+12
+0
+3
+13
+0
+3
+0
+83
+1
+5 1
+2
+84
+1
+5 0
+3
+82
+1
+5 2
+end_DTG
+begin_DTG
+3
+1
+145
+1
+4 1
+2
+147
+1
+4 0
+3
+146
+1
+4 2
+2
+0
+165
+1
+4 1
+4
+164
+1
+5 2
+2
+0
+53
+1
+4 0
+4
+49
+1
+5 0
+2
+0
+167
+1
+4 2
+4
+166
+1
+5 1
+3
+1
+133
+1
+5 2
+2
+135
+1
+5 0
+3
+134
+1
+5 1
+end_DTG
+begin_DTG
+2
+3
+153
+1
+4 1
+4
+152
+1
+5 2
+2
+3
+50
+1
+4 2
+4
+46
+1
+5 1
+2
+3
+155
+1
+4 0
+4
+154
+1
+5 0
+3
+0
+136
+1
+4 1
+1
+137
+1
+4 2
+2
+138
+1
+4 0
+3
+0
+124
+1
+5 2
+1
+125
+1
+5 1
+2
+126
+1
+5 0
+end_DTG
+begin_DTG
+3
+1
+140
+1
+4 2
+3
+141
+1
+4 0
+4
+139
+1
+4 1
+2
+0
+51
+1
+4 2
+2
+47
+1
+5 1
+3
+1
+128
+1
+5 1
+3
+129
+1
+5 0
+4
+127
+1
+5 2
+2
+0
+159
+1
+4 0
+2
+158
+1
+5 0
+2
+0
+157
+1
+4 1
+2
+156
+1
+5 2
+end_DTG
+begin_DTG
+3
+1
+61
+1
+5 0
+2
+10
+1
+5 2
+3
+54
+1
+5 1
+2
+0
+150
+1
+5 0
+4
+151
+1
+4 0
+2
+0
+0
+1
+5 2
+4
+1
+1
+4 1
+2
+0
+148
+1
+5 1
+4
+149
+1
+4 2
+3
+1
+75
+1
+4 0
+2
+11
+1
+4 1
+3
+68
+1
+4 2
+end_DTG
+begin_DTG
+3
+1
+142
+1
+4 1
+2
+143
+1
+4 2
+4
+144
+1
+4 0
+2
+0
+161
+1
+4 1
+3
+160
+1
+5 2
+2
+0
+163
+1
+4 2
+3
+162
+1
+5 1
+3
+1
+130
+1
+5 2
+2
+131
+1
+5 1
+4
+132
+1
+5 0
+2
+0
+52
+1
+4 0
+3
+48
+1
+5 0
+end_DTG
+begin_CG
+4
+4 6
+5 6
+2 6
+3 6
+4
+4 6
+5 6
+2 6
+3 6
+3
+0 3
+6 3
+1 3
+3
+0 3
+6 3
+1 3
+9
+0 6
+6 6
+1 6
+11 6
+10 6
+9 6
+8 6
+7 6
+3 18
+9
+0 6
+6 6
+1 6
+11 6
+10 6
+9 6
+8 6
+7 6
+2 18
+4
+4 6
+5 6
+2 6
+3 6
+0
+0
+0
+0
+0
+end_CG

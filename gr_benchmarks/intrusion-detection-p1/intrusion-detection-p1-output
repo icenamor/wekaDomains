@@ -1,0 +1,569 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+18
+begin_variable
+var68
+-1
+2
+Atom recon-performed(taurus)
+NegatedAtom recon-performed(taurus)
+end_variable
+begin_variable
+var65
+-1
+2
+Atom recon-performed(perseus)
+NegatedAtom recon-performed(perseus)
+end_variable
+begin_variable
+var61
+-1
+2
+Atom recon-performed(aries)
+NegatedAtom recon-performed(aries)
+end_variable
+begin_variable
+var8
+-1
+2
+Atom access-obtained(taurus)
+NegatedAtom access-obtained(taurus)
+end_variable
+begin_variable
+var78
+-1
+2
+Atom root-access-obtained(taurus)
+NegatedAtom root-access-obtained(taurus)
+end_variable
+begin_variable
+var38
+-1
+2
+Atom files-downloaded(taurus)
+NegatedAtom files-downloaded(taurus)
+end_variable
+begin_variable
+var28
+-1
+2
+Atom deleted-logs(taurus)
+NegatedAtom deleted-logs(taurus)
+end_variable
+begin_variable
+var18
+-1
+2
+Atom data-stolen-from(taurus)
+NegatedAtom data-stolen-from(taurus)
+end_variable
+begin_variable
+var5
+-1
+2
+Atom access-obtained(perseus)
+NegatedAtom access-obtained(perseus)
+end_variable
+begin_variable
+var75
+-1
+2
+Atom root-access-obtained(perseus)
+NegatedAtom root-access-obtained(perseus)
+end_variable
+begin_variable
+var35
+-1
+2
+Atom files-downloaded(perseus)
+NegatedAtom files-downloaded(perseus)
+end_variable
+begin_variable
+var25
+-1
+2
+Atom deleted-logs(perseus)
+NegatedAtom deleted-logs(perseus)
+end_variable
+begin_variable
+var15
+-1
+2
+Atom data-stolen-from(perseus)
+NegatedAtom data-stolen-from(perseus)
+end_variable
+begin_variable
+var1
+-1
+2
+Atom access-obtained(aries)
+NegatedAtom access-obtained(aries)
+end_variable
+begin_variable
+var71
+-1
+2
+Atom root-access-obtained(aries)
+NegatedAtom root-access-obtained(aries)
+end_variable
+begin_variable
+var31
+-1
+2
+Atom files-downloaded(aries)
+NegatedAtom files-downloaded(aries)
+end_variable
+begin_variable
+var21
+-1
+2
+Atom deleted-logs(aries)
+NegatedAtom deleted-logs(aries)
+end_variable
+begin_variable
+var11
+-1
+2
+Atom data-stolen-from(aries)
+NegatedAtom data-stolen-from(aries)
+end_variable
+0
+begin_state
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+end_state
+begin_goal
+3
+7 0
+12 0
+17 0
+end_goal
+18
+begin_operator
+break-into aries
+1
+2 0
+1
+0 13 -1 0
+0
+end_operator
+begin_operator
+break-into perseus
+1
+1 0
+1
+0 8 -1 0
+0
+end_operator
+begin_operator
+break-into taurus
+1
+0 0
+1
+0 3 -1 0
+0
+end_operator
+begin_operator
+clean aries
+1
+13 0
+1
+0 16 -1 0
+0
+end_operator
+begin_operator
+clean perseus
+1
+8 0
+1
+0 11 -1 0
+0
+end_operator
+begin_operator
+clean taurus
+1
+3 0
+1
+0 6 -1 0
+0
+end_operator
+begin_operator
+download-files aries
+1
+14 0
+1
+0 15 -1 0
+0
+end_operator
+begin_operator
+download-files perseus
+1
+9 0
+1
+0 10 -1 0
+0
+end_operator
+begin_operator
+download-files taurus
+1
+4 0
+1
+0 5 -1 0
+0
+end_operator
+begin_operator
+gain-root aries
+1
+13 0
+1
+0 14 -1 0
+0
+end_operator
+begin_operator
+gain-root perseus
+1
+8 0
+1
+0 9 -1 0
+0
+end_operator
+begin_operator
+gain-root taurus
+1
+3 0
+1
+0 4 -1 0
+0
+end_operator
+begin_operator
+recon aries
+0
+1
+0 2 -1 0
+0
+end_operator
+begin_operator
+recon perseus
+0
+1
+0 1 -1 0
+0
+end_operator
+begin_operator
+recon taurus
+0
+1
+0 0 -1 0
+0
+end_operator
+begin_operator
+steal-data aries
+2
+16 0
+15 0
+1
+0 17 -1 0
+0
+end_operator
+begin_operator
+steal-data perseus
+2
+11 0
+10 0
+1
+0 12 -1 0
+0
+end_operator
+begin_operator
+steal-data taurus
+2
+6 0
+5 0
+1
+0 7 -1 0
+0
+end_operator
+0
+begin_SG
+switch 13
+check 3
+12
+13
+14
+check 2
+3
+9
+check 0
+switch 8
+check 0
+check 2
+4
+10
+check 0
+switch 3
+check 0
+check 2
+5
+11
+check 0
+switch 16
+check 0
+switch 15
+check 0
+check 1
+15
+check 0
+check 0
+check 0
+switch 11
+check 0
+switch 10
+check 0
+check 1
+16
+check 0
+check 0
+check 0
+switch 6
+check 0
+switch 5
+check 0
+check 1
+17
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 1
+0
+check 0
+switch 1
+check 0
+check 1
+1
+check 0
+switch 0
+check 0
+check 1
+2
+check 0
+switch 14
+check 0
+check 1
+6
+check 0
+switch 9
+check 0
+check 1
+7
+check 0
+switch 4
+check 0
+check 1
+8
+check 0
+check 0
+end_SG
+begin_DTG
+0
+1
+0
+14
+0
+end_DTG
+begin_DTG
+0
+1
+0
+13
+0
+end_DTG
+begin_DTG
+0
+1
+0
+12
+0
+end_DTG
+begin_DTG
+0
+1
+0
+2
+1
+0 0
+end_DTG
+begin_DTG
+0
+1
+0
+11
+1
+3 0
+end_DTG
+begin_DTG
+0
+1
+0
+8
+1
+4 0
+end_DTG
+begin_DTG
+0
+1
+0
+5
+1
+3 0
+end_DTG
+begin_DTG
+0
+1
+0
+17
+2
+6 0
+5 0
+end_DTG
+begin_DTG
+0
+1
+0
+1
+1
+1 0
+end_DTG
+begin_DTG
+0
+1
+0
+10
+1
+8 0
+end_DTG
+begin_DTG
+0
+1
+0
+7
+1
+9 0
+end_DTG
+begin_DTG
+0
+1
+0
+4
+1
+8 0
+end_DTG
+begin_DTG
+0
+1
+0
+16
+2
+11 0
+10 0
+end_DTG
+begin_DTG
+0
+1
+0
+0
+1
+2 0
+end_DTG
+begin_DTG
+0
+1
+0
+9
+1
+13 0
+end_DTG
+begin_DTG
+0
+1
+0
+6
+1
+14 0
+end_DTG
+begin_DTG
+0
+1
+0
+3
+1
+13 0
+end_DTG
+begin_DTG
+0
+1
+0
+15
+2
+16 0
+15 0
+end_DTG
+begin_CG
+1
+3 1
+1
+8 1
+1
+13 1
+2
+6 1
+4 1
+1
+5 1
+1
+7 1
+1
+7 1
+0
+2
+11 1
+9 1
+1
+10 1
+1
+12 1
+1
+12 1
+0
+2
+16 1
+14 1
+1
+15 1
+1
+17 1
+1
+17 1
+0
+end_CG

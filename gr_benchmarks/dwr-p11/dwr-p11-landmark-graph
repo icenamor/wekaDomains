@@ -1,0 +1,137 @@
+digraph G {
+v4  [label="Atom in(cc, q2)"]
+v26  [label="Atom in(cc, p1)"]
+v6  [label="Atom in(cb, q1)"]
+v25  [label="Atom in(cb, p1)"]
+v3  [label="Atom in(ca, q2)"]
+v24  [label="Atom in(ca, p1)"]
+v23  [label="Atom empty(k2)"]
+v22  [label="Atom top(cc, p1)"]
+v21  [label="Atom loaded(r1, cc)"]
+v20  [label="Atom holding(k2, cc)"]
+v19  [label="Atom holding(k1, cc)"]
+v18  [label="Atom empty(k1)"]
+v17  [label="Atom top(cb, p1)"]
+v16  [label="Atom on(cc, cb)"]
+v15  [label="Atom holding(k1, cb)"]
+v14  [label="Atom top(ca, p1)"]
+v13  [label="Atom on(cb, ca)"]
+v12  [label="Atom loaded(r1, ca)"]
+v11  [label="Atom holding(k2, ca)"]
+v10  [label="Atom holding(k1, ca)"]
+v2  [label="Atom unloaded(r1)"]
+v1  [label="Atom on(ca, pallet)"]
+v0  [label="Atom top(pallet, q2)"]
+v9  [label="Atom top(pallet, q1)"]
+v8  [label="NegatedAtom occupied(l2)"]
+v5  [label="Atom at(r1, l2)"]
+v7  [label="Atom at(r1, l1)"]
+v26 -> v19
+v26 -> v6
+v26 -> v4
+v26 -> v17
+v26 -> v3
+v26 -> v21
+v25 -> v14
+v25 -> v6
+v25 -> v3
+v25 -> v15
+v24 -> v3
+v24 -> v12
+v24 -> v10
+v23 -> v4
+v23 -> v3
+v23 -> v20
+v23 -> v11
+v22 -> v19
+v22 -> v6
+v22 -> v4
+v22 -> v17
+v22 -> v3
+v22 -> v20
+v22 -> v21
+v21 -> v4
+v21 -> v20
+v20 -> v4
+v19 -> v6
+v19 -> v4
+v19 -> v3
+v19 -> v12
+v19 -> v20
+v19 -> v15
+v19 -> v10
+v19 -> v21
+v19 -> v11
+v18 -> v19
+v18 -> v14
+v18 -> v6
+v18 -> v4
+v18 -> v17
+v18 -> v3
+v18 -> v15
+v18 -> v10
+v18 -> v21
+v17 -> v14
+v17 -> v6
+v17 -> v4
+v17 -> v3
+v17 -> v12
+v17 -> v20
+v17 -> v15
+v17 -> v21
+v17 -> v11
+v16 -> v19
+v16 -> v6
+v16 -> v4
+v16 -> v17
+v16 -> v3
+v16 -> v15
+v16 -> v21
+v15 -> v6
+v15 -> v3
+v15 -> v12
+v15 -> v10
+v15 -> v11
+v14 -> v6
+v14 -> v3
+v14 -> v12
+v14 -> v10
+v14 -> v11
+v13 -> v14
+v13 -> v6
+v13 -> v3
+v13 -> v12
+v13 -> v15
+v13 -> v10
+v13 -> v11
+v12 -> v3
+v12 -> v11
+v11 -> v3
+v10 -> v3
+v10 -> v12
+v10 -> v11
+v2 -> v4
+v2 -> v3
+v2 -> v12
+v2 -> v21
+v1 -> v3
+v1 -> v12
+v1 -> v10
+v0 -> v4
+v0 -> v3
+v9 -> v6
+v8 -> v5
+v8 -> v4
+v8 -> v3
+v8 -> v20
+v8 -> v11
+v5 -> v4
+v5 -> v3
+v5 -> v20
+v5 -> v11
+v7 -> v5
+v7 -> v4
+v7 -> v3
+v7 -> v12
+v7 -> v21
+}

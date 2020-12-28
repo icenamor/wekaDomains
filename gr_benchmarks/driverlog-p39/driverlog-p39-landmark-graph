@@ -1,0 +1,67 @@
+digraph G {
+v22  [label="Atom in(package1, truck1), Atom in(package1, truck2), Atom in(package1, truck3)"]
+v21  [label="Atom in(package2, truck1), Atom in(package2, truck2), Atom in(package2, truck3)"]
+v28  [label="Atom in(package3, truck1), Atom in(package3, truck2), Atom in(package3, truck3)"]
+v29  [label="Atom in(package4, truck1), Atom in(package4, truck2), Atom in(package4, truck3)"]
+v27  [label="Atom in(package6, truck1), Atom in(package6, truck2), Atom in(package6, truck3)"]
+v26  [label="Atom at(truck3, s10), Atom at(truck3, s11), Atom at(truck3, s4)"]
+v24  [label="Atom at(truck1, s5), Atom at(truck2, s5), Atom at(truck3, s5)"]
+v23  [label="Atom at(truck1, s1), Atom at(truck2, s1), Atom at(truck3, s1)"]
+v20  [label="Atom at(truck1, s0), Atom at(truck2, s0), Atom at(truck3, s0)"]
+v18  [label="Atom driving(driver2, truck3), Atom driving(driver1, truck3)"]
+v25  [label="Atom driving(driver2, truck2), Atom driving(driver1, truck2)"]
+v19  [label="Atom at(driver2, s2), Atom at(driver1, s2)"]
+v5  [label="Atom at(package1, s5)"]
+v16  [label="Atom at(package1, s4)"]
+v15  [label="Atom at(package2, s6)"]
+v4  [label="Atom at(package2, s1)"]
+v14  [label="Atom at(package3, s5)"]
+v7  [label="Atom at(package3, s0)"]
+v13  [label="Atom at(package4, s6)"]
+v9  [label="Atom at(package4, s4)"]
+v8  [label="Atom at(package6, s4)"]
+v12  [label="Atom at(package6, s2)"]
+v11  [label="Atom at(driver1, s1)"]
+v10  [label="Atom at(driver1, s0)"]
+v0  [label="Atom at(truck3, s6)"]
+v6  [label="Atom at(truck3, s2)"]
+v1  [label="Atom at(truck2, s9)"]
+v17  [label="Atom at(truck2, s10)"]
+v3  [label="Atom empty(truck3)"]
+v2  [label="Atom empty(truck2)"]
+v22 -> v5
+v21 -> v4
+v28 -> v7
+v29 -> v9
+v27 -> v8
+v26 -> v0
+v24 -> v28
+v24 -> v5
+v24 -> v7
+v23 -> v4
+v20 -> v7
+v18 -> v0
+v18 -> v26
+v25 -> v17
+v19 -> v18
+v19 -> v0
+v16 -> v5
+v16 -> v22
+v15 -> v21
+v15 -> v4
+v14 -> v28
+v14 -> v7
+v13 -> v9
+v13 -> v29
+v12 -> v8
+v12 -> v27
+v10 -> v11
+v6 -> v18
+v6 -> v0
+v1 -> v17
+v1 -> v25
+v3 -> v18
+v3 -> v0
+v2 -> v17
+v2 -> v25
+}

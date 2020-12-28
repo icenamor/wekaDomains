@@ -1,0 +1,3445 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+9
+begin_variable
+var15
+-1
+4
+Atom at(tru4, apt1)
+Atom at(tru4, pos11)
+Atom at(tru4, pos12)
+Atom at(tru4, pos13)
+end_variable
+begin_variable
+var14
+-1
+4
+Atom at(tru3, apt1)
+Atom at(tru3, pos11)
+Atom at(tru3, pos12)
+Atom at(tru3, pos13)
+end_variable
+begin_variable
+var13
+-1
+4
+Atom at(tru2, apt2)
+Atom at(tru2, pos21)
+Atom at(tru2, pos22)
+Atom at(tru2, pos23)
+end_variable
+begin_variable
+var12
+-1
+4
+Atom at(tru1, apt1)
+Atom at(tru1, pos11)
+Atom at(tru1, pos12)
+Atom at(tru1, pos13)
+end_variable
+begin_variable
+var2
+-1
+4
+Atom at(apn3, apt1)
+Atom at(apn3, apt2)
+Atom at(apn3, apt3)
+Atom at(apn3, apt4)
+end_variable
+begin_variable
+var1
+-1
+4
+Atom at(apn2, apt1)
+Atom at(apn2, apt2)
+Atom at(apn2, apt3)
+Atom at(apn2, apt4)
+end_variable
+begin_variable
+var0
+-1
+4
+Atom at(apn1, apt1)
+Atom at(apn1, apt2)
+Atom at(apn1, apt3)
+Atom at(apn1, apt4)
+end_variable
+begin_variable
+var6
+-1
+17
+Atom at(obj21, apt1)
+Atom at(obj21, apt2)
+Atom at(obj21, apt3)
+Atom at(obj21, apt4)
+Atom at(obj21, pos11)
+Atom at(obj21, pos12)
+Atom at(obj21, pos13)
+Atom at(obj21, pos21)
+Atom at(obj21, pos22)
+Atom at(obj21, pos23)
+Atom in(obj21, apn1)
+Atom in(obj21, apn2)
+Atom in(obj21, apn3)
+Atom in(obj21, tru1)
+Atom in(obj21, tru2)
+Atom in(obj21, tru3)
+Atom in(obj21, tru4)
+end_variable
+begin_variable
+var3
+-1
+17
+Atom at(obj11, apt1)
+Atom at(obj11, apt2)
+Atom at(obj11, apt3)
+Atom at(obj11, apt4)
+Atom at(obj11, pos11)
+Atom at(obj11, pos12)
+Atom at(obj11, pos13)
+Atom at(obj11, pos21)
+Atom at(obj11, pos22)
+Atom at(obj11, pos23)
+Atom in(obj11, apn1)
+Atom in(obj11, apn2)
+Atom in(obj11, apn3)
+Atom in(obj11, tru1)
+Atom in(obj11, tru2)
+Atom in(obj11, tru3)
+Atom in(obj11, tru4)
+end_variable
+0
+begin_state
+3
+2
+2
+1
+0
+0
+1
+7
+6
+end_state
+begin_goal
+2
+7 5
+8 9
+end_goal
+196
+begin_operator
+drive-truck tru1 apt1 pos11 cit1
+0
+1
+0 3 0 1
+0
+end_operator
+begin_operator
+drive-truck tru1 apt1 pos12 cit1
+0
+1
+0 3 0 2
+0
+end_operator
+begin_operator
+drive-truck tru1 apt1 pos13 cit1
+0
+1
+0 3 0 3
+0
+end_operator
+begin_operator
+drive-truck tru1 pos11 apt1 cit1
+0
+1
+0 3 1 0
+0
+end_operator
+begin_operator
+drive-truck tru1 pos11 pos12 cit1
+0
+1
+0 3 1 2
+0
+end_operator
+begin_operator
+drive-truck tru1 pos11 pos13 cit1
+0
+1
+0 3 1 3
+0
+end_operator
+begin_operator
+drive-truck tru1 pos12 apt1 cit1
+0
+1
+0 3 2 0
+0
+end_operator
+begin_operator
+drive-truck tru1 pos12 pos11 cit1
+0
+1
+0 3 2 1
+0
+end_operator
+begin_operator
+drive-truck tru1 pos12 pos13 cit1
+0
+1
+0 3 2 3
+0
+end_operator
+begin_operator
+drive-truck tru1 pos13 apt1 cit1
+0
+1
+0 3 3 0
+0
+end_operator
+begin_operator
+drive-truck tru1 pos13 pos11 cit1
+0
+1
+0 3 3 1
+0
+end_operator
+begin_operator
+drive-truck tru1 pos13 pos12 cit1
+0
+1
+0 3 3 2
+0
+end_operator
+begin_operator
+drive-truck tru2 apt2 pos21 cit2
+0
+1
+0 2 0 1
+0
+end_operator
+begin_operator
+drive-truck tru2 apt2 pos22 cit2
+0
+1
+0 2 0 2
+0
+end_operator
+begin_operator
+drive-truck tru2 apt2 pos23 cit2
+0
+1
+0 2 0 3
+0
+end_operator
+begin_operator
+drive-truck tru2 pos21 apt2 cit2
+0
+1
+0 2 1 0
+0
+end_operator
+begin_operator
+drive-truck tru2 pos21 pos22 cit2
+0
+1
+0 2 1 2
+0
+end_operator
+begin_operator
+drive-truck tru2 pos21 pos23 cit2
+0
+1
+0 2 1 3
+0
+end_operator
+begin_operator
+drive-truck tru2 pos22 apt2 cit2
+0
+1
+0 2 2 0
+0
+end_operator
+begin_operator
+drive-truck tru2 pos22 pos21 cit2
+0
+1
+0 2 2 1
+0
+end_operator
+begin_operator
+drive-truck tru2 pos22 pos23 cit2
+0
+1
+0 2 2 3
+0
+end_operator
+begin_operator
+drive-truck tru2 pos23 apt2 cit2
+0
+1
+0 2 3 0
+0
+end_operator
+begin_operator
+drive-truck tru2 pos23 pos21 cit2
+0
+1
+0 2 3 1
+0
+end_operator
+begin_operator
+drive-truck tru2 pos23 pos22 cit2
+0
+1
+0 2 3 2
+0
+end_operator
+begin_operator
+drive-truck tru3 apt1 pos11 cit1
+0
+1
+0 1 0 1
+0
+end_operator
+begin_operator
+drive-truck tru3 apt1 pos12 cit1
+0
+1
+0 1 0 2
+0
+end_operator
+begin_operator
+drive-truck tru3 apt1 pos13 cit1
+0
+1
+0 1 0 3
+0
+end_operator
+begin_operator
+drive-truck tru3 pos11 apt1 cit1
+0
+1
+0 1 1 0
+0
+end_operator
+begin_operator
+drive-truck tru3 pos11 pos12 cit1
+0
+1
+0 1 1 2
+0
+end_operator
+begin_operator
+drive-truck tru3 pos11 pos13 cit1
+0
+1
+0 1 1 3
+0
+end_operator
+begin_operator
+drive-truck tru3 pos12 apt1 cit1
+0
+1
+0 1 2 0
+0
+end_operator
+begin_operator
+drive-truck tru3 pos12 pos11 cit1
+0
+1
+0 1 2 1
+0
+end_operator
+begin_operator
+drive-truck tru3 pos12 pos13 cit1
+0
+1
+0 1 2 3
+0
+end_operator
+begin_operator
+drive-truck tru3 pos13 apt1 cit1
+0
+1
+0 1 3 0
+0
+end_operator
+begin_operator
+drive-truck tru3 pos13 pos11 cit1
+0
+1
+0 1 3 1
+0
+end_operator
+begin_operator
+drive-truck tru3 pos13 pos12 cit1
+0
+1
+0 1 3 2
+0
+end_operator
+begin_operator
+drive-truck tru4 apt1 pos11 cit1
+0
+1
+0 0 0 1
+0
+end_operator
+begin_operator
+drive-truck tru4 apt1 pos12 cit1
+0
+1
+0 0 0 2
+0
+end_operator
+begin_operator
+drive-truck tru4 apt1 pos13 cit1
+0
+1
+0 0 0 3
+0
+end_operator
+begin_operator
+drive-truck tru4 pos11 apt1 cit1
+0
+1
+0 0 1 0
+0
+end_operator
+begin_operator
+drive-truck tru4 pos11 pos12 cit1
+0
+1
+0 0 1 2
+0
+end_operator
+begin_operator
+drive-truck tru4 pos11 pos13 cit1
+0
+1
+0 0 1 3
+0
+end_operator
+begin_operator
+drive-truck tru4 pos12 apt1 cit1
+0
+1
+0 0 2 0
+0
+end_operator
+begin_operator
+drive-truck tru4 pos12 pos11 cit1
+0
+1
+0 0 2 1
+0
+end_operator
+begin_operator
+drive-truck tru4 pos12 pos13 cit1
+0
+1
+0 0 2 3
+0
+end_operator
+begin_operator
+drive-truck tru4 pos13 apt1 cit1
+0
+1
+0 0 3 0
+0
+end_operator
+begin_operator
+drive-truck tru4 pos13 pos11 cit1
+0
+1
+0 0 3 1
+0
+end_operator
+begin_operator
+drive-truck tru4 pos13 pos12 cit1
+0
+1
+0 0 3 2
+0
+end_operator
+begin_operator
+fly-airplane apn1 apt1 apt2
+0
+1
+0 6 0 1
+0
+end_operator
+begin_operator
+fly-airplane apn1 apt1 apt3
+0
+1
+0 6 0 2
+0
+end_operator
+begin_operator
+fly-airplane apn1 apt1 apt4
+0
+1
+0 6 0 3
+0
+end_operator
+begin_operator
+fly-airplane apn1 apt2 apt1
+0
+1
+0 6 1 0
+0
+end_operator
+begin_operator
+fly-airplane apn1 apt2 apt3
+0
+1
+0 6 1 2
+0
+end_operator
+begin_operator
+fly-airplane apn1 apt2 apt4
+0
+1
+0 6 1 3
+0
+end_operator
+begin_operator
+fly-airplane apn1 apt3 apt1
+0
+1
+0 6 2 0
+0
+end_operator
+begin_operator
+fly-airplane apn1 apt3 apt2
+0
+1
+0 6 2 1
+0
+end_operator
+begin_operator
+fly-airplane apn1 apt3 apt4
+0
+1
+0 6 2 3
+0
+end_operator
+begin_operator
+fly-airplane apn1 apt4 apt1
+0
+1
+0 6 3 0
+0
+end_operator
+begin_operator
+fly-airplane apn1 apt4 apt2
+0
+1
+0 6 3 1
+0
+end_operator
+begin_operator
+fly-airplane apn1 apt4 apt3
+0
+1
+0 6 3 2
+0
+end_operator
+begin_operator
+fly-airplane apn2 apt1 apt2
+0
+1
+0 5 0 1
+0
+end_operator
+begin_operator
+fly-airplane apn2 apt1 apt3
+0
+1
+0 5 0 2
+0
+end_operator
+begin_operator
+fly-airplane apn2 apt1 apt4
+0
+1
+0 5 0 3
+0
+end_operator
+begin_operator
+fly-airplane apn2 apt2 apt1
+0
+1
+0 5 1 0
+0
+end_operator
+begin_operator
+fly-airplane apn2 apt2 apt3
+0
+1
+0 5 1 2
+0
+end_operator
+begin_operator
+fly-airplane apn2 apt2 apt4
+0
+1
+0 5 1 3
+0
+end_operator
+begin_operator
+fly-airplane apn2 apt3 apt1
+0
+1
+0 5 2 0
+0
+end_operator
+begin_operator
+fly-airplane apn2 apt3 apt2
+0
+1
+0 5 2 1
+0
+end_operator
+begin_operator
+fly-airplane apn2 apt3 apt4
+0
+1
+0 5 2 3
+0
+end_operator
+begin_operator
+fly-airplane apn2 apt4 apt1
+0
+1
+0 5 3 0
+0
+end_operator
+begin_operator
+fly-airplane apn2 apt4 apt2
+0
+1
+0 5 3 1
+0
+end_operator
+begin_operator
+fly-airplane apn2 apt4 apt3
+0
+1
+0 5 3 2
+0
+end_operator
+begin_operator
+fly-airplane apn3 apt1 apt2
+0
+1
+0 4 0 1
+0
+end_operator
+begin_operator
+fly-airplane apn3 apt1 apt3
+0
+1
+0 4 0 2
+0
+end_operator
+begin_operator
+fly-airplane apn3 apt1 apt4
+0
+1
+0 4 0 3
+0
+end_operator
+begin_operator
+fly-airplane apn3 apt2 apt1
+0
+1
+0 4 1 0
+0
+end_operator
+begin_operator
+fly-airplane apn3 apt2 apt3
+0
+1
+0 4 1 2
+0
+end_operator
+begin_operator
+fly-airplane apn3 apt2 apt4
+0
+1
+0 4 1 3
+0
+end_operator
+begin_operator
+fly-airplane apn3 apt3 apt1
+0
+1
+0 4 2 0
+0
+end_operator
+begin_operator
+fly-airplane apn3 apt3 apt2
+0
+1
+0 4 2 1
+0
+end_operator
+begin_operator
+fly-airplane apn3 apt3 apt4
+0
+1
+0 4 2 3
+0
+end_operator
+begin_operator
+fly-airplane apn3 apt4 apt1
+0
+1
+0 4 3 0
+0
+end_operator
+begin_operator
+fly-airplane apn3 apt4 apt2
+0
+1
+0 4 3 1
+0
+end_operator
+begin_operator
+fly-airplane apn3 apt4 apt3
+0
+1
+0 4 3 2
+0
+end_operator
+begin_operator
+load-airplane obj11 apn1 apt1
+1
+6 0
+1
+0 8 0 10
+0
+end_operator
+begin_operator
+load-airplane obj11 apn1 apt2
+1
+6 1
+1
+0 8 1 10
+0
+end_operator
+begin_operator
+load-airplane obj11 apn1 apt3
+1
+6 2
+1
+0 8 2 10
+0
+end_operator
+begin_operator
+load-airplane obj11 apn1 apt4
+1
+6 3
+1
+0 8 3 10
+0
+end_operator
+begin_operator
+load-airplane obj11 apn2 apt1
+1
+5 0
+1
+0 8 0 11
+0
+end_operator
+begin_operator
+load-airplane obj11 apn2 apt2
+1
+5 1
+1
+0 8 1 11
+0
+end_operator
+begin_operator
+load-airplane obj11 apn2 apt3
+1
+5 2
+1
+0 8 2 11
+0
+end_operator
+begin_operator
+load-airplane obj11 apn2 apt4
+1
+5 3
+1
+0 8 3 11
+0
+end_operator
+begin_operator
+load-airplane obj11 apn3 apt1
+1
+4 0
+1
+0 8 0 12
+0
+end_operator
+begin_operator
+load-airplane obj11 apn3 apt2
+1
+4 1
+1
+0 8 1 12
+0
+end_operator
+begin_operator
+load-airplane obj11 apn3 apt3
+1
+4 2
+1
+0 8 2 12
+0
+end_operator
+begin_operator
+load-airplane obj11 apn3 apt4
+1
+4 3
+1
+0 8 3 12
+0
+end_operator
+begin_operator
+load-airplane obj21 apn1 apt1
+1
+6 0
+1
+0 7 0 10
+0
+end_operator
+begin_operator
+load-airplane obj21 apn1 apt2
+1
+6 1
+1
+0 7 1 10
+0
+end_operator
+begin_operator
+load-airplane obj21 apn1 apt3
+1
+6 2
+1
+0 7 2 10
+0
+end_operator
+begin_operator
+load-airplane obj21 apn1 apt4
+1
+6 3
+1
+0 7 3 10
+0
+end_operator
+begin_operator
+load-airplane obj21 apn2 apt1
+1
+5 0
+1
+0 7 0 11
+0
+end_operator
+begin_operator
+load-airplane obj21 apn2 apt2
+1
+5 1
+1
+0 7 1 11
+0
+end_operator
+begin_operator
+load-airplane obj21 apn2 apt3
+1
+5 2
+1
+0 7 2 11
+0
+end_operator
+begin_operator
+load-airplane obj21 apn2 apt4
+1
+5 3
+1
+0 7 3 11
+0
+end_operator
+begin_operator
+load-airplane obj21 apn3 apt1
+1
+4 0
+1
+0 7 0 12
+0
+end_operator
+begin_operator
+load-airplane obj21 apn3 apt2
+1
+4 1
+1
+0 7 1 12
+0
+end_operator
+begin_operator
+load-airplane obj21 apn3 apt3
+1
+4 2
+1
+0 7 2 12
+0
+end_operator
+begin_operator
+load-airplane obj21 apn3 apt4
+1
+4 3
+1
+0 7 3 12
+0
+end_operator
+begin_operator
+load-truck obj11 tru1 apt1
+1
+3 0
+1
+0 8 0 13
+0
+end_operator
+begin_operator
+load-truck obj11 tru1 pos11
+1
+3 1
+1
+0 8 4 13
+0
+end_operator
+begin_operator
+load-truck obj11 tru1 pos12
+1
+3 2
+1
+0 8 5 13
+0
+end_operator
+begin_operator
+load-truck obj11 tru1 pos13
+1
+3 3
+1
+0 8 6 13
+0
+end_operator
+begin_operator
+load-truck obj11 tru2 apt2
+1
+2 0
+1
+0 8 1 14
+0
+end_operator
+begin_operator
+load-truck obj11 tru2 pos21
+1
+2 1
+1
+0 8 7 14
+0
+end_operator
+begin_operator
+load-truck obj11 tru2 pos22
+1
+2 2
+1
+0 8 8 14
+0
+end_operator
+begin_operator
+load-truck obj11 tru2 pos23
+1
+2 3
+1
+0 8 9 14
+0
+end_operator
+begin_operator
+load-truck obj11 tru3 apt1
+1
+1 0
+1
+0 8 0 15
+0
+end_operator
+begin_operator
+load-truck obj11 tru3 pos11
+1
+1 1
+1
+0 8 4 15
+0
+end_operator
+begin_operator
+load-truck obj11 tru3 pos12
+1
+1 2
+1
+0 8 5 15
+0
+end_operator
+begin_operator
+load-truck obj11 tru3 pos13
+1
+1 3
+1
+0 8 6 15
+0
+end_operator
+begin_operator
+load-truck obj11 tru4 apt1
+1
+0 0
+1
+0 8 0 16
+0
+end_operator
+begin_operator
+load-truck obj11 tru4 pos11
+1
+0 1
+1
+0 8 4 16
+0
+end_operator
+begin_operator
+load-truck obj11 tru4 pos12
+1
+0 2
+1
+0 8 5 16
+0
+end_operator
+begin_operator
+load-truck obj11 tru4 pos13
+1
+0 3
+1
+0 8 6 16
+0
+end_operator
+begin_operator
+load-truck obj21 tru1 apt1
+1
+3 0
+1
+0 7 0 13
+0
+end_operator
+begin_operator
+load-truck obj21 tru1 pos11
+1
+3 1
+1
+0 7 4 13
+0
+end_operator
+begin_operator
+load-truck obj21 tru1 pos12
+1
+3 2
+1
+0 7 5 13
+0
+end_operator
+begin_operator
+load-truck obj21 tru1 pos13
+1
+3 3
+1
+0 7 6 13
+0
+end_operator
+begin_operator
+load-truck obj21 tru2 apt2
+1
+2 0
+1
+0 7 1 14
+0
+end_operator
+begin_operator
+load-truck obj21 tru2 pos21
+1
+2 1
+1
+0 7 7 14
+0
+end_operator
+begin_operator
+load-truck obj21 tru2 pos22
+1
+2 2
+1
+0 7 8 14
+0
+end_operator
+begin_operator
+load-truck obj21 tru2 pos23
+1
+2 3
+1
+0 7 9 14
+0
+end_operator
+begin_operator
+load-truck obj21 tru3 apt1
+1
+1 0
+1
+0 7 0 15
+0
+end_operator
+begin_operator
+load-truck obj21 tru3 pos11
+1
+1 1
+1
+0 7 4 15
+0
+end_operator
+begin_operator
+load-truck obj21 tru3 pos12
+1
+1 2
+1
+0 7 5 15
+0
+end_operator
+begin_operator
+load-truck obj21 tru3 pos13
+1
+1 3
+1
+0 7 6 15
+0
+end_operator
+begin_operator
+load-truck obj21 tru4 apt1
+1
+0 0
+1
+0 7 0 16
+0
+end_operator
+begin_operator
+load-truck obj21 tru4 pos11
+1
+0 1
+1
+0 7 4 16
+0
+end_operator
+begin_operator
+load-truck obj21 tru4 pos12
+1
+0 2
+1
+0 7 5 16
+0
+end_operator
+begin_operator
+load-truck obj21 tru4 pos13
+1
+0 3
+1
+0 7 6 16
+0
+end_operator
+begin_operator
+unload-airplane obj11 apn1 apt1
+1
+6 0
+1
+0 8 10 0
+0
+end_operator
+begin_operator
+unload-airplane obj11 apn1 apt2
+1
+6 1
+1
+0 8 10 1
+0
+end_operator
+begin_operator
+unload-airplane obj11 apn1 apt3
+1
+6 2
+1
+0 8 10 2
+0
+end_operator
+begin_operator
+unload-airplane obj11 apn1 apt4
+1
+6 3
+1
+0 8 10 3
+0
+end_operator
+begin_operator
+unload-airplane obj11 apn2 apt1
+1
+5 0
+1
+0 8 11 0
+0
+end_operator
+begin_operator
+unload-airplane obj11 apn2 apt2
+1
+5 1
+1
+0 8 11 1
+0
+end_operator
+begin_operator
+unload-airplane obj11 apn2 apt3
+1
+5 2
+1
+0 8 11 2
+0
+end_operator
+begin_operator
+unload-airplane obj11 apn2 apt4
+1
+5 3
+1
+0 8 11 3
+0
+end_operator
+begin_operator
+unload-airplane obj11 apn3 apt1
+1
+4 0
+1
+0 8 12 0
+0
+end_operator
+begin_operator
+unload-airplane obj11 apn3 apt2
+1
+4 1
+1
+0 8 12 1
+0
+end_operator
+begin_operator
+unload-airplane obj11 apn3 apt3
+1
+4 2
+1
+0 8 12 2
+0
+end_operator
+begin_operator
+unload-airplane obj11 apn3 apt4
+1
+4 3
+1
+0 8 12 3
+0
+end_operator
+begin_operator
+unload-airplane obj21 apn1 apt1
+1
+6 0
+1
+0 7 10 0
+0
+end_operator
+begin_operator
+unload-airplane obj21 apn1 apt2
+1
+6 1
+1
+0 7 10 1
+0
+end_operator
+begin_operator
+unload-airplane obj21 apn1 apt3
+1
+6 2
+1
+0 7 10 2
+0
+end_operator
+begin_operator
+unload-airplane obj21 apn1 apt4
+1
+6 3
+1
+0 7 10 3
+0
+end_operator
+begin_operator
+unload-airplane obj21 apn2 apt1
+1
+5 0
+1
+0 7 11 0
+0
+end_operator
+begin_operator
+unload-airplane obj21 apn2 apt2
+1
+5 1
+1
+0 7 11 1
+0
+end_operator
+begin_operator
+unload-airplane obj21 apn2 apt3
+1
+5 2
+1
+0 7 11 2
+0
+end_operator
+begin_operator
+unload-airplane obj21 apn2 apt4
+1
+5 3
+1
+0 7 11 3
+0
+end_operator
+begin_operator
+unload-airplane obj21 apn3 apt1
+1
+4 0
+1
+0 7 12 0
+0
+end_operator
+begin_operator
+unload-airplane obj21 apn3 apt2
+1
+4 1
+1
+0 7 12 1
+0
+end_operator
+begin_operator
+unload-airplane obj21 apn3 apt3
+1
+4 2
+1
+0 7 12 2
+0
+end_operator
+begin_operator
+unload-airplane obj21 apn3 apt4
+1
+4 3
+1
+0 7 12 3
+0
+end_operator
+begin_operator
+unload-truck obj11 tru1 apt1
+1
+3 0
+1
+0 8 13 0
+0
+end_operator
+begin_operator
+unload-truck obj11 tru1 pos11
+1
+3 1
+1
+0 8 13 4
+0
+end_operator
+begin_operator
+unload-truck obj11 tru1 pos12
+1
+3 2
+1
+0 8 13 5
+0
+end_operator
+begin_operator
+unload-truck obj11 tru1 pos13
+1
+3 3
+1
+0 8 13 6
+0
+end_operator
+begin_operator
+unload-truck obj11 tru2 apt2
+1
+2 0
+1
+0 8 14 1
+0
+end_operator
+begin_operator
+unload-truck obj11 tru2 pos21
+1
+2 1
+1
+0 8 14 7
+0
+end_operator
+begin_operator
+unload-truck obj11 tru2 pos22
+1
+2 2
+1
+0 8 14 8
+0
+end_operator
+begin_operator
+unload-truck obj11 tru2 pos23
+1
+2 3
+1
+0 8 14 9
+0
+end_operator
+begin_operator
+unload-truck obj11 tru3 apt1
+1
+1 0
+1
+0 8 15 0
+0
+end_operator
+begin_operator
+unload-truck obj11 tru3 pos11
+1
+1 1
+1
+0 8 15 4
+0
+end_operator
+begin_operator
+unload-truck obj11 tru3 pos12
+1
+1 2
+1
+0 8 15 5
+0
+end_operator
+begin_operator
+unload-truck obj11 tru3 pos13
+1
+1 3
+1
+0 8 15 6
+0
+end_operator
+begin_operator
+unload-truck obj11 tru4 apt1
+1
+0 0
+1
+0 8 16 0
+0
+end_operator
+begin_operator
+unload-truck obj11 tru4 pos11
+1
+0 1
+1
+0 8 16 4
+0
+end_operator
+begin_operator
+unload-truck obj11 tru4 pos12
+1
+0 2
+1
+0 8 16 5
+0
+end_operator
+begin_operator
+unload-truck obj11 tru4 pos13
+1
+0 3
+1
+0 8 16 6
+0
+end_operator
+begin_operator
+unload-truck obj21 tru1 apt1
+1
+3 0
+1
+0 7 13 0
+0
+end_operator
+begin_operator
+unload-truck obj21 tru1 pos11
+1
+3 1
+1
+0 7 13 4
+0
+end_operator
+begin_operator
+unload-truck obj21 tru1 pos12
+1
+3 2
+1
+0 7 13 5
+0
+end_operator
+begin_operator
+unload-truck obj21 tru1 pos13
+1
+3 3
+1
+0 7 13 6
+0
+end_operator
+begin_operator
+unload-truck obj21 tru2 apt2
+1
+2 0
+1
+0 7 14 1
+0
+end_operator
+begin_operator
+unload-truck obj21 tru2 pos21
+1
+2 1
+1
+0 7 14 7
+0
+end_operator
+begin_operator
+unload-truck obj21 tru2 pos22
+1
+2 2
+1
+0 7 14 8
+0
+end_operator
+begin_operator
+unload-truck obj21 tru2 pos23
+1
+2 3
+1
+0 7 14 9
+0
+end_operator
+begin_operator
+unload-truck obj21 tru3 apt1
+1
+1 0
+1
+0 7 15 0
+0
+end_operator
+begin_operator
+unload-truck obj21 tru3 pos11
+1
+1 1
+1
+0 7 15 4
+0
+end_operator
+begin_operator
+unload-truck obj21 tru3 pos12
+1
+1 2
+1
+0 7 15 5
+0
+end_operator
+begin_operator
+unload-truck obj21 tru3 pos13
+1
+1 3
+1
+0 7 15 6
+0
+end_operator
+begin_operator
+unload-truck obj21 tru4 apt1
+1
+0 0
+1
+0 7 16 0
+0
+end_operator
+begin_operator
+unload-truck obj21 tru4 pos11
+1
+0 1
+1
+0 7 16 4
+0
+end_operator
+begin_operator
+unload-truck obj21 tru4 pos12
+1
+0 2
+1
+0 7 16 5
+0
+end_operator
+begin_operator
+unload-truck obj21 tru4 pos13
+1
+0 3
+1
+0 7 16 6
+0
+end_operator
+0
+begin_SG
+switch 6
+check 0
+switch 5
+check 3
+48
+49
+50
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 0
+check 1
+84
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+140
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 1
+96
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+152
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 3
+51
+52
+53
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 0
+check 0
+check 1
+85
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+141
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 0
+check 1
+97
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+153
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 3
+54
+55
+56
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 0
+check 0
+check 0
+check 1
+86
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+142
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 0
+check 0
+check 1
+98
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+154
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 3
+57
+58
+59
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 0
+check 0
+check 0
+check 0
+check 1
+87
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+143
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 0
+check 0
+check 0
+check 1
+99
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+155
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+switch 4
+check 3
+60
+61
+62
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 0
+check 1
+88
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+144
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 1
+100
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+156
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 3
+63
+64
+65
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 0
+check 0
+check 1
+89
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+145
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 0
+check 1
+101
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+157
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 3
+66
+67
+68
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 0
+check 0
+check 0
+check 1
+90
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+146
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 0
+check 0
+check 1
+102
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+158
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 3
+69
+70
+71
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 0
+check 0
+check 0
+check 0
+check 1
+91
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+147
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 0
+check 0
+check 0
+check 1
+103
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+159
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+switch 8
+check 3
+72
+73
+74
+check 1
+92
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+148
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 1
+104
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+160
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 3
+75
+76
+77
+check 0
+check 1
+93
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+149
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 0
+check 1
+105
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+161
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 3
+78
+79
+80
+check 0
+check 0
+check 1
+94
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+150
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 0
+check 0
+check 1
+106
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+162
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 3
+81
+82
+83
+check 0
+check 0
+check 0
+check 1
+95
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+151
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 0
+check 0
+check 0
+check 1
+107
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+163
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 0
+switch 3
+check 0
+check 1
+108
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 1
+116
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 1
+120
+check 0
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 1
+112
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 1
+109
+check 0
+check 0
+switch 1
+check 0
+check 0
+check 1
+117
+check 0
+check 0
+switch 0
+check 0
+check 0
+check 1
+121
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 1
+110
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 1
+118
+check 0
+switch 0
+check 0
+check 0
+check 0
+check 1
+122
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 1
+111
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 1
+119
+switch 0
+check 0
+check 0
+check 0
+check 0
+check 1
+123
+check 0
+switch 2
+check 0
+check 0
+check 1
+113
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 0
+check 0
+check 1
+114
+check 0
+check 0
+switch 2
+check 0
+check 0
+check 0
+check 0
+check 1
+115
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 1
+164
+check 1
+165
+check 1
+166
+check 1
+167
+check 0
+switch 2
+check 0
+check 1
+168
+check 1
+169
+check 1
+170
+check 1
+171
+check 0
+switch 1
+check 0
+check 1
+172
+check 1
+173
+check 1
+174
+check 1
+175
+check 0
+switch 0
+check 0
+check 1
+176
+check 1
+177
+check 1
+178
+check 1
+179
+check 0
+switch 7
+check 0
+switch 3
+check 0
+check 1
+124
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 1
+132
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 1
+136
+check 0
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 1
+128
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 1
+125
+check 0
+check 0
+switch 1
+check 0
+check 0
+check 1
+133
+check 0
+check 0
+switch 0
+check 0
+check 0
+check 1
+137
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 1
+126
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 1
+134
+check 0
+switch 0
+check 0
+check 0
+check 0
+check 1
+138
+check 0
+check 0
+switch 3
+check 0
+check 0
+check 0
+check 0
+check 1
+127
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 1
+135
+switch 0
+check 0
+check 0
+check 0
+check 0
+check 1
+139
+check 0
+switch 2
+check 0
+check 0
+check 1
+129
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 0
+check 0
+check 1
+130
+check 0
+check 0
+switch 2
+check 0
+check 0
+check 0
+check 0
+check 1
+131
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 1
+180
+check 1
+181
+check 1
+182
+check 1
+183
+check 0
+switch 2
+check 0
+check 1
+184
+check 1
+185
+check 1
+186
+check 1
+187
+check 0
+switch 1
+check 0
+check 1
+188
+check 1
+189
+check 1
+190
+check 1
+191
+check 0
+switch 0
+check 0
+check 1
+192
+check 1
+193
+check 1
+194
+check 1
+195
+check 0
+switch 3
+check 0
+check 3
+0
+1
+2
+check 3
+3
+4
+5
+check 3
+6
+7
+8
+check 3
+9
+10
+11
+switch 2
+check 0
+check 3
+12
+13
+14
+check 3
+15
+16
+17
+check 3
+18
+19
+20
+check 3
+21
+22
+23
+switch 1
+check 0
+check 3
+24
+25
+26
+check 3
+27
+28
+29
+check 3
+30
+31
+32
+check 3
+33
+34
+35
+switch 0
+check 0
+check 3
+36
+37
+38
+check 3
+39
+40
+41
+check 3
+42
+43
+44
+check 3
+45
+46
+47
+check 0
+end_SG
+begin_DTG
+3
+1
+36
+0
+2
+37
+0
+3
+38
+0
+3
+0
+39
+0
+2
+40
+0
+3
+41
+0
+3
+0
+42
+0
+1
+43
+0
+3
+44
+0
+3
+0
+45
+0
+1
+46
+0
+2
+47
+0
+end_DTG
+begin_DTG
+3
+1
+24
+0
+2
+25
+0
+3
+26
+0
+3
+0
+27
+0
+2
+28
+0
+3
+29
+0
+3
+0
+30
+0
+1
+31
+0
+3
+32
+0
+3
+0
+33
+0
+1
+34
+0
+2
+35
+0
+end_DTG
+begin_DTG
+3
+1
+12
+0
+2
+13
+0
+3
+14
+0
+3
+0
+15
+0
+2
+16
+0
+3
+17
+0
+3
+0
+18
+0
+1
+19
+0
+3
+20
+0
+3
+0
+21
+0
+1
+22
+0
+2
+23
+0
+end_DTG
+begin_DTG
+3
+1
+0
+0
+2
+1
+0
+3
+2
+0
+3
+0
+3
+0
+2
+4
+0
+3
+5
+0
+3
+0
+6
+0
+1
+7
+0
+3
+8
+0
+3
+0
+9
+0
+1
+10
+0
+2
+11
+0
+end_DTG
+begin_DTG
+3
+1
+72
+0
+2
+73
+0
+3
+74
+0
+3
+0
+75
+0
+2
+76
+0
+3
+77
+0
+3
+0
+78
+0
+1
+79
+0
+3
+80
+0
+3
+0
+81
+0
+1
+82
+0
+2
+83
+0
+end_DTG
+begin_DTG
+3
+1
+60
+0
+2
+61
+0
+3
+62
+0
+3
+0
+63
+0
+2
+64
+0
+3
+65
+0
+3
+0
+66
+0
+1
+67
+0
+3
+68
+0
+3
+0
+69
+0
+1
+70
+0
+2
+71
+0
+end_DTG
+begin_DTG
+3
+1
+48
+0
+2
+49
+0
+3
+50
+0
+3
+0
+51
+0
+2
+52
+0
+3
+53
+0
+3
+0
+54
+0
+1
+55
+0
+3
+56
+0
+3
+0
+57
+0
+1
+58
+0
+2
+59
+0
+end_DTG
+begin_DTG
+6
+10
+96
+1
+6 0
+11
+100
+1
+5 0
+12
+104
+1
+4 0
+13
+124
+1
+3 0
+15
+132
+1
+1 0
+16
+136
+1
+0 0
+4
+10
+97
+1
+6 1
+11
+101
+1
+5 1
+12
+105
+1
+4 1
+14
+128
+1
+2 0
+3
+10
+98
+1
+6 2
+11
+102
+1
+5 2
+12
+106
+1
+4 2
+3
+10
+99
+1
+6 3
+11
+103
+1
+5 3
+12
+107
+1
+4 3
+3
+13
+125
+1
+3 1
+15
+133
+1
+1 1
+16
+137
+1
+0 1
+3
+13
+126
+1
+3 2
+15
+134
+1
+1 2
+16
+138
+1
+0 2
+3
+13
+127
+1
+3 3
+15
+135
+1
+1 3
+16
+139
+1
+0 3
+1
+14
+129
+1
+2 1
+1
+14
+130
+1
+2 2
+1
+14
+131
+1
+2 3
+4
+0
+152
+1
+6 0
+1
+153
+1
+6 1
+2
+154
+1
+6 2
+3
+155
+1
+6 3
+4
+0
+156
+1
+5 0
+1
+157
+1
+5 1
+2
+158
+1
+5 2
+3
+159
+1
+5 3
+4
+0
+160
+1
+4 0
+1
+161
+1
+4 1
+2
+162
+1
+4 2
+3
+163
+1
+4 3
+4
+0
+180
+1
+3 0
+4
+181
+1
+3 1
+5
+182
+1
+3 2
+6
+183
+1
+3 3
+4
+1
+184
+1
+2 0
+7
+185
+1
+2 1
+8
+186
+1
+2 2
+9
+187
+1
+2 3
+4
+0
+188
+1
+1 0
+4
+189
+1
+1 1
+5
+190
+1
+1 2
+6
+191
+1
+1 3
+4
+0
+192
+1
+0 0
+4
+193
+1
+0 1
+5
+194
+1
+0 2
+6
+195
+1
+0 3
+end_DTG
+begin_DTG
+6
+10
+84
+1
+6 0
+11
+88
+1
+5 0
+12
+92
+1
+4 0
+13
+108
+1
+3 0
+15
+116
+1
+1 0
+16
+120
+1
+0 0
+4
+10
+85
+1
+6 1
+11
+89
+1
+5 1
+12
+93
+1
+4 1
+14
+112
+1
+2 0
+3
+10
+86
+1
+6 2
+11
+90
+1
+5 2
+12
+94
+1
+4 2
+3
+10
+87
+1
+6 3
+11
+91
+1
+5 3
+12
+95
+1
+4 3
+3
+13
+109
+1
+3 1
+15
+117
+1
+1 1
+16
+121
+1
+0 1
+3
+13
+110
+1
+3 2
+15
+118
+1
+1 2
+16
+122
+1
+0 2
+3
+13
+111
+1
+3 3
+15
+119
+1
+1 3
+16
+123
+1
+0 3
+1
+14
+113
+1
+2 1
+1
+14
+114
+1
+2 2
+1
+14
+115
+1
+2 3
+4
+0
+140
+1
+6 0
+1
+141
+1
+6 1
+2
+142
+1
+6 2
+3
+143
+1
+6 3
+4
+0
+144
+1
+5 0
+1
+145
+1
+5 1
+2
+146
+1
+5 2
+3
+147
+1
+5 3
+4
+0
+148
+1
+4 0
+1
+149
+1
+4 1
+2
+150
+1
+4 2
+3
+151
+1
+4 3
+4
+0
+164
+1
+3 0
+4
+165
+1
+3 1
+5
+166
+1
+3 2
+6
+167
+1
+3 3
+4
+1
+168
+1
+2 0
+7
+169
+1
+2 1
+8
+170
+1
+2 2
+9
+171
+1
+2 3
+4
+0
+172
+1
+1 0
+4
+173
+1
+1 1
+5
+174
+1
+1 2
+6
+175
+1
+1 3
+4
+0
+176
+1
+0 0
+4
+177
+1
+0 1
+5
+178
+1
+0 2
+6
+179
+1
+0 3
+end_DTG
+begin_CG
+2
+8 8
+7 8
+2
+8 8
+7 8
+2
+8 8
+7 8
+2
+8 8
+7 8
+2
+8 8
+7 8
+2
+8 8
+7 8
+2
+8 8
+7 8
+0
+0
+end_CG

@@ -1,0 +1,175 @@
+digraph G {
+v32  [label="Atom at(box1, f4-4f), Atom at(box1, f5-3f), Atom at(box1, f5-5f), Atom at(box1, f6-2f)"]
+v29  [label="Atom at-robot(f4-4f), Atom at-robot(f5-3f), Atom at-robot(f6-2f), Atom at-robot(f7-1f)"]
+v31  [label="Atom at-robot(f1-6f), Atom at-robot(f2-5f), Atom at-robot(f3-4f), Atom at-robot(f4-3f)"]
+v30  [label="Atom at(box1, f5-4f), Atom at(box1, f6-3f), Atom at(box1, f7-2f)"]
+v34  [label="Atom at(box1, f6-4f), Atom at(box1, f7-3f)"]
+v36  [label="Atom at(box0, f1-4f), Atom at(box0, f2-3f)"]
+v33  [label="Atom at-robot(f5-4f), Atom at-robot(f7-2f)"]
+v28  [label="Atom at-robot(f1-5f), Atom at-robot(f3-3f)"]
+v24  [label="Atom at(box1, f7-4f)"]
+v35  [label="Atom at(box1, f4-3f)"]
+v8  [label="Atom at(box0, f5-0f)"]
+v15  [label="Atom at(box0, f4-0f)"]
+v14  [label="Atom at(box0, f3-0f)"]
+v13  [label="Atom at(box0, f2-0f)"]
+v12  [label="Atom at(box0, f1-5f)"]
+v7  [label="Atom at(box0, f1-3f)"]
+v6  [label="Atom at(box0, f1-2f)"]
+v5  [label="Atom at(box0, f1-1f)"]
+v4  [label="Atom at(box0, f1-0f)"]
+v3  [label="Atom at-robot(f3-0f)"]
+v2  [label="Atom at-robot(f2-0f)"]
+v23  [label="Atom at-robot(f1-4f)"]
+v11  [label="Atom at-robot(f1-3f)"]
+v10  [label="Atom at-robot(f1-2f)"]
+v9  [label="Atom at-robot(f1-0f)"]
+v22  [label="Atom at-robot(f0-0f)"]
+v21  [label="Atom clear(f1-4f)"]
+v20  [label="Atom clear(f1-3f)"]
+v1  [label="Atom clear(f1-1f)"]
+v0  [label="Atom clear(f1-2f)"]
+v18  [label="Atom clear(f3-0f)"]
+v17  [label="Atom clear(f4-0f)"]
+v26  [label="Atom clear(f2-0f)"]
+v27  [label="Atom clear(f5-0f)"]
+v16  [label="Atom clear(f7-4f)"]
+v19  [label="Atom clear(f1-0f)"]
+v25  [label="Atom clear(f0-0f)"]
+v32 -> v30
+v32 -> v24
+v29 -> v34
+v29 -> v24
+v31 -> v8
+v31 -> v15
+v31 -> v5
+v31 -> v6
+v31 -> v4
+v31 -> v13
+v31 -> v7
+v31 -> v14
+v31 -> v36
+v31 -> v24
+v30 -> v34
+v30 -> v24
+v34 -> v24
+v36 -> v8
+v36 -> v15
+v36 -> v5
+v36 -> v6
+v36 -> v4
+v36 -> v13
+v36 -> v7
+v36 -> v14
+v33 -> v24
+v28 -> v8
+v28 -> v15
+v28 -> v5
+v28 -> v6
+v28 -> v4
+v28 -> v13
+v28 -> v7
+v28 -> v14
+v35 -> v24
+v15 -> v8
+v14 -> v8
+v14 -> v15
+v13 -> v8
+v13 -> v15
+v13 -> v14
+v12 -> v8
+v12 -> v15
+v12 -> v5
+v12 -> v6
+v12 -> v4
+v12 -> v13
+v12 -> v7
+v12 -> v14
+v7 -> v8
+v7 -> v15
+v7 -> v5
+v7 -> v6
+v7 -> v4
+v7 -> v13
+v7 -> v14
+v6 -> v8
+v6 -> v15
+v6 -> v5
+v6 -> v4
+v6 -> v13
+v6 -> v14
+v5 -> v8
+v5 -> v15
+v5 -> v4
+v5 -> v13
+v5 -> v14
+v4 -> v8
+v4 -> v15
+v4 -> v13
+v4 -> v14
+v3 -> v8
+v3 -> v22
+v3 -> v11
+v3 -> v7
+v3 -> v2
+v3 -> v10
+v3 -> v23
+v3 -> v9
+v3 -> v24
+v2 -> v8
+v2 -> v15
+v23 -> v8
+v23 -> v15
+v23 -> v5
+v23 -> v6
+v23 -> v4
+v23 -> v13
+v23 -> v14
+v11 -> v8
+v11 -> v15
+v11 -> v5
+v11 -> v4
+v11 -> v13
+v11 -> v14
+v10 -> v8
+v10 -> v15
+v10 -> v4
+v10 -> v13
+v10 -> v14
+v9 -> v8
+v9 -> v15
+v9 -> v14
+v22 -> v8
+v22 -> v15
+v22 -> v13
+v22 -> v14
+v21 -> v8
+v21 -> v23
+v20 -> v8
+v20 -> v11
+v20 -> v7
+v1 -> v8
+v1 -> v5
+v1 -> v13
+v0 -> v8
+v0 -> v6
+v0 -> v10
+v18 -> v8
+v18 -> v15
+v18 -> v14
+v17 -> v8
+v17 -> v15
+v26 -> v8
+v26 -> v13
+v26 -> v2
+v26 -> v14
+v27 -> v8
+v16 -> v24
+v19 -> v8
+v19 -> v4
+v19 -> v13
+v19 -> v9
+v25 -> v8
+v25 -> v22
+v25 -> v13
+}

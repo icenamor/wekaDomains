@@ -1,0 +1,69 @@
+digraph G {
+v0  [label="Atom clear(r)"]
+v16  [label="Atom on(r, p)"]
+v1  [label="Atom on(r, a)"]
+v12  [label="Atom holding(r)"]
+v11  [label="Atom ontable(p)"]
+v15  [label="Atom on(p, e)"]
+v10  [label="Atom holding(p)"]
+v13  [label="Atom ontable(e)"]
+v14  [label="Atom on(a, p)"]
+v9  [label="Atom on(a, c)"]
+v8  [label="Atom holding(a)"]
+v7  [label="Atom handempty()"]
+v17  [label="NegatedAtom clear(p)"]
+v6  [label="Atom clear(p)"]
+v5  [label="Atom clear(e)"]
+v18  [label="NegatedAtom clear(a)"]
+v4  [label="Atom clear(a)"]
+v3  [label="Atom clear(d)"]
+v2  [label="Atom on(d, a)"]
+v0 -> v12
+v0 -> v15
+v0 -> v1
+v0 -> v14
+v0 -> v10
+v0 -> v6
+v16 -> v12
+v16 -> v15
+v16 -> v1
+v16 -> v14
+v16 -> v10
+v16 -> v6
+v12 -> v15
+v12 -> v1
+v12 -> v14
+v12 -> v10
+v11 -> v15
+v11 -> v10
+v10 -> v15
+v9 -> v8
+v9 -> v14
+v8 -> v14
+v7 -> v8
+v7 -> v4
+v7 -> v12
+v7 -> v15
+v7 -> v1
+v7 -> v14
+v7 -> v10
+v7 -> v6
+v17 -> v6
+v6 -> v15
+v6 -> v1
+v6 -> v14
+v6 -> v10
+v5 -> v15
+v18 -> v4
+v4 -> v8
+v4 -> v1
+v4 -> v14
+v3 -> v8
+v3 -> v4
+v3 -> v1
+v3 -> v14
+v2 -> v8
+v2 -> v4
+v2 -> v1
+v2 -> v14
+}

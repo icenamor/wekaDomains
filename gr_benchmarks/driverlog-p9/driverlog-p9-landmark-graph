@@ -1,0 +1,48 @@
+digraph G {
+v10  [label="Atom in(package1, truck1), Atom in(package1, truck2), Atom in(package1, truck3)"]
+v9  [label="Atom in(package2, truck1), Atom in(package2, truck2), Atom in(package2, truck3)"]
+v7  [label="Atom in(package3, truck1), Atom in(package3, truck2), Atom in(package3, truck3)"]
+v8  [label="Atom in(package4, truck1), Atom in(package4, truck2), Atom in(package4, truck3)"]
+v17  [label="Atom in(package6, truck1), Atom in(package6, truck2), Atom in(package6, truck3)"]
+v16  [label="Atom at(truck1, s2), Atom at(truck2, s2), Atom at(truck3, s2)"]
+v11  [label="Atom at(truck1, s0), Atom at(truck2, s0), Atom at(truck3, s0)"]
+v5  [label="Atom at(package1, s2)"]
+v12  [label="Atom at(package1, s0)"]
+v19  [label="Atom at(package2, s2)"]
+v13  [label="Atom at(package2, s1)"]
+v0  [label="Atom at(package3, s2)"]
+v18  [label="Atom at(package3, s1)"]
+v15  [label="Atom at(package4, s2)"]
+v6  [label="Atom at(package4, s1)"]
+v14  [label="Atom at(package6, s2)"]
+v4  [label="Atom at(package6, s0)"]
+v2  [label="Atom at(driver2, s2)"]
+v3  [label="Atom at(driver1, s1)"]
+v1  [label="Atom at(driver1, s0)"]
+v10 -> v5
+v9 -> v13
+v7 -> v0
+v8 -> v15
+v17 -> v14
+v16 -> v14
+v16 -> v5
+v16 -> v15
+v16 -> v9
+v16 -> v0
+v16 -> v13
+v11 -> v14
+v11 -> v5
+v11 -> v10
+v11 -> v17
+v12 -> v5
+v12 -> v10
+v19 -> v9
+v19 -> v13
+v18 -> v7
+v18 -> v0
+v6 -> v15
+v6 -> v8
+v4 -> v14
+v4 -> v17
+v3 -> v1
+}

@@ -1,0 +1,30 @@
+digraph G {
+v10  [label="Atom calibrated(instrument3), Atom calibrated(instrument0)"]
+v12  [label="Atom pointing(satellite1, star3), Atom pointing(satellite0, star3)"]
+v13  [label="Atom pointing(satellite1, phenomenon7), Atom pointing(satellite0, phenomenon7)"]
+v11  [label="Atom power_on(instrument3), Atom power_on(instrument0)"]
+v9  [label="NegatedAtom have_image(phenomenon5, spectrograph2)"]
+v2  [label="Atom have_image(phenomenon5, spectrograph2)"]
+v6  [label="NegatedAtom have_image(phenomenon7, spectrograph2)"]
+v0  [label="Atom have_image(phenomenon7, spectrograph2)"]
+v5  [label="NegatedAtom have_image(star3, infrared0)"]
+v3  [label="Atom have_image(star3, infrared0)"]
+v4  [label="NegatedAtom have_image(star4, spectrograph2)"]
+v7  [label="Atom have_image(star4, spectrograph2)"]
+v1  [label="Atom pointing(satellite0, star4)"]
+v8  [label="Atom pointing(satellite0, phenomenon5)"]
+v10 -> v7
+v10 -> v0
+v10 -> v2
+v12 -> v3
+v13 -> v0
+v11 -> v7
+v11 -> v0
+v11 -> v2
+v11 -> v10
+v9 -> v2
+v6 -> v0
+v5 -> v3
+v4 -> v7
+v1 -> v8
+}

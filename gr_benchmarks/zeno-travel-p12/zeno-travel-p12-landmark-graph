@@ -1,0 +1,50 @@
+digraph G {
+v13  [label="Atom in(person1, plane1), Atom in(person1, plane2), Atom in(person1, plane3)"]
+v20  [label="Atom in(person2, plane1), Atom in(person2, plane2), Atom in(person2, plane3)"]
+v19  [label="Atom in(person3, plane1), Atom in(person3, plane2), Atom in(person3, plane3)"]
+v17  [label="Atom in(person4, plane1), Atom in(person4, plane2), Atom in(person4, plane3)"]
+v16  [label="Atom in(person5, plane1), Atom in(person5, plane2), Atom in(person5, plane3)"]
+v12  [label="Atom in(person6, plane1), Atom in(person6, plane2), Atom in(person6, plane3)"]
+v14  [label="Atom at(plane3, city4), Atom at(plane2, city4), Atom at(plane1, city4)"]
+v15  [label="Atom at(plane3, city2), Atom at(plane2, city2), Atom at(plane1, city2)"]
+v18  [label="Atom at(plane3, city1), Atom at(plane2, city1), Atom at(plane1, city1)"]
+v10  [label="Atom at(person1, city2)"]
+v0  [label="Atom at(person1, city1)"]
+v3  [label="Atom at(person2, city3)"]
+v1  [label="Atom at(person2, city0)"]
+v2  [label="Atom at(person3, city3)"]
+v6  [label="Atom at(person3, city2)"]
+v11  [label="Atom at(person4, city1)"]
+v7  [label="Atom at(person4, city0)"]
+v8  [label="Atom at(person5, city3)"]
+v4  [label="Atom at(person5, city2)"]
+v9  [label="Atom at(person6, city4)"]
+v5  [label="Atom at(person6, city3)"]
+v13 -> v10
+v20 -> v3
+v19 -> v2
+v17 -> v11
+v16 -> v4
+v12 -> v5
+v14 -> v12
+v14 -> v5
+v15 -> v19
+v15 -> v10
+v15 -> v2
+v15 -> v4
+v18 -> v10
+v18 -> v11
+v18 -> v13
+v0 -> v10
+v0 -> v13
+v1 -> v3
+v1 -> v20
+v6 -> v19
+v6 -> v2
+v7 -> v11
+v7 -> v17
+v8 -> v16
+v8 -> v4
+v9 -> v12
+v9 -> v5
+}

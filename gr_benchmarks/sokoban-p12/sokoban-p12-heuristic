@@ -1,0 +1,6093 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+25
+begin_variable
+var5
+-1
+2
+Atom clear(f4-4f)
+<none of those>
+end_variable
+begin_variable
+var9
+-1
+2
+Atom clear(f0-0f)
+<none of those>
+end_variable
+begin_variable
+var3
+-1
+2
+Atom clear(f0-4f)
+<none of those>
+end_variable
+begin_variable
+var6
+-1
+2
+Atom clear(f4-2f)
+<none of those>
+end_variable
+begin_variable
+var11
+-1
+2
+Atom clear(f0-2f)
+<none of those>
+end_variable
+begin_variable
+var24
+-1
+2
+Atom clear(f4-0f)
+<none of those>
+end_variable
+begin_variable
+var8
+-1
+2
+Atom clear(f0-3f)
+<none of those>
+end_variable
+begin_variable
+var21
+-1
+2
+Atom clear(f4-1f)
+<none of those>
+end_variable
+begin_variable
+var18
+-1
+2
+Atom clear(f3-4f)
+<none of those>
+end_variable
+begin_variable
+var22
+-1
+2
+Atom clear(f1-0f)
+<none of those>
+end_variable
+begin_variable
+var14
+-1
+2
+Atom clear(f1-4f)
+<none of those>
+end_variable
+begin_variable
+var20
+-1
+2
+Atom clear(f3-2f)
+<none of those>
+end_variable
+begin_variable
+var23
+-1
+2
+Atom clear(f3-0f)
+<none of those>
+end_variable
+begin_variable
+var4
+-1
+2
+Atom clear(f1-1f)
+<none of those>
+end_variable
+begin_variable
+var16
+-1
+2
+Atom clear(f2-3f)
+<none of those>
+end_variable
+begin_variable
+var17
+-1
+2
+Atom clear(f2-4f)
+<none of those>
+end_variable
+begin_variable
+var12
+-1
+2
+Atom clear(f2-0f)
+<none of those>
+end_variable
+begin_variable
+var7
+-1
+2
+Atom clear(f3-1f)
+<none of those>
+end_variable
+begin_variable
+var10
+-1
+2
+Atom clear(f1-3f)
+<none of those>
+end_variable
+begin_variable
+var15
+-1
+2
+Atom clear(f2-1f)
+<none of those>
+end_variable
+begin_variable
+var13
+-1
+2
+Atom clear(f1-2f)
+<none of those>
+end_variable
+begin_variable
+var19
+-1
+2
+Atom clear(f2-2f)
+<none of those>
+end_variable
+begin_variable
+var2
+-1
+22
+Atom at-robot(f3-0f)
+Atom at-robot(f4-0f)
+Atom at-robot(f3-2f)
+Atom at-robot(f4-1f)
+Atom at-robot(f1-0f)
+Atom at-robot(f3-4f)
+Atom at-robot(f2-2f)
+Atom at-robot(f2-0f)
+Atom at-robot(f2-3f)
+Atom at-robot(f1-4f)
+Atom at-robot(f0-0f)
+Atom at-robot(f2-4f)
+Atom at-robot(f0-2f)
+Atom at-robot(f1-2f)
+Atom at-robot(f3-1f)
+Atom at-robot(f2-1f)
+Atom at-robot(f4-2f)
+Atom at-robot(f4-4f)
+Atom at-robot(f1-1f)
+Atom at-robot(f1-3f)
+Atom at-robot(f0-3f)
+Atom at-robot(f0-4f)
+end_variable
+begin_variable
+var0
+-1
+22
+Atom at(box0, f0-4f)
+Atom at(box0, f2-2f)
+Atom at(box0, f1-3f)
+Atom at(box0, f2-0f)
+Atom at(box0, f0-0f)
+Atom at(box0, f4-0f)
+Atom at(box0, f3-2f)
+Atom at(box0, f3-4f)
+Atom at(box0, f2-4f)
+Atom at(box0, f4-4f)
+Atom at(box0, f0-2f)
+Atom at(box0, f4-2f)
+Atom at(box0, f1-0f)
+Atom at(box0, f1-1f)
+Atom at(box0, f1-4f)
+Atom at(box0, f1-2f)
+Atom at(box0, f2-3f)
+Atom at(box0, f3-0f)
+Atom at(box0, f2-1f)
+Atom at(box0, f4-1f)
+Atom at(box0, f0-3f)
+Atom at(box0, f3-1f)
+end_variable
+begin_variable
+var1
+-1
+22
+Atom at(box1, f3-1f)
+Atom at(box1, f1-4f)
+Atom at(box1, f0-3f)
+Atom at(box1, f2-3f)
+Atom at(box1, f2-4f)
+Atom at(box1, f1-3f)
+Atom at(box1, f0-4f)
+Atom at(box1, f4-1f)
+Atom at(box1, f4-4f)
+Atom at(box1, f3-4f)
+Atom at(box1, f2-0f)
+Atom at(box1, f1-2f)
+Atom at(box1, f3-0f)
+Atom at(box1, f1-1f)
+Atom at(box1, f1-0f)
+Atom at(box1, f2-1f)
+Atom at(box1, f3-2f)
+Atom at(box1, f0-2f)
+Atom at(box1, f2-2f)
+Atom at(box1, f4-2f)
+Atom at(box1, f0-0f)
+Atom at(box1, f4-0f)
+end_variable
+22
+begin_mutex_group
+3
+23 1
+24 18
+21 0
+end_mutex_group
+begin_mutex_group
+3
+23 19
+24 7
+7 0
+end_mutex_group
+begin_mutex_group
+3
+23 13
+24 13
+13 0
+end_mutex_group
+begin_mutex_group
+3
+23 15
+24 11
+20 0
+end_mutex_group
+begin_mutex_group
+3
+23 2
+24 5
+18 0
+end_mutex_group
+begin_mutex_group
+3
+23 4
+24 20
+1 0
+end_mutex_group
+begin_mutex_group
+3
+23 0
+24 6
+2 0
+end_mutex_group
+begin_mutex_group
+3
+23 9
+24 8
+0 0
+end_mutex_group
+begin_mutex_group
+3
+23 14
+24 1
+10 0
+end_mutex_group
+begin_mutex_group
+3
+23 10
+24 17
+4 0
+end_mutex_group
+begin_mutex_group
+3
+23 20
+24 2
+6 0
+end_mutex_group
+begin_mutex_group
+3
+23 7
+24 9
+8 0
+end_mutex_group
+begin_mutex_group
+3
+23 8
+24 4
+15 0
+end_mutex_group
+begin_mutex_group
+3
+23 16
+24 3
+14 0
+end_mutex_group
+begin_mutex_group
+3
+23 18
+24 15
+19 0
+end_mutex_group
+begin_mutex_group
+3
+23 5
+24 21
+5 0
+end_mutex_group
+begin_mutex_group
+3
+23 3
+24 10
+16 0
+end_mutex_group
+begin_mutex_group
+3
+23 6
+24 16
+11 0
+end_mutex_group
+begin_mutex_group
+3
+23 11
+24 19
+3 0
+end_mutex_group
+begin_mutex_group
+3
+23 12
+24 14
+9 0
+end_mutex_group
+begin_mutex_group
+3
+23 21
+24 0
+17 0
+end_mutex_group
+begin_mutex_group
+3
+23 17
+24 12
+12 0
+end_mutex_group
+begin_state
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+10
+21
+11
+end_state
+begin_goal
+2
+23 8
+24 1
+end_goal
+146
+begin_operator
+move f0-0f f1-0f down
+1
+9 0
+1
+0
+22 10 4
+0
+end_operator
+begin_operator
+move f1-0f f0-0f up
+1
+1 0
+1
+0
+22 4 10
+0
+end_operator
+begin_operator
+move f1-0f f1-1f right
+1
+13 0
+1
+0
+22 4 18
+0
+end_operator
+begin_operator
+move f1-0f f2-0f down
+1
+16 0
+1
+0
+22 4 7
+0
+end_operator
+begin_operator
+move f1-1f f1-0f left
+1
+9 0
+1
+0
+22 18 4
+0
+end_operator
+begin_operator
+move f1-1f f2-1f down
+1
+19 0
+1
+0
+22 18 15
+0
+end_operator
+begin_operator
+move f2-0f f1-0f up
+1
+9 0
+1
+0
+22 7 4
+0
+end_operator
+begin_operator
+move f2-0f f2-1f right
+1
+19 0
+1
+0
+22 7 15
+0
+end_operator
+begin_operator
+move f2-0f f3-0f down
+1
+12 0
+1
+0
+22 7 0
+0
+end_operator
+begin_operator
+push f1-1f f1-2f f1-3f right box1
+0
+4
+0
+24 11 5
+0
+22 18 13
+0
+18 0 1
+0
+20 -1 0
+0
+end_operator
+begin_operator
+move f2-1f f1-1f up
+1
+13 0
+1
+0
+22 15 18
+0
+end_operator
+begin_operator
+move f2-1f f2-0f left
+1
+16 0
+1
+0
+22 15 7
+0
+end_operator
+begin_operator
+move f2-1f f2-2f right
+1
+21 0
+1
+0
+22 15 6
+0
+end_operator
+begin_operator
+move f3-0f f2-0f up
+1
+16 0
+1
+0
+22 0 7
+0
+end_operator
+begin_operator
+move f3-0f f4-0f down
+1
+5 0
+1
+0
+22 0 1
+0
+end_operator
+begin_operator
+push f2-1f f3-1f f4-1f down box0
+0
+4
+0
+23 21 19
+0
+22 15 14
+0
+17 -1 0
+0
+7 0 1
+0
+end_operator
+begin_operator
+move f1-2f f0-2f up
+1
+4 0
+1
+0
+22 13 12
+0
+end_operator
+begin_operator
+move f1-2f f1-1f left
+1
+13 0
+1
+0
+22 13 18
+0
+end_operator
+begin_operator
+move f1-2f f1-3f right
+1
+18 0
+1
+0
+22 13 19
+0
+end_operator
+begin_operator
+move f1-2f f2-2f down
+1
+21 0
+1
+0
+22 13 6
+0
+end_operator
+begin_operator
+push f3-0f f3-1f f3-2f right box0
+0
+4
+0
+23 21 6
+0
+22 0 14
+0
+17 -1 0
+0
+11 0 1
+0
+end_operator
+begin_operator
+move f2-2f f2-1f left
+1
+19 0
+1
+0
+22 6 15
+0
+end_operator
+begin_operator
+move f2-2f f2-3f right
+1
+14 0
+1
+0
+22 6 8
+0
+end_operator
+begin_operator
+move f2-2f f3-2f down
+1
+11 0
+1
+0
+22 6 2
+0
+end_operator
+begin_operator
+move f1-1f f1-2f right
+1
+20 0
+1
+0
+22 18 13
+0
+end_operator
+begin_operator
+move f2-2f f1-2f up
+1
+20 0
+1
+0
+22 6 13
+0
+end_operator
+begin_operator
+move f4-0f f3-0f up
+1
+12 0
+1
+0
+22 1 0
+0
+end_operator
+begin_operator
+move f4-0f f4-1f right
+1
+7 0
+1
+0
+22 1 3
+0
+end_operator
+begin_operator
+push f1-2f f1-3f f1-4f right box1
+0
+4
+0
+24 5 1
+0
+22 13 19
+0
+18 -1 0
+0
+10 0 1
+0
+end_operator
+begin_operator
+push f2-2f f1-2f f0-2f up box1
+0
+4
+0
+24 11 17
+0
+22 6 13
+0
+4 0 1
+0
+20 -1 0
+0
+end_operator
+begin_operator
+move f3-1f f2-1f up
+1
+19 0
+1
+0
+22 14 15
+0
+end_operator
+begin_operator
+move f3-1f f3-0f left
+1
+12 0
+1
+0
+22 14 0
+0
+end_operator
+begin_operator
+move f3-1f f3-2f right
+1
+11 0
+1
+0
+22 14 2
+0
+end_operator
+begin_operator
+move f3-1f f4-1f down
+1
+7 0
+1
+0
+22 14 3
+0
+end_operator
+begin_operator
+move f0-2f f0-3f right
+1
+6 0
+1
+0
+22 12 20
+0
+end_operator
+begin_operator
+move f0-2f f1-2f down
+1
+20 0
+1
+0
+22 12 13
+0
+end_operator
+begin_operator
+move f1-3f f0-3f up
+1
+6 0
+1
+0
+22 19 20
+0
+end_operator
+begin_operator
+move f1-3f f1-4f right
+1
+10 0
+1
+0
+22 19 9
+0
+end_operator
+begin_operator
+move f1-3f f2-3f down
+1
+14 0
+1
+0
+22 19 8
+0
+end_operator
+begin_operator
+move f1-3f f1-2f left
+1
+20 0
+1
+0
+22 19 13
+0
+end_operator
+begin_operator
+move f2-3f f1-3f up
+1
+18 0
+1
+0
+22 8 19
+0
+end_operator
+begin_operator
+move f2-3f f2-2f left
+1
+21 0
+1
+0
+22 8 6
+0
+end_operator
+begin_operator
+move f2-3f f2-4f right
+1
+15 0
+1
+0
+22 8 11
+0
+end_operator
+begin_operator
+move f3-2f f2-2f up
+1
+21 0
+1
+0
+22 2 6
+0
+end_operator
+begin_operator
+move f3-2f f4-2f down
+1
+3 0
+1
+0
+22 2 16
+0
+end_operator
+begin_operator
+push f4-0f f4-1f f4-2f right box0
+0
+4
+0
+23 19 11
+0
+22 1 3
+0
+3 0 1
+0
+7 -1 0
+0
+end_operator
+begin_operator
+move f2-1f f3-1f down
+1
+17 0
+1
+0
+22 15 14
+0
+end_operator
+begin_operator
+move f3-0f f3-1f right
+1
+17 0
+1
+0
+22 0 14
+0
+end_operator
+begin_operator
+move f3-2f f3-1f left
+1
+17 0
+1
+0
+22 2 14
+0
+end_operator
+begin_operator
+move f4-1f f4-0f left
+1
+5 0
+1
+0
+22 3 1
+0
+end_operator
+begin_operator
+move f4-1f f4-2f right
+1
+3 0
+1
+0
+22 3 16
+0
+end_operator
+begin_operator
+move f4-1f f3-1f up
+1
+17 0
+1
+0
+22 3 14
+0
+end_operator
+begin_operator
+push f2-2f f3-2f f4-2f down box0
+0
+4
+0
+23 6 11
+0
+22 6 2
+0
+3 0 1
+0
+11 -1 0
+0
+end_operator
+begin_operator
+push f0-2f f1-2f f2-2f down box1
+0
+4
+0
+24 11 18
+0
+22 12 13
+0
+20 -1 0
+0
+21 0 1
+0
+end_operator
+begin_operator
+push f1-3f f1-2f f1-1f left box1
+0
+4
+0
+24 11 13
+0
+22 19 13
+0
+13 0 1
+0
+20 -1 0
+0
+end_operator
+begin_operator
+push f2-3f f1-3f f0-3f up box1
+0
+4
+0
+24 5 2
+0
+22 8 19
+0
+6 0 1
+0
+18 -1 0
+0
+end_operator
+begin_operator
+push f3-2f f3-1f f3-0f left box0
+0
+4
+0
+23 21 17
+0
+22 2 14
+0
+17 -1 0
+0
+12 0 1
+0
+end_operator
+begin_operator
+move f0-3f f0-2f left
+1
+4 0
+1
+0
+22 20 12
+0
+end_operator
+begin_operator
+move f0-3f f0-4f right
+1
+2 0
+1
+0
+22 20 21
+0
+end_operator
+begin_operator
+move f0-3f f1-3f down
+1
+18 0
+1
+0
+22 20 19
+0
+end_operator
+begin_operator
+move f1-4f f0-4f up
+1
+2 0
+1
+0
+22 9 21
+0
+end_operator
+begin_operator
+move f1-4f f1-3f left
+1
+18 0
+1
+0
+22 9 19
+0
+end_operator
+begin_operator
+move f1-4f f2-4f down
+1
+15 0
+1
+0
+22 9 11
+0
+end_operator
+begin_operator
+push f4-1f f3-1f f2-1f up box0
+0
+4
+0
+23 21 18
+0
+22 3 14
+0
+17 -1 0
+0
+19 0 1
+0
+end_operator
+begin_operator
+move f2-4f f1-4f up
+1
+10 0
+1
+0
+22 11 9
+0
+end_operator
+begin_operator
+move f2-4f f2-3f left
+1
+14 0
+1
+0
+22 11 8
+0
+end_operator
+begin_operator
+move f2-4f f3-4f down
+1
+8 0
+1
+0
+22 11 5
+0
+end_operator
+begin_operator
+move f4-2f f3-2f up
+1
+11 0
+1
+0
+22 16 2
+0
+end_operator
+begin_operator
+move f4-2f f4-1f left
+1
+7 0
+1
+0
+22 16 3
+0
+end_operator
+begin_operator
+push f0-3f f1-3f f2-3f down box1
+0
+4
+0
+24 5 3
+0
+22 20 19
+0
+18 -1 0
+0
+14 0 1
+0
+end_operator
+begin_operator
+push f1-4f f1-3f f1-2f left box1
+0
+4
+0
+24 5 11
+0
+22 9 19
+0
+18 -1 0
+0
+20 0 1
+0
+end_operator
+begin_operator
+push f2-4f f1-4f f0-4f up box1
+0
+4
+0
+24 1 6
+0
+22 11 9
+0
+2 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+push f4-2f f4-1f f4-0f left box0
+0
+4
+0
+23 19 5
+0
+22 16 3
+0
+7 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+push f4-2f f3-2f f2-2f up box0
+0
+4
+0
+23 6 1
+0
+22 16 2
+0
+21 0 1
+0
+11 -1 0
+0
+end_operator
+begin_operator
+move f0-4f f0-3f left
+1
+6 0
+1
+0
+22 21 20
+0
+end_operator
+begin_operator
+move f0-4f f1-4f down
+1
+10 0
+1
+0
+22 21 9
+0
+end_operator
+begin_operator
+push f2-1f f2-2f f2-3f right box1
+0
+4
+0
+24 18 3
+0
+22 15 6
+0
+14 0 1
+0
+21 -1 0
+0
+end_operator
+begin_operator
+push f1-2f f2-2f f3-2f down box1
+0
+4
+0
+24 18 16
+0
+22 13 6
+0
+21 -1 0
+0
+11 0 1
+0
+end_operator
+begin_operator
+push f2-3f f2-2f f2-1f left box1
+0
+4
+0
+24 18 15
+0
+22 8 6
+0
+19 0 1
+0
+21 -1 0
+0
+end_operator
+begin_operator
+push f3-2f f2-2f f1-2f up box1
+0
+4
+0
+24 18 11
+0
+22 2 6
+0
+20 0 1
+0
+21 -1 0
+0
+end_operator
+begin_operator
+push f1-2f f1-1f f1-0f left box1
+0
+4
+0
+24 13 14
+0
+22 13 18
+0
+13 -1 0
+0
+9 0 1
+0
+end_operator
+begin_operator
+push f1-0f f1-1f f1-2f right box1
+0
+4
+0
+24 13 11
+0
+22 4 18
+0
+13 -1 0
+0
+20 0 1
+0
+end_operator
+begin_operator
+move f3-4f f2-4f up
+1
+15 0
+1
+0
+22 5 11
+0
+end_operator
+begin_operator
+move f3-4f f4-4f down
+1
+0 0
+1
+0
+22 5 17
+0
+end_operator
+begin_operator
+push f0-2f f0-3f f0-4f right box1
+0
+4
+0
+24 2 6
+0
+22 12 20
+0
+2 0 1
+0
+6 -1 0
+0
+end_operator
+begin_operator
+push f2-0f f3-0f f4-0f down box0
+0
+4
+0
+23 17 5
+0
+22 7 0
+0
+12 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+push f4-0f f3-0f f2-0f up box0
+0
+4
+0
+23 17 3
+0
+22 1 0
+0
+16 0 1
+0
+12 -1 0
+0
+end_operator
+begin_operator
+push f2-0f f2-1f f2-2f right box0
+0
+4
+0
+23 18 1
+0
+22 7 15
+0
+19 -1 0
+0
+21 0 1
+0
+end_operator
+begin_operator
+push f2-2f f2-1f f2-0f left box0
+0
+4
+0
+23 18 3
+0
+22 6 15
+0
+16 0 1
+0
+19 -1 0
+0
+end_operator
+begin_operator
+push f3-1f f2-1f f1-1f up box0
+0
+4
+0
+23 18 13
+0
+22 14 15
+0
+13 0 1
+0
+19 -1 0
+0
+end_operator
+begin_operator
+push f1-1f f2-1f f3-1f down box0
+0
+4
+0
+23 18 21
+0
+22 18 15
+0
+17 0 1
+0
+19 -1 0
+0
+end_operator
+begin_operator
+push f0-4f f0-3f f0-2f left box1
+0
+4
+0
+24 2 17
+0
+22 21 20
+0
+6 -1 0
+0
+4 0 1
+0
+end_operator
+begin_operator
+push f0-4f f1-4f f2-4f down box1
+0
+4
+0
+24 1 4
+0
+22 21 9
+0
+10 -1 0
+0
+15 0 1
+0
+end_operator
+begin_operator
+push f2-2f f2-3f f2-4f right box1
+0
+4
+0
+24 3 4
+0
+22 6 8
+0
+14 -1 0
+0
+15 0 1
+0
+end_operator
+begin_operator
+push f2-4f f2-3f f2-2f left box1
+0
+4
+0
+24 3 18
+0
+22 11 8
+0
+14 -1 0
+0
+21 0 1
+0
+end_operator
+begin_operator
+move f4-4f f3-4f up
+1
+8 0
+1
+0
+22 17 5
+0
+end_operator
+begin_operator
+push f2-1f f2-2f f2-3f right box0
+0
+4
+0
+23 1 16
+0
+22 15 6
+0
+14 0 1
+0
+21 -1 0
+0
+end_operator
+begin_operator
+push f1-2f f2-2f f3-2f down box0
+0
+4
+0
+23 1 6
+0
+22 13 6
+0
+21 -1 0
+0
+11 0 1
+0
+end_operator
+begin_operator
+push f2-3f f2-2f f2-1f left box0
+0
+4
+0
+23 1 18
+0
+22 8 6
+0
+19 0 1
+0
+21 -1 0
+0
+end_operator
+begin_operator
+push f3-2f f2-2f f1-2f up box0
+0
+4
+0
+23 1 15
+0
+22 2 6
+0
+20 0 1
+0
+21 -1 0
+0
+end_operator
+begin_operator
+push f2-2f f3-2f f4-2f down box1
+0
+4
+0
+24 16 19
+0
+22 6 2
+0
+3 0 1
+0
+11 -1 0
+0
+end_operator
+begin_operator
+push f4-2f f3-2f f2-2f up box1
+0
+4
+0
+24 16 18
+0
+22 16 2
+0
+21 0 1
+0
+11 -1 0
+0
+end_operator
+begin_operator
+push f2-0f f2-1f f2-2f right box1
+0
+4
+0
+24 15 18
+0
+22 7 15
+0
+19 -1 0
+0
+21 0 1
+0
+end_operator
+begin_operator
+push f2-2f f2-1f f2-0f left box1
+0
+4
+0
+24 15 10
+0
+22 6 15
+0
+16 0 1
+0
+19 -1 0
+0
+end_operator
+begin_operator
+push f3-1f f2-1f f1-1f up box1
+0
+4
+0
+24 15 13
+0
+22 14 15
+0
+13 0 1
+0
+19 -1 0
+0
+end_operator
+begin_operator
+push f1-1f f2-1f f3-1f down box1
+0
+4
+0
+24 15 0
+0
+22 18 15
+0
+17 0 1
+0
+19 -1 0
+0
+end_operator
+begin_operator
+push f0-0f f1-0f f2-0f down box1
+0
+4
+0
+24 14 10
+0
+22 10 4
+0
+16 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+push f2-0f f1-0f f0-0f up box1
+0
+4
+0
+24 14 20
+0
+22 7 4
+0
+1 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+push f1-0f f2-0f f3-0f down box0
+0
+4
+0
+23 3 17
+0
+22 4 7
+0
+16 -1 0
+0
+12 0 1
+0
+end_operator
+begin_operator
+push f3-0f f2-0f f1-0f up box0
+0
+4
+0
+23 3 12
+0
+22 0 7
+0
+16 -1 0
+0
+9 0 1
+0
+end_operator
+begin_operator
+push f1-2f f1-1f f1-0f left box0
+0
+4
+0
+23 13 12
+0
+22 13 18
+0
+13 -1 0
+0
+9 0 1
+0
+end_operator
+begin_operator
+push f1-0f f1-1f f1-2f right box0
+0
+4
+0
+23 13 15
+0
+22 4 18
+0
+13 -1 0
+0
+20 0 1
+0
+end_operator
+begin_operator
+push f1-4f f2-4f f3-4f down box1
+0
+4
+0
+24 4 9
+0
+22 9 11
+0
+15 -1 0
+0
+8 0 1
+0
+end_operator
+begin_operator
+push f3-4f f2-4f f1-4f up box1
+0
+4
+0
+24 4 1
+0
+22 5 11
+0
+10 0 1
+0
+15 -1 0
+0
+end_operator
+begin_operator
+push f2-2f f2-3f f2-4f right box0
+0
+4
+0
+23 16 8
+0
+22 6 8
+0
+14 -1 0
+0
+15 0 1
+0
+end_operator
+begin_operator
+push f2-4f f2-3f f2-2f left box0
+0
+4
+0
+23 16 1
+0
+22 11 8
+0
+14 -1 0
+0
+21 0 1
+0
+end_operator
+begin_operator
+push f1-1f f1-2f f1-3f right box0
+0
+4
+0
+23 15 2
+0
+22 18 13
+0
+18 0 1
+0
+20 -1 0
+0
+end_operator
+begin_operator
+push f2-2f f1-2f f0-2f up box0
+0
+4
+0
+23 15 10
+0
+22 6 13
+0
+4 0 1
+0
+20 -1 0
+0
+end_operator
+begin_operator
+push f0-2f f1-2f f2-2f down box0
+0
+4
+0
+23 15 1
+0
+22 12 13
+0
+20 -1 0
+0
+21 0 1
+0
+end_operator
+begin_operator
+push f1-3f f1-2f f1-1f left box0
+0
+4
+0
+23 15 13
+0
+22 19 13
+0
+13 0 1
+0
+20 -1 0
+0
+end_operator
+begin_operator
+push f1-0f f2-0f f3-0f down box1
+0
+4
+0
+24 10 12
+0
+22 4 7
+0
+16 -1 0
+0
+12 0 1
+0
+end_operator
+begin_operator
+push f3-0f f2-0f f1-0f up box1
+0
+4
+0
+24 10 14
+0
+22 0 7
+0
+16 -1 0
+0
+9 0 1
+0
+end_operator
+begin_operator
+push f2-1f f3-1f f4-1f down box1
+0
+4
+0
+24 0 7
+0
+22 15 14
+0
+17 -1 0
+0
+7 0 1
+0
+end_operator
+begin_operator
+push f3-0f f3-1f f3-2f right box1
+0
+4
+0
+24 0 16
+0
+22 0 14
+0
+17 -1 0
+0
+11 0 1
+0
+end_operator
+begin_operator
+push f3-2f f3-1f f3-0f left box1
+0
+4
+0
+24 0 12
+0
+22 2 14
+0
+17 -1 0
+0
+12 0 1
+0
+end_operator
+begin_operator
+push f4-1f f3-1f f2-1f up box1
+0
+4
+0
+24 0 15
+0
+22 3 14
+0
+17 -1 0
+0
+19 0 1
+0
+end_operator
+begin_operator
+push f0-0f f1-0f f2-0f down box0
+0
+4
+0
+23 12 3
+0
+22 10 4
+0
+16 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+push f2-0f f1-0f f0-0f up box0
+0
+4
+0
+23 12 4
+0
+22 7 4
+0
+1 0 1
+0
+9 -1 0
+0
+end_operator
+begin_operator
+push f2-4f f3-4f f4-4f down box1
+0
+4
+0
+24 9 8
+0
+22 11 5
+0
+0 0 1
+0
+8 -1 0
+0
+end_operator
+begin_operator
+push f4-4f f3-4f f2-4f up box1
+0
+4
+0
+24 9 4
+0
+22 17 5
+0
+15 0 1
+0
+8 -1 0
+0
+end_operator
+begin_operator
+push f1-4f f2-4f f3-4f down box0
+0
+4
+0
+23 8 7
+0
+22 9 11
+0
+15 -1 0
+0
+8 0 1
+0
+end_operator
+begin_operator
+push f3-4f f2-4f f1-4f up box0
+0
+4
+0
+23 8 14
+0
+22 5 11
+0
+10 0 1
+0
+15 -1 0
+0
+end_operator
+begin_operator
+push f1-2f f1-3f f1-4f right box0
+0
+4
+0
+23 2 14
+0
+22 13 19
+0
+18 -1 0
+0
+10 0 1
+0
+end_operator
+begin_operator
+push f2-3f f1-3f f0-3f up box0
+0
+4
+0
+23 2 20
+0
+22 8 19
+0
+6 0 1
+0
+18 -1 0
+0
+end_operator
+begin_operator
+push f0-3f f1-3f f2-3f down box0
+0
+4
+0
+23 2 16
+0
+22 20 19
+0
+18 -1 0
+0
+14 0 1
+0
+end_operator
+begin_operator
+push f1-4f f1-3f f1-2f left box0
+0
+4
+0
+23 2 15
+0
+22 9 19
+0
+18 -1 0
+0
+20 0 1
+0
+end_operator
+begin_operator
+push f2-0f f3-0f f4-0f down box1
+0
+4
+0
+24 12 21
+0
+22 7 0
+0
+12 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+push f4-0f f3-0f f2-0f up box1
+0
+4
+0
+24 12 10
+0
+22 1 0
+0
+16 0 1
+0
+12 -1 0
+0
+end_operator
+begin_operator
+push f4-0f f4-1f f4-2f right box1
+0
+4
+0
+24 7 19
+0
+22 1 3
+0
+3 0 1
+0
+7 -1 0
+0
+end_operator
+begin_operator
+push f4-2f f4-1f f4-0f left box1
+0
+4
+0
+24 7 21
+0
+22 16 3
+0
+7 -1 0
+0
+5 0 1
+0
+end_operator
+begin_operator
+push f2-4f f3-4f f4-4f down box0
+0
+4
+0
+23 7 9
+0
+22 11 5
+0
+0 0 1
+0
+8 -1 0
+0
+end_operator
+begin_operator
+push f4-4f f3-4f f2-4f up box0
+0
+4
+0
+23 7 8
+0
+22 17 5
+0
+15 0 1
+0
+8 -1 0
+0
+end_operator
+begin_operator
+push f2-4f f1-4f f0-4f up box0
+0
+4
+0
+23 14 0
+0
+22 11 9
+0
+2 0 1
+0
+10 -1 0
+0
+end_operator
+begin_operator
+push f0-4f f1-4f f2-4f down box0
+0
+4
+0
+23 14 8
+0
+22 21 9
+0
+10 -1 0
+0
+15 0 1
+0
+end_operator
+begin_operator
+push f0-2f f0-3f f0-4f right box0
+0
+4
+0
+23 20 0
+0
+22 12 20
+0
+2 0 1
+0
+6 -1 0
+0
+end_operator
+begin_operator
+push f0-4f f0-3f f0-2f left box0
+0
+4
+0
+23 20 10
+0
+22 21 20
+0
+6 -1 0
+0
+4 0 1
+0
+end_operator
+0
+begin_SG
+switch 23
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+switch 20
+check 0
+check 1
+99
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 19
+check 0
+check 1
+98
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 11
+check 0
+check 1
+97
+check 0
+check 0
+check 0
+switch 14
+check 0
+check 1
+96
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 6
+check 0
+check 1
+133
+check 0
+check 0
+switch 20
+check 0
+check 1
+135
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 10
+check 0
+check 1
+132
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 14
+check 0
+check 1
+134
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+switch 9
+check 0
+check 1
+109
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 12
+check 0
+check 1
+108
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 1
+52
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 21
+check 0
+check 1
+73
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 1
+140
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 15
+check 0
+check 1
+141
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 10
+check 0
+check 1
+131
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 0
+check 1
+130
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 1
+127
+check 0
+check 0
+check 0
+check 0
+switch 16
+check 0
+check 1
+126
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 20
+check 0
+check 1
+111
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 1
+110
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 1
+142
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 15
+check 0
+check 1
+143
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 1
+117
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 21
+check 0
+check 1
+118
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 18
+check 0
+check 1
+116
+check 0
+check 0
+switch 13
+check 0
+check 1
+119
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 15
+check 0
+check 1
+114
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 21
+check 0
+check 1
+115
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+switch 16
+check 0
+check 1
+86
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 1
+85
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 16
+check 0
+check 1
+88
+check 0
+check 0
+switch 21
+check 0
+check 1
+87
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 13
+check 0
+check 1
+89
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 17
+check 0
+check 1
+90
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+switch 3
+check 0
+check 1
+45
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 1
+72
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 1
+144
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 1
+145
+check 0
+check 0
+check 0
+switch 22
+check 0
+switch 11
+check 0
+check 1
+20
+check 0
+check 0
+check 0
+switch 12
+check 0
+check 1
+56
+check 0
+check 0
+switch 19
+check 0
+check 1
+63
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 1
+15
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 24
+check 0
+switch 22
+check 0
+switch 11
+check 0
+check 1
+123
+check 0
+check 0
+check 0
+switch 12
+check 0
+check 1
+124
+check 0
+check 0
+switch 19
+check 0
+check 1
+125
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 1
+122
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 1
+71
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 15
+check 0
+check 1
+92
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 1
+84
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 1
+91
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 15
+check 0
+check 1
+93
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 21
+check 0
+check 1
+94
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 10
+check 0
+check 1
+113
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 0
+check 1
+112
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 6
+check 0
+check 1
+55
+check 0
+check 0
+switch 20
+check 0
+check 1
+70
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 10
+check 0
+check 1
+28
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 14
+check 0
+check 1
+69
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+switch 3
+check 0
+check 1
+138
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 1
+139
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 1
+128
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 15
+check 0
+check 1
+129
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+switch 9
+check 0
+check 1
+121
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 12
+check 0
+check 1
+120
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 1
+29
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 21
+check 0
+check 1
+53
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 18
+check 0
+check 1
+9
+check 0
+check 0
+switch 13
+check 0
+check 1
+54
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+switch 16
+check 0
+check 1
+137
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 1
+136
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 20
+check 0
+check 1
+81
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 1
+80
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 1
+107
+check 0
+check 0
+check 0
+check 0
+switch 16
+check 0
+check 1
+106
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 16
+check 0
+check 1
+103
+check 0
+check 0
+switch 21
+check 0
+check 1
+102
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 13
+check 0
+check 1
+104
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 17
+check 0
+check 1
+105
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 1
+100
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 21
+check 0
+check 1
+101
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+check 0
+check 0
+switch 20
+check 0
+check 1
+79
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 19
+check 0
+check 1
+78
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 11
+check 0
+check 1
+77
+check 0
+check 0
+check 0
+switch 14
+check 0
+check 1
+76
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 22
+check 0
+switch 17
+check 0
+check 1
+47
+check 0
+switch 16
+check 0
+check 1
+13
+check 0
+switch 5
+check 0
+check 1
+14
+check 0
+check 0
+switch 7
+check 0
+check 1
+27
+check 0
+switch 12
+check 0
+check 1
+26
+check 0
+check 0
+switch 3
+check 0
+check 1
+44
+check 0
+switch 17
+check 0
+check 1
+48
+check 0
+switch 21
+check 0
+check 1
+43
+check 0
+check 0
+switch 3
+check 0
+check 1
+50
+check 0
+switch 17
+check 0
+check 1
+51
+check 0
+switch 5
+check 0
+check 1
+49
+check 0
+check 0
+switch 13
+check 0
+check 1
+2
+check 0
+switch 1
+check 0
+check 1
+1
+check 0
+switch 16
+check 0
+check 1
+3
+check 0
+check 0
+switch 0
+check 0
+check 1
+83
+check 0
+switch 15
+check 0
+check 1
+82
+check 0
+check 0
+switch 20
+check 0
+check 1
+25
+check 0
+switch 19
+check 0
+check 1
+21
+check 0
+switch 14
+check 0
+check 1
+22
+check 0
+switch 11
+check 0
+check 1
+23
+check 0
+check 0
+switch 19
+check 0
+check 1
+7
+check 0
+switch 9
+check 0
+check 1
+6
+check 0
+switch 12
+check 0
+check 1
+8
+check 0
+check 0
+switch 18
+check 0
+check 1
+40
+check 0
+switch 15
+check 0
+check 1
+42
+check 0
+switch 21
+check 0
+check 1
+41
+check 0
+check 0
+switch 2
+check 0
+check 1
+60
+check 0
+switch 18
+check 0
+check 1
+61
+check 0
+switch 15
+check 0
+check 1
+62
+check 0
+check 0
+switch 9
+check 0
+check 1
+0
+check 0
+check 0
+switch 10
+check 0
+check 1
+64
+check 0
+switch 14
+check 0
+check 1
+65
+check 0
+switch 8
+check 0
+check 1
+66
+check 0
+check 0
+switch 6
+check 0
+check 1
+34
+check 0
+switch 20
+check 0
+check 1
+35
+check 0
+check 0
+switch 13
+check 0
+check 1
+17
+check 0
+switch 18
+check 0
+check 1
+18
+check 0
+switch 4
+check 0
+check 1
+16
+check 0
+switch 21
+check 0
+check 1
+19
+check 0
+check 0
+switch 19
+check 0
+check 1
+30
+check 0
+switch 11
+check 0
+check 1
+32
+check 0
+switch 7
+check 0
+check 1
+33
+check 0
+switch 12
+check 0
+check 1
+31
+check 0
+check 0
+switch 13
+check 0
+check 1
+10
+check 0
+switch 17
+check 0
+check 1
+46
+check 0
+switch 16
+check 0
+check 1
+11
+check 0
+switch 21
+check 0
+check 1
+12
+check 0
+check 0
+switch 11
+check 0
+check 1
+67
+check 0
+switch 7
+check 0
+check 1
+68
+check 0
+check 0
+switch 8
+check 0
+check 1
+95
+check 0
+check 0
+switch 20
+check 0
+check 1
+24
+check 0
+switch 19
+check 0
+check 1
+5
+check 0
+switch 9
+check 0
+check 1
+4
+check 0
+check 0
+switch 6
+check 0
+check 1
+36
+check 0
+switch 20
+check 0
+check 1
+39
+check 0
+switch 10
+check 0
+check 1
+37
+check 0
+switch 14
+check 0
+check 1
+38
+check 0
+check 0
+switch 2
+check 0
+check 1
+58
+check 0
+switch 18
+check 0
+check 1
+59
+check 0
+switch 4
+check 0
+check 1
+57
+check 0
+check 0
+switch 6
+check 0
+check 1
+74
+check 0
+switch 10
+check 0
+check 1
+75
+check 0
+check 0
+check 0
+end_SG
+begin_DTG
+2
+1
+128
+2
+24 9
+22 11
+1
+140
+2
+23 7
+22 11
+0
+end_DTG
+begin_DTG
+2
+1
+107
+2
+24 14
+22 7
+1
+127
+2
+23 12
+22 7
+0
+end_DTG
+begin_DTG
+4
+1
+71
+2
+24 1
+22 11
+1
+84
+2
+24 2
+22 12
+1
+142
+2
+23 14
+22 11
+1
+144
+2
+23 20
+22 12
+0
+end_DTG
+begin_DTG
+4
+1
+45
+2
+23 19
+22 1
+1
+52
+2
+23 6
+22 6
+1
+100
+2
+24 16
+22 6
+1
+138
+2
+24 7
+22 1
+0
+end_DTG
+begin_DTG
+4
+1
+29
+2
+24 11
+22 6
+1
+91
+2
+24 2
+22 21
+1
+117
+2
+23 15
+22 6
+1
+145
+2
+23 20
+22 21
+0
+end_DTG
+begin_DTG
+4
+1
+72
+2
+23 19
+22 16
+1
+85
+2
+23 17
+22 7
+1
+136
+2
+24 12
+22 7
+1
+139
+2
+24 7
+22 16
+0
+end_DTG
+begin_DTG
+2
+1
+55
+2
+24 5
+22 8
+1
+133
+2
+23 2
+22 8
+4
+0
+84
+3
+24 2
+22 12
+2 0
+0
+91
+3
+24 2
+22 21
+4 0
+0
+144
+3
+23 20
+22 12
+2 0
+0
+145
+3
+23 20
+22 21
+4 0
+end_DTG
+begin_DTG
+2
+1
+15
+2
+23 21
+22 15
+1
+122
+2
+24 0
+22 15
+4
+0
+45
+3
+23 19
+22 1
+3 0
+0
+72
+3
+23 19
+22 16
+5 0
+0
+138
+3
+24 7
+22 1
+3 0
+0
+139
+3
+24 7
+22 16
+5 0
+end_DTG
+begin_DTG
+2
+1
+112
+2
+24 4
+22 9
+1
+130
+2
+23 8
+22 9
+4
+0
+128
+3
+24 9
+22 11
+0 0
+0
+129
+3
+24 9
+22 17
+15 0
+0
+140
+3
+23 7
+22 11
+0 0
+0
+141
+3
+23 7
+22 17
+15 0
+end_DTG
+begin_DTG
+4
+1
+80
+2
+24 13
+22 13
+1
+109
+2
+23 3
+22 0
+1
+110
+2
+23 13
+22 13
+1
+121
+2
+24 10
+22 0
+4
+0
+106
+3
+24 14
+22 10
+16 0
+0
+107
+3
+24 14
+22 7
+1 0
+0
+126
+3
+23 12
+22 10
+16 0
+0
+127
+3
+23 12
+22 7
+1 0
+end_DTG
+begin_DTG
+4
+1
+28
+2
+24 5
+22 13
+1
+113
+2
+24 4
+22 5
+1
+131
+2
+23 8
+22 5
+1
+132
+2
+23 2
+22 13
+4
+0
+71
+3
+24 1
+22 11
+2 0
+0
+92
+3
+24 1
+22 21
+15 0
+0
+142
+3
+23 14
+22 11
+2 0
+0
+143
+3
+23 14
+22 21
+15 0
+end_DTG
+begin_DTG
+4
+1
+20
+2
+23 21
+22 0
+1
+77
+2
+24 18
+22 13
+1
+97
+2
+23 1
+22 13
+1
+123
+2
+24 0
+22 0
+4
+0
+52
+3
+23 6
+22 6
+3 0
+0
+73
+3
+23 6
+22 16
+21 0
+0
+100
+3
+24 16
+22 6
+3 0
+0
+101
+3
+24 16
+22 16
+21 0
+end_DTG
+begin_DTG
+4
+1
+56
+2
+23 21
+22 2
+1
+108
+2
+23 3
+22 4
+1
+120
+2
+24 10
+22 4
+1
+124
+2
+24 0
+22 2
+4
+0
+85
+3
+23 17
+22 7
+5 0
+0
+86
+3
+23 17
+22 1
+16 0
+0
+136
+3
+24 12
+22 7
+5 0
+0
+137
+3
+24 12
+22 1
+16 0
+end_DTG
+begin_DTG
+4
+1
+54
+2
+24 11
+22 19
+1
+89
+2
+23 18
+22 14
+1
+104
+2
+24 15
+22 14
+1
+119
+2
+23 15
+22 19
+4
+0
+80
+3
+24 13
+22 13
+9 0
+0
+81
+3
+24 13
+22 4
+20 0
+0
+110
+3
+23 13
+22 13
+9 0
+0
+111
+3
+23 13
+22 4
+20 0
+end_DTG
+begin_DTG
+4
+1
+69
+2
+24 5
+22 20
+1
+76
+2
+24 18
+22 15
+1
+96
+2
+23 1
+22 15
+1
+134
+2
+23 2
+22 20
+4
+0
+93
+3
+24 3
+22 6
+15 0
+0
+94
+3
+24 3
+22 11
+21 0
+0
+114
+3
+23 16
+22 6
+15 0
+0
+115
+3
+23 16
+22 11
+21 0
+end_DTG
+begin_DTG
+6
+1
+92
+2
+24 1
+22 21
+1
+93
+2
+24 3
+22 6
+1
+114
+2
+23 16
+22 6
+1
+129
+2
+24 9
+22 17
+1
+141
+2
+23 7
+22 17
+1
+143
+2
+23 14
+22 21
+4
+0
+112
+3
+24 4
+22 9
+8 0
+0
+113
+3
+24 4
+22 5
+10 0
+0
+130
+3
+23 8
+22 9
+8 0
+0
+131
+3
+23 8
+22 5
+10 0
+end_DTG
+begin_DTG
+6
+1
+86
+2
+23 17
+22 1
+1
+88
+2
+23 18
+22 6
+1
+103
+2
+24 15
+22 6
+1
+106
+2
+24 14
+22 10
+1
+126
+2
+23 12
+22 10
+1
+137
+2
+24 12
+22 1
+4
+0
+108
+3
+23 3
+22 4
+12 0
+0
+109
+3
+23 3
+22 0
+9 0
+0
+120
+3
+24 10
+22 4
+12 0
+0
+121
+3
+24 10
+22 0
+9 0
+end_DTG
+begin_DTG
+2
+1
+90
+2
+23 18
+22 18
+1
+105
+2
+24 15
+22 18
+8
+0
+15
+3
+23 21
+22 15
+7 0
+0
+20
+3
+23 21
+22 0
+11 0
+0
+56
+3
+23 21
+22 2
+12 0
+0
+63
+3
+23 21
+22 3
+19 0
+0
+122
+3
+24 0
+22 15
+7 0
+0
+123
+3
+24 0
+22 0
+11 0
+0
+124
+3
+24 0
+22 2
+12 0
+0
+125
+3
+24 0
+22 3
+19 0
+end_DTG
+begin_DTG
+2
+1
+9
+2
+24 11
+22 18
+1
+116
+2
+23 15
+22 18
+8
+0
+28
+3
+24 5
+22 13
+10 0
+0
+55
+3
+24 5
+22 8
+6 0
+0
+69
+3
+24 5
+22 20
+14 0
+0
+70
+3
+24 5
+22 9
+20 0
+0
+132
+3
+23 2
+22 13
+10 0
+0
+133
+3
+23 2
+22 8
+6 0
+0
+134
+3
+23 2
+22 20
+14 0
+0
+135
+3
+23 2
+22 9
+20 0
+end_DTG
+begin_DTG
+4
+1
+63
+2
+23 21
+22 3
+1
+78
+2
+24 18
+22 8
+1
+98
+2
+23 1
+22 8
+1
+125
+2
+24 0
+22 3
+8
+0
+87
+3
+23 18
+22 7
+21 0
+0
+88
+3
+23 18
+22 6
+16 0
+0
+89
+3
+23 18
+22 14
+13 0
+0
+90
+3
+23 18
+22 18
+17 0
+0
+102
+3
+24 15
+22 7
+21 0
+0
+103
+3
+24 15
+22 6
+16 0
+0
+104
+3
+24 15
+22 14
+13 0
+0
+105
+3
+24 15
+22 18
+17 0
+end_DTG
+begin_DTG
+6
+1
+70
+2
+24 5
+22 9
+1
+79
+2
+24 18
+22 2
+1
+81
+2
+24 13
+22 4
+1
+99
+2
+23 1
+22 2
+1
+111
+2
+23 13
+22 4
+1
+135
+2
+23 2
+22 9
+8
+0
+9
+3
+24 11
+22 18
+18 0
+0
+29
+3
+24 11
+22 6
+4 0
+0
+53
+3
+24 11
+22 12
+21 0
+0
+54
+3
+24 11
+22 19
+13 0
+0
+116
+3
+23 15
+22 18
+18 0
+0
+117
+3
+23 15
+22 6
+4 0
+0
+118
+3
+23 15
+22 12
+21 0
+0
+119
+3
+23 15
+22 19
+13 0
+end_DTG
+begin_DTG
+8
+1
+53
+2
+24 11
+22 12
+1
+73
+2
+23 6
+22 16
+1
+87
+2
+23 18
+22 7
+1
+94
+2
+24 3
+22 11
+1
+101
+2
+24 16
+22 16
+1
+102
+2
+24 15
+22 7
+1
+115
+2
+23 16
+22 11
+1
+118
+2
+23 15
+22 12
+8
+0
+76
+3
+24 18
+22 15
+14 0
+0
+77
+3
+24 18
+22 13
+11 0
+0
+78
+3
+24 18
+22 8
+19 0
+0
+79
+3
+24 18
+22 2
+20 0
+0
+96
+3
+23 1
+22 15
+14 0
+0
+97
+3
+23 1
+22 13
+11 0
+0
+98
+3
+23 1
+22 8
+19 0
+0
+99
+3
+23 1
+22 2
+20 0
+end_DTG
+begin_DTG
+7
+1
+14
+1
+5 0
+7
+13
+1
+16 0
+7
+109
+2
+23 3
+9 0
+7
+121
+2
+24 10
+9 0
+14
+47
+1
+17 0
+14
+20
+2
+23 21
+11 0
+14
+123
+2
+24 0
+11 0
+6
+0
+26
+1
+12 0
+0
+86
+2
+23 17
+16 0
+0
+137
+2
+24 12
+16 0
+3
+27
+1
+7 0
+3
+45
+2
+23 19
+3 0
+3
+138
+2
+24 7
+3 0
+7
+6
+43
+1
+21 0
+6
+79
+2
+24 18
+20 0
+6
+99
+2
+23 1
+20 0
+14
+48
+1
+17 0
+14
+56
+2
+23 21
+12 0
+14
+124
+2
+24 0
+12 0
+16
+44
+1
+3 0
+5
+1
+49
+1
+5 0
+14
+51
+1
+17 0
+14
+63
+2
+23 21
+19 0
+14
+125
+2
+24 0
+19 0
+16
+50
+1
+3 0
+7
+7
+3
+1
+16 0
+7
+108
+2
+23 3
+12 0
+7
+120
+2
+24 10
+12 0
+10
+1
+1
+1 0
+18
+2
+1
+13 0
+18
+81
+2
+24 13
+20 0
+18
+111
+2
+23 13
+20 0
+4
+11
+82
+1
+15 0
+11
+113
+2
+24 4
+10 0
+11
+131
+2
+23 8
+10 0
+17
+83
+1
+0 0
+12
+2
+23
+1
+11 0
+2
+52
+2
+23 6
+3 0
+2
+100
+2
+24 16
+3 0
+8
+22
+1
+14 0
+8
+93
+2
+24 3
+15 0
+8
+114
+2
+23 16
+15 0
+13
+25
+1
+20 0
+13
+29
+2
+24 11
+4 0
+13
+117
+2
+23 15
+4 0
+15
+21
+1
+19 0
+15
+88
+2
+23 18
+16 0
+15
+103
+2
+24 15
+16 0
+9
+0
+8
+1
+12 0
+0
+85
+2
+23 17
+5 0
+0
+136
+2
+24 12
+5 0
+4
+6
+1
+9 0
+4
+107
+2
+24 14
+1 0
+4
+127
+2
+23 12
+1 0
+15
+7
+1
+19 0
+15
+87
+2
+23 18
+21 0
+15
+102
+2
+24 15
+21 0
+7
+6
+41
+1
+21 0
+6
+78
+2
+24 18
+19 0
+6
+98
+2
+23 1
+19 0
+11
+42
+1
+15 0
+19
+40
+1
+18 0
+19
+55
+2
+24 5
+6 0
+19
+133
+2
+23 2
+6 0
+7
+11
+62
+1
+15 0
+11
+112
+2
+24 4
+8 0
+11
+130
+2
+23 8
+8 0
+19
+61
+1
+18 0
+19
+70
+2
+24 5
+20 0
+19
+135
+2
+23 2
+20 0
+21
+60
+1
+2 0
+3
+4
+0
+1
+9 0
+4
+106
+2
+24 14
+16 0
+4
+126
+2
+23 12
+16 0
+9
+5
+66
+1
+8 0
+5
+128
+2
+24 9
+0 0
+5
+140
+2
+23 7
+0 0
+8
+65
+1
+14 0
+8
+94
+2
+24 3
+21 0
+8
+115
+2
+23 16
+21 0
+9
+64
+1
+10 0
+9
+71
+2
+24 1
+2 0
+9
+142
+2
+23 14
+2 0
+6
+13
+35
+1
+20 0
+13
+53
+2
+24 11
+21 0
+13
+118
+2
+23 15
+21 0
+20
+34
+1
+6 0
+20
+84
+2
+24 2
+2 0
+20
+144
+2
+23 20
+2 0
+10
+6
+19
+1
+21 0
+6
+77
+2
+24 18
+11 0
+6
+97
+2
+23 1
+11 0
+12
+16
+1
+4 0
+18
+17
+1
+13 0
+18
+80
+2
+24 13
+9 0
+18
+110
+2
+23 13
+9 0
+19
+18
+1
+18 0
+19
+28
+2
+24 5
+10 0
+19
+132
+2
+23 2
+10 0
+6
+0
+31
+1
+12 0
+2
+32
+1
+11 0
+3
+33
+1
+7 0
+15
+30
+1
+19 0
+15
+89
+2
+23 18
+13 0
+15
+104
+2
+24 15
+13 0
+8
+6
+12
+1
+21 0
+6
+76
+2
+24 18
+14 0
+6
+96
+2
+23 1
+14 0
+7
+11
+1
+16 0
+14
+46
+1
+17 0
+14
+15
+2
+23 21
+7 0
+14
+122
+2
+24 0
+7 0
+18
+10
+1
+13 0
+6
+2
+67
+1
+11 0
+2
+73
+2
+23 6
+21 0
+2
+101
+2
+24 16
+21 0
+3
+68
+1
+7 0
+3
+72
+2
+23 19
+5 0
+3
+139
+2
+24 7
+5 0
+3
+5
+95
+1
+8 0
+5
+129
+2
+24 9
+15 0
+5
+141
+2
+23 7
+15 0
+7
+4
+4
+1
+9 0
+13
+24
+1
+20 0
+13
+9
+2
+24 11
+18 0
+13
+116
+2
+23 15
+18 0
+15
+5
+1
+19 0
+15
+90
+2
+23 18
+17 0
+15
+105
+2
+24 15
+17 0
+6
+8
+38
+1
+14 0
+9
+37
+1
+10 0
+13
+39
+1
+20 0
+13
+54
+2
+24 11
+13 0
+13
+119
+2
+23 15
+13 0
+20
+36
+1
+6 0
+5
+12
+57
+1
+4 0
+19
+59
+1
+18 0
+19
+69
+2
+24 5
+14 0
+19
+134
+2
+23 2
+14 0
+21
+58
+1
+2 0
+6
+9
+75
+1
+10 0
+9
+92
+2
+24 1
+15 0
+9
+143
+2
+23 14
+15 0
+20
+74
+1
+6 0
+20
+91
+2
+24 2
+4 0
+20
+145
+2
+23 20
+4 0
+end_DTG
+begin_DTG
+0
+4
+6
+97
+2
+22 13
+11 0
+15
+99
+2
+22 2
+20 0
+16
+96
+2
+22 15
+14 0
+18
+98
+2
+22 8
+19 0
+4
+14
+132
+2
+22 13
+10 0
+15
+135
+2
+22 9
+20 0
+16
+134
+2
+22 20
+14 0
+20
+133
+2
+22 8
+6 0
+2
+12
+109
+2
+22 0
+9 0
+17
+108
+2
+22 4
+12 0
+0
+0
+2
+1
+73
+2
+22 16
+21 0
+11
+52
+2
+22 6
+3 0
+2
+8
+141
+2
+22 17
+15 0
+9
+140
+2
+22 11
+0 0
+2
+7
+130
+2
+22 9
+8 0
+14
+131
+2
+22 5
+10 0
+0
+0
+0
+2
+3
+126
+2
+22 10
+16 0
+4
+127
+2
+22 7
+1 0
+2
+12
+110
+2
+22 13
+9 0
+15
+111
+2
+22 4
+20 0
+2
+0
+142
+2
+22 11
+2 0
+8
+143
+2
+22 21
+15 0
+4
+1
+118
+2
+22 12
+21 0
+2
+116
+2
+22 18
+18 0
+10
+117
+2
+22 6
+4 0
+13
+119
+2
+22 19
+13 0
+2
+1
+115
+2
+22 11
+21 0
+8
+114
+2
+22 6
+15 0
+2
+3
+86
+2
+22 1
+16 0
+5
+85
+2
+22 7
+5 0
+4
+1
+87
+2
+22 7
+21 0
+3
+88
+2
+22 6
+16 0
+13
+89
+2
+22 14
+13 0
+21
+90
+2
+22 18
+17 0
+2
+5
+72
+2
+22 16
+5 0
+11
+45
+2
+22 1
+3 0
+2
+0
+144
+2
+22 12
+2 0
+10
+145
+2
+22 21
+4 0
+4
+6
+20
+2
+22 0
+11 0
+17
+56
+2
+22 2
+12 0
+18
+63
+2
+22 3
+19 0
+19
+15
+2
+22 15
+7 0
+end_DTG
+begin_DTG
+4
+7
+122
+2
+22 15
+7 0
+12
+124
+2
+22 2
+12 0
+15
+125
+2
+22 3
+19 0
+16
+123
+2
+22 0
+11 0
+2
+4
+92
+2
+22 21
+15 0
+6
+71
+2
+22 11
+2 0
+2
+6
+84
+2
+22 12
+2 0
+17
+91
+2
+22 21
+4 0
+2
+4
+93
+2
+22 6
+15 0
+18
+94
+2
+22 11
+21 0
+2
+1
+113
+2
+22 5
+10 0
+9
+112
+2
+22 9
+8 0
+4
+1
+28
+2
+22 13
+10 0
+2
+55
+2
+22 8
+6 0
+3
+69
+2
+22 20
+14 0
+11
+70
+2
+22 9
+20 0
+0
+2
+19
+138
+2
+22 1
+3 0
+21
+139
+2
+22 16
+5 0
+0
+2
+4
+129
+2
+22 17
+15 0
+8
+128
+2
+22 11
+0 0
+2
+12
+120
+2
+22 4
+12 0
+14
+121
+2
+22 0
+9 0
+4
+5
+9
+2
+22 18
+18 0
+13
+54
+2
+22 19
+13 0
+17
+29
+2
+22 6
+4 0
+18
+53
+2
+22 12
+21 0
+2
+10
+137
+2
+22 1
+16 0
+21
+136
+2
+22 7
+5 0
+2
+11
+81
+2
+22 4
+20 0
+14
+80
+2
+22 13
+9 0
+2
+10
+106
+2
+22 10
+16 0
+20
+107
+2
+22 7
+1 0
+4
+0
+105
+2
+22 18
+17 0
+10
+103
+2
+22 6
+16 0
+13
+104
+2
+22 14
+13 0
+18
+102
+2
+22 7
+21 0
+2
+18
+101
+2
+22 16
+21 0
+19
+100
+2
+22 6
+3 0
+0
+4
+3
+76
+2
+22 15
+14 0
+11
+79
+2
+22 2
+20 0
+15
+78
+2
+22 8
+19 0
+16
+77
+2
+22 13
+11 0
+0
+0
+0
+end_DTG
+begin_CG
+4
+23 1
+24 1
+22 3
+8 2
+4
+23 1
+24 1
+22 3
+9 2
+5
+23 2
+24 2
+22 6
+6 2
+10 2
+5
+23 2
+24 2
+22 6
+11 2
+7 2
+5
+23 2
+24 2
+22 6
+6 2
+20 2
+5
+23 2
+24 2
+22 6
+7 2
+12 2
+4
+23 1
+24 1
+22 5
+18 2
+4
+23 1
+24 1
+22 5
+17 2
+4
+23 1
+24 1
+22 4
+15 2
+5
+23 2
+24 2
+22 7
+13 2
+16 2
+5
+23 2
+24 2
+22 7
+18 2
+15 2
+5
+23 2
+24 2
+22 7
+17 2
+21 2
+5
+23 2
+24 2
+22 7
+17 2
+16 2
+5
+23 2
+24 2
+22 7
+20 2
+19 2
+5
+23 2
+24 2
+22 7
+18 2
+21 2
+6
+23 3
+24 3
+22 9
+10 2
+14 2
+8 2
+6
+23 3
+24 3
+22 9
+19 2
+9 2
+12 2
+4
+23 1
+24 1
+22 6
+19 2
+4
+23 1
+24 1
+22 6
+20 2
+5
+23 2
+24 2
+22 8
+17 2
+21 2
+6
+23 3
+24 3
+22 10
+13 2
+18 2
+21 2
+7
+23 4
+24 4
+22 12
+20 2
+19 2
+14 2
+11 2
+24
+23 42
+24 42
+2 4
+13 8
+0 2
+3 4
+17 10
+6 6
+1 2
+18 10
+4 4
+16 10
+20 14
+10 8
+19 12
+14 8
+15 10
+8 6
+21 16
+11 8
+7 6
+9 8
+12 8
+5 4
+23
+22 42
+2 2
+13 4
+0 1
+3 2
+17 5
+6 3
+1 1
+18 5
+4 2
+16 5
+20 7
+10 4
+19 6
+14 4
+15 5
+8 3
+21 8
+11 4
+7 3
+9 4
+12 4
+5 2
+23
+22 42
+2 2
+13 4
+0 1
+3 2
+17 5
+6 3
+1 1
+18 5
+4 2
+16 5
+20 7
+10 4
+19 6
+14 4
+15 5
+8 3
+21 8
+11 4
+7 3
+9 4
+12 4
+5 2
+end_CG

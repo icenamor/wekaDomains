@@ -1,0 +1,46 @@
+digraph G {
+v21  [label="Atom calibrated(instrument8), Atom calibrated(instrument7), Atom calibrated(instrument4), Atom calibrated(instrument3)"]
+v23  [label="Atom pointing(satellite4, star14), Atom pointing(satellite2, star14), Atom pointing(satellite1, star14), Atom pointing(satellite0, star14)"]
+v19  [label="Atom pointing(satellite4, groundstation1), Atom pointing(satellite3, star0), Atom pointing(satellite1, star2), Atom pointing(satellite1, star3)"]
+v20  [label="Atom power_on(instrument8), Atom power_on(instrument7), Atom power_on(instrument3), Atom power_on(instrument4)"]
+v18  [label="Atom pointing(satellite4, phenomenon8), Atom pointing(satellite1, phenomenon8), Atom pointing(satellite0, phenomenon8)"]
+v22  [label="Atom pointing(satellite4, phenomenon12), Atom pointing(satellite3, phenomenon12), Atom pointing(satellite1, phenomenon12)"]
+v17  [label="NegatedAtom have_image(phenomenon8, infrared1)"]
+v9  [label="Atom have_image(phenomenon8, infrared1)"]
+v16  [label="NegatedAtom have_image(phenomenon6, image2)"]
+v0  [label="Atom have_image(phenomenon6, image2)"]
+v15  [label="NegatedAtom have_image(planet10, image2)"]
+v5  [label="Atom have_image(planet10, image2)"]
+v13  [label="NegatedAtom have_image(star14, image2)"]
+v4  [label="Atom have_image(star14, image2)"]
+v12  [label="NegatedAtom have_image(phenomenon12, image3)"]
+v11  [label="Atom have_image(phenomenon12, image3)"]
+v14  [label="NegatedAtom have_image(planet11, image3)"]
+v3  [label="Atom have_image(planet11, image3)"]
+v8  [label="Atom pointing(satellite1, planet11)"]
+v1  [label="Atom pointing(satellite1, phenomenon6)"]
+v6  [label="Atom pointing(satellite3, star4)"]
+v7  [label="Atom pointing(satellite3, planet10)"]
+v10  [label="Atom pointing(satellite4, star9)"]
+v2  [label="Atom pointing(satellite4, planet10)"]
+v21 -> v3
+v21 -> v11
+v23 -> v4
+v19 -> v21
+v19 -> v3
+v19 -> v11
+v20 -> v21
+v20 -> v3
+v20 -> v11
+v18 -> v9
+v22 -> v11
+v17 -> v9
+v16 -> v0
+v15 -> v5
+v13 -> v4
+v12 -> v11
+v14 -> v3
+v8 -> v1
+v7 -> v6
+v10 -> v2
+}

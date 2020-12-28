@@ -1,0 +1,49 @@
+digraph G {
+v2  [label="Atom at(tru2, apt2), Atom at(tru2, apt7), Atom at(obj55, apt2), Atom at(obj55, apt7)"]
+v1  [label="Atom in(obj23, tru1), Atom in(obj23, tru3), Atom in(obj23, tru4)"]
+v10  [label="Atom in(obj13, tru2)"]
+v11  [label="Atom at(obj13, pos22)"]
+v7  [label="Atom at(obj13, pos11)"]
+v15  [label="Atom in(obj23, tru2)"]
+v3  [label="Atom at(obj23, pos22)"]
+v4  [label="Atom at(obj23, pos12)"]
+v13  [label="Atom in(obj55, tru2)"]
+v14  [label="Atom at(obj55, pos21)"]
+v12  [label="Atom at(obj55, pos13)"]
+v16  [label="Atom in(obj77, tru2)"]
+v0  [label="Atom at(obj77, pos23)"]
+v9  [label="Atom at(obj77, pos22)"]
+v6  [label="Atom at(tru2, pos23)"]
+v5  [label="Atom at(tru2, pos22)"]
+v8  [label="Atom at(tru2, pos21)"]
+v2 -> v11
+v2 -> v10
+v2 -> v14
+v2 -> v13
+v2 -> v4
+v1 -> v4
+v10 -> v11
+v7 -> v11
+v7 -> v10
+v15 -> v4
+v3 -> v15
+v3 -> v4
+v13 -> v14
+v12 -> v14
+v12 -> v13
+v16 -> v0
+v9 -> v16
+v9 -> v0
+v6 -> v0
+v5 -> v16
+v5 -> v11
+v5 -> v0
+v5 -> v15
+v5 -> v10
+v5 -> v8
+v5 -> v14
+v5 -> v6
+v5 -> v13
+v5 -> v4
+v8 -> v14
+}

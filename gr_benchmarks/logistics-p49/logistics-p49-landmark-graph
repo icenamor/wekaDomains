@@ -1,0 +1,73 @@
+digraph G {
+v8  [label="Atom in(obj11, tru1), Atom in(obj11, tru3), Atom in(obj11, tru4)"]
+v7  [label="Atom in(obj11, apn1), Atom in(obj11, apn2), Atom in(obj11, apn3)"]
+v4  [label="Atom in(obj21, tru1), Atom in(obj21, tru3), Atom in(obj21, tru4)"]
+v5  [label="Atom in(obj21, apn1), Atom in(obj21, apn2), Atom in(obj21, apn3)"]
+v6  [label="Atom at(tru4, apt1), Atom at(tru3, apt1), Atom at(tru1, apt1)"]
+v17  [label="Atom in(obj11, tru2)"]
+v1  [label="Atom at(obj11, pos22)"]
+v16  [label="Atom at(obj11, pos13)"]
+v15  [label="Atom at(obj11, apt2)"]
+v14  [label="Atom at(obj11, apt1)"]
+v13  [label="Atom in(obj21, tru2)"]
+v12  [label="Atom at(obj21, pos21)"]
+v2  [label="Atom at(obj21, pos12)"]
+v11  [label="Atom at(obj21, apt2)"]
+v10  [label="Atom at(obj21, apt1)"]
+v9  [label="Atom at(tru2, pos22)"]
+v3  [label="Atom at(tru2, pos21)"]
+v0  [label="Atom at(tru2, apt2)"]
+v8 -> v14
+v8 -> v17
+v8 -> v15
+v8 -> v1
+v7 -> v17
+v7 -> v15
+v7 -> v1
+v4 -> v2
+v5 -> v2
+v5 -> v10
+v6 -> v14
+v6 -> v2
+v6 -> v17
+v6 -> v15
+v6 -> v4
+v6 -> v1
+v17 -> v1
+v16 -> v14
+v16 -> v17
+v16 -> v15
+v16 -> v1
+v16 -> v8
+v15 -> v17
+v15 -> v1
+v14 -> v7
+v14 -> v17
+v14 -> v15
+v14 -> v1
+v13 -> v2
+v13 -> v10
+v13 -> v11
+v12 -> v2
+v12 -> v10
+v12 -> v13
+v12 -> v11
+v11 -> v5
+v11 -> v2
+v11 -> v10
+v10 -> v2
+v10 -> v4
+v9 -> v2
+v9 -> v0
+v9 -> v3
+v9 -> v1
+v3 -> v2
+v3 -> v10
+v3 -> v13
+v3 -> v11
+v0 -> v2
+v0 -> v17
+v0 -> v10
+v0 -> v1
+v0 -> v11
+}

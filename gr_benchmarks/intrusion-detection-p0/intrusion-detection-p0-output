@@ -1,0 +1,584 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+20
+begin_variable
+var69
+-1
+2
+Atom recon-performed(virgo)
+NegatedAtom recon-performed(virgo)
+end_variable
+begin_variable
+var68
+-1
+2
+Atom recon-performed(taurus)
+NegatedAtom recon-performed(taurus)
+end_variable
+begin_variable
+var67
+-1
+2
+Atom recon-performed(scorpio)
+NegatedAtom recon-performed(scorpio)
+end_variable
+begin_variable
+var66
+-1
+2
+Atom recon-performed(sagittarius)
+NegatedAtom recon-performed(sagittarius)
+end_variable
+begin_variable
+var65
+-1
+2
+Atom recon-performed(perseus)
+NegatedAtom recon-performed(perseus)
+end_variable
+begin_variable
+var64
+-1
+2
+Atom recon-performed(libra)
+NegatedAtom recon-performed(libra)
+end_variable
+begin_variable
+var63
+-1
+2
+Atom recon-performed(leo)
+NegatedAtom recon-performed(leo)
+end_variable
+begin_variable
+var62
+-1
+2
+Atom recon-performed(cassiopea)
+NegatedAtom recon-performed(cassiopea)
+end_variable
+begin_variable
+var61
+-1
+2
+Atom recon-performed(aries)
+NegatedAtom recon-performed(aries)
+end_variable
+begin_variable
+var60
+-1
+2
+Atom recon-performed(andromeda)
+NegatedAtom recon-performed(andromeda)
+end_variable
+begin_variable
+var49
+-1
+2
+Atom information-gathered(virgo)
+NegatedAtom information-gathered(virgo)
+end_variable
+begin_variable
+var48
+-1
+2
+Atom information-gathered(taurus)
+NegatedAtom information-gathered(taurus)
+end_variable
+begin_variable
+var47
+-1
+2
+Atom information-gathered(scorpio)
+NegatedAtom information-gathered(scorpio)
+end_variable
+begin_variable
+var46
+-1
+2
+Atom information-gathered(sagittarius)
+NegatedAtom information-gathered(sagittarius)
+end_variable
+begin_variable
+var45
+-1
+2
+Atom information-gathered(perseus)
+NegatedAtom information-gathered(perseus)
+end_variable
+begin_variable
+var44
+-1
+2
+Atom information-gathered(libra)
+NegatedAtom information-gathered(libra)
+end_variable
+begin_variable
+var43
+-1
+2
+Atom information-gathered(leo)
+NegatedAtom information-gathered(leo)
+end_variable
+begin_variable
+var42
+-1
+2
+Atom information-gathered(cassiopea)
+NegatedAtom information-gathered(cassiopea)
+end_variable
+begin_variable
+var41
+-1
+2
+Atom information-gathered(aries)
+NegatedAtom information-gathered(aries)
+end_variable
+begin_variable
+var40
+-1
+2
+Atom information-gathered(andromeda)
+NegatedAtom information-gathered(andromeda)
+end_variable
+0
+begin_state
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+end_state
+begin_goal
+10
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+end_goal
+20
+begin_operator
+information-gathering andromeda
+1
+9 0
+1
+0 19 -1 0
+0
+end_operator
+begin_operator
+information-gathering aries
+1
+8 0
+1
+0 18 -1 0
+0
+end_operator
+begin_operator
+information-gathering cassiopea
+1
+7 0
+1
+0 17 -1 0
+0
+end_operator
+begin_operator
+information-gathering leo
+1
+6 0
+1
+0 16 -1 0
+0
+end_operator
+begin_operator
+information-gathering libra
+1
+5 0
+1
+0 15 -1 0
+0
+end_operator
+begin_operator
+information-gathering perseus
+1
+4 0
+1
+0 14 -1 0
+0
+end_operator
+begin_operator
+information-gathering sagittarius
+1
+3 0
+1
+0 13 -1 0
+0
+end_operator
+begin_operator
+information-gathering scorpio
+1
+2 0
+1
+0 12 -1 0
+0
+end_operator
+begin_operator
+information-gathering taurus
+1
+1 0
+1
+0 11 -1 0
+0
+end_operator
+begin_operator
+information-gathering virgo
+1
+0 0
+1
+0 10 -1 0
+0
+end_operator
+begin_operator
+recon andromeda
+0
+1
+0 9 -1 0
+0
+end_operator
+begin_operator
+recon aries
+0
+1
+0 8 -1 0
+0
+end_operator
+begin_operator
+recon cassiopea
+0
+1
+0 7 -1 0
+0
+end_operator
+begin_operator
+recon leo
+0
+1
+0 6 -1 0
+0
+end_operator
+begin_operator
+recon libra
+0
+1
+0 5 -1 0
+0
+end_operator
+begin_operator
+recon perseus
+0
+1
+0 4 -1 0
+0
+end_operator
+begin_operator
+recon sagittarius
+0
+1
+0 3 -1 0
+0
+end_operator
+begin_operator
+recon scorpio
+0
+1
+0 2 -1 0
+0
+end_operator
+begin_operator
+recon taurus
+0
+1
+0 1 -1 0
+0
+end_operator
+begin_operator
+recon virgo
+0
+1
+0 0 -1 0
+0
+end_operator
+0
+begin_SG
+switch 19
+check 10
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+check 0
+check 0
+switch 9
+check 0
+check 1
+0
+check 0
+switch 8
+check 0
+check 1
+1
+check 0
+switch 7
+check 0
+check 1
+2
+check 0
+switch 6
+check 0
+check 1
+3
+check 0
+switch 5
+check 0
+check 1
+4
+check 0
+switch 4
+check 0
+check 1
+5
+check 0
+switch 3
+check 0
+check 1
+6
+check 0
+switch 2
+check 0
+check 1
+7
+check 0
+switch 1
+check 0
+check 1
+8
+check 0
+switch 0
+check 0
+check 1
+9
+check 0
+check 0
+end_SG
+begin_DTG
+0
+1
+0
+19
+0
+end_DTG
+begin_DTG
+0
+1
+0
+18
+0
+end_DTG
+begin_DTG
+0
+1
+0
+17
+0
+end_DTG
+begin_DTG
+0
+1
+0
+16
+0
+end_DTG
+begin_DTG
+0
+1
+0
+15
+0
+end_DTG
+begin_DTG
+0
+1
+0
+14
+0
+end_DTG
+begin_DTG
+0
+1
+0
+13
+0
+end_DTG
+begin_DTG
+0
+1
+0
+12
+0
+end_DTG
+begin_DTG
+0
+1
+0
+11
+0
+end_DTG
+begin_DTG
+0
+1
+0
+10
+0
+end_DTG
+begin_DTG
+0
+1
+0
+9
+1
+0 0
+end_DTG
+begin_DTG
+0
+1
+0
+8
+1
+1 0
+end_DTG
+begin_DTG
+0
+1
+0
+7
+1
+2 0
+end_DTG
+begin_DTG
+0
+1
+0
+6
+1
+3 0
+end_DTG
+begin_DTG
+0
+1
+0
+5
+1
+4 0
+end_DTG
+begin_DTG
+0
+1
+0
+4
+1
+5 0
+end_DTG
+begin_DTG
+0
+1
+0
+3
+1
+6 0
+end_DTG
+begin_DTG
+0
+1
+0
+2
+1
+7 0
+end_DTG
+begin_DTG
+0
+1
+0
+1
+1
+8 0
+end_DTG
+begin_DTG
+0
+1
+0
+0
+1
+9 0
+end_DTG
+begin_CG
+1
+10 1
+1
+11 1
+1
+12 1
+1
+13 1
+1
+14 1
+1
+15 1
+1
+16 1
+1
+17 1
+1
+18 1
+1
+19 1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+end_CG

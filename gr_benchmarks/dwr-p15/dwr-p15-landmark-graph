@@ -1,0 +1,394 @@
+digraph G {
+v50  [label="Atom top(cb, p1)"]
+v5  [label="Atom on(cc, cb)"]
+v49  [label="Atom loaded(r1, cb)"]
+v48  [label="Atom holding(k2, cb)"]
+v47  [label="Atom holding(k1, cb)"]
+v46  [label="Atom top(ca, p1)"]
+v28  [label="Atom on(cd, ca)"]
+v45  [label="Atom on(cb, ca)"]
+v44  [label="Atom loaded(r1, ca)"]
+v43  [label="Atom holding(k3, ca)"]
+v42  [label="Atom holding(k1, ca)"]
+v1  [label="Atom in(cb, p2)"]
+v41  [label="Atom in(cb, p1)"]
+v25  [label="Atom in(ca, p3)"]
+v40  [label="Atom in(ca, p1)"]
+v51  [label="<none of those>"]
+v3  [label="Atom in(cf, p2)"]
+v4  [label="Atom in(ce, p3)"]
+v39  [label="Atom in(ce, p1)"]
+v23  [label="Atom in(cd, p3)"]
+v38  [label="Atom in(cd, p1)"]
+v0  [label="Atom in(cc, p2)"]
+v37  [label="Atom in(cc, p1)"]
+v36  [label="Atom empty(k3)"]
+v52  [label="NegatedAtom empty(k2)"]
+v35  [label="Atom empty(k2)"]
+v34  [label="Atom empty(k1)"]
+v33  [label="Atom holding(k2, cf)"]
+v32  [label="Atom top(ce, p1)"]
+v22  [label="Atom loaded(r1, ce)"]
+v21  [label="Atom holding(k3, ce)"]
+v20  [label="Atom holding(k1, ce)"]
+v19  [label="Atom top(cd, p1)"]
+v18  [label="Atom on(ce, cd)"]
+v17  [label="Atom loaded(r1, cd)"]
+v16  [label="Atom holding(k3, cd)"]
+v15  [label="Atom holding(k1, cd)"]
+v14  [label="Atom top(cc, p1)"]
+v13  [label="Atom on(cd, cc)"]
+v12  [label="Atom loaded(r1, cc)"]
+v11  [label="Atom holding(k2, cc)"]
+v10  [label="Atom holding(k1, cc)"]
+v31  [label="Atom unloaded(r1)"]
+v30  [label="Atom top(pallet, p3)"]
+v29  [label="Atom top(pallet, p2)"]
+v27  [label="Atom on(ca, pallet)"]
+v7  [label="NegatedAtom occupied(l3)"]
+v2  [label="Atom at(r1, l4)"]
+v26  [label="Atom at(r1, l3)"]
+v6  [label="Atom at(r1, l2)"]
+v8  [label="Atom at(r1, l1)"]
+v9  [label="NegatedAtom occupied(l4)"]
+v24  [label="NegatedAtom occupied(l1)"]
+v50 -> v46
+v50 -> v11
+v50 -> v44
+v50 -> v25
+v50 -> v47
+v50 -> v49
+v50 -> v12
+v50 -> v48
+v50 -> v1
+v50 -> v28
+v50 -> v0
+v50 -> v43
+v5 -> v25
+v5 -> v50
+v5 -> v47
+v5 -> v49
+v5 -> v12
+v5 -> v48
+v5 -> v1
+v5 -> v28
+v5 -> v10
+v5 -> v0
+v49 -> v48
+v49 -> v1
+v48 -> v1
+v47 -> v44
+v47 -> v25
+v47 -> v49
+v47 -> v42
+v47 -> v48
+v47 -> v1
+v47 -> v28
+v47 -> v43
+v46 -> v44
+v46 -> v25
+v46 -> v49
+v46 -> v42
+v46 -> v48
+v46 -> v1
+v46 -> v28
+v46 -> v43
+v45 -> v46
+v45 -> v44
+v45 -> v25
+v45 -> v47
+v45 -> v49
+v45 -> v42
+v45 -> v1
+v45 -> v28
+v45 -> v43
+v44 -> v25
+v44 -> v43
+v43 -> v25
+v42 -> v44
+v42 -> v25
+v42 -> v43
+v41 -> v46
+v41 -> v25
+v41 -> v47
+v41 -> v49
+v41 -> v1
+v41 -> v28
+v40 -> v44
+v40 -> v25
+v40 -> v42
+v51 -> v3
+v39 -> v19
+v39 -> v23
+v39 -> v25
+v39 -> v22
+v39 -> v4
+v39 -> v20
+v39 -> v1
+v39 -> v28
+v39 -> v0
+v38 -> v14
+v38 -> v23
+v38 -> v25
+v38 -> v17
+v38 -> v15
+v38 -> v1
+v38 -> v28
+v38 -> v0
+v37 -> v25
+v37 -> v50
+v37 -> v12
+v37 -> v1
+v37 -> v28
+v37 -> v10
+v37 -> v0
+v36 -> v21
+v36 -> v16
+v36 -> v23
+v36 -> v25
+v36 -> v4
+v36 -> v43
+v52 -> v35
+v35 -> v11
+v35 -> v48
+v35 -> v1
+v35 -> v0
+v34 -> v46
+v34 -> v19
+v34 -> v14
+v34 -> v23
+v34 -> v25
+v34 -> v50
+v34 -> v22
+v34 -> v47
+v34 -> v42
+v34 -> v4
+v34 -> v20
+v34 -> v15
+v34 -> v1
+v34 -> v28
+v34 -> v10
+v34 -> v0
+v33 -> v3
+v33 -> v48
+v33 -> v1
+v33 -> v35
+v33 -> v0
+v32 -> v21
+v32 -> v19
+v32 -> v23
+v32 -> v25
+v32 -> v22
+v32 -> v4
+v32 -> v20
+v32 -> v1
+v32 -> v28
+v32 -> v0
+v22 -> v21
+v22 -> v4
+v21 -> v4
+v20 -> v21
+v20 -> v16
+v20 -> v11
+v20 -> v44
+v20 -> v23
+v20 -> v25
+v20 -> v22
+v20 -> v47
+v20 -> v49
+v20 -> v17
+v20 -> v42
+v20 -> v4
+v20 -> v12
+v20 -> v15
+v20 -> v48
+v20 -> v1
+v20 -> v28
+v20 -> v10
+v20 -> v0
+v20 -> v43
+v19 -> v21
+v19 -> v46
+v19 -> v16
+v19 -> v11
+v19 -> v44
+v19 -> v14
+v19 -> v23
+v19 -> v25
+v19 -> v50
+v19 -> v22
+v19 -> v49
+v19 -> v17
+v19 -> v4
+v19 -> v12
+v19 -> v15
+v19 -> v48
+v19 -> v1
+v19 -> v28
+v19 -> v0
+v19 -> v43
+v18 -> v16
+v18 -> v19
+v18 -> v23
+v18 -> v25
+v18 -> v22
+v18 -> v17
+v18 -> v4
+v18 -> v20
+v18 -> v15
+v18 -> v1
+v18 -> v28
+v18 -> v0
+v17 -> v16
+v17 -> v23
+v16 -> v23
+v15 -> v16
+v15 -> v11
+v15 -> v44
+v15 -> v23
+v15 -> v25
+v15 -> v47
+v15 -> v49
+v15 -> v17
+v15 -> v42
+v15 -> v12
+v15 -> v48
+v15 -> v1
+v15 -> v28
+v15 -> v10
+v15 -> v0
+v15 -> v43
+v14 -> v46
+v14 -> v16
+v14 -> v11
+v14 -> v44
+v14 -> v23
+v14 -> v25
+v14 -> v50
+v14 -> v49
+v14 -> v17
+v14 -> v12
+v14 -> v48
+v14 -> v1
+v14 -> v28
+v14 -> v10
+v14 -> v0
+v14 -> v43
+v13 -> v11
+v13 -> v14
+v13 -> v23
+v13 -> v25
+v13 -> v17
+v13 -> v12
+v13 -> v15
+v13 -> v1
+v13 -> v28
+v13 -> v10
+v13 -> v0
+v12 -> v11
+v12 -> v0
+v11 -> v0
+v10 -> v11
+v10 -> v44
+v10 -> v25
+v10 -> v47
+v10 -> v49
+v10 -> v42
+v10 -> v12
+v10 -> v48
+v10 -> v1
+v10 -> v28
+v10 -> v0
+v10 -> v43
+v31 -> v44
+v31 -> v23
+v31 -> v25
+v31 -> v22
+v31 -> v49
+v31 -> v17
+v31 -> v4
+v31 -> v12
+v31 -> v1
+v31 -> v0
+v30 -> v23
+v30 -> v25
+v30 -> v4
+v29 -> v3
+v29 -> v1
+v29 -> v0
+v27 -> v44
+v27 -> v25
+v27 -> v42
+v7 -> v11
+v7 -> v23
+v7 -> v25
+v7 -> v26
+v7 -> v4
+v7 -> v2
+v7 -> v48
+v7 -> v1
+v7 -> v0
+v2 -> v21
+v2 -> v16
+v2 -> v23
+v2 -> v25
+v2 -> v4
+v2 -> v43
+v26 -> v21
+v26 -> v16
+v26 -> v11
+v26 -> v23
+v26 -> v25
+v26 -> v4
+v26 -> v2
+v26 -> v48
+v26 -> v1
+v26 -> v0
+v26 -> v43
+v6 -> v44
+v6 -> v8
+v6 -> v23
+v6 -> v25
+v6 -> v22
+v6 -> v49
+v6 -> v26
+v6 -> v17
+v6 -> v4
+v6 -> v12
+v6 -> v2
+v6 -> v1
+v6 -> v0
+v8 -> v21
+v8 -> v16
+v8 -> v11
+v8 -> v44
+v8 -> v23
+v8 -> v25
+v8 -> v22
+v8 -> v49
+v8 -> v17
+v8 -> v4
+v8 -> v12
+v8 -> v48
+v8 -> v1
+v8 -> v0
+v8 -> v43
+v9 -> v21
+v9 -> v16
+v9 -> v23
+v9 -> v25
+v9 -> v4
+v9 -> v2
+v9 -> v43
+v24 -> v44
+v24 -> v8
+v24 -> v23
+v24 -> v25
+v24 -> v22
+v24 -> v49
+v24 -> v17
+v24 -> v4
+v24 -> v12
+v24 -> v1
+v24 -> v0
+}

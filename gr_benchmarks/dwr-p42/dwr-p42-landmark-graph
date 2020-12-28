@@ -1,0 +1,259 @@
+digraph G {
+v50  [label="Atom top(cd, p1), Atom top(cd, p2), Atom top(cd, p3), Atom top(cd, p4)"]
+v49  [label="Atom top(cc, p1), Atom top(cc, p2), Atom top(cc, p3), Atom top(cc, p4)"]
+v9  [label="Atom on(cb, cd)"]
+v41  [label="Atom holding(k2, cd)"]
+v18  [label="Atom on(ce, cc)"]
+v40  [label="Atom loaded(r1, cc)"]
+v39  [label="Atom holding(k4, cc)"]
+v38  [label="Atom holding(k1, cc)"]
+v44  [label="<none of those>"]
+v22  [label="Atom in(cd, p2)"]
+v43  [label="<none of those>"]
+v4  [label="Atom in(cc, p4)"]
+v11  [label="Atom in(cb, p2)"]
+v37  [label="Atom in(cb, p1)"]
+v2  [label="Atom in(ca, p2)"]
+v36  [label="Atom in(ca, p1)"]
+v42  [label="NegatedAtom on(cf, pallet)"]
+v0  [label="Atom on(cf, pallet)"]
+v35  [label="Atom empty(k4)"]
+v33  [label="Atom top(cb, p1)"]
+v32  [label="Atom on(ce, cb)"]
+v31  [label="Atom loaded(r1, cb)"]
+v30  [label="Atom holding(k2, cb)"]
+v29  [label="Atom holding(k1, cb)"]
+v46  [label="NegatedAtom empty(k2)"]
+v28  [label="Atom empty(k2)"]
+v27  [label="Atom top(ca, p1)"]
+v26  [label="Atom on(cb, ca)"]
+v25  [label="Atom loaded(r1, ca)"]
+v24  [label="Atom holding(k2, ca)"]
+v23  [label="Atom holding(k1, ca)"]
+v45  [label="NegatedAtom empty(k1)"]
+v8  [label="Atom empty(k1)"]
+v7  [label="Atom top(cf, p1)"]
+v6  [label="Atom holding(k1, cf)"]
+v10  [label="Atom top(ce, p1)"]
+v1  [label="Atom on(cf, ce)"]
+v19  [label="Atom holding(k1, ce)"]
+v5  [label="Atom in(cf, p1)"]
+v12  [label="Atom in(ce, p1)"]
+v20  [label="Atom unloaded(r1)"]
+v14  [label="Atom top(pallet, p4)"]
+v21  [label="Atom top(pallet, p2)"]
+v34  [label="Atom on(ca, pallet)"]
+v15  [label="Atom at(r1, l6)"]
+v16  [label="Atom at(r1, l3)"]
+v17  [label="Atom at(r1, l2)"]
+v48  [label="Atom at(r1, l1)"]
+v47  [label="NegatedAtom occupied(l6)"]
+v13  [label="NegatedAtom occupied(l3)"]
+v3  [label="NegatedAtom occupied(l1)"]
+v50 -> v9
+v49 -> v18
+v41 -> v2
+v41 -> v22
+v41 -> v30
+v41 -> v9
+v41 -> v28
+v41 -> v11
+v40 -> v39
+v40 -> v4
+v39 -> v4
+v38 -> v39
+v38 -> v0
+v38 -> v4
+v38 -> v2
+v38 -> v40
+v38 -> v8
+v38 -> v9
+v38 -> v33
+v38 -> v18
+v38 -> v11
+v44 -> v22
+v43 -> v4
+v37 -> v31
+v37 -> v29
+v37 -> v27
+v37 -> v2
+v37 -> v9
+v37 -> v11
+v36 -> v2
+v36 -> v25
+v36 -> v23
+v42 -> v0
+v35 -> v39
+v35 -> v4
+v33 -> v31
+v33 -> v29
+v33 -> v24
+v33 -> v27
+v33 -> v2
+v33 -> v30
+v33 -> v9
+v33 -> v25
+v33 -> v18
+v33 -> v11
+v32 -> v31
+v32 -> v19
+v32 -> v29
+v32 -> v2
+v32 -> v30
+v32 -> v9
+v32 -> v33
+v32 -> v18
+v32 -> v11
+v31 -> v30
+v31 -> v11
+v30 -> v11
+v29 -> v31
+v29 -> v24
+v29 -> v2
+v29 -> v30
+v29 -> v9
+v29 -> v25
+v29 -> v23
+v29 -> v11
+v46 -> v28
+v28 -> v24
+v28 -> v2
+v28 -> v30
+v28 -> v11
+v27 -> v31
+v27 -> v24
+v27 -> v2
+v27 -> v30
+v27 -> v9
+v27 -> v25
+v27 -> v23
+v27 -> v11
+v26 -> v31
+v26 -> v29
+v26 -> v24
+v26 -> v27
+v26 -> v2
+v26 -> v9
+v26 -> v25
+v26 -> v23
+v26 -> v11
+v25 -> v24
+v25 -> v2
+v24 -> v2
+v23 -> v24
+v23 -> v2
+v23 -> v25
+v45 -> v8
+v8 -> v19
+v8 -> v39
+v8 -> v29
+v8 -> v24
+v8 -> v0
+v8 -> v4
+v8 -> v27
+v8 -> v2
+v8 -> v6
+v8 -> v30
+v8 -> v9
+v8 -> v33
+v8 -> v23
+v8 -> v18
+v8 -> v11
+v8 -> v10
+v7 -> v0
+v7 -> v2
+v7 -> v6
+v7 -> v9
+v7 -> v18
+v7 -> v11
+v7 -> v10
+v6 -> v0
+v10 -> v31
+v10 -> v19
+v10 -> v24
+v10 -> v0
+v10 -> v27
+v10 -> v2
+v10 -> v30
+v10 -> v9
+v10 -> v25
+v10 -> v33
+v10 -> v18
+v10 -> v11
+v1 -> v0
+v1 -> v2
+v1 -> v6
+v1 -> v9
+v1 -> v18
+v1 -> v11
+v1 -> v10
+v19 -> v18
+v5 -> v0
+v5 -> v2
+v5 -> v6
+v5 -> v9
+v5 -> v18
+v5 -> v11
+v5 -> v10
+v12 -> v19
+v12 -> v2
+v12 -> v9
+v12 -> v33
+v12 -> v18
+v12 -> v11
+v20 -> v31
+v20 -> v4
+v20 -> v2
+v20 -> v40
+v20 -> v9
+v20 -> v25
+v20 -> v11
+v14 -> v4
+v21 -> v2
+v21 -> v22
+v21 -> v11
+v34 -> v2
+v34 -> v25
+v34 -> v23
+v15 -> v39
+v15 -> v4
+v16 -> v24
+v16 -> v2
+v16 -> v30
+v16 -> v9
+v16 -> v11
+v17 -> v48
+v17 -> v4
+v17 -> v2
+v17 -> v9
+v17 -> v15
+v17 -> v16
+v17 -> v11
+v48 -> v31
+v48 -> v39
+v48 -> v24
+v48 -> v4
+v48 -> v2
+v48 -> v40
+v48 -> v30
+v48 -> v9
+v48 -> v25
+v48 -> v11
+v47 -> v39
+v47 -> v4
+v47 -> v15
+v13 -> v24
+v13 -> v2
+v13 -> v30
+v13 -> v9
+v13 -> v16
+v13 -> v11
+v3 -> v31
+v3 -> v48
+v3 -> v4
+v3 -> v2
+v3 -> v40
+v3 -> v9
+v3 -> v25
+v3 -> v11
+}

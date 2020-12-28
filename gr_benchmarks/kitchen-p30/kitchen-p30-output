@@ -1,0 +1,859 @@
+begin_version
+3
+end_version
+begin_metric
+1
+end_metric
+23
+begin_variable
+var48
+-1
+2
+Atom used(toaster)
+NegatedAtom used(toaster)
+end_variable
+begin_variable
+var43
+-1
+2
+Atom taken(water_jug)
+NegatedAtom taken(water_jug)
+end_variable
+begin_variable
+var41
+-1
+2
+Atom taken(tea_bag)
+NegatedAtom taken(tea_bag)
+end_variable
+begin_variable
+var40
+-1
+2
+Atom taken(sugar)
+NegatedAtom taken(sugar)
+end_variable
+begin_variable
+var39
+-1
+2
+Atom taken(spoon)
+NegatedAtom taken(spoon)
+end_variable
+begin_variable
+var31
+-1
+2
+Atom taken(milk)
+NegatedAtom taken(milk)
+end_variable
+begin_variable
+var28
+-1
+2
+Atom taken(knife)
+NegatedAtom taken(knife)
+end_variable
+begin_variable
+var27
+-1
+2
+Atom taken(keetle)
+NegatedAtom taken(keetle)
+end_variable
+begin_variable
+var24
+-1
+2
+Atom taken(cup)
+NegatedAtom taken(cup)
+end_variable
+begin_variable
+var23
+-1
+2
+Atom taken(creamer)
+NegatedAtom taken(creamer)
+end_variable
+begin_variable
+var22
+-1
+2
+Atom taken(coffee)
+NegatedAtom taken(coffee)
+end_variable
+begin_variable
+var21
+-1
+2
+Atom taken(cloth)
+NegatedAtom taken(cloth)
+end_variable
+begin_variable
+var50
+-1
+2
+Atom water_boiled()
+NegatedAtom water_boiled()
+end_variable
+begin_variable
+var19
+-1
+2
+Atom taken(cereal)
+NegatedAtom taken(cereal)
+end_variable
+begin_variable
+var18
+-1
+2
+Atom taken(butter)
+NegatedAtom taken(butter)
+end_variable
+begin_variable
+var17
+-1
+2
+Atom taken(bread)
+NegatedAtom taken(bread)
+end_variable
+begin_variable
+var16
+-1
+2
+Atom taken(bowl)
+NegatedAtom taken(bowl)
+end_variable
+begin_variable
+var14
+-1
+2
+Atom made_toast()
+NegatedAtom made_toast()
+end_variable
+begin_variable
+var13
+-1
+2
+Atom made_tea()
+NegatedAtom made_tea()
+end_variable
+begin_variable
+var9
+-1
+2
+Atom made_coffee()
+NegatedAtom made_coffee()
+end_variable
+begin_variable
+var7
+-1
+2
+Atom made_cereals()
+NegatedAtom made_cereals()
+end_variable
+begin_variable
+var6
+-1
+2
+Atom made_buttered_toast()
+NegatedAtom made_buttered_toast()
+end_variable
+begin_variable
+var5
+-1
+2
+Atom made_breakfast()
+NegatedAtom made_breakfast()
+end_variable
+0
+begin_state
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+end_state
+begin_goal
+1
+22 0
+end_goal
+27
+begin_operator
+activity-boil-water 
+3
+11 0
+7 0
+1 0
+1
+0 12 -1 0
+1
+end_operator
+begin_operator
+activity-make-breakfast 
+4
+21 0
+20 0
+19 0
+4 0
+1
+0 22 -1 0
+1
+end_operator
+begin_operator
+activity-make-breakfast 
+4
+21 0
+20 0
+18 0
+4 0
+1
+0 22 -1 0
+1
+end_operator
+begin_operator
+activity-make-buttered-toast 
+3
+17 0
+14 0
+6 0
+1
+0 21 -1 0
+1
+end_operator
+begin_operator
+activity-make-cereals 
+3
+16 0
+13 0
+5 0
+1
+0 20 -1 0
+1
+end_operator
+begin_operator
+activity-make-coffee 
+5
+10 0
+9 0
+8 0
+3 0
+12 0
+1
+0 19 -1 0
+1
+end_operator
+begin_operator
+activity-make-coffee 
+5
+10 0
+8 0
+5 0
+3 0
+12 0
+1
+0 19 -1 0
+1
+end_operator
+begin_operator
+activity-make-tea 
+5
+8 0
+5 0
+3 0
+2 0
+12 0
+1
+0 18 -1 0
+1
+end_operator
+begin_operator
+activity-make-tea 
+4
+8 0
+3 0
+2 0
+12 0
+1
+0 18 -1 0
+1
+end_operator
+begin_operator
+activity-make-tea 
+3
+8 0
+2 0
+12 0
+1
+0 18 -1 0
+1
+end_operator
+begin_operator
+activity-make-toast 
+2
+15 0
+0 0
+1
+0 17 -1 0
+1
+end_operator
+begin_operator
+take bowl
+0
+1
+0 16 -1 0
+1
+end_operator
+begin_operator
+take bread
+0
+1
+0 15 -1 0
+1
+end_operator
+begin_operator
+take butter
+0
+1
+0 14 -1 0
+1
+end_operator
+begin_operator
+take cereal
+0
+1
+0 13 -1 0
+1
+end_operator
+begin_operator
+take cloth
+0
+1
+0 11 -1 0
+1
+end_operator
+begin_operator
+take coffee
+0
+1
+0 10 -1 0
+1
+end_operator
+begin_operator
+take creamer
+0
+1
+0 9 -1 0
+1
+end_operator
+begin_operator
+take cup
+0
+1
+0 8 -1 0
+1
+end_operator
+begin_operator
+take keetle
+0
+1
+0 7 -1 0
+1
+end_operator
+begin_operator
+take knife
+0
+1
+0 6 -1 0
+1
+end_operator
+begin_operator
+take milk
+0
+1
+0 5 -1 0
+1
+end_operator
+begin_operator
+take spoon
+0
+1
+0 4 -1 0
+1
+end_operator
+begin_operator
+take sugar
+0
+1
+0 3 -1 0
+1
+end_operator
+begin_operator
+take tea_bag
+0
+1
+0 2 -1 0
+1
+end_operator
+begin_operator
+take water_jug
+0
+1
+0 1 -1 0
+1
+end_operator
+begin_operator
+use toaster
+0
+1
+0 0 -1 0
+1
+end_operator
+0
+begin_SG
+switch 22
+check 16
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+check 0
+check 0
+switch 21
+check 0
+switch 20
+check 0
+switch 19
+check 0
+switch 4
+check 0
+check 1
+1
+check 0
+check 0
+check 0
+switch 18
+check 0
+switch 4
+check 0
+check 1
+2
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 17
+check 0
+switch 14
+check 0
+switch 6
+check 0
+check 1
+3
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 16
+check 0
+switch 13
+check 0
+switch 5
+check 0
+check 1
+4
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 15
+check 0
+switch 0
+check 0
+check 1
+10
+check 0
+check 0
+check 0
+switch 11
+check 0
+switch 7
+check 0
+switch 1
+check 0
+check 1
+0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 10
+check 0
+switch 9
+check 0
+switch 8
+check 0
+switch 3
+check 0
+switch 12
+check 0
+check 1
+5
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 0
+switch 5
+check 0
+switch 3
+check 0
+switch 12
+check 0
+check 1
+6
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 8
+check 0
+switch 5
+check 0
+switch 3
+check 0
+switch 2
+check 0
+switch 12
+check 0
+check 1
+7
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+switch 2
+check 0
+switch 12
+check 0
+check 1
+8
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 2
+check 0
+switch 12
+check 0
+check 1
+9
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+end_SG
+begin_DTG
+0
+1
+0
+26
+0
+end_DTG
+begin_DTG
+0
+1
+0
+25
+0
+end_DTG
+begin_DTG
+0
+1
+0
+24
+0
+end_DTG
+begin_DTG
+0
+1
+0
+23
+0
+end_DTG
+begin_DTG
+0
+1
+0
+22
+0
+end_DTG
+begin_DTG
+0
+1
+0
+21
+0
+end_DTG
+begin_DTG
+0
+1
+0
+20
+0
+end_DTG
+begin_DTG
+0
+1
+0
+19
+0
+end_DTG
+begin_DTG
+0
+1
+0
+18
+0
+end_DTG
+begin_DTG
+0
+1
+0
+17
+0
+end_DTG
+begin_DTG
+0
+1
+0
+16
+0
+end_DTG
+begin_DTG
+0
+1
+0
+15
+0
+end_DTG
+begin_DTG
+0
+1
+0
+0
+3
+11 0
+7 0
+1 0
+end_DTG
+begin_DTG
+0
+1
+0
+14
+0
+end_DTG
+begin_DTG
+0
+1
+0
+13
+0
+end_DTG
+begin_DTG
+0
+1
+0
+12
+0
+end_DTG
+begin_DTG
+0
+1
+0
+11
+0
+end_DTG
+begin_DTG
+0
+1
+0
+10
+2
+15 0
+0 0
+end_DTG
+begin_DTG
+0
+1
+0
+9
+3
+8 0
+2 0
+12 0
+end_DTG
+begin_DTG
+0
+2
+0
+5
+5
+10 0
+9 0
+8 0
+3 0
+12 0
+0
+6
+5
+10 0
+8 0
+5 0
+3 0
+12 0
+end_DTG
+begin_DTG
+0
+1
+0
+4
+3
+16 0
+13 0
+5 0
+end_DTG
+begin_DTG
+0
+1
+0
+3
+3
+17 0
+14 0
+6 0
+end_DTG
+begin_DTG
+0
+2
+0
+1
+4
+21 0
+20 0
+19 0
+4 0
+0
+2
+4
+21 0
+20 0
+18 0
+4 0
+end_DTG
+begin_CG
+1
+17 1
+1
+12 1
+1
+18 3
+2
+19 2
+18 2
+1
+22 2
+3
+20 1
+19 1
+18 1
+1
+21 1
+1
+12 1
+2
+19 2
+18 3
+1
+19 1
+1
+19 2
+1
+12 1
+2
+19 2
+18 3
+1
+20 1
+1
+21 1
+1
+17 1
+1
+20 1
+1
+21 1
+1
+22 1
+1
+22 1
+1
+22 2
+1
+22 2
+0
+end_CG

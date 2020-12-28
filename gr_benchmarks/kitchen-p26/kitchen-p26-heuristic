@@ -1,0 +1,351 @@
+begin_version
+3
+end_version
+begin_metric
+1
+end_metric
+9
+begin_variable
+var48
+-1
+2
+Atom taken(dressing)
+<none of those>
+end_variable
+begin_variable
+var43
+-1
+2
+Atom taken(bowl)
+<none of those>
+end_variable
+begin_variable
+var35
+-1
+2
+Atom taken(salad_tosser)
+<none of those>
+end_variable
+begin_variable
+var22
+-1
+2
+Atom taken(bread)
+<none of those>
+end_variable
+begin_variable
+var21
+-1
+2
+Atom taken(plate)
+<none of those>
+end_variable
+begin_variable
+var38
+-1
+2
+Atom made_salad()
+<none of those>
+end_variable
+begin_variable
+var9
+-1
+2
+Atom taken(cheese)
+<none of those>
+end_variable
+begin_variable
+var5
+-1
+2
+Atom made_cheese_sandwich()
+<none of those>
+end_variable
+begin_variable
+var12
+-1
+2
+Atom made_dinner()
+<none of those>
+end_variable
+0
+begin_state
+1
+1
+1
+1
+1
+1
+1
+1
+1
+end_state
+begin_goal
+1
+8 0
+end_goal
+12
+begin_operator
+take bowl
+0
+1
+0
+1 -1 0
+1
+end_operator
+begin_operator
+take bread
+0
+1
+0
+3 -1 0
+1
+end_operator
+begin_operator
+take cheese
+0
+1
+0
+6 -1 0
+1
+end_operator
+begin_operator
+take plate
+0
+1
+0
+4 -1 0
+1
+end_operator
+begin_operator
+take dressing
+0
+1
+0
+0 -1 0
+1
+end_operator
+begin_operator
+take salad_tosser
+0
+1
+0
+2 -1 0
+1
+end_operator
+begin_operator
+activity-make-cheese-sandwich 
+3
+6 0
+4 0
+3 0
+1
+0
+7 -1 0
+1
+end_operator
+begin_operator
+activity-make-salad 
+4
+4 0
+2 0
+1 0
+0 0
+1
+0
+5 -1 0
+1
+end_operator
+begin_operator
+activity-make-salad 
+3
+4 0
+2 0
+1 0
+1
+0
+5 -1 0
+1
+end_operator
+begin_operator
+activity-make-dinner 
+1
+7 0
+1
+0
+8 -1 0
+1
+end_operator
+begin_operator
+activity-make-dinner 
+1
+5 0
+1
+0
+8 -1 0
+1
+end_operator
+begin_operator
+activity-make-dinner 
+2
+7 0
+5 0
+1
+0
+8 -1 0
+1
+end_operator
+0
+begin_SG
+switch 7
+check 6
+0
+1
+2
+3
+4
+5
+switch 6
+check 1
+9
+check 0
+check 0
+switch 5
+check 0
+check 1
+11
+check 0
+check 0
+check 0
+switch 6
+check 0
+switch 4
+check 0
+switch 3
+check 0
+check 1
+6
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+switch 2
+check 0
+switch 1
+check 0
+switch 0
+check 1
+8
+check 1
+7
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 1
+10
+check 0
+check 0
+end_SG
+begin_DTG
+0
+1
+0
+4
+0
+end_DTG
+begin_DTG
+0
+1
+0
+0
+0
+end_DTG
+begin_DTG
+0
+1
+0
+5
+0
+end_DTG
+begin_DTG
+0
+1
+0
+1
+0
+end_DTG
+begin_DTG
+0
+1
+0
+3
+0
+end_DTG
+begin_DTG
+0
+1
+0
+8
+3
+4 0
+2 0
+1 0
+end_DTG
+begin_DTG
+0
+1
+0
+2
+0
+end_DTG
+begin_DTG
+0
+1
+0
+6
+3
+6 0
+4 0
+3 0
+end_DTG
+begin_DTG
+0
+2
+0
+9
+1
+7 0
+0
+10
+1
+5 0
+end_DTG
+begin_CG
+1
+5 1
+1
+5 2
+1
+5 2
+1
+7 1
+2
+7 1
+5 2
+1
+8 2
+1
+7 1
+1
+8 2
+0
+end_CG

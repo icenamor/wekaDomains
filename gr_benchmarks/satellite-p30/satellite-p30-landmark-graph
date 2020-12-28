@@ -1,0 +1,46 @@
+digraph G {
+v21  [label="Atom calibrated(instrument8), Atom calibrated(instrument7), Atom calibrated(instrument4), Atom calibrated(instrument3)"]
+v19  [label="Atom power_on(instrument8), Atom power_on(instrument7), Atom power_on(instrument3), Atom power_on(instrument4)"]
+v5  [label="Atom pointing(satellite4, phenomenon8), Atom pointing(satellite1, phenomenon8), Atom pointing(satellite0, phenomenon8)"]
+v20  [label="Atom pointing(satellite4, star14), Atom pointing(satellite3, star14), Atom pointing(satellite1, star14)"]
+v22  [label="Atom pointing(satellite4, phenomenon13), Atom pointing(satellite3, phenomenon13), Atom pointing(satellite1, phenomenon13)"]
+v18  [label="NegatedAtom have_image(phenomenon8, infrared1)"]
+v4  [label="Atom have_image(phenomenon8, infrared1)"]
+v17  [label="NegatedAtom have_image(phenomenon12, image2)"]
+v3  [label="Atom have_image(phenomenon12, image2)"]
+v16  [label="NegatedAtom have_image(phenomenon13, image3)"]
+v8  [label="Atom have_image(phenomenon13, image3)"]
+v13  [label="NegatedAtom have_image(planet10, image3)"]
+v7  [label="Atom have_image(planet10, image3)"]
+v15  [label="NegatedAtom have_image(planet11, image3)"]
+v6  [label="Atom have_image(planet11, image3)"]
+v14  [label="NegatedAtom have_image(star14, image3)"]
+v9  [label="Atom have_image(star14, image3)"]
+v10  [label="Atom pointing(satellite2, phenomenon6)"]
+v2  [label="Atom pointing(satellite2, phenomenon12)"]
+v1  [label="Atom pointing(satellite3, star0)"]
+v12  [label="Atom pointing(satellite3, planet10)"]
+v11  [label="Atom pointing(satellite4, star9)"]
+v0  [label="Atom pointing(satellite4, planet11)"]
+v21 -> v9
+v21 -> v8
+v21 -> v6
+v21 -> v7
+v19 -> v9
+v19 -> v21
+v19 -> v8
+v19 -> v6
+v19 -> v7
+v5 -> v4
+v20 -> v9
+v22 -> v8
+v18 -> v4
+v17 -> v3
+v16 -> v8
+v13 -> v7
+v15 -> v6
+v14 -> v9
+v10 -> v2
+v12 -> v1
+v11 -> v0
+}

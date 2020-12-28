@@ -1,0 +1,78 @@
+digraph G {
+v4  [label="Atom in(crate2, truck0), Atom in(crate2, truck1), Atom in(crate2, truck2)"]
+v2  [label="Atom in(crate1, truck0), Atom in(crate1, truck1), Atom in(crate1, truck2)"]
+v3  [label="Atom at(truck2, distributor2), Atom at(truck1, distributor2), Atom at(truck0, distributor2)"]
+v7  [label="Atom on(crate2, pallet5)"]
+v16  [label="Atom on(crate2, crate0)"]
+v17  [label="Atom lifting(hoist5, crate2)"]
+v14  [label="Atom lifting(hoist2, crate2)"]
+v18  [label="Atom on(crate1, pallet5)"]
+v6  [label="Atom on(crate1, pallet3)"]
+v19  [label="Atom lifting(hoist5, crate1)"]
+v20  [label="Atom lifting(hoist3, crate1)"]
+v8  [label="Atom on(crate0, pallet2)"]
+v21  [label="Atom clear(crate2)"]
+v5  [label="Atom clear(crate1)"]
+v0  [label="Atom at(crate2, depot2)"]
+v10  [label="Atom at(crate1, distributor2)"]
+v9  [label="Atom available(hoist5)"]
+v11  [label="Atom available(hoist3)"]
+v12  [label="Atom available(hoist2)"]
+v1  [label="NegatedAtom clear(pallet5)"]
+v15  [label="Atom clear(pallet5)"]
+v13  [label="Atom clear(pallet3)"]
+v4 -> v17
+v4 -> v7
+v2 -> v6
+v2 -> v20
+v3 -> v2
+v3 -> v6
+v3 -> v17
+v3 -> v20
+v3 -> v7
+v16 -> v14
+v16 -> v17
+v16 -> v7
+v17 -> v7
+v14 -> v17
+v14 -> v4
+v14 -> v7
+v18 -> v6
+v18 -> v15
+v18 -> v19
+v18 -> v20
+v18 -> v7
+v19 -> v2
+v19 -> v6
+v19 -> v20
+v19 -> v7
+v20 -> v6
+v21 -> v14
+v21 -> v17
+v21 -> v7
+v5 -> v6
+v5 -> v15
+v5 -> v19
+v5 -> v7
+v0 -> v14
+v0 -> v17
+v0 -> v7
+v10 -> v6
+v10 -> v15
+v10 -> v19
+v10 -> v7
+v9 -> v6
+v9 -> v15
+v9 -> v17
+v9 -> v19
+v9 -> v7
+v11 -> v6
+v11 -> v20
+v12 -> v14
+v12 -> v17
+v12 -> v7
+v1 -> v15
+v15 -> v6
+v15 -> v7
+v13 -> v6
+}

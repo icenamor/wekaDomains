@@ -1,0 +1,45 @@
+digraph G {
+v9  [label="Atom at(tru2, apt2), Atom at(tru2, apt7), Atom at(obj66, apt2), Atom at(obj66, apt7)"]
+v8  [label="Atom in(obj22, tru1), Atom in(obj22, tru3), Atom in(obj22, tru4)"]
+v10  [label="Atom in(obj99, tru1), Atom in(obj99, tru3), Atom in(obj99, tru4)"]
+v4  [label="Atom in(obj22, tru2)"]
+v6  [label="Atom at(obj22, pos21)"]
+v5  [label="Atom at(obj22, pos13)"]
+v14  [label="Atom in(obj44, tru2)"]
+v1  [label="Atom at(obj44, pos21)"]
+v3  [label="Atom at(obj44, pos12)"]
+v15  [label="Atom in(obj66, tru2)"]
+v13  [label="Atom at(obj66, pos22)"]
+v0  [label="Atom at(obj66, pos12)"]
+v7  [label="Atom at(obj99, pos12)"]
+v2  [label="Atom at(obj99, pos11)"]
+v11  [label="Atom at(tru2, pos22)"]
+v12  [label="Atom at(tru2, pos21)"]
+v9 -> v14
+v9 -> v13
+v9 -> v1
+v9 -> v15
+v9 -> v5
+v8 -> v5
+v10 -> v7
+v4 -> v5
+v6 -> v4
+v6 -> v5
+v14 -> v1
+v3 -> v14
+v3 -> v1
+v15 -> v13
+v0 -> v13
+v0 -> v15
+v2 -> v10
+v2 -> v7
+v11 -> v14
+v11 -> v13
+v11 -> v12
+v11 -> v1
+v11 -> v15
+v11 -> v5
+v12 -> v4
+v12 -> v1
+v12 -> v5
+}

@@ -1,0 +1,263 @@
+digraph G {
+v21  [label="Atom top(cd, p1), Atom top(cd, p2), Atom top(cd, p3), Atom top(cd, p4)"]
+v20  [label="Atom top(cc, p1), Atom top(cc, p2), Atom top(cc, p3), Atom top(cc, p4)"]
+v16  [label="Atom top(cf, p1)"]
+v23  [label="Atom on(cc, cf)"]
+v29  [label="Atom on(ce, cd)"]
+v15  [label="Atom loaded(r1, cd)"]
+v14  [label="Atom holding(k3, cd)"]
+v13  [label="Atom holding(k2, cd)"]
+v33  [label="Atom on(ca, cc)"]
+v12  [label="Atom loaded(r1, cc)"]
+v11  [label="Atom holding(k3, cc)"]
+v10  [label="Atom holding(k1, cc)"]
+v18  [label="<none of those>"]
+v5  [label="Atom in(cd, p3)"]
+v17  [label="<none of those>"]
+v46  [label="Atom in(cc, p3)"]
+v3  [label="Atom in(cb, p3)"]
+v9  [label="Atom in(cb, p1)"]
+v42  [label="Atom in(ca, p3)"]
+v41  [label="Atom in(ca, p1)"]
+v40  [label="Atom empty(k3)"]
+v39  [label="Atom top(cb, p1)"]
+v38  [label="Atom on(ce, cb)"]
+v37  [label="Atom loaded(r1, cb)"]
+v36  [label="Atom holding(k3, cb)"]
+v35  [label="Atom holding(k1, cb)"]
+v34  [label="Atom top(ca, p1)"]
+v22  [label="Atom on(cb, ca)"]
+v8  [label="Atom loaded(r1, ca)"]
+v7  [label="Atom holding(k3, ca)"]
+v45  [label="Atom holding(k1, ca)"]
+v19  [label="NegatedAtom empty(k1)"]
+v44  [label="Atom empty(k1)"]
+v43  [label="Atom top(ce, p1)"]
+v30  [label="Atom on(cf, ce)"]
+v6  [label="Atom holding(k1, ce)"]
+v31  [label="Atom in(cf, p1)"]
+v1  [label="Atom in(ce, p1)"]
+v32  [label="Atom unloaded(r1)"]
+v2  [label="Atom top(pallet, p3)"]
+v26  [label="Atom on(ca, pallet)"]
+v27  [label="Atom at(r1, l4)"]
+v28  [label="Atom at(r1, l3)"]
+v25  [label="Atom at(r1, l2)"]
+v24  [label="Atom at(r1, l1)"]
+v47  [label="NegatedAtom occupied(l3)"]
+v0  [label="NegatedAtom occupied(l4)"]
+v4  [label="NegatedAtom occupied(l1)"]
+v21 -> v29
+v20 -> v33
+v16 -> v29
+v16 -> v3
+v16 -> v43
+v16 -> v42
+v16 -> v23
+v16 -> v33
+v15 -> v5
+v15 -> v14
+v14 -> v5
+v13 -> v29
+v13 -> v15
+v13 -> v5
+v13 -> v14
+v12 -> v46
+v12 -> v11
+v11 -> v46
+v10 -> v12
+v10 -> v39
+v10 -> v29
+v10 -> v46
+v10 -> v44
+v10 -> v3
+v10 -> v42
+v10 -> v23
+v10 -> v11
+v10 -> v33
+v18 -> v5
+v17 -> v46
+v9 -> v34
+v9 -> v37
+v9 -> v35
+v9 -> v3
+v9 -> v42
+v9 -> v33
+v41 -> v45
+v41 -> v8
+v41 -> v42
+v41 -> v33
+v40 -> v36
+v40 -> v46
+v40 -> v3
+v40 -> v42
+v40 -> v7
+v40 -> v5
+v40 -> v11
+v40 -> v14
+v39 -> v36
+v39 -> v34
+v39 -> v29
+v39 -> v37
+v39 -> v35
+v39 -> v3
+v39 -> v8
+v39 -> v42
+v39 -> v7
+v39 -> v33
+v38 -> v36
+v38 -> v39
+v38 -> v29
+v38 -> v37
+v38 -> v35
+v38 -> v3
+v38 -> v42
+v38 -> v6
+v38 -> v33
+v37 -> v36
+v37 -> v3
+v36 -> v3
+v35 -> v36
+v35 -> v37
+v35 -> v45
+v35 -> v3
+v35 -> v8
+v35 -> v42
+v35 -> v7
+v35 -> v33
+v34 -> v36
+v34 -> v37
+v34 -> v45
+v34 -> v3
+v34 -> v8
+v34 -> v42
+v34 -> v7
+v34 -> v33
+v22 -> v34
+v22 -> v37
+v22 -> v45
+v22 -> v35
+v22 -> v3
+v22 -> v8
+v22 -> v42
+v22 -> v7
+v22 -> v33
+v8 -> v42
+v8 -> v7
+v7 -> v42
+v45 -> v8
+v45 -> v42
+v45 -> v7
+v45 -> v33
+v19 -> v44
+v44 -> v36
+v44 -> v39
+v44 -> v34
+v44 -> v29
+v44 -> v46
+v44 -> v45
+v44 -> v35
+v44 -> v3
+v44 -> v43
+v44 -> v42
+v44 -> v7
+v44 -> v6
+v44 -> v11
+v44 -> v33
+v43 -> v36
+v43 -> v39
+v43 -> v34
+v43 -> v29
+v43 -> v37
+v43 -> v3
+v43 -> v8
+v43 -> v42
+v43 -> v7
+v43 -> v6
+v43 -> v33
+v30 -> v29
+v30 -> v3
+v30 -> v43
+v30 -> v42
+v30 -> v33
+v6 -> v29
+v31 -> v29
+v31 -> v3
+v31 -> v43
+v31 -> v42
+v31 -> v33
+v1 -> v39
+v1 -> v29
+v1 -> v3
+v1 -> v42
+v1 -> v6
+v1 -> v33
+v32 -> v12
+v32 -> v29
+v32 -> v15
+v32 -> v37
+v32 -> v46
+v32 -> v3
+v32 -> v8
+v32 -> v42
+v32 -> v5
+v2 -> v46
+v2 -> v3
+v2 -> v42
+v2 -> v5
+v26 -> v45
+v26 -> v8
+v26 -> v42
+v26 -> v33
+v27 -> v36
+v27 -> v46
+v27 -> v3
+v27 -> v42
+v27 -> v7
+v27 -> v5
+v27 -> v11
+v27 -> v14
+v28 -> v29
+v28 -> v15
+v28 -> v5
+v28 -> v14
+v25 -> v27
+v25 -> v28
+v25 -> v29
+v25 -> v46
+v25 -> v3
+v25 -> v42
+v25 -> v5
+v25 -> v24
+v24 -> v36
+v24 -> v12
+v24 -> v29
+v24 -> v37
+v24 -> v46
+v24 -> v3
+v24 -> v8
+v24 -> v42
+v24 -> v7
+v24 -> v11
+v47 -> v28
+v47 -> v29
+v47 -> v15
+v47 -> v5
+v0 -> v36
+v0 -> v27
+v0 -> v46
+v0 -> v3
+v0 -> v42
+v0 -> v7
+v0 -> v5
+v0 -> v11
+v0 -> v14
+v4 -> v12
+v4 -> v29
+v4 -> v37
+v4 -> v46
+v4 -> v3
+v4 -> v8
+v4 -> v42
+v4 -> v24
+}

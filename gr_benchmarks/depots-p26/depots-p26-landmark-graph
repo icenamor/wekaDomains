@@ -1,0 +1,24 @@
+digraph G {
+v8  [label="Atom on(crate1, pallet0)"]
+v1  [label="Atom on(crate1, crate0)"]
+v7  [label="Atom lifting(hoist0, crate1)"]
+v0  [label="Atom on(crate0, pallet1)"]
+v6  [label="Atom clear(crate1)"]
+v5  [label="Atom clear(crate0)"]
+v4  [label="Atom at(crate1, depot0)"]
+v3  [label="Atom at(crate0, depot1)"]
+v9  [label="Atom available(hoist1)"]
+v2  [label="Atom available(hoist0)"]
+v8 -> v1
+v8 -> v7
+v7 -> v1
+v6 -> v1
+v6 -> v7
+v5 -> v1
+v4 -> v1
+v4 -> v7
+v3 -> v1
+v9 -> v1
+v2 -> v1
+v2 -> v7
+}

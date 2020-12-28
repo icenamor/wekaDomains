@@ -1,0 +1,104 @@
+digraph G {
+v24  [label="Atom in(obj13, tru1), Atom in(obj13, tru3), Atom in(obj13, tru4)"]
+v23  [label="Atom in(obj13, apn1), Atom in(obj13, apn2), Atom in(obj13, apn3)"]
+v18  [label="Atom in(obj23, tru1), Atom in(obj23, tru3), Atom in(obj23, tru4)"]
+v22  [label="Atom in(obj23, apn1), Atom in(obj23, apn2), Atom in(obj23, apn3)"]
+v20  [label="Atom in(obj55, tru1), Atom in(obj55, tru3), Atom in(obj55, tru4)"]
+v21  [label="Atom in(obj55, apn1), Atom in(obj55, apn2), Atom in(obj55, apn3)"]
+v19  [label="Atom at(tru4, apt1), Atom at(tru3, apt1), Atom at(tru1, apt1)"]
+v1  [label="Atom in(obj13, tru2)"]
+v12  [label="Atom at(obj13, pos22)"]
+v0  [label="Atom at(obj13, pos11)"]
+v17  [label="Atom at(obj13, apt2)"]
+v14  [label="Atom at(obj13, apt1)"]
+v13  [label="Atom in(obj23, tru2)"]
+v15  [label="Atom at(obj23, pos22)"]
+v11  [label="Atom at(obj23, pos12)"]
+v10  [label="Atom at(obj23, apt2)"]
+v9  [label="Atom at(obj23, apt1)"]
+v8  [label="Atom in(obj55, tru2)"]
+v16  [label="Atom at(obj55, pos23)"]
+v7  [label="Atom at(obj55, pos13)"]
+v6  [label="Atom at(obj55, apt2)"]
+v5  [label="Atom at(obj55, apt1)"]
+v4  [label="Atom at(tru2, pos23)"]
+v3  [label="Atom at(tru2, pos22)"]
+v2  [label="Atom at(tru2, apt2)"]
+v24 -> v12
+v24 -> v17
+v24 -> v1
+v24 -> v14
+v23 -> v12
+v23 -> v17
+v23 -> v1
+v18 -> v11
+v22 -> v9
+v22 -> v11
+v20 -> v16
+v20 -> v5
+v20 -> v8
+v20 -> v6
+v21 -> v16
+v21 -> v8
+v21 -> v6
+v19 -> v12
+v19 -> v16
+v19 -> v5
+v19 -> v17
+v19 -> v8
+v19 -> v1
+v19 -> v18
+v19 -> v11
+v19 -> v14
+v19 -> v6
+v1 -> v12
+v0 -> v12
+v0 -> v24
+v0 -> v17
+v0 -> v1
+v0 -> v14
+v17 -> v12
+v17 -> v1
+v14 -> v12
+v14 -> v17
+v14 -> v1
+v14 -> v23
+v13 -> v9
+v13 -> v10
+v13 -> v11
+v15 -> v9
+v15 -> v10
+v15 -> v13
+v15 -> v11
+v10 -> v9
+v10 -> v22
+v10 -> v11
+v9 -> v18
+v9 -> v11
+v8 -> v16
+v7 -> v16
+v7 -> v5
+v7 -> v8
+v7 -> v6
+v7 -> v20
+v6 -> v16
+v6 -> v8
+v5 -> v16
+v5 -> v21
+v5 -> v8
+v5 -> v6
+v4 -> v16
+v3 -> v2
+v3 -> v4
+v3 -> v12
+v3 -> v16
+v3 -> v13
+v3 -> v11
+v2 -> v9
+v2 -> v12
+v2 -> v16
+v2 -> v10
+v2 -> v8
+v2 -> v1
+v2 -> v11
+}

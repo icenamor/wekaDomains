@@ -1,0 +1,476 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+15
+begin_variable
+var68
+-1
+2
+Atom recon-performed(taurus)
+NegatedAtom recon-performed(taurus)
+end_variable
+begin_variable
+var65
+-1
+2
+Atom recon-performed(perseus)
+NegatedAtom recon-performed(perseus)
+end_variable
+begin_variable
+var63
+-1
+2
+Atom recon-performed(leo)
+NegatedAtom recon-performed(leo)
+end_variable
+begin_variable
+var8
+-1
+2
+Atom access-obtained(taurus)
+NegatedAtom access-obtained(taurus)
+end_variable
+begin_variable
+var58
+-1
+2
+Atom modified-files(taurus)
+NegatedAtom modified-files(taurus)
+end_variable
+begin_variable
+var28
+-1
+2
+Atom deleted-logs(taurus)
+NegatedAtom deleted-logs(taurus)
+end_variable
+begin_variable
+var88
+-1
+2
+Atom vandalized(taurus)
+NegatedAtom vandalized(taurus)
+end_variable
+begin_variable
+var5
+-1
+2
+Atom access-obtained(perseus)
+NegatedAtom access-obtained(perseus)
+end_variable
+begin_variable
+var55
+-1
+2
+Atom modified-files(perseus)
+NegatedAtom modified-files(perseus)
+end_variable
+begin_variable
+var25
+-1
+2
+Atom deleted-logs(perseus)
+NegatedAtom deleted-logs(perseus)
+end_variable
+begin_variable
+var85
+-1
+2
+Atom vandalized(perseus)
+NegatedAtom vandalized(perseus)
+end_variable
+begin_variable
+var3
+-1
+2
+Atom access-obtained(leo)
+NegatedAtom access-obtained(leo)
+end_variable
+begin_variable
+var53
+-1
+2
+Atom modified-files(leo)
+NegatedAtom modified-files(leo)
+end_variable
+begin_variable
+var23
+-1
+2
+Atom deleted-logs(leo)
+NegatedAtom deleted-logs(leo)
+end_variable
+begin_variable
+var83
+-1
+2
+Atom vandalized(leo)
+NegatedAtom vandalized(leo)
+end_variable
+0
+begin_state
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+end_state
+begin_goal
+3
+6 0
+10 0
+14 0
+end_goal
+15
+begin_operator
+break-into leo
+1
+2 0
+1
+0 11 -1 0
+0
+end_operator
+begin_operator
+break-into perseus
+1
+1 0
+1
+0 7 -1 0
+0
+end_operator
+begin_operator
+break-into taurus
+1
+0 0
+1
+0 3 -1 0
+0
+end_operator
+begin_operator
+clean leo
+1
+11 0
+1
+0 13 -1 0
+0
+end_operator
+begin_operator
+clean perseus
+1
+7 0
+1
+0 9 -1 0
+0
+end_operator
+begin_operator
+clean taurus
+1
+3 0
+1
+0 5 -1 0
+0
+end_operator
+begin_operator
+modify-files leo
+1
+11 0
+1
+0 12 -1 0
+0
+end_operator
+begin_operator
+modify-files perseus
+1
+7 0
+1
+0 8 -1 0
+0
+end_operator
+begin_operator
+modify-files taurus
+1
+3 0
+1
+0 4 -1 0
+0
+end_operator
+begin_operator
+recon leo
+0
+1
+0 2 -1 0
+0
+end_operator
+begin_operator
+recon perseus
+0
+1
+0 1 -1 0
+0
+end_operator
+begin_operator
+recon taurus
+0
+1
+0 0 -1 0
+0
+end_operator
+begin_operator
+vandalize leo
+2
+13 0
+12 0
+1
+0 14 -1 0
+0
+end_operator
+begin_operator
+vandalize perseus
+2
+9 0
+8 0
+1
+0 10 -1 0
+0
+end_operator
+begin_operator
+vandalize taurus
+2
+5 0
+4 0
+1
+0 6 -1 0
+0
+end_operator
+0
+begin_SG
+switch 11
+check 3
+9
+10
+11
+check 2
+3
+6
+check 0
+switch 7
+check 0
+check 2
+4
+7
+check 0
+switch 3
+check 0
+check 2
+5
+8
+check 0
+switch 13
+check 0
+switch 12
+check 0
+check 1
+12
+check 0
+check 0
+check 0
+switch 9
+check 0
+switch 8
+check 0
+check 1
+13
+check 0
+check 0
+check 0
+switch 5
+check 0
+switch 4
+check 0
+check 1
+14
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 1
+0
+check 0
+switch 1
+check 0
+check 1
+1
+check 0
+switch 0
+check 0
+check 1
+2
+check 0
+check 0
+end_SG
+begin_DTG
+0
+1
+0
+11
+0
+end_DTG
+begin_DTG
+0
+1
+0
+10
+0
+end_DTG
+begin_DTG
+0
+1
+0
+9
+0
+end_DTG
+begin_DTG
+0
+1
+0
+2
+1
+0 0
+end_DTG
+begin_DTG
+0
+1
+0
+8
+1
+3 0
+end_DTG
+begin_DTG
+0
+1
+0
+5
+1
+3 0
+end_DTG
+begin_DTG
+0
+1
+0
+14
+2
+5 0
+4 0
+end_DTG
+begin_DTG
+0
+1
+0
+1
+1
+1 0
+end_DTG
+begin_DTG
+0
+1
+0
+7
+1
+7 0
+end_DTG
+begin_DTG
+0
+1
+0
+4
+1
+7 0
+end_DTG
+begin_DTG
+0
+1
+0
+13
+2
+9 0
+8 0
+end_DTG
+begin_DTG
+0
+1
+0
+0
+1
+2 0
+end_DTG
+begin_DTG
+0
+1
+0
+6
+1
+11 0
+end_DTG
+begin_DTG
+0
+1
+0
+3
+1
+11 0
+end_DTG
+begin_DTG
+0
+1
+0
+12
+2
+13 0
+12 0
+end_DTG
+begin_CG
+1
+3 1
+1
+7 1
+1
+11 1
+2
+5 1
+4 1
+1
+6 1
+1
+6 1
+0
+2
+9 1
+8 1
+1
+10 1
+1
+10 1
+0
+2
+13 1
+12 1
+1
+14 1
+1
+14 1
+0
+end_CG

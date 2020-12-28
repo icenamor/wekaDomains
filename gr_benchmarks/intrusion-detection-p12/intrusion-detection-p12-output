@@ -1,0 +1,538 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+17
+begin_variable
+var64
+-1
+2
+Atom recon-performed(libra)
+NegatedAtom recon-performed(libra)
+end_variable
+begin_variable
+var63
+-1
+2
+Atom recon-performed(leo)
+NegatedAtom recon-performed(leo)
+end_variable
+begin_variable
+var60
+-1
+2
+Atom recon-performed(andromeda)
+NegatedAtom recon-performed(andromeda)
+end_variable
+begin_variable
+var4
+-1
+2
+Atom access-obtained(libra)
+NegatedAtom access-obtained(libra)
+end_variable
+begin_variable
+var74
+-1
+2
+Atom root-access-obtained(libra)
+NegatedAtom root-access-obtained(libra)
+end_variable
+begin_variable
+var34
+-1
+2
+Atom files-downloaded(libra)
+NegatedAtom files-downloaded(libra)
+end_variable
+begin_variable
+var24
+-1
+2
+Atom deleted-logs(libra)
+NegatedAtom deleted-logs(libra)
+end_variable
+begin_variable
+var14
+-1
+2
+Atom data-stolen-from(libra)
+NegatedAtom data-stolen-from(libra)
+end_variable
+begin_variable
+var3
+-1
+2
+Atom access-obtained(leo)
+NegatedAtom access-obtained(leo)
+end_variable
+begin_variable
+var53
+-1
+2
+Atom modified-files(leo)
+NegatedAtom modified-files(leo)
+end_variable
+begin_variable
+var23
+-1
+2
+Atom deleted-logs(leo)
+NegatedAtom deleted-logs(leo)
+end_variable
+begin_variable
+var83
+-1
+2
+Atom vandalized(leo)
+NegatedAtom vandalized(leo)
+end_variable
+begin_variable
+var0
+-1
+2
+Atom access-obtained(andromeda)
+NegatedAtom access-obtained(andromeda)
+end_variable
+begin_variable
+var70
+-1
+2
+Atom root-access-obtained(andromeda)
+NegatedAtom root-access-obtained(andromeda)
+end_variable
+begin_variable
+var30
+-1
+2
+Atom files-downloaded(andromeda)
+NegatedAtom files-downloaded(andromeda)
+end_variable
+begin_variable
+var20
+-1
+2
+Atom deleted-logs(andromeda)
+NegatedAtom deleted-logs(andromeda)
+end_variable
+begin_variable
+var10
+-1
+2
+Atom data-stolen-from(andromeda)
+NegatedAtom data-stolen-from(andromeda)
+end_variable
+0
+begin_state
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+end_state
+begin_goal
+3
+7 0
+11 0
+16 0
+end_goal
+17
+begin_operator
+break-into andromeda
+1
+2 0
+1
+0 12 -1 0
+0
+end_operator
+begin_operator
+break-into leo
+1
+1 0
+1
+0 8 -1 0
+0
+end_operator
+begin_operator
+break-into libra
+1
+0 0
+1
+0 3 -1 0
+0
+end_operator
+begin_operator
+clean andromeda
+1
+12 0
+1
+0 15 -1 0
+0
+end_operator
+begin_operator
+clean leo
+1
+8 0
+1
+0 10 -1 0
+0
+end_operator
+begin_operator
+clean libra
+1
+3 0
+1
+0 6 -1 0
+0
+end_operator
+begin_operator
+download-files andromeda
+1
+13 0
+1
+0 14 -1 0
+0
+end_operator
+begin_operator
+download-files libra
+1
+4 0
+1
+0 5 -1 0
+0
+end_operator
+begin_operator
+gain-root andromeda
+1
+12 0
+1
+0 13 -1 0
+0
+end_operator
+begin_operator
+gain-root libra
+1
+3 0
+1
+0 4 -1 0
+0
+end_operator
+begin_operator
+modify-files leo
+1
+8 0
+1
+0 9 -1 0
+0
+end_operator
+begin_operator
+recon andromeda
+0
+1
+0 2 -1 0
+0
+end_operator
+begin_operator
+recon leo
+0
+1
+0 1 -1 0
+0
+end_operator
+begin_operator
+recon libra
+0
+1
+0 0 -1 0
+0
+end_operator
+begin_operator
+steal-data andromeda
+2
+15 0
+14 0
+1
+0 16 -1 0
+0
+end_operator
+begin_operator
+steal-data libra
+2
+6 0
+5 0
+1
+0 7 -1 0
+0
+end_operator
+begin_operator
+vandalize leo
+2
+10 0
+9 0
+1
+0 11 -1 0
+0
+end_operator
+0
+begin_SG
+switch 12
+check 3
+11
+12
+13
+check 2
+3
+8
+check 0
+switch 8
+check 0
+check 2
+4
+10
+check 0
+switch 3
+check 0
+check 2
+5
+9
+check 0
+switch 15
+check 0
+switch 14
+check 0
+check 1
+14
+check 0
+check 0
+check 0
+switch 10
+check 0
+switch 9
+check 0
+check 1
+16
+check 0
+check 0
+check 0
+switch 6
+check 0
+switch 5
+check 0
+check 1
+15
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 1
+0
+check 0
+switch 1
+check 0
+check 1
+1
+check 0
+switch 0
+check 0
+check 1
+2
+check 0
+switch 13
+check 0
+check 1
+6
+check 0
+switch 4
+check 0
+check 1
+7
+check 0
+check 0
+end_SG
+begin_DTG
+0
+1
+0
+13
+0
+end_DTG
+begin_DTG
+0
+1
+0
+12
+0
+end_DTG
+begin_DTG
+0
+1
+0
+11
+0
+end_DTG
+begin_DTG
+0
+1
+0
+2
+1
+0 0
+end_DTG
+begin_DTG
+0
+1
+0
+9
+1
+3 0
+end_DTG
+begin_DTG
+0
+1
+0
+7
+1
+4 0
+end_DTG
+begin_DTG
+0
+1
+0
+5
+1
+3 0
+end_DTG
+begin_DTG
+0
+1
+0
+15
+2
+6 0
+5 0
+end_DTG
+begin_DTG
+0
+1
+0
+1
+1
+1 0
+end_DTG
+begin_DTG
+0
+1
+0
+10
+1
+8 0
+end_DTG
+begin_DTG
+0
+1
+0
+4
+1
+8 0
+end_DTG
+begin_DTG
+0
+1
+0
+16
+2
+10 0
+9 0
+end_DTG
+begin_DTG
+0
+1
+0
+0
+1
+2 0
+end_DTG
+begin_DTG
+0
+1
+0
+8
+1
+12 0
+end_DTG
+begin_DTG
+0
+1
+0
+6
+1
+13 0
+end_DTG
+begin_DTG
+0
+1
+0
+3
+1
+12 0
+end_DTG
+begin_DTG
+0
+1
+0
+14
+2
+15 0
+14 0
+end_DTG
+begin_CG
+1
+3 1
+1
+8 1
+1
+12 1
+2
+6 1
+4 1
+1
+5 1
+1
+7 1
+1
+7 1
+0
+2
+10 1
+9 1
+1
+11 1
+1
+11 1
+0
+2
+15 1
+13 1
+1
+14 1
+1
+16 1
+1
+16 1
+0
+end_CG

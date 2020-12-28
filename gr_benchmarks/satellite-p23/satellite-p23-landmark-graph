@@ -1,0 +1,56 @@
+digraph G {
+v1  [label="Atom calibrated(instrument6), Atom calibrated(instrument5), Atom calibrated(instrument3)"]
+v20  [label="Atom calibrated(instrument7), Atom calibrated(instrument1), Atom calibrated(instrument0)"]
+v23  [label="Atom pointing(satellite3, groundstation0), Atom pointing(satellite0, groundstation0), Atom pointing(satellite0, star1)"]
+v2  [label="Atom pointing(satellite3, star7), Atom pointing(satellite2, star7), Atom pointing(satellite1, star7)"]
+v4  [label="Atom pointing(satellite3, planet8), Atom pointing(satellite2, planet8), Atom pointing(satellite1, planet8)"]
+v5  [label="Atom pointing(satellite3, planet11), Atom pointing(satellite2, planet11), Atom pointing(satellite1, planet11)"]
+v22  [label="Atom pointing(satellite3, groundstation4), Atom pointing(satellite2, star1), Atom pointing(satellite1, groundstation4)"]
+v19  [label="Atom power_on(instrument7), Atom power_on(instrument0), Atom power_on(instrument1)"]
+v3  [label="Atom power_on(instrument6), Atom power_on(instrument5), Atom power_on(instrument3)"]
+v21  [label="Atom pointing(satellite3, planet9), Atom pointing(satellite0, planet9)"]
+v0  [label="NegatedAtom have_image(planet9, image3)"]
+v8  [label="Atom have_image(planet9, image3)"]
+v18  [label="NegatedAtom have_image(phenomenon5, image2)"]
+v14  [label="Atom have_image(phenomenon5, image2)"]
+v15  [label="NegatedAtom have_image(planet11, image2)"]
+v13  [label="Atom have_image(planet11, image2)"]
+v17  [label="NegatedAtom have_image(planet8, image2)"]
+v12  [label="Atom have_image(planet8, image2)"]
+v16  [label="NegatedAtom have_image(star7, image2)"]
+v11  [label="Atom have_image(star7, image2)"]
+v7  [label="Atom pointing(satellite1, star6)"]
+v10  [label="Atom pointing(satellite1, groundstation0)"]
+v9  [label="Atom pointing(satellite2, star6)"]
+v6  [label="Atom pointing(satellite2, phenomenon5)"]
+v1 -> v13
+v1 -> v11
+v1 -> v14
+v1 -> v12
+v20 -> v8
+v23 -> v8
+v23 -> v20
+v2 -> v11
+v4 -> v12
+v5 -> v13
+v22 -> v13
+v22 -> v1
+v22 -> v11
+v22 -> v14
+v22 -> v12
+v19 -> v8
+v19 -> v20
+v3 -> v13
+v3 -> v1
+v3 -> v11
+v3 -> v14
+v3 -> v12
+v21 -> v8
+v0 -> v8
+v18 -> v14
+v15 -> v13
+v17 -> v12
+v16 -> v11
+v10 -> v7
+v9 -> v6
+}

@@ -1,0 +1,7 @@
+digraph G {
+v2  [label="NegatedAtom made_dinner()"]
+v0  [label="Atom made_dinner()"]
+v1  [label="Atom taken(plate)"]
+v2 -> v0
+v1 -> v0
+}

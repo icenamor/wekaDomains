@@ -1,0 +1,538 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+17
+begin_variable
+var67
+-1
+2
+Atom recon-performed(scorpio)
+NegatedAtom recon-performed(scorpio)
+end_variable
+begin_variable
+var63
+-1
+2
+Atom recon-performed(leo)
+NegatedAtom recon-performed(leo)
+end_variable
+begin_variable
+var62
+-1
+2
+Atom recon-performed(cassiopea)
+NegatedAtom recon-performed(cassiopea)
+end_variable
+begin_variable
+var7
+-1
+2
+Atom access-obtained(scorpio)
+NegatedAtom access-obtained(scorpio)
+end_variable
+begin_variable
+var77
+-1
+2
+Atom root-access-obtained(scorpio)
+NegatedAtom root-access-obtained(scorpio)
+end_variable
+begin_variable
+var37
+-1
+2
+Atom files-downloaded(scorpio)
+NegatedAtom files-downloaded(scorpio)
+end_variable
+begin_variable
+var27
+-1
+2
+Atom deleted-logs(scorpio)
+NegatedAtom deleted-logs(scorpio)
+end_variable
+begin_variable
+var17
+-1
+2
+Atom data-stolen-from(scorpio)
+NegatedAtom data-stolen-from(scorpio)
+end_variable
+begin_variable
+var3
+-1
+2
+Atom access-obtained(leo)
+NegatedAtom access-obtained(leo)
+end_variable
+begin_variable
+var73
+-1
+2
+Atom root-access-obtained(leo)
+NegatedAtom root-access-obtained(leo)
+end_variable
+begin_variable
+var33
+-1
+2
+Atom files-downloaded(leo)
+NegatedAtom files-downloaded(leo)
+end_variable
+begin_variable
+var23
+-1
+2
+Atom deleted-logs(leo)
+NegatedAtom deleted-logs(leo)
+end_variable
+begin_variable
+var13
+-1
+2
+Atom data-stolen-from(leo)
+NegatedAtom data-stolen-from(leo)
+end_variable
+begin_variable
+var2
+-1
+2
+Atom access-obtained(cassiopea)
+NegatedAtom access-obtained(cassiopea)
+end_variable
+begin_variable
+var52
+-1
+2
+Atom modified-files(cassiopea)
+NegatedAtom modified-files(cassiopea)
+end_variable
+begin_variable
+var22
+-1
+2
+Atom deleted-logs(cassiopea)
+NegatedAtom deleted-logs(cassiopea)
+end_variable
+begin_variable
+var82
+-1
+2
+Atom vandalized(cassiopea)
+NegatedAtom vandalized(cassiopea)
+end_variable
+0
+begin_state
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+end_state
+begin_goal
+3
+7 0
+12 0
+16 0
+end_goal
+17
+begin_operator
+break-into cassiopea
+1
+2 0
+1
+0 13 -1 0
+0
+end_operator
+begin_operator
+break-into leo
+1
+1 0
+1
+0 8 -1 0
+0
+end_operator
+begin_operator
+break-into scorpio
+1
+0 0
+1
+0 3 -1 0
+0
+end_operator
+begin_operator
+clean cassiopea
+1
+13 0
+1
+0 15 -1 0
+0
+end_operator
+begin_operator
+clean leo
+1
+8 0
+1
+0 11 -1 0
+0
+end_operator
+begin_operator
+clean scorpio
+1
+3 0
+1
+0 6 -1 0
+0
+end_operator
+begin_operator
+download-files leo
+1
+9 0
+1
+0 10 -1 0
+0
+end_operator
+begin_operator
+download-files scorpio
+1
+4 0
+1
+0 5 -1 0
+0
+end_operator
+begin_operator
+gain-root leo
+1
+8 0
+1
+0 9 -1 0
+0
+end_operator
+begin_operator
+gain-root scorpio
+1
+3 0
+1
+0 4 -1 0
+0
+end_operator
+begin_operator
+modify-files cassiopea
+1
+13 0
+1
+0 14 -1 0
+0
+end_operator
+begin_operator
+recon cassiopea
+0
+1
+0 2 -1 0
+0
+end_operator
+begin_operator
+recon leo
+0
+1
+0 1 -1 0
+0
+end_operator
+begin_operator
+recon scorpio
+0
+1
+0 0 -1 0
+0
+end_operator
+begin_operator
+steal-data leo
+2
+11 0
+10 0
+1
+0 12 -1 0
+0
+end_operator
+begin_operator
+steal-data scorpio
+2
+6 0
+5 0
+1
+0 7 -1 0
+0
+end_operator
+begin_operator
+vandalize cassiopea
+2
+15 0
+14 0
+1
+0 16 -1 0
+0
+end_operator
+0
+begin_SG
+switch 13
+check 3
+11
+12
+13
+check 2
+3
+10
+check 0
+switch 8
+check 0
+check 2
+4
+8
+check 0
+switch 3
+check 0
+check 2
+5
+9
+check 0
+switch 15
+check 0
+switch 14
+check 0
+check 1
+16
+check 0
+check 0
+check 0
+switch 11
+check 0
+switch 10
+check 0
+check 1
+14
+check 0
+check 0
+check 0
+switch 6
+check 0
+switch 5
+check 0
+check 1
+15
+check 0
+check 0
+check 0
+switch 2
+check 0
+check 1
+0
+check 0
+switch 1
+check 0
+check 1
+1
+check 0
+switch 0
+check 0
+check 1
+2
+check 0
+switch 9
+check 0
+check 1
+6
+check 0
+switch 4
+check 0
+check 1
+7
+check 0
+check 0
+end_SG
+begin_DTG
+0
+1
+0
+13
+0
+end_DTG
+begin_DTG
+0
+1
+0
+12
+0
+end_DTG
+begin_DTG
+0
+1
+0
+11
+0
+end_DTG
+begin_DTG
+0
+1
+0
+2
+1
+0 0
+end_DTG
+begin_DTG
+0
+1
+0
+9
+1
+3 0
+end_DTG
+begin_DTG
+0
+1
+0
+7
+1
+4 0
+end_DTG
+begin_DTG
+0
+1
+0
+5
+1
+3 0
+end_DTG
+begin_DTG
+0
+1
+0
+15
+2
+6 0
+5 0
+end_DTG
+begin_DTG
+0
+1
+0
+1
+1
+1 0
+end_DTG
+begin_DTG
+0
+1
+0
+8
+1
+8 0
+end_DTG
+begin_DTG
+0
+1
+0
+6
+1
+9 0
+end_DTG
+begin_DTG
+0
+1
+0
+4
+1
+8 0
+end_DTG
+begin_DTG
+0
+1
+0
+14
+2
+11 0
+10 0
+end_DTG
+begin_DTG
+0
+1
+0
+0
+1
+2 0
+end_DTG
+begin_DTG
+0
+1
+0
+10
+1
+13 0
+end_DTG
+begin_DTG
+0
+1
+0
+3
+1
+13 0
+end_DTG
+begin_DTG
+0
+1
+0
+16
+2
+15 0
+14 0
+end_DTG
+begin_CG
+1
+3 1
+1
+8 1
+1
+13 1
+2
+6 1
+4 1
+1
+5 1
+1
+7 1
+1
+7 1
+0
+2
+11 1
+9 1
+1
+10 1
+1
+12 1
+1
+12 1
+0
+2
+15 1
+14 1
+1
+16 1
+1
+16 1
+0
+end_CG

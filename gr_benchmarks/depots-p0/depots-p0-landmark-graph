@@ -1,0 +1,110 @@
+digraph G {
+v29  [label="Atom in(crate1, truck0), Atom in(crate1, truck1), Atom in(crate1, truck2)"]
+v27  [label="Atom in(crate0, truck0), Atom in(crate0, truck1), Atom in(crate0, truck2)"]
+v30  [label="Atom at(truck2, distributor2), Atom at(truck1, distributor2), Atom at(truck0, distributor2)"]
+v28  [label="Atom at(truck2, depot1), Atom at(truck1, depot1), Atom at(truck0, depot1)"]
+v26  [label="Atom at(truck2, depot0), Atom at(truck1, depot0), Atom at(truck0, depot0)"]
+v1  [label="Atom on(crate2, pallet2)"]
+v10  [label="Atom on(crate2, crate0)"]
+v14  [label="Atom lifting(hoist2, crate2)"]
+v7  [label="Atom on(crate1, pallet5)"]
+v0  [label="Atom on(crate1, pallet1)"]
+v3  [label="Atom lifting(hoist5, crate1)"]
+v11  [label="Atom lifting(hoist1, crate1)"]
+v17  [label="Atom on(crate0, pallet2)"]
+v15  [label="Atom on(crate0, pallet0)"]
+v18  [label="Atom lifting(hoist2, crate0)"]
+v12  [label="Atom lifting(hoist0, crate0)"]
+v19  [label="Atom clear(crate2)"]
+v20  [label="Atom clear(crate1)"]
+v25  [label="NegatedAtom clear(crate0)"]
+v21  [label="Atom clear(crate0)"]
+v22  [label="Atom at(crate2, depot2)"]
+v16  [label="Atom at(crate1, distributor2)"]
+v23  [label="Atom at(crate0, depot2)"]
+v5  [label="Atom available(hoist5)"]
+v4  [label="Atom available(hoist2)"]
+v6  [label="Atom available(hoist1)"]
+v8  [label="Atom available(hoist0)"]
+v24  [label="NegatedAtom clear(pallet2)"]
+v13  [label="Atom clear(pallet2)"]
+v9  [label="Atom clear(pallet1)"]
+v2  [label="Atom clear(pallet0)"]
+v29 -> v11
+v29 -> v0
+v27 -> v12
+v27 -> v15
+v30 -> v11
+v30 -> v29
+v30 -> v0
+v28 -> v11
+v28 -> v0
+v26 -> v12
+v26 -> v15
+v10 -> v15
+v10 -> v18
+v10 -> v14
+v10 -> v21
+v10 -> v1
+v14 -> v12
+v14 -> v15
+v14 -> v18
+v14 -> v1
+v7 -> v11
+v7 -> v0
+v7 -> v3
+v3 -> v11
+v3 -> v29
+v3 -> v0
+v11 -> v0
+v17 -> v12
+v17 -> v15
+v17 -> v18
+v17 -> v13
+v17 -> v1
+v18 -> v27
+v18 -> v12
+v18 -> v15
+v18 -> v1
+v12 -> v15
+v19 -> v15
+v19 -> v18
+v19 -> v14
+v19 -> v21
+v19 -> v1
+v20 -> v0
+v20 -> v3
+v25 -> v21
+v21 -> v12
+v21 -> v15
+v21 -> v18
+v21 -> v13
+v21 -> v1
+v22 -> v15
+v22 -> v14
+v22 -> v21
+v22 -> v1
+v16 -> v0
+v16 -> v3
+v23 -> v15
+v23 -> v18
+v23 -> v13
+v23 -> v1
+v5 -> v0
+v5 -> v3
+v4 -> v15
+v4 -> v18
+v4 -> v13
+v4 -> v14
+v4 -> v21
+v4 -> v1
+v6 -> v11
+v6 -> v0
+v8 -> v12
+v8 -> v15
+v24 -> v13
+v13 -> v15
+v13 -> v1
+v9 -> v0
+v2 -> v15
+}
